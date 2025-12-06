@@ -1,12 +1,11 @@
-name: Build AdBlockID
+name: Build AdBlockID Plus
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'src/**'
-      - '!src/packages/**'
+      - 'src/packages/**'
 
 permissions:
   contents: write
@@ -19,7 +18,7 @@ jobs:
     - name: Checkout src repo
       uses: actions/checkout@v6
       with:
-        fetch-depth: 0
+        fetch-depth: 0  # git history
 
     - name: Setup PHP
       uses: shivammathur/setup-php@v2
@@ -45,7 +44,8 @@ jobs:
 
     - name: Update dist folder in target repo
       run: |
-        rsync -av dist/adblockid.adfl.txt target-repo/dist/adblockid.adfl.txt
+        rsync -av --exclude="adblockid.adfl.txt" dist/ target-repo/dist/
+        rsync -av src/packages/uBlacklist_badware.txt target-repo/dist/
 
     - name: Commit changes to target repo
       uses: stefanzweifel/git-auto-commit-action@v7
@@ -53,6 +53,6 @@ jobs:
         repository: target-repo
         branch: main
         commit_message: |
-          Release AdBlockID
+          Release AdBlockID Plus
           Update dist from https://github.com/realodix/AdBlockID-src/commit/${{ github.sha }}
         file_pattern: 'dist/**'
