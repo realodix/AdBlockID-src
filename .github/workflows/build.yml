@@ -1,0 +1,58 @@
+name: Build and Update Dist
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'src/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout src repo
+      uses: actions/checkout@v6
+      with:
+        fetch-depth: 0  # git history
+
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.5'
+        coverage: none
+
+    - name: Install Composer dependencies
+      run: |
+        composer install --no-dev --optimize-autoloader
+
+    - name: Build with Haiku
+      run: |
+        vendor/bin/haiku build
+
+    - name: Checkout target repo (AdBlockID)
+      uses: actions/checkout@v6
+      with:
+        repository: realodix/AdBlockID
+        token: ${{ secrets.ABID_BUILD }}
+        path: target-repo
+        fetch-depth: 0
+
+    - name: Update dist folder in target repo
+      run: |
+        cd target-repo
+        rm -rf dist/*
+        cp -r ../dist/* dist/
+
+    - name: Commit changes to target repo
+      uses: stefanzweifel/git-auto-commit-action@v7
+      with:
+        repository: target-repo
+        branch: main
+        commit_message: |
+          Release AdBlockID
+          Update dist from https://github.com/realodix/AdBlockID-src/commit/${{ github.sha }}
+        file_pattern: dist/**
