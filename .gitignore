@@ -1,3 +1,5 @@
 /.tmp
+/dist
 /vendor
+
 composer.lock
