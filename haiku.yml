@@ -5,6 +5,8 @@ fixer:
     - tests
   excludes:
     - modules/_reference.txt
+    - packages/uBlacklist_badware.txt
+
 builder:
   output_dir: dist
   filter_list:
