@@ -21,7 +21,6 @@ abadikini.com
 abbaspc.net
 abchannel.id
 abdipersadafm.co.id
-abdulrahmann.com
 abdumar.com
 aboutmalang.com
 aboutsemarang.id
@@ -443,7 +442,6 @@ beritapopuler.co.id
 beritarafflesia.com
 beritasampit.com
 beritasatu.com
-beritasebelas.id
 beritasenator.com
 beritaseruyan.com
 beritasiber.com
@@ -2107,7 +2105,6 @@ kontras.co.id
 kontrasaceh.net
 kontrasriau.com
 kontrolnews.co
-kopasjambi.com
 koperasipost.com
 koran-gala.id
 koran-jakarta.com
@@ -2986,7 +2983,6 @@ pelopornews.co.id
 peluangnews.id
 pemantiknews.id
 pembaruan.id
-pemudaindonesia.com
 penabali.com
 penabicara.com
 penakatolik.com
@@ -2995,7 +2991,6 @@ penalutim.com
 penamerdeka.com
 penanews.net
 penaonline.id
-penapost.net
 penasultra.com
 penasultra.id
 penatimor.com
@@ -4081,7 +4076,6 @@ trasberita.com
 travelingyuk.com
 travelmaker.id
 traxonsky.com
-tredmedia.com
 trenasia.com
 trenasia.id
 trendberita.com
@@ -4267,7 +4261,6 @@ wartapolri.co.id
 wartapos.id
 wartaprima.com
 wartasawit.com
-wartasehat.id
 wartasugesti.com
 wartasyah99.net
 wartatambang.com
