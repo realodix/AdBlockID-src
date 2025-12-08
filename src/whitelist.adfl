@@ -52,6 +52,7 @@ aksi.co,bacakabar.id,bantennews.co.id,beritamanado.com,beritasampit.com,busam.id
 ! Advertising site
 @@/iklan/*$domain=jualrumahjakarta.com|kostjakarta.com|sewa-rumah.net|sewa-villa.com|situsproperti.com
 @@/iklan/*$to=tempat-usaha.com
+@@||ads.idn.media^$ghide
 @@||gratis-iklan.com^$ghide
 @@||hargaiklan.com^$ghide
 @@||iklan-kolom.com^$ghide
