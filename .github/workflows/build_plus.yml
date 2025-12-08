@@ -54,5 +54,6 @@ jobs:
         branch: main
         commit_message: |
           Release AdBlockID Plus
-          Update dist from https://github.com/realodix/AdBlockID-src/commit/${{ github.sha }}
+
+          https://github.com/realodix/AdBlockID-src/commit/${{ github.sha }}
         file_pattern: 'dist/**'
