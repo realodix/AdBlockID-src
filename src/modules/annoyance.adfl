@@ -102,7 +102,7 @@ katadata.co.id##+js(aopr, addLink)
 tirto.id##+js(rc, container900, div)
 ! ---
 ! Browser Back (history manipulation)
-ngelag.com##+js(set, window.onpopstate, noopFunc)
+! 0.0.realodix##+js(set, window.onpopstate, noopFunc)
 ! ---
 ! Defuse reloading of a document through a meta "refresh" tag.
 tipskerja.com##+js(refresh-defuser)

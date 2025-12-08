@@ -84,7 +84,6 @@ aksara24.id
 aksaradata.id
 aksaranews.com
 aksi.co
-aktawonua.com
 aktual.com
 aktualitas.id
 aktualonline.co.id
@@ -401,7 +400,6 @@ beritairn.com
 beritaja.com
 beritajateng.tv
 beritajatim.com
-beritajejakfakta.id
 beritajogja.com
 beritajogja.id
 beritajowo.com
@@ -2774,7 +2772,6 @@ newsyess.com
 ngaderes.com
 ngaji.id
 nganjukterkini.id
-ngelag.com
 ngelink.me
 ngopibareng.id
 ngulikode.com
@@ -3949,7 +3946,6 @@ telisik.id
 telisik.net
 telset.id
 telusur.co.id
-temankreasi.com
 tempat-usaha.com
 tempo.co
 temporatur.com
