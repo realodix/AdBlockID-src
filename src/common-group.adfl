@@ -697,6 +697,19 @@ fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + div:matches
 apabeda.com,membedakan.com##+js(aopr, SGPB_POPUP_PARAMS)
 apabeda.com,membedakan.com##+js(window.open-defuser)
 ! ------------------------------------------------------------------------------
+! ------------------------------------------------------------------------------
+! Semprot
+! - https://piranhalink.com/semprot | https://bit.ly/ceksemprot
+! - http://46.166.167.16/
+! -----
+buahmangga.com,digoreng.com,semprot.com,senang.top##.p-body .f_floating_div
+buahmangga.com,digoreng.com,semprot.com,senang.top##[class^="popup-"]
+buahmangga.com,digoreng.com,semprot.com,senang.top##[class^="semprotnenenmontok_"]
+buahmangga.com,digoreng.com,semprot.com,senang.top##[id^="semprotnenenmontok_"]
+buahmangga.com,digoreng.com,semprot.com,senang.top##a[href*="/ads.php"]:has(img)
+! Anti-Adblock
+buahmangga.com,digoreng.com,semprot.com,senang.top#@#.adunit
+buahmangga.com,digoreng.com,semprot.com,senang.top#@#.adunit:not(.text-ad)
 ! lihatgambar.my.id
 ! - https://github.com/realodix/AdBlockID/issues/1933
 ! - https://github.com/AdguardTeam/AdguardFilters/issues/211064

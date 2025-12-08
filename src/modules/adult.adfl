@@ -134,28 +134,6 @@ pemersatu.fun,pemersatu.org##+js(set-cookie, jetpack_post_subscribe_modal_dismis
 sebokep.com##a[target*="blank"]:has(> img)
 sebokep.com##+js(aopr, SGPB_POPUP_PARAMS)
 ! -----------------------------------------------
-! Semprot
-! https://piranhalink.com/semprot | https://bit.ly/ceksemprot
-! -----------------------------------------------
-buahmangga.com,digoreng.com,semprot.com###fixedbox
-buahmangga.com,digoreng.com,semprot.com##.js-post:has-text(Banned)
-buahmangga.com,digoreng.com,semprot.com##.p-body .f_floating_div
-buahmangga.com,digoreng.com,semprot.com##[class^="popup-"]
-buahmangga.com,digoreng.com,semprot.com##[class^="semprotnenenmontok_"]
-buahmangga.com,digoreng.com,semprot.com##[class^="semprotpokemon_"]
-buahmangga.com,digoreng.com,semprot.com##[id^="semprotnenenmontok_"]
-buahmangga.com,digoreng.com,semprot.com##a[href*="/ads.php"]:has(img)
-! Anti-Adblock
-@@||gambar123.com^$image,domain=buahmangga.com|digoreng.com|semprot.com
-buahmangga.com,digoreng.com,semprot.com##.semprot_wizard:has-text(adblocker)
-buahmangga.com,digoreng.com,semprot.com#@#.adunit
-buahmangga.com,digoreng.com,semprot.com#@#.adunit:not(.text-ad)
-buahmangga.com,digoreng.com,semprot.com##+js(acis, String.fromCharCode, ahli)
-!
-buahmangga.com,digoreng.com,semprot.com#@#.adVertical
-buahmangga.com,digoreng.com,semprot.com#@#img[width="500"][height="70"]
-buahmangga.com,digoreng.com,semprot.com#@#img[width="550"][height="70"]
-! -----------------------------------------------
 ! avtub99@gmail.com
 ! -----------------------------------------------
 /px.gif|$image,redirect-rule=1x1.gif,domain=66.29.129.107|66.29.129.111|66.29.129.114|66.29.129.115|66.29.129.121|66.29.129.126|66.29.129.161|avtub.cc|avtub.net|avtub.pet|avtubflix.com|bokepid.*|bokepsin.*|omekin.id|pasarbokep.id|playbokep.*|rajabokep.*|sangelink.com.de|sangetube.*|simontokreal.com|vibokep.*
