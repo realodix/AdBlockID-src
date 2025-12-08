@@ -146,10 +146,12 @@ buahmangga.com,digoreng.com,semprot.com##[class^="popup-"]
 buahmangga.com,digoreng.com,semprot.com##[class^="semprotnenenmontok_"]
 buahmangga.com,digoreng.com,semprot.com##[class^="semprotpokemon_"]
 buahmangga.com,digoreng.com,semprot.com##[id^="semprotnenenmontok_"]
-buahmangga.com,digoreng.com,semprot.com##a[href^="/ads.php"]
+buahmangga.com,digoreng.com,semprot.com##a[href*="/ads.php"]:has(img)
 ! Anti-Adblock
 @@||gambar123.com^$image,domain=buahmangga.com|digoreng.com|semprot.com
 buahmangga.com,digoreng.com,semprot.com##.semprot_wizard:has-text(adblocker)
+buahmangga.com,digoreng.com,semprot.com#@#.adunit
+buahmangga.com,digoreng.com,semprot.com#@#.adunit:not(.text-ad)
 buahmangga.com,digoreng.com,semprot.com##+js(acis, String.fromCharCode, ahli)
 !
 buahmangga.com,digoreng.com,semprot.com#@#.adVertical
