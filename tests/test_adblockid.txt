@@ -2291,7 +2291,6 @@ letternews.net
 libernesia.com
 lifepal.co.id
 ligaolahraga.com
-ligo.id
 lihatgambar.my.id
 lihatjabar.com
 lihatjambi.com
@@ -3438,7 +3437,6 @@ sahabatnews.com
 sahabatnews.net
 sahamok.net
 sahijab.com
-saiilampung.com
 saintif.com
 sairerinews.com
 saiwawai.id
@@ -3818,7 +3816,6 @@ sulselnetwork.com
 sulselpasti.com
 sultengaktual.id
 sultengekspres.com
-sultengsatu.com
 sultengsatunews.com
 sultengterkini.id
 sultrainformasi.id
@@ -4051,7 +4048,6 @@ tobasatu.com
 today.line.me
 toffee.id
 toffeedev.com
-tokcernews.com
 tokopedia.link
 tomtekno.com
 tonjoostudio.com
