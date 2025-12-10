@@ -71,14 +71,14 @@ medianews.co.id,proinbar.com###floatAds
 carapedia.com###floating-banner
 indosport.com###flyingcarpet-ad
 realitamedia.com,realitasnews.com###headads
-acehpost.id,berandatimur.com,bidikindonesianews.co.id,eksposisi.com,inspirasijambi.com,jarilampung.com,kabarjournalist.com,kilasgarutnews.id,lampungcorner.com,landaknews.id,lintascelebes.com,mediasinergi.co,newsceoaceh.com,pontianak-times.co.id,suararepubliknews.com,tribratatv.com###header-banner
+acehpost.id,berandatimur.com,bidikindonesianews.co.id,eksposisi.com,inspirasijambi.com,jarilampung.com,kabarjournalist.com,kilasgarutnews.id,lampungcorner.com,landaknews.id,lintascelebes.com,mediasinergi.co,newsceoaceh.com,pontianak-times.co.id,suararepubliknews.com###header-banner
 gadgetren.com###header-native-ad
 limakabar.com###home-ads
 reaksimedia.com###main-ads:remove()
 beautyjournal.id###main-banner-container
 indonesiasatu.co###mobile-top-advert
 bankiir.id,biayatarif.com,pakaibanking.com,pilihprofesi.com,prosesbayar.com,teknisitv.id###myAds
-bidikindonesianews.co.id,eksposisi.com,indojambi.id,inspirasijambi.com,kilasgarutnews.id,lingkarjambi.id,newsceoaceh.com,sekilasbanten.com,terasjambi.id,tribratatv.com###news-feed-banner
+bidikindonesianews.co.id,eksposisi.com,indojambi.id,inspirasijambi.com,kilasgarutnews.id,lingkarjambi.id,newsceoaceh.com,sekilasbanten.com,terasjambi.id###news-feed-banner
 suararepubliknews.com###news-feed-banner img
 narasi.tv###placement_before_video_detail_academy_advertorial
 narasi.tv###placement_sidebase_article_detail_advertorial
@@ -664,7 +664,7 @@ upeks.co.id##.home .sp-slide img[style="width: 100%; height: auto; margin-left: 
 kalamanthana.id##.home .wpb_gallery:has(.slides)
 gojateng.com,indonesianer.com,infomiliter.com,kilaswarta.com,wartakonsumen.com,wartasawit.com,wartatambang.com##.ids__stick__fluid
 gojateng.com,indonesianer.com,infomiliter.com,kilaswarta.com,wartakonsumen.com,wartasawit.com,wartatambang.com##.ids__tower--sticky:has(#div-gpt-ad-Skyscraper)
-beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,madurapost.net,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tangerangraya.net,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
+beritaminang.com,detikinspirasi.com,ex-pose.net,faktual.net,fatkhan.web.id,gardaanimalia.com,globalsulteng.com,hibata.id,industry.co.id,japos.co,jurnalmedia.id,jurnalpatrolinews.co.id,kalbarsatu.id,khazminang.id,koma.id,koranbanjar.net,koranpublika.co.id,madurapost.net,mediasulsel.com,munadi.id,penaku.id,radarcikarang.com,redaksi24.co.id,sekindo.id,sijorikepri.com,suarapena.com,tintainformasi.com,topsumbar.co.id,torangbisa.com,uzone.id,waspada.id,wawainews.id,zonajogja.com##.idt-textinsidepost
 balanganews.com##.infeed-wrap
 infojateng.id##.kcm
 dewatanews.com##.lalulintas
@@ -827,7 +827,6 @@ beritaazam.com##img[height="1600"][width="1066"]
 radarpaser.com##img[height="1600"][width="1131"]
 mediapantura.com##img[height="1600"][width="1132"]
 andalasrayanews.com##img[height="1600"][width="1200"]
-tangerangraya.net##img[height="1600"][width="1280"]
 awall.id##img[height="1600"][width="526"]
 sanga.id##img[height="1600"][width="900"]
 berandamaluku.com##img[height="1600"][width="959"]
@@ -835,7 +834,7 @@ infowarta.com,mediakaltim.com,samuderakepri.co.id,swarakaltim.com,trennews.id##i
 berandamaluku.com##img[height="1920"][width="1400"]
 malukubastorinews.com##img[height="2560"][width="1280"]
 jagatpapua.com##img[height="2560"][width="1810"]
-jagatpapua.com,tangerangraya.net##img[height="2560"][width="1920"]
+jagatpapua.com##img[height="2560"][width="1920"]
 minanews.net##img[height="2560"][width="683"]
 getarnews.com,infowarta.com,mega-sofifi.com,tilik.id,warta-pendidikan.com,wordpers.id##img[height="600"][width="120"]
 balebandung.com,deepend.id,gamebrott.com,minanews.net,pilarhukum.com,sintesanews.id##img[height="600"][width="160"]
