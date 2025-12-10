@@ -1635,6 +1635,7 @@ jakartadaily.id
 jakartaglobe.id
 jakartainsider.id
 jakartanetizen.com
+jakartanotebook.com
 jakartaraya.co.id
 jaktimnews.com
 jalurinformasi.com
