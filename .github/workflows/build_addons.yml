@@ -1,4 +1,4 @@
-name: Build AdBlockID Plus
+name: Build AdBlockID Addons
 
 on:
   push:
@@ -53,7 +53,7 @@ jobs:
         repository: target-repo
         branch: main
         commit_message: |
-          Release AdBlockID Plus
+          Release AdBlockID Addons
 
           https://github.com/realodix/AdBlockID-src/commit/${{ github.sha }}
         file_pattern: 'dist/**'
