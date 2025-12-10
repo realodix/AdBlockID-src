@@ -159,3 +159,7 @@ crackit.org,oceancrack.com,procrackerz.org##+js(aopr, document.oncontextmenu)
 ! Paywall
 kompas.id##.non-paywall:style(display: block !important;)
 kompas.id##.paywall
+! ---
+! Others
+||typeform.com$frame,domain=detik.com
+detik.com##div[data-tf-loaded]
