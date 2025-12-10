@@ -297,7 +297,7 @@ oploverz.*##+js(nowoif)
 ! -----------------------------------------------
 ! PusatFilm21 / https://pusatfilm21.info | https://t.me/pusatfilm21official
 ! -----
-pf21.ink,pusatfilm21.tv,pusatfilm21info.com##a[target*="blank"]:has(> img)
+pf21.ink,pusatfilm21.online##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! RebahanMovie21
 ! rebahanmovie21@gmail.com
