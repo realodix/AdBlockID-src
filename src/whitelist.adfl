@@ -64,6 +64,7 @@ aksi.co,bacakabar.id,bantennews.co.id,beritamanado.com,beritasampit.com,busam.id
 @@||iklanug.id/images/$1p
 @@||iklanug.id^$ghide
 @@||pusatpemasanganiklan.com^$ghide
+@@||yukngiklan.com^$ghide
 ! ---
 ! EasyPrivacy
 ||wpfc.ml/b.gif$image,redirect=1x1.gif,domain=pinterpolitik.com
