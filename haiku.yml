@@ -17,6 +17,7 @@ builder:
         ! Last modified: %timestamp%
         ! Expires: 1 days
         ! Homepage: https://github.com/realodix/AdBlockID
+        ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
       source:
         - src/general-block.adfl
         - src/general-hide.adfl
@@ -45,6 +46,7 @@ builder:
         ! Last modified: %timestamp%
         ! Expires: 6 days
         ! Homepage: https://github.com/realodix/AdBlockID
+        ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
       source:
         - src/packages/personal.adfl
         - src/packages/badware.adfl
