@@ -42,6 +42,7 @@ codeflare.net###adBlockInfo
 ||mycoding.id/assets/seosecret/seosecretidnblockads.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=duniakode.com|harianmerdeka.id|herdamedia.com|indokontraktor.com|kersabaca.com|kuyhaa.me|laptophia.com|masdhika.com|otakotaku.com|serieswans.com|shinryu2.blogspot.com|trivusi.web.id|yukinoshita.web.id
 @@/fuckadblock.js$script,domain=harapansultra.com|pewarta-indonesia.com
+@@/iklan/*$xhr,domain=hitztar.com
 @@||exoclick.com/ads.js$script,domain=y2tube.pro
 @@||hetanews.com/js/googleafs.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bukutafsirmimpi.xyz|kbm.id
