@@ -10,13 +10,13 @@ builder:
   output_dir: dist
   filter_list:
     - filename: adblockid.adfl.txt
-      metadata:
-        header: Adblock Plus 2.0
-        title: AdBlockID
-        custom: |
-          Description: Filter list that specifically removes adverts on Indonesian language websites.
-          Expires: 1 days
-          Homepage: https://github.com/realodix/AdBlockID
+      header: |
+        [Adblock Plus 2.0]
+        ! Title: AdBlockID
+        ! Description: Filter list that specifically removes adverts on Indonesian language websites.
+        ! Last modified: %timestamp%
+        ! Expires: 1 days
+        ! Homepage: https://github.com/realodix/AdBlockID
       source:
         - src/general-block.adfl
         - src/general-hide.adfl
@@ -38,13 +38,13 @@ builder:
         - src/modules/adult-hide.adfl
         - src/modules/malaysia.adfl
     - filename: adblockid_plus.adfl.txt
-      metadata:
-        header: Adblock Plus 2.0
-        title: AdBlockID Plus
-        custom: |
-          Description: Ekstensi untuk menambah cakupan situs yang tidak dapat dijangkau oleh AdBlockID.
-          Expires: 6 days
-          Homepage: https://github.com/realodix/AdBlockID
+      header: |
+        [Adblock Plus 2.0]
+        ! Title: AdBlockID Plus
+        ! Description: Ekstensi untuk menambah cakupan situs yang tidak dapat dijangkau oleh AdBlockID.
+        ! Last modified: %timestamp%
+        ! Expires: 6 days
+        ! Homepage: https://github.com/realodix/AdBlockID
       source:
         - src/packages/personal.adfl
         - src/packages/badware.adfl
