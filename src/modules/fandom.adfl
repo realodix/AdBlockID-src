@@ -257,6 +257,7 @@ mirrorkomik.info##div[id^="teaser"]
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
+moenime.com##*:matches-css(position: fixed):has(*:matches-css(align-items: center))
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: absolute))
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative))
 moenime.com##a[target*="blank"]:has(> img)
