@@ -664,9 +664,11 @@ livesports044.com,marza11.shop##.banner
 /tigoals\d+\.com/##.gg-list:has(:is(.gg-txt-discount, .gg-txt-bonus))
 ! Annoyance
 livesports044.com,marza11.shop##*:style(scrollbar-width: thin!important;)
+livesports044.com,marza11.shop##body:style(overflow: auto!important; position: unset!important;)
 livesports044.com,marza11.shop##+js(aopr, document.oncontextmenu)
 /tigoals\d+\.com/##*:style(scrollbar-width: thin!important;)
 /tigoals\d+\.com/##+js(aopr, document.oncontextmenu)
+/tigoals\d+\.com/##body:style(overflow: auto!important; position: unset!important;)
 ! ------------------------------------------------------------------------------
 ! RBTV77 - https://www.rbtv77news.com/rbtvplus-link/ | https://www.rbtv77news.com/fctv33-link/
 ! https://github.com/realodix/AdBlockID/issues/1752
