@@ -244,15 +244,15 @@ nontonanimeid.*##.banner_player
 nontonanimeid.*##.floating_footer
 nontonanimeid.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
-! MirrorKomik
+! MirrorKomik - https://mirrorkomik.id
 ! -----
-/Uangjajan/*$to=mirrorkomik.site
-||i3.wp.com/mirrorkomik.site/public/img/Uangjajan/
+/Uangjajan/*$to=cdngue.my.id
 mirrorkomik.site###aplikasi
 mirrorkomik.site##.ad-banner
-mirrorkomik.info,mirrorkomik.site##.bebaskan
-mirrorkomik.info,mirrorkomik.site##.kln
+mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.bebaskan
+mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.kln
 mirrorkomik.info##div[id^="teaser"]
+mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]
 ! -----------------------------------------------
 ! Moenime
 ! -----
