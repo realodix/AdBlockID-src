@@ -26,7 +26,7 @@
 ||01repo.pages.dev/$media,redirect=noopmp4-1s
 ||animein.net/ADS/$media,redirect=noopmp4-1s
 ||animekompi.link/wp-content/uploads/$media,redirect=noopmp4-1s
-||cinemaemas6.com/indo/oppabet-$media,redirect=noopmp4-1s
+||cinemaemas6.com/movies/ads/$media,redirect=noopmp4-1s
 ||play.xxiku.com/wp-content/uploads/$media,redirect=noopmp4-1s
 ||sngine.com/content/uploads/videos/$media,redirect=noopmp4-1s
 ||sobatku21.xyz/wp-content/uploads/$media,redirect=noopmp4-1s
@@ -124,7 +124,7 @@ sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
-anibatch.moe,anichin.blog,animekompi.fun,cinemakeren6.id,docksidechandlery.com,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,lovehaswon.org,mangakita.id,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatku21.xyz,sokuja.uk,westmanga.me##+js(nowoif)
+anibatch.moe,anichin.blog,animekompi.fun,cinemaemas6.com,cinemakeren6.id,docksidechandlery.com,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,lovehaswon.org,mangakita.id,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatku21.xyz,sokuja.uk,westmanga.me##+js(nowoif)
 !
 ! ---
 ! CM Pop-Up banners / cm-popup-modal / ouibounce-modal
