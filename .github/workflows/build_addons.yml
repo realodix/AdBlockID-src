@@ -45,7 +45,6 @@ jobs:
     - name: Update dist folder in target repo
       run: |
         rsync -av --exclude="adblockid.adfl.txt" dist/ target-repo/dist/
-        rsync -av src/packages/uBlacklist_badware.txt target-repo/dist/
 
     - name: Commit changes to target repo
       uses: stefanzweifel/git-auto-commit-action@v7

@@ -50,3 +50,23 @@ builder:
       source:
         - src/packages/personal.adfl
         - src/packages/badware.adfl
+    - filename: safesearch.txt
+      header: |
+        ---
+        name: AdBlockID Addons (Safesearch)
+        description: A filter that blocks spam, misleading, and malicious websites from appearing in search results!
+        homepage: https://github.com/realodix/AdBlockID
+        ---
+      source:
+        - src/packages/ubl_badware.txt
+    - filename: safesearch_plus.txt
+      header: |
+        ---
+        name: AdBlockID Addons (Safesearch Plus)
+        homepage: https://github.com/realodix/AdBlockID
+        ---
+      source:
+        - src/packages/ubl_badware.txt
+        - src/packages/ubl_porn_int.txt
+        - src/packages/ubl_porn_id.txt
+        - src/packages/ubl_gambling.txt
