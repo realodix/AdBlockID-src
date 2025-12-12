@@ -77,7 +77,7 @@ nontonx.com,sekedus.com##body > div:matches-css(position: fixed):has-text(/adblo
 ! parked domains anti adb
 ! https://github.com/uBlockOrigin/uAssets/issues/14345
 /px.gif?$image,redirect-rule=1x1.gif
-! https://github.com/uBlockOrigin/uAssets/blame/0c5ac4b/filters/filters-2022.txt#L1557
+! https://github.com/uBlockOrigin/uAssets/blob/75b591730f/filters/filters-2022.txt#L1011
 *#*/ad/$image,redirect-rule=1x1.gif
 !
 /images/ads.$image,redirect-rule=1x1.gif
