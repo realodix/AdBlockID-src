@@ -29,7 +29,6 @@
 ||play.xxiku.com/wp-content/uploads/$media,redirect=noopmp4-1s
 ||sngine.com/content/uploads/videos/$media,redirect=noopmp4-1s
 ||sobatku21.xyz/wp-content/uploads/$media,redirect=noopmp4-1s
-||zonkerfilms.com/wp-content/uploads/$media,redirect=noopmp4-1s
 !
 ! SPECIFIC HIDE
 ! ------------------------------------------------------------------------------
@@ -423,7 +422,7 @@ shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 /shinigami0\d+\.com/##+js(aopr, lepopup_vars)
 ! -----------------------------------------------
 ! WG Film21
-! https://tv-project-naturalmix.pages.dev/
+! https://tv-project-naturalmix.pages.dev/ | https://project-zonkerfilms.pages.dev/
 ! -----
 ||digitaloceanspaces.com/sponsor-slot-$3p,media,redirect=noopmp4-1s
 apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,laporpakfans.com,wgfilm21.com,whybelieveinagod.org##a[target*="blank"]:has(> img)
