@@ -651,6 +651,7 @@
 *://lvseamstress.com/*
 *://lynmelvillejamesprint.co.uk/*
 *://lynnrwolfe.com/*
+*://mabriba.es/*
 *://madebymestudio.co/*
 *://madeespeciallyforyou.org/*
 *://madefrommelbourne.com.au/*
@@ -802,6 +803,7 @@
 *://powerflowng.com/*
 *://pozitude.co.uk/*
 *://productoslicenciados.com/*
+*://profesordigital.es/*
 *://professionailspaca.us/*
 *://promotionalconceptsinc.com/*
 *://protectparkofkeir.com/*
