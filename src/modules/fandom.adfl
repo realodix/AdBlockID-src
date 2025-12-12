@@ -246,7 +246,7 @@ nontonanimeid.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! MirrorKomik - https://mirrorkomik.id
 ! -----
-/Uangjajan/*$to=cdngue.my.id
+/Uangjajan/*$image,domain=mirrorinkomik.my.id|mirrorkomik.info|mirrorkomik.site
 mirrorkomik.site###aplikasi
 mirrorkomik.site##.ad-banner
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.bebaskan
