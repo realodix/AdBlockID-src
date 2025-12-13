@@ -257,9 +257,9 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]
 .gif|$domain=moenime.com
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: absolute))
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative))
+moenime.com##*:matches-css(position: fixed):has(:is(a, img, form))
 moenime.com##a[target*="blank"]:has(> img)
 !
-moenime.com##*:matches-css(position: fixed):has(form)
 moenime.com##form:matches-css(position: fixed)
 ! Anti Adblock
 moenime.com##.show
