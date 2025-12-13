@@ -49,8 +49,6 @@ cermati.com##:matches-path(/artikel) a[data-item^="promo-"]:has(> picture)
 ! -----
 -banner-$image,domain=popmama.com
 !
-yummy.co.id###IDN_Billboard:upward(1)
-yummy.co.id###IDN_InFeed1:upward(1)
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR2-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR3-wrapper
@@ -79,7 +77,7 @@ popbela.com##[class^="ads_"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[class^="css-"]:matches-css(border-top-color: rgb(229, 233, 236)):has(> [id^="IDN_"]):upward(1)
 idntimes.com,popmama.com##[id^="IDN_InArticle"]
 popmama.com##[id^="IDN_Leaderboard"]
-idntimes.com,popmama.com##[id^="IDN_MegaBillboard"]
+idntimes.com,popmama.com,yummy.co.id##[id^="IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="for-you-ads-"]
 popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard" i]
 fortuneidn.com,ggwp.id,idntimes.com##[id^="wrapper-IDN_MegaBillboard"]
