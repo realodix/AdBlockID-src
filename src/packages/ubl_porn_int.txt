@@ -9,6 +9,7 @@
 *://18jav.tv/*
 *://3xplanet.net/*
 *://aicelebs.club/*
+*://aki-h.com/*
 *://alldeepfake.com/*
 *://amaturetube.com/*
 *://asianpinay.com/*
@@ -20,13 +21,16 @@
 *://avjiali.com/*
 *://avmiss.us/*
 *://beegsex.it.com/*
+*://befuck.net/*
 *://celebdeepfakes.net/*
 *://celebrityfakes4u.com/*
 *://celebritysex.co/*
 *://creampiesgif.com/*
 *://cum4k.com/*
+*://cumguru.com/*
 *://cxfakes.com/*
 *://deepfakesx.com/*
+*://doujins.com/*
 *://erojapanese.com/*
 *://evojav.pro/*
 *://freejav.tube/*
@@ -51,7 +55,11 @@
 *://kainpepe.net/*
 *://kaldagan.co/*
 *://kantotvids.org/*
+*://kingcomix.com/*
 *://kwikiai.com/*
+*://manhwa18.cc/*
+*://manhwato.com/*
+*://manhwaus.net/*
 *://mobile-xvideos.com/*
 *://mypervmom.com/*
 *://mypervmother.com/*
@@ -78,10 +86,12 @@
 *://sxyprn.net/*
 *://teenxy.com/*
 *://thebestfetishsites.com/*
+*://thisvid.com/*
 *://trikepatrol.com/*
 *://tube8.it.com/*
 *://tubepleasure.com/*
 *://tubesafari.com/*
+*://twojav.com/*
 *://ukdevilz.com/*
 *://viojav.com/*
 *://vipwank.com/*
@@ -113,6 +123,7 @@
 *://www.playvids.com/*
 *://www.porzo.com/*
 *://www.puretaboo.com/*
+*://www.pussyboy.net/*
 *://www.pussyspace.com/*
 *://www.sakurajav.com/*
 *://www.sexm.xxx/*
@@ -120,6 +131,7 @@
 *://www.tabooheat.com/*
 *://www.thumbzilla.com/*
 *://www.tiava.com/*
+*://www.titfap.com/*
 *://www.tnaflix.com/*
 *://www.tube3.com/*
 *://www.tube8.com/*
@@ -129,7 +141,9 @@
 *://www.xfree.com/*
 *://www.youjizz.com/*
 *://www.zenra.net/*
+*://x-x-x.video/*
 *://xcafe.com/*
+*://xcxco.com/*
 *://xdeepfade.com/*
 *://xgroovy.com/*
 *://xnxx3.net/*
@@ -146,6 +160,7 @@
 /spankbang\..+/
 /xhaccess(\d+)?\.com/
 /xhamster(\d+)?\..+/
+/xhamsterlive\.com/
 /xhopen(\d+)?\.com/
 /xnxx(\d+)?\..+/
 /xvideos(\d)?\..+/
