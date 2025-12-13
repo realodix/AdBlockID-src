@@ -260,12 +260,18 @@ moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative
 moenime.com##*:matches-css(position: fixed):matches-css(background-image: /base64/)
 moenime.com##a[target*="blank"]:has(> img)
 !
-moenime.com##*:matches-css(position: fixed):has(:is(a, img, form, [onclick]))
+moenime.com##*:matches-css(position: fixed):has(:is(a, canvas, img, form, [onclick]))
 moenime.com##form:matches-css(position: fixed)
 ! Anti Adblock
 moenime.com##.show
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! Annoyance
+moenime.com###disqus-comments
+moenime.com##.alert
+moenime.com##.copyright
+moenime.com##.entry-content div:matches-css(text-align: center)
+moenime.com##.widget-area
+moenime.com##[id*="donate-"]
 moenime.com##+js(aeld, click, /\.php\?/)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
