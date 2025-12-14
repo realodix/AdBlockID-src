@@ -245,12 +245,12 @@ nontonanimeid.*##a[target*="blank"]:has(> img)
 ! MirrorKomik - https://mirrorkomik.id
 ! -----
 /Uangjajan/*$image,domain=mirrorinkomik.my.id|mirrorkomik.info|mirrorkomik.site
-mirrorkomik.site###aplikasi
-mirrorkomik.site##.ad-banner
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.bebaskan
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.kln
 mirrorkomik.info##div[id^="teaser"]
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]
+! Annoyance
+mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! -----------------------------------------------
 ! Moenime
 ! -----
