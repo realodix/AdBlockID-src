@@ -257,7 +257,7 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 .gif|$domain=moenime.com
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: absolute))
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative))
-moenime.com##*:matches-css(position: fixed):has(:is(a, canvas, img, image,form, [onclick], [href*="base64"]))
+moenime.com##*:matches-css(position: fixed):has(:is(a, canvas, img, image, form, [onclick], [href*="base64"]))
 moenime.com##a[target*="blank"]:has(> img)
 !
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(background-image: /url\(/))
@@ -372,9 +372,7 @@ kiryuu.cc##div[id^="teaser"]
 /kiryuu0\d+\.com/##a[target*="blank"]:has(> img)
 /kiryuu0\d+\.com/##div[id^="teaser"]
 ! Annoyance
-kiryuu.cc##+js(aeld, contextmenu)
 kiryuu.cc##+js(nowoif)
-/kiryuu0\d+\.com/##+js(aeld, contextmenu)
 /kiryuu0\d+\.com/##+js(nowoif)
 ! -----------------------------------------------
 ! Manhwaland - https://manhwaland.in/ / https://manhwaindo.io/ / https://manhwaland.email/
