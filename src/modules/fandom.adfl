@@ -336,15 +336,15 @@ samehadaku.*##a[target="_blank"] ~ .pencenter:style(display: inline-block !impor
 samehadaku.*##+js(aeld, contextmenu)
 ! -----------------------------------------------
 ! Terbit21
-! terbit21.com@gmail.com / https://tv1.terbit21.store/
+! terbit21.com@gmail.com / https://tv1.terbit21.*/
 ! -----
 ||terbit21.gdn/ads/
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.biz,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.app,teman21.app,terbit21.store,terbit21official.online###float-banner
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.biz,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.app,teman21.app,terbit21.store,terbit21official.online###float-bottom-banner
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.biz,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.app,teman21.app,terbit21.store,terbit21official.online###top-banner
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.biz,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.app,t21.press,teman21.app,terbit21.store,terbit21official.online##a[target*="blank"]:has(> img)
+ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###float-banner
+ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###float-bottom-banner
+ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###top-banner
+ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,t21.press,teman21.app,terbit21.*,terbit21official.*##a[target*="blank"]:has(> img)
 ! Annoyance
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.biz,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.app,t21.press,teman21.app,terbit21.store,terbit21official.online##+js(nowoif)
+ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,gudangmovies21.host,movieon21.mov,movies21.ing,nontonfilm.website,t21.press,teman21.app,terbit21.*,terbit21official.*##+js(nowoif)
 ! -----------------------------------------------
 ! COSMIC ID - https://cosmictoon.id/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/192859

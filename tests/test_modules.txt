@@ -84,7 +84,6 @@ dramaserial.id
 dramaserial21.cam
 dub.link
 dub.sh
-dunia21official.biz
 dw.zeus.fun
 filem21.org
 filmapik.my
@@ -240,7 +239,7 @@ nntonfilm.my.id
 nomat.site
 nontondrama.my
 nontondrama.wiki
-nontonfilm.app
+nontonfilm.website
 noromax01.my.id
 novascans.id
 omanga.net
@@ -316,8 +315,6 @@ tempatwisata.pro
 tenshiku.asia
 terbangrusia.site
 terbit21.gdn
-terbit21.store
-terbit21official.online
 tiny.one
 tinyurl.com
 tkpd.fyi
