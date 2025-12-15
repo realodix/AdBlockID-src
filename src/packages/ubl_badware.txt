@@ -403,6 +403,7 @@
 *://fhsconsulting.co.uk/*
 *://fightershop.co/*
 *://filmgard.com/*
+*://finesteam.nl/*
 *://finlatec.com/*
 *://fitfamkenosha.com/*
 *://flamencodelmar.com/*
