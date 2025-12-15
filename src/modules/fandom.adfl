@@ -255,14 +255,15 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
+moenime.com##*:matches-css(position: absolute):matches-css(background-image: /url\(/)
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: absolute))
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative))
 moenime.com##*:matches-css(position: fixed):has(:is(a, canvas, img, image, form, [onclick], [href*="base64"]))
-moenime.com##*:matches-css(position: fixed):matches-css(background-image: /url\(/)
 moenime.com##a[target*="blank"]:has(> img)
 !
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(background-image: /url\(/))
 moenime.com##*:matches-css(position: fixed):matches-css(background-image: /base64/)
+moenime.com##*:matches-css(position: fixed):matches-css(background-image: /url\(/)
 moenime.com##body > svg
 moenime.com##form:matches-css(position: fixed)
 ! Anti Adblock
