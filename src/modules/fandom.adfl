@@ -57,7 +57,7 @@ cinemakeren6.id##.lna-livescore-home-tabs-widget
 filem21.org##.mobile-banner
 cinemaemas6.com,cinemakeren6.id##.slot-machine-wrapper
 cinemaemas6.com,mangaindo.*,sattorrent.com##.widget:has(img[style="max-width: 100%; height: auto;"])
-anichin.watch,ikiru.wtf,layarkaca21ok.site,mangakita.id,mangatale.co,movieku.*,tooncubus-read.my.id,tooncubus.top,wibudesu.co##a:has(> img[src$=".gif"])
+anichin.watch,ikiru.wtf,layarkaca21ok.site,mangakita.id,mangatale.co,movieku.*,tooncubus.top,wibudesu.co##a:has(> img[src$=".gif"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
 01ntn.cc,193.233.202.3,198.105.112.102,anibatch.moe,anichin.social,animekompi.fun,animexin.dev,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,docksidechandlery.com,dramaserial21.cam,filem21.org,gudangkomik.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,kebioskop21.one,komik-cast.com,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama.*,layardrama21.*,lovehaswon.org,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nntonfilm.my.id,nomat.site,omanga.net,otakudesu.best,otakudesu.id,rebahin.lol,rebahinxxi1.xyz,sbministries.org,sobatku21.xyz,westmanga.me,winbu.tv##a[target*="blank"]:has(> img)
@@ -144,7 +144,7 @@ mangacanblog.com##+js(aeld, /^(?:contextmenu|selectstart)$/)
 anichin.social##+js(aeld, /copy|keydown/)
 ainzscans.net,anichin.social,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,kuroshireader.com,mangaaku.com,mangakita.id,mangakuu.com,mangasusuku.com,mangatale.co,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me##+js(aeld, contextmenu)
 kusonime.com##+js(aeld, keydown)
-komikzoid.id,kusonime.com,tooncubus-read.my.id,tooncubus.top##+js(aopr, document.oncontextmenu)
+komikzoid.id,kusonime.com,tooncubus.top##+js(aopr, document.oncontextmenu)
 mangacanblog.com##+js(aopr, document.onkeydown)
 ! ---
 ! Auto Safelink
@@ -270,14 +270,9 @@ moenime.com##form:matches-css(position: fixed)
 moenime.com##.show
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! Annoyance
-moenime.com###disqus-comments
-moenime.com##.alert
 moenime.com##.copyright
 moenime.com##.entry-content div:matches-css(text-align: center):has(img + [onclick])
-moenime.com##.widget-area
-moenime.com##[id*="donate-"]
 moenime.com##div[style*="background-color"]:has(> [onclick*="none"])
-moenime.com##span:has-text(/saweria/i):style(color: transparent!important;)
 moenime.com##+js(aeld, click, /\.php\?/)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
