@@ -1,5 +1,4 @@
 0.0.realodix
-062.live
 100kpj.com
 1cak.com
 1shortlink.com
@@ -7,7 +6,6 @@
 20.detik.com
 21cineplex.com
 23jam.com
-24jamnews.com
 2enam.com
 5news.co.id
 5w1hindonesia.id
@@ -1622,7 +1620,6 @@ jabaronline.com
 jabarpress.com
 jabarpublisher.co.id
 jabarpublisher.com
-jabarraya.com
 jabarstyle.com
 jabartranding.com
 jabodetabek.id
