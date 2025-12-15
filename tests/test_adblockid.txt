@@ -3153,7 +3153,6 @@ potretmaluku.id
 potretnusantara.id
 potretsumsel.id
 potrettangerang.id
-pppa.id
 prabowonews.com
 prabunews.com
 pramborsfm.com
