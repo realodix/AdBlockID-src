@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'src/**'
-      - '!src/packages/**'
+      - '!src/addons/**'
 
 permissions:
   contents: write

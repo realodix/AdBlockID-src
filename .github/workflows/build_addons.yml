@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'src/packages/**'
+      - 'src/addons/**'
 
 permissions:
   contents: write

@@ -25,7 +25,7 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
  │   ├─ fandom.adfl               [All] Situs streaming, baca komik, dan lainnya.
  │   ├─ malaysia.adfl             [All] Situs berbahasa Melayu.
  │   └─ safelink.adfl             [All] Situs berjenis safelink/shortlink.
- ├─ /packages               AdBlockID Plus
+ ├─ /addons                 AdBlockID Addons
  │   └─ ...
  ├─ adservers.adfl          [G] Daftar domain/IP penyedia layanan iklan pihak ketiga.
  ├─ anti-adblock.adfl       [G/S] Melumpuhkan ad block detection.
