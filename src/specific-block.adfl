@@ -36,7 +36,6 @@ _728x90px.$image,domain=bogordaily.net
 ||ads.sorot.co^$1p
 !
 /\/[0-9]{19,20}\.(png|webp)/$image,domain=sugawa.id
-||1cak.com/shopee/$image
 ||8mediatech.com/banner/
 ||aboutsemarang.id^*/iklan-$image
 ||acehekspres.com/files/sewaan/
