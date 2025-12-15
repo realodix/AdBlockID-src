@@ -1,0 +1,133 @@
+! Cookies
+! -----
+wendycode.com###cookie-consent
+siraplimau.com###cookie-container
+sadiskon.com###cookie-notice
+astra.co.id###cookieSection
+nusatoyota.co.id###floatingConsents
+rajakomen.com###idpop_cookie
+perspectivesnews.com###selary-pro-cookie-ify
+onews-id.com###wpconsent-root
+inputekno.com##.Cookies
+biznetgio.com##.bgn-cookie-consent
+historia.id##.consent-banner-root
+taplink.at##.cookie-banner
+ringkas.co.id##.cookie-box
+borneotrend.com,possindo.com##.cookie-consent
+haka.or.id##.cookie-notice
+mastrigus.com##.cookie-notification
+metro-onenews.com,suararossa.com##.cookieadmin_box
+arsipbiru.com##.cookies
+erablue.id##.cookies-consent
+marjinal.id##.cookies-warning
+deretcode.com##.dc_cookies
+edge.id##.elementor-popup-modal:has-text(cookies)
+mitsubishi-motors.co.id,sehataqua.co.id,xl.co.id##.fixed:has-text(/cookie/i)
+niagahoster.co.id##.h-cookie-consent
+mypage.axa.co.id##.modal-cookie
+zurich.co.id##.privacy-warning-main
+bratapos.com##.uc-gdpr-notification
+goersapp.com,queennews.id##[class*="cookie"]
+myorbit.id##[id*="cookie"]
+smartfren.com##body > div:matches-css(position: fixed):has-text(/cookie/i)
+offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
+kaskus.co.id##+js(set-cookie, cookie_accepted, true)
+honda-indonesia.com##+js(set-local-storage-item, cookie-consent.show, false)
+garuda-indonesia.com##+js(set-local-storage-item, cookies, true)
+! ------------------------------------------------------------------------------
+! Video Autoplayer
+! -----
+||karirpad.com/mediapartner/widget/$3p,frame
+||player.ivideosmart.com/ivsplayer/$script,domain=brilio.net|id.theasianparent.com|indosport.com|tempo.co
+||vidio.com/embed/$frame,domain=merdeka.com
+||viu.com/ott/misc/widget/index.php$frame,domain=viva.co.id
+!
+||embed.dugout.com^$3p,domain=indosport.com|skor.id
+detik.com##.dugout-video:remove()
+detik.com##.ratio-dugout-detail
+!
+kompas.com###contentArticle > .kgnw-middle:has(> .kgnw-middle-player):remove()
+cnnindonesia.com###livetv-float:remove()
+detik.com###notif-20d .float-vid__content:remove()
+katadata.co.id###video_in_article:remove()
+detik.com##.aevp:has(> .sisip_video_ds):remove()
+cnbcindonesia.com##.autovideocnbc:remove()
+investor.id##.body-content .embed-responsive:remove()
+detik.com##.breakingnews-float:remove()
+kompas.com##.content_article .rVideo-middle:remove()
+suara.com##.detail-berita #player-video:remove()
+100kpj.com,bisnis.com,intipseleb.com,tempo.co,viva.co.id##.dm-player:remove()
+kompas.tv##.ex .embedVid:remove()
+grid.id,motorplus-online.com##.floatingIframe:remove()
+dailysia.com,fajar.co.id,greenscene.co.id,herworld.co.id,jalantikus.com,pramborsfm.com##.gliaplayer-container:remove()
+bolanas.com,kompas.com##.kgnowGate:has(> .videoKGSlider):remove()
+kompas.com##.kgnw-main:has(> .kgnw-player):remove()
+bola.com,bola.net,dream.co.id,kapanlagi.com,liputan6.com,merdeka.com##.nativescrollingKLY:has(.nativescrollingKLY-sticky-inner-video):remove()
+kapanlagi.com##.nativevideosiframe-loader:remove()
+kompas.tv##.paragraph > .kgnw-middle:has(> .kgnw-middle-player):remove()
+inews.id##.pipLiveStream:remove()
+id.theasianparent.com##.player-ivideosmart-wrap.no-ad-zone:remove()
+fimela.com##.read-page--boost-video:remove()
+kompas.com##.read__article .aTerkait + .video-yt:remove()
+kompas.com##.read__article .video-box-thumb:has(> .rVideo-thumbnail):remove()
+briliofood.net##.section:has(.video__headline):remove()
+cnnindonesia.com,haibunda.com,insertlive.com##.sisip_embed_sosmed:remove()
+cnnindonesia.com##.sisip_video_ds:remove()
+bolasport.com,grid.id,gridoto.com,juara.net,kompas.com,kompas.tv,parapuan.co,sonora.id,~video.kompas.com##.video-box-wrap:has(> .rVideo-player):remove()
+detik.com##.video20detik_1:remove()
+inews.id##.widgetNewsTV__news24Jam:remove()
+dailysia.com,greenscene.co.id,guesehat.com,katadata.co.id,tempo.co,wartaekonomi.co.id,wowkeren.com##[class^="ivs-"]:remove()
+haibunda.com##[data-name="detik-vertical"][data-target="detail/aevp"]:has(.video-sisip):remove()
+dailysia.com,tempo.co##[id^="ivs-"]:remove()
+parapuan.co##article + #defaultVideoContainer:remove()
+idntimes.com,katadata.co.id##article .dm-player:remove()
+bola.com##article .js-full-iframe-vidio:remove()
+liputan6.com##article iframe.vidio-embed:remove()
+cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
+! -----
+! Mobile
+bolanas.com,bolasport.com,grid.id,gridoto.com,kompas.tv,kontan.co.id,motorplus-online.com,parapuan.co##.kgnw-root:has(> .kgnw-player):remove()
+! -----
+! International
+fandom.com###fandom-mobile-wrapper .article-featured-video:remove()
+vpnjantit.com###globalsun:has(> #globalsun-div-player):remove()
+! ------------------------------------------------------------------------------
+! Radio Autoplayer
+! -----
+||live.solopos.com:2020/AudioPlayer/Solopos103FM?$frame
+! ------------------------------------------------------------------------------
+! Video Watermark
+! -----
+bilibili.tv###bilibiliPlayer .ip-watermark
+! ------------------------------------------------------------------------------
+! Download App
+! -----
+mitra10.com###installAppWrapper
+matain.id##.app_layer
+kontan.co.id##.appbanner-wrapper
+sindonews.com##.download-sindoapps
+liputan6.com##.gateway__mobile-app
+kapanlagi.com##.liputan6-mobileapp-widget
+id.theasianparent.com##.top-app-download-banner
+my.telkomsel.com##div[class^="BannerDownload"]
+my.telkomsel.com##div[class^="DialogInstall"]
+merdeka.com##header .assambleApp
+!
+tokopedia.com##[data-testid="WTA-TopSticky"]
+tokopedia.com##body:style(margin-top: 0!important;)
+tokopedia.com##div:matches-css(position: fixed):has(> button[aria-label="close web to app pop up" i])
+! ------------------------------------------------------------------------------
+! Paywall
+! -----
+kompas.id##.non-paywall:style(display: block !important;)
+kompas.id##.paywall
+! ------------------------------------------------------------------------------
+! Related Article
+! ---
+tribunnews.com###article #_popIn_recommend_word
+bolatimes.com,dewiku.com,himedik.com,hitekno.com,matamata.com###geniee-berita-terkait
+gridoto.com##.content_footer .artikel_terkait:has(script[src^="https://jsc.mgid.com"])
+! Others
+! -----
+||typeform.com$frame,domain=detik.com
+detik.com##div[data-tf-loaded]

@@ -48,6 +48,8 @@ builder:
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
       source:
+        - src/addons/annoyance.adfl
+        - src/addons/self-promotion.adfl
         - src/addons/personal.adfl
         - src/addons/badware.adfl
     - filename: safesearch.txt
