@@ -67,7 +67,6 @@ aksi.co,bacakabar.id,bantennews.co.id,beritamanado.com,beritasampit.com,busam.id
 @@||yukngiklan.com^$ghide
 ! ---
 ! EasyPrivacy
-||wpfc.ml/b.gif$image,redirect=1x1.gif,domain=pinterpolitik.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160224
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js,domain=orami.co.id
 !
