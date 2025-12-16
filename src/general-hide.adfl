@@ -18,6 +18,7 @@
 ###Gadget-AdSense
 ###Iklan\ Atas
 ###LeftFloatAds
+###PixyPaperAD
 ###RightFloatAds
 ###aads_header_1
 ###aads_header_2
@@ -413,6 +414,7 @@
 ##.AdsParent
 ##.Gadget-AdSense
 ##.Iklan
+##.PixyPaperad
 ##.SectionAds
 ##.__banner_ads
 ##._xt_ad_close
