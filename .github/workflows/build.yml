@@ -1,5 +1,9 @@
 name: Build AdBlockID
 
+concurrency:
+  group: adblockid-dist-update
+  cancel-in-progress: false
+
 on:
   push:
     branches:
@@ -53,7 +57,7 @@ jobs:
         repository: target-repo
         branch: main
         commit_message: |
-          Release AdBlockID
+          Release: AdBlockID
 
           https://github.com/realodix/AdBlockID-src/commit/${{ github.sha }}
         file_pattern: 'dist/**'
