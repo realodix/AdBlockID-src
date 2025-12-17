@@ -277,7 +277,7 @@ moenime.com##div[style*="background-color"]:has(> [onclick*="none"])
 moenime.com##+js(aeld, click, /\.php/)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
-! Oploverz
+! Oploverz https://link.oploverz.ltd/
 ! -----
 .gif|$image,domain=oploverz.*
 oploverz.*###oploverz
@@ -292,7 +292,7 @@ oploverz.*###floatcenter
 oploverz.*###overplay
 oploverz.*##.absolute:has(> .justify-center > button > svg)
 oploverz.*##main > .fixed:has(> .relative > button > svg)
-oploverz.*##+js(abort-current-script, Promise, delete window)
+oploverz.*##+js(acis, Promise, delete window)
 oploverz.*##+js(aopr, SGPB_POPUP_PARAMS)
 oploverz.*##+js(nowoif)
 ! -----------------------------------------------
