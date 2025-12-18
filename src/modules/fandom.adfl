@@ -181,6 +181,7 @@ lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.m
 lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
 ! Annoyance
 lk21.party###hihi
+cloud.hownetwork.xyz###overlay
 playeriframe.sbs##body > a:has(> .message-box)
 ! Iframe
 ||lk21static.buzz/iframe/content2.php$frame
