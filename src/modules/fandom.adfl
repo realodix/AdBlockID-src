@@ -39,7 +39,7 @@ movieku.*###btm_banner
 kaitoani.org,movieku.*###close-teaser
 kuramanime.*###close-teaser-footer
 layardrama21.*###floatbanner-bottom
-ainzscans.net,anichin.blog,anichin.social,anichin.watch,hidoristream.online,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
+anichin.blog,anichin.social,anichin.watch,hidoristream.online,kazefuri.cloud,kazefuri.info,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
 bioskop21.*,bsk21.ink###floating_banner_bottom
 awsubs.co###popupAd
 kebioskop21.one###top-banner
@@ -80,7 +80,7 @@ komiku.org,sektedoujin.cc##+js(nobab)
 ! ---
 ! chp_ads_blocker | adblock_title | /wp-content/plugins/chp-ads-block-detector/
 blurayufr.cam##+js(acis, chp_ads_blocker_detector)
-ainzscans.net,kumapoi.info##+js(noeval-if, /chp_?ad/)
+kumapoi.info##+js(noeval-if, /chp_?ad/)
 layardrama21.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
 crotpedia.net##+js(noeval-if, ads)
 ! https://github.com/realodix/AdBlockID/issues/53
@@ -140,7 +140,7 @@ komikzoid.id,sektekomik.id##+js(ra, oncontextmenu|ondragstart|onkeydown|onmoused
 otakudesu.best##+js(acis, document.oncontextmenu)
 mangacanblog.com##+js(aeld, /^(?:contextmenu|selectstart)$/)
 anichin.social##+js(aeld, /copy|keydown/)
-ainzscans.net,anichin.social,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,kuroshireader.com,mangaaku.com,mangakita.id,mangakuu.com,mangasusuku.com,mangatale.co,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me##+js(aeld, contextmenu)
+anichin.social,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,kuroshireader.com,mangaaku.com,mangakita.id,mangakuu.com,mangasusuku.com,mangatale.co,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me##+js(aeld, contextmenu)
 kusonime.com##+js(aeld, keydown)
 komikzoid.id,kusonime.com,tooncubus.top##+js(aopr, document.oncontextmenu)
 mangacanblog.com##+js(aopr, document.onkeydown)
