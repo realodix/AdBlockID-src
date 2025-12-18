@@ -39,7 +39,6 @@ adianhusaini.id
 adikcloud.my.id
 adikdrive.my.id
 adinyahya.com
-adligature.com
 admediapapua.com
 ads.antaranews.com
 ads.dewarangga.com
@@ -738,7 +737,6 @@ dailypost.id
 dailysocial.id
 damarinfo.com
 danacita.co.id
-dapat.link
 dara.co.id
 dardura.com
 datadikdasmen.com
@@ -3700,7 +3698,6 @@ sriwijaya-hariini.com
 sriwijayamedia.com
 sriwijayanews.com
 sriwijayaonline.com
-srvtrck.com
 star-news.id
 starbanjar.com
 static.promediateknologi.id
