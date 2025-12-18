@@ -48,7 +48,6 @@ cermati.com##:matches-path(/artikel) a[data-item^="promo-"]:has(> picture)
 ! IDN Media
 ! -----
 -banner-$image,domain=popmama.com
-!
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR2-wrapper
 fortuneidn.com,ggwp.id,idntimes.com###IDN_MR3-wrapper
@@ -94,7 +93,6 @@ idntimes.com,popmama.com##+js(aeld, /copy|keydown/)
 ! -----
 ||adsimg.kompas.com^
 ||kompasiana.com^*/banner-
-!
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com###ad-genie-container
 tribunnewswiki.com###adsoutofpage-premiumTopframe
@@ -196,7 +194,6 @@ kontan.co.id##.popup
 ! -----
 ||akcdn.detik.net.id/community/media/*/gif-banner-
 ||detik.com^*/bannerinternal/
-!
 haibunda.com###balloonads
 transtv.co.id###bannerpop
 cnbcindonesia.com,haibunda.com###billboard_banner
@@ -285,7 +282,6 @@ transtv.co.id##+js(ra, oncontextmenu, html)
 ! KLY KapanLagi Youniverse
 ! -----
 ||klimg.com/d.kapanlaginetwork.com/banner/
-!
 bola.net###content-news .w100p:has([id^="div-gpt-ad"])
 bola.com,bola.net,merdeka.com,otosia.com###in-image-ads
 bola.net###top_leaderboard:has(> [id^="div-gpt-ad"])
@@ -318,7 +314,6 @@ bola.com##.layout__content:style(margin-top: 0!important;)
 ! Media Group
 ! -----
 ||mediaindonesia.com^*/banners/
-!
 mediaindonesia.com###content [class^="parallax_"]:has([id*="div-gpt-ad-"])
 metrotvnews.com##.ads
 metrotvnews.com##.ads-large-leaderboard
@@ -359,7 +354,6 @@ medcom.id##.mid_content div.box_7_ct:nth-of-type(4):style(margin-bottom:0!import
 ! MNC Portal
 ! -----
 ||widget-am.misteraladin.com^$frame,domain=idxchannel.com|inews.id|okezone.com|sindonews.com
-!
 inews.id###Div-MOBILE-Detail-StickyAd
 sindonews.com###ads
 inews.id###ads-bottom-logo
@@ -416,7 +410,6 @@ okezone.com##[id^="ivs-"]:remove()
 inews.id,okezone.com##+js(aopr, document.oncopy)
 ! Unbreak
 @@/advertising/*$domain=client.okezone.com
-!
 sindonews.com#@##header-ads
 techno.okezone.com#@#.container-ads-topmenu
 ! ------------------------------------------------------------------------------
@@ -486,7 +479,6 @@ pramborsfm.com##.master.has-top-ads .header:style(top: 0!important;)
 ! Republika
 ! -----
 ||republika.co.id/files/ads/
-!
 republika.co.id###inscroll-banner
 ameeralife.com,dialogjumat.co.id,ekbis.co,esgnow.id,janna.co.id,rejabar.co.id,rejogja.co.id,republika.co.id,teraju.co.id###inscroll-banner-home
 ameeralife.com,dialogjumat.co.id,ekbis.co,esgnow.id,janna.co.id,rejabar.co.id,rejogja.co.id,republika.co.id,teraju.co.id##.ads

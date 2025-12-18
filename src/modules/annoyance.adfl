@@ -5,7 +5,6 @@
 ! POPUP & OVERLAY
 ! ------------------------------------------------------------------------------
 ?key=*&submetric=$3p,popup
-!
 jurnalfaktual.id,kotakgame.com##+js(aopr, $.magnificPopup.open)
 beritasore.co.id,jejakmufassir.my.id,mistertekno.com##+js(nowoif)
 ! CM Pop-Up banners / cm-popup-modal / ouibounce-modal / popupflyin
