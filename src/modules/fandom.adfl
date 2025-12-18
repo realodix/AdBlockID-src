@@ -275,6 +275,7 @@ moenime.com##.copyright
 moenime.com##.entry-content div:matches-css(text-align: center):has(img + [onclick])
 moenime.com##div[style*="background-color"]:has(> [onclick*="none"])
 moenime.com##+js(aeld, click, /\.php|fromCharCode/)
+moenime.com##+js(aeld, mouseup, window.open)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
