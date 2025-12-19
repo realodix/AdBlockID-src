@@ -3,6 +3,10 @@
 ! ------------------------------------------------------------------------------
 ! Affiliate / Referral
 ! -----
+||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
+~adsterra.com##[href^="https://beta.publishers.adsterra.com/signup"]:has(img)
+~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/id/register"]:has(img)
+~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/sg/register"]:has(img)
 ! ------------------------------------------------------------------------------
 ! ads.id
 ! -----
