@@ -1475,6 +1475,7 @@
 ~gramedia.com##[href^="https://aff.gramedia.com/"]:has(img)
 ~atid.me##[href^="https://atid.me/adv.php"]:has(img)
 ~atid.me##[href^="https://atid.me/go/"]:has(img)
+~adsterra.com##[href^="https://beta.publishers.adsterra.com/signup"]:has(img)
 ~collaborator.pro##[href^="https://collaborator.pro?ref="]:has(img)
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)
 ~komunitasbos.com##[href^="https://id.komunitasbos.com/aff/"]:has(img)
@@ -1488,6 +1489,8 @@
 ~hawkhost.com##[href^="https://my.hawkhost.com/aff.php"]:has(img)
 ~niagahoster.co.id##[href^="https://panel.niagahoster.co.id/ref/"]:has(img)
 ~seedbacklink.com##[href^="https://panel.seedbacklink.com/aff/"] > img
+~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/id/register"]:has(img)
+~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/sg/register"]:has(img)
 ~adsterra.com##[href^="https://publishers.adsterra.com/referral/"]:has(img)
 ~rajabacklink.com##[href^="https://rajabacklink.com/refferal.php?q="]:has(img)
 ~ajaib.co.id##[href^="https://referral.ajaib.co.id/"]:has(img)
