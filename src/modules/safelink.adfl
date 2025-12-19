@@ -6,9 +6,6 @@
 !#
 !# --------------------------------------------------------
 !#
-##[href^="https://safelinkblogger.com/ref/"]
-##[href^="https://safelinku.com/ref/"] > img
-!
 cekresi.me,tempatwisata.pro##span:has-text(/adv/i)
 !
 ! ANTI-ADBLOCK

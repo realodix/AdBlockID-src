@@ -1469,10 +1469,6 @@
 ##img[width="468"][height="60"]
 ##img[width="728"][height="90"]
 !
-! AFFILIATE / REFERRAL
-! ------------------------------------------------------------------------------
-~komunitasbos.com##[href^="https://id.komunitasbos.com/aff/"]:has(img)
-!
 ! General
 ! ------------------------------------------------------------------------------
 ~glints.com##[href="https://loker.glints.com/openkerja"] > img
