@@ -265,7 +265,7 @@ moenime.com##.site-content:style(z-index: 10 !important; position: relative!impo
 moenime.com##a[target*="blank"]:has(> img)
 moenime.com##body > svg
 moenime.com##form:matches-css(position: fixed)
-moenime.com##+js(acis, document.getElementById, Blob()
+moenime.com##+js(acis, document.getElementById, /Blob\(|attachShadow/)
 !
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: static):not([src*="WUSpzgC"]))
 moenime.com##*:matches-css(position: fixed):has(img):not(.scroll-to-top)
