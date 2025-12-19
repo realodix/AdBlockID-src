@@ -852,18 +852,13 @@ _728x90px.$image,domain=bogordaily.net
 ! ------------------------------------------------------------------------------
 ||aiprodev.com/files/banner/$3p
 ||backlink.co.id^*/badge-$image,domain=~backlink.co.id|~blogpartner.id
-||collaborator.pro/images/referral/$3p
 ||fbs.partners/banner/$3p,domain=~indofbs-invest.com
 ||gnfi.net/gnfi/uploads/banners/$3p
 ||ib.pictures/img/ibbanner/$3p
 ||idtheme.com/img/banner-$3p
 ||idtheme.com/img/old/idt-size-$3p,image
-||idwebhost.com/assets/img/hostingtermurah/$3p
 ||pages.dev^$script,domain=atlantaelectronics.co.id
 ||seedbacklink.com^*-banner.$3p,image
-||seedbacklink.com^*/badge-$3p,image
-||sugeng.id^*/banner-$3p
-||triv.co.id^*/banner/$3p
 ||wp.com/www.backlink.co.id/wp-content/uploads/$image,domain=~backlink.co.id|~blogpartner.id
 ||zaferinadigital.com^*/ads-
 ! ---

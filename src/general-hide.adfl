@@ -1471,41 +1471,26 @@
 !
 ! AFFILIATE / REFERRAL
 ! ------------------------------------------------------------------------------
-~niagahoster.co.id##[href*="//niagahoster.co.id" i][href*="?REFERRALCODE" i]:has(img)
-~gramedia.com##[href^="https://aff.gramedia.com/"]:has(img)
 ~atid.me##[href^="https://atid.me/adv.php"]:has(img)
 ~atid.me##[href^="https://atid.me/go/"]:has(img)
-~collaborator.pro##[href^="https://collaborator.pro?ref="]:has(img)
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)
 ~komunitasbos.com##[href^="https://id.komunitasbos.com/aff/"]:has(img)
-~idwebhost.com##[href^="https://idwebhost.com/aff/"]:has(img)
-~indodax.com##[href^="https://indodax.com/ref/"]:has(img)
-~bibit.id##[href^="https://linkto.bibit.id/"]:has(img)
-~jagoanhosting.com##[href^="https://member.jagoanhosting.com/aff.php"]:has(img)
 ~thebrandmasterclass.id##[href^="https://member.thebrandmasterclass.id/aff/"]:has(img)
 ~monetag.com##[href^="https://monetag.com/?ref_id="]:has(img)
 ~domainesia.com##[href^="https://my.domainesia.com/ref.php"]:has(img)
 ~hawkhost.com##[href^="https://my.hawkhost.com/aff.php"]:has(img)
 ~niagahoster.co.id##[href^="https://panel.niagahoster.co.id/ref/"]:has(img)
-~seedbacklink.com##[href^="https://panel.seedbacklink.com/aff/"] > img
 ~adsterra.com##[href^="https://publishers.adsterra.com/referral/"]:has(img)
 ~rajabacklink.com##[href^="https://rajabacklink.com/refferal.php?q="]:has(img)
-~ajaib.co.id##[href^="https://referral.ajaib.co.id/"]:has(img)
-~sugeng.id##[href^="https://sugeng.id/?ref="]:has(img)
-~triv.co.id##[href^="https://triv.co.id/aff/"]:has(img)
-~clickadu.com##[href^="https://www.clickadu.com/?rfd="]:has(img)
 ~dewaweb.com##[href^="https://www.dewaweb.com/aff.php?aff="]:has(img)
 ~domainesia.com##[href^="https://www.domainesia.com/?aff="]:has(img)
 ~indowebsite.co.id##[href^="https://www.indowebsite.co.id/web-hosting/?id="]:has(img)
 ~oketheme.com##[href^="https://www.oketheme.com/members/aff/go/"]:has(img)
-~tokocrypto.com##[href^="https://www.tokocrypto.com/account/signup?ref="]:has(img)
 ~invol.co,~involve.asia##a[href^="https://invol.co/aff_"]
 ~intellifluence.com##a[href^="https://links.intellifluence.com/"]:has(img)
 !
 ! General
 ! ------------------------------------------------------------------------------
-~alfagift.id##[href*="https://campaign.alfagift.id/"]:has(img)
-~seedbacklink.com##[href="https://id.seedbacklink.com/"]:has(img)
 ~glints.com##[href="https://loker.glints.com/openkerja"] > img
 ~adv.co.id##[href^="https://adv.co.id"]:has(img)
 ~backlink.co.id,~blogpartner.id##[href^="https://blogpartner.id"]:has(img)
