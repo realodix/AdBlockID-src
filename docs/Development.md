@@ -31,6 +31,7 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
  ├─ anti-adblock.adfl       [G/S] Melumpuhkan ad block detection.
  ├─ extended.adfl           [S] Perbaiki tampilan situs setelah iklannya dihilangkan.
  ├─ general_block.adfl      [G] Blokir iklan.
+ ├─ general-group.adfl      [G] ...
  ├─ general_hide.adfl       [G] Sembunyikan iklan.
  ├─ specific_block.adfl     [S] Blokir iklan.
  ├─ specific_hide.adfl      [S] Sembunyikan iklan.
