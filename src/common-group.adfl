@@ -7,6 +7,7 @@
 ~adsterra.com##[href^="https://beta.publishers.adsterra.com/signup"]:has(img)
 ~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/id/register"]:has(img)
 ~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/sg/register"]:has(img)
+~nephobox.com,~onelink.me,~terabox.com##[href^="https://terabox.onelink.me/"]:has(img)
 ! ------------------------------------------------------------------------------
 ! ads.id
 ! -----
