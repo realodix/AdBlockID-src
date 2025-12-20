@@ -30,11 +30,11 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
  ├─ adservers.adfl          [G] Daftar domain/IP penyedia layanan iklan pihak ketiga.
  ├─ anti-adblock.adfl       [G/S] Melumpuhkan ad block detection.
  ├─ extended.adfl           [S] Perbaiki tampilan situs setelah iklannya dihilangkan.
- ├─ general_block.adfl      [G] Blokir iklan.
+ ├─ general-block.adfl      [G] Blokir iklan.
  ├─ general-group.adfl      [G] ...
- ├─ general_hide.adfl       [G] Sembunyikan iklan.
- ├─ specific_block.adfl     [S] Blokir iklan.
- ├─ specific_hide.adfl      [S] Sembunyikan iklan.
+ ├─ general-hide.adfl       [G] Sembunyikan iklan.
+ ├─ specific-block.adfl     [S] Blokir iklan.
+ ├─ specific-hide.adfl      [S] Sembunyikan iklan.
  ├─ specific-hide_2.adfl    [S] ...
  └─ whitelist.adfl          [G/S] Mengembalikan sesuatu yang seharusnya ada, namun hilang
                             karena tidak sengaja terblokir/disembunyikan.
