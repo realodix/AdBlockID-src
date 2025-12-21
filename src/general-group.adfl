@@ -293,6 +293,7 @@ insertlive.com###parallaxindetail_blank
 detik.com##.billboard-top
 cnbcindonesia.com##.billboardmobile
 cnbcindonesia.com##.detail-text > div:matches-css(margin: 24px -18px):has(> div:matches-css(background-size: 480px 600px):has(> [id^="div-gpt-ad-"]))
+cnbcindonesia.com##.detail-text div[style*="/aadvertisement-"]
 detik.com##.detail__body-text div:matches-css(align-content: center):has(> .video > [id^="div-gpt-"])
 detik.com##.list-content > .para1
 haibunda.com##.m-r1:matches-css(height: 625px)
