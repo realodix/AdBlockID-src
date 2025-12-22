@@ -52,9 +52,10 @@ sharer.my.id#@#.showads
 @@||deras.id^$ghide
 @@||indokontraktor.com^$ghide
 @@||jurnalfaktual.id^$ghide
+@@||qoo10.co.id^$ghide
 @@||surgatekno.com^$ghide
 jurnalfaktual.id##.ad-wrap
-surgatekno.com##ins[data-ad-client]
+qoo10.co.id,surgatekno.com##ins[data-ad-client]
 ! chp_ads_blocker
 ! https://github.com/AdguardTeam/AdguardFilters/issues/94283
 ! https://github.com/AdguardTeam/AdguardFilters/pull/120540#issuecomment-1143686419
