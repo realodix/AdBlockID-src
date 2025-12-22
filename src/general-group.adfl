@@ -612,6 +612,7 @@ gooto.com#@#.sticky-ad
 ! -----
 ##.ads--stick-parent
 ##.ads--stick-parent-250px
+##.ads--stick-parent-300px
 ##.ads--stick-parent-400px
 ##body > #cont-megabillboard.t600
 ##body > [id="megabillboard"][style="position: relative;width: 100% !important;"]
