@@ -15,7 +15,6 @@
 /wp-content/plugins/secure-copy-content-protection/public/*
 /wp-content/plugins/t42-content-protector/*
 /wp-content/plugins/ungrabber/js/ungrabber.min.js
-!
 lampungpost.id##+js(aopr, t42ContentProtector)
 kucingmania.net,nomor.net##+js(ra, oncontextmenu|ondragstart|onkeydown|onmousedown|onselectstart|style, body)
 bahankain.com##+js(ra, onmousedown|onselectstart|unselectable, .post-info)

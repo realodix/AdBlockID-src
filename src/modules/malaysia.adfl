@@ -1,5 +1,3 @@
-! BLOCK
-! ------------------------------------------------------------------------------
 -1160x250-$image,domain=pandulaju.com.my
 -OnlineAd-$image,domain=funtasticko.net|pandulaju.com.my
 /1020x350_$image,domain=funtasticko.net
@@ -7,9 +5,6 @@
 ||kisahdunia.com/wp-content/plugins/khairulzul-shopee-affiliate-for-kayz-asia/$image
 ||malaysiagazette.com^*-banner-
 ||mediapermata.com.bn^*/banners/$image
-!
-! HIDES
-! ------------------------------------------------------------------------------
 astroawani.com###banner
 utusantv.com###uts-billboard
 bharian.com.my,hmetro.com.my##.ad

@@ -565,7 +565,6 @@ brainacademy.id,english-academy.id,ruangguru.com,ruangkerja.id,schoters.com##+js
 ! TEMPO.CO (Info Media Digital)
 ! -----
 ||tempo.co^*/ads/$image
-!
 tempo.co###ads-main-2
 tempo.co##.ads
 cantika.com##.adsbottom-new
@@ -698,7 +697,6 @@ nobartvgratis.com##body:style(overflow: auto!important; position: unset!importan
 ! -----
 ||cfcdn.apcqwd.com/prod/svimg/*.gif|$image
 ||cfcdn.xdapiym5297.com/prod/svimg/*.gif|$image
-!
 livesports044.com,livesports055.com,livesports088.com,marza11.shop##.banner
 /tigoals\d+\.com/##.banner
 /tigoals\d+\.com/##.gg-list:has(:is(.gg-txt-discount, .gg-txt-bonus))
