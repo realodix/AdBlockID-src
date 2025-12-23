@@ -16,11 +16,16 @@ jagokata.com##+js(set-local-storage-item, ignoreadblock, true)
 downloadtanku.org##+js(noeval-if, adbEnableForPage)
 ! Ad Inserter (ai_front / ai_adb / aiADB / ad-inserter / ai-adb) | https://wordpress.org/plugins/ad-inserter/
 baliwakenews.com,info-menarik.net,lumpiastudio.com,otakdewasa.id##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]
+jejaknarasi.id##div:matches-css(position: fixed):matches-css(bottom: 0px):matches-css(left: 0px)
 otakdewasa.id##+js(aopw, ai_front)
 ! ignielAdBlock
 pakarinfo.co.id###ignielAdBlock
 pakarinfo.co.id##body:style(overflow: auto !important;)
 offenseproject.com##+js(acis, document.createElement, ignielAdBlock)
+! .fc-ab-root .fc-ab-dialog
+! Bisa hilang dengan (||fundingchoicesmessages.google.com^$3p - ada di uBO)
+jejaknarasi.id##.fc-ab-root
+jejaknarasi.id##body:style(overflow: auto !important;)
 ! foxtool|foxtoolbl.js|#ft-blocker|#@#googleads
 /wp-content/plugins/foxtool/link/blocker/*$domain=beritapopuler.co.id
 ! KlinkzADBlock
