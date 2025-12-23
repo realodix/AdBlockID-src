@@ -27,6 +27,8 @@ visi.news##.elementor-widget-container:has(> noscript) > img
 teropongmedia.id##.elementor-widget-image a[target="_blank"]:has(> img)
 kotaku.co.id##.home-widget .code-block > img
 cahayasiang.id,freelinenews.com##.jeg_sidebar .widget > img
+jepretnews.com##.mg-widget > figure > figure > img
+jepretnews.com##.mg-widget > figure > img
 legacynews.id##.mh-widget > .wp-block-image > a > img
 legacynews.id##.mh-widget > .wp-block-image > figure > img
 legacynews.id##.mh-widget > .wp-block-image > img
