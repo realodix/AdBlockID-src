@@ -699,13 +699,13 @@ nobartvgratis.com##body:style(overflow: auto!important; position: unset!importan
 ||cfcdn.apcqwd.com/prod/svimg/*.gif|$image
 ||cfcdn.xdapiym5297.com/prod/svimg/*.gif|$image
 !
-livesports044.com,marza11.shop##.banner
+livesports044.com,livesports055.com,livesports088.com,marza11.shop##.banner
 /tigoals\d+\.com/##.banner
 /tigoals\d+\.com/##.gg-list:has(:is(.gg-txt-discount, .gg-txt-bonus))
 ! Annoyance
-livesports044.com,marza11.shop##*:style(scrollbar-width: thin!important;)
-livesports044.com,marza11.shop##body:style(overflow: auto!important; position: unset!important;)
-livesports044.com,marza11.shop##+js(aopr, document.oncontextmenu)
+livesports044.com,livesports055.com,livesports088.com,marza11.shop##*:style(scrollbar-width: thin!important;)
+livesports044.com,livesports055.com,livesports088.com,marza11.shop##body:style(overflow: auto!important; position: unset!important;)
+livesports044.com,livesports055.com,livesports088.com,marza11.shop##+js(aopr, document.oncontextmenu)
 /tigoals\d+\.com/##*:style(scrollbar-width: thin!important;)
 /tigoals\d+\.com/##+js(aopr, document.oncontextmenu)
 /tigoals\d+\.com/##body:style(overflow: auto!important; position: unset!important;)
