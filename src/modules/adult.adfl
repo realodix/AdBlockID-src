@@ -57,6 +57,7 @@ kpopdeepfakes.*#@##banner_ad
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
 pasarbokep.com##+js(aopr, adsBlocked)
+avtubhub.web.id##+js(aopr, checkAdBlock)
 pasarbokep.com,sangetods.*##+js(no-fetch-if, pagead2.googlesyndication.com)
 ! chp_ads_blocker | adblock_title
 kesiangan.com,lk21semi.*,minioppai.org##+js(acis, chp_ads_blocker_detector)
