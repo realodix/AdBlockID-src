@@ -728,15 +728,12 @@ fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + div:matches
 ! rbtv77.*##:matches-path(/id) div:matches-css(position: relative):has(> div:matches-css(position: absolute):has(> img) + img)
 ! fctv77.*,rbsports77.*,rbtv77.*,rbtvplus01.*##:matches-path(/id) img:style(width: auto!important;)
 ! @@/ban300.html$script,xhr,domain=rbtv77.*
-! https://regex101.com/r/3YcjDV/1
-iasbwindwtgtapony.sbs##*:style(scrollbar-width: thin!important;)
-iasbwindwtgtapony.sbs##:matches-path(/id) div:matches-css(position: fixed):has(> img)
-iasbwindwtgtapony.sbs##:matches-path(/id) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
-iasbwindwtgtapony.sbs##:matches-path(/id) iframe + div:matches-css(position: absolute):has(> img)
-/^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##*:has-text(/(rbtv|superabbit)77/i):style(scrollbar-width: thin!important;)
-/^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: fixed):has(> img)
-/^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
-/^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) iframe + div:matches-css(position: absolute):has(> img)
+! https://regex101.com/r/3YcjDV/1 - /^[a-z0-9]{5,}\.(?=.*[a-z])(?=.*[0-9])[a-z0-9]{17,}\.(cfd|sbs|shop)$/
+! https://regex101.com/r/zM8TAO/1
+/^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##*:has-text(/(rbtv|superabbit)77/i):style(scrollbar-width: thin!important;)
+/^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: fixed):has(> img)
+/^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
+/^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) iframe + div:matches-css(position: absolute):has(> img)
 ! ------------------------------------------------------------------------------
 ! apabeda.com
 ! - https://github.com/realodix/AdBlockID/issues/1536
