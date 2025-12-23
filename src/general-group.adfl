@@ -73,8 +73,10 @@ suara.com##.banner-ads--parallax
 dewiku.com,suara.com##.bg-ads-sticky-side
 dewiku.com,suara.com##.bg-ads-sticky-top
 ! Empty ads placeholders
+matamata.com##.content div:matches-css(position: relative):matches-css(min-height: 100px)
 suara.com##.parallax_swipe
-suara.com##.placeholder_center
+guideku.com##.placeholder_belt
+hitekno.com,suara.com##.placeholder_center
 suara.com##.placeholder_expose
 guideku.com,suara.com##.placeholder_leaderboard
 suara.com##.placeholder_medium
@@ -84,6 +86,9 @@ suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
 suara.com##.skin:has(> [data-ad-type])
 bolatimes.com,dewiku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##[class^="placeholder_"]:has([id^="div-ad-"])
+! Anti-Adblock
+dewiku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##.fc-ab-root
+dewiku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##body:style(overflow: auto !important;)
 ! ------------------------------------------------------------------------------
 ! Cermati
 ! -----
