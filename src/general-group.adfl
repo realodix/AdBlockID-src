@@ -753,6 +753,7 @@ buahmangga.com,digoreng.com,semprot.com,senang.top##a[href*="/ads.php"]:has(img)
 ! Anti-Adblock
 buahmangga.com,digoreng.com,semprot.com,senang.top#@#.adunit
 buahmangga.com,digoreng.com,semprot.com,senang.top#@#.adunit:not(.text-ad)
+! ------------------------------------------------------------------------------
 ! lihatgambar.my.id
 ! - https://github.com/realodix/AdBlockID/issues/1933
 ! - https://github.com/AdguardTeam/AdguardFilters/issues/211064
