@@ -255,20 +255,14 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
+moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, window.atob)
 ! Anti Adblock
-moenime.com##.show
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! Annoyance
-moenime.com##*:has(> :matches-css(float: right)):has-text(/dukung/i)
-moenime.com##*:matches-css(float: right):has(a)
-moenime.com##*:matches-css(position: relative):has-text(/sociabuzz\.com/)
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##:is(.widget, .widget-area)
-moenime.com##a:matches-css(text-decoration: underline)
-moenime.com##+js(aeld, /mouseup|pointerup|mousedown/)
-moenime.com##+js(aeld, click, /\.php|fromCharCode|open/)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
