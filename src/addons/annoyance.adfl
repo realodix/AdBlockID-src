@@ -22,7 +22,7 @@ mypage.axa.co.id##.modal-cookie
 zurich.co.id##.privacy-warning-main
 kabarsumbar.com##.seopress-user-consent
 bratapos.com##.uc-gdpr-notification
-biznetgio.com,dci-indonesia.com,goersapp.com,inputekno.com,komedia.id,queennews.id##[class*="cookie" i]
+biznetgio.com,dci-indonesia.com,goersapp.com,inputekno.com,komedia.id,mu-online1.com,queennews.id##[class*="cookie" i]
 astra.co.id,myorbit.id,perspectivesnews.com,rajakomen.com,sadiskon.com,siraplimau.com,wendycode.com##[id*="cookie" i]
 smartfren.com##body > div:matches-css(position: fixed):has-text(/cookie/i)
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
