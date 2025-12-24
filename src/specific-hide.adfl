@@ -354,7 +354,7 @@ langit7.id##.langit7-banner
 datadikdasmen.com,faktadaerah.com##.largebanner
 beritabali.com##.left-banner
 tvrinews.com##.lg_ads
-inilahkoran.id,marjinal.id,metronusantaranews.com,patriotnews.id,tribratanewsalor.com,tribratanewsbelu.com,tribratanewsende.com,tribratanewsflorestimur.com,tribratanewskupang.com,tribratanewskupangkota.com,tribratanewslembata.com,tribratanewsmanggarai.com,tribratanewsmanggaraibarat.com,tribratanewsntt.com,tribratanewsrotendao.com,tribratanewssikka.com,tribratanewssumbabarat.com,tribratanewssumbabaratdaya.com,tribratanewssumbatimur.com,tribratanewsttu.com,westjavatoday.com##.logo-banner .pull-right
+inilahkoran.id,marjinal.id,metronusantaranews.com,patriotnews.id,portal-islam.com,tribratanewsalor.com,tribratanewsbelu.com,tribratanewsende.com,tribratanewsflorestimur.com,tribratanewskupang.com,tribratanewskupangkota.com,tribratanewslembata.com,tribratanewsmanggarai.com,tribratanewsmanggaraibarat.com,tribratanewsntt.com,tribratanewsrotendao.com,tribratanewssikka.com,tribratanewssumbabarat.com,tribratanewssumbabaratdaya.com,tribratanewssumbatimur.com,tribratanewsttu.com,westjavatoday.com##.logo-banner .pull-right
 dianisa.com##.main-advertisement
 rodagilas.com,technologyindonesia.id##.masthead-header-banner
 lokerjakarta.id##.mobile-view-banner
@@ -480,7 +480,7 @@ gosulsel.com##[alt^="go-ads-"]
 avesiar.com,infojatim.com,menit.co.id,radarsumatera.com##[alt^="iklan" i]
 publica-news.com##[aria-label="advertisement" i]
 esportsku.com,faktabanten.co.id,garudadaily.com,globalmedan.com##[class*="-pubadban"]
-afederasi.com,infobaik.id,inilahkoran.id,lambeturah.co.id,lampunggo.com,marjinal.id,monologis.id,nusadaily.com,rmolpapua.id,teraslampung.com,westjavatoday.com##[class*="bn-"]
+afederasi.com,infobaik.id,inilahkoran.id,lambeturah.co.id,lampunggo.com,marjinal.id,monologis.id,nusadaily.com,portal-islam.com,rmolpapua.id,teraslampung.com,westjavatoday.com##[class*="bn-"]
 teropongmedia.id##[class*="iklan-"]
 riaupunya.com##[class*="tb_widget_banner_"] > a:has(> img)
 etindonesia.com##[class*="td-g-rec-id-custom_ad_"]
