@@ -31,6 +31,8 @@ jejaknarasi.id##.fc-ab-root
 jejaknarasi.id##body:style(overflow: auto !important;)
 ! foxtool|foxtoolbl.js|#ft-blocker|#@#googleads
 /wp-content/plugins/foxtool/link/blocker/*$domain=beritapopuler.co.id
+! .mfp-bg .mfp-wrap .rb-popup-center
+infoaceh.net##+js(aopr, $.magnificPopup.open)
 ! KlinkzADBlock
 kareel.com##+js(set, config.adblock.selector, true)
 ! tie-popup-adblock
