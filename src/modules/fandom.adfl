@@ -267,6 +267,7 @@ moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##.widget
 moenime.com##a[href*="sociabuzz"]
 moenime.com##+js(aeld, /mouseup|pointerup|mousedown/)
+moenime.com##+js(aeld, click, /\.php|fromCharCode|open/)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
