@@ -69,6 +69,7 @@
 *://*.co.za/*
 # 179 domains
 *://*.de/*
+@*://phpunit.de/*
 # 842 domains
 *://*.fr/*
 # 208 .in + 68 co.in
