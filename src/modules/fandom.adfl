@@ -255,8 +255,10 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
+moenime.com##iframe:matches-css(position: fixed)
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
+moenime.com##+js(acis, String.fromCharCode)
 moenime.com##+js(acis, window.atob)
 ! Anti Adblock
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
