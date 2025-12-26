@@ -1052,6 +1052,7 @@ gap.web.id
 garda.co.id
 garda.id
 gardaanimalia.com
+gardaindonesia.id
 gardapapua.com
 gardapos.com
 garislensa.id
