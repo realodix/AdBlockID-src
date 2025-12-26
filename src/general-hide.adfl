@@ -1405,7 +1405,7 @@
 ##[class*="sponsor_kecil"]
 ##[class^="AdsTop_ads"]
 ##[class^="utp_ads_"]
-##[data-customize-partial-id="iklan" i]
+##[data-customize-partial-id*="iklan" i]
 ##[href*="/iklan-ads/"]
 ##[href*="?ads="]
 ##[href^="/api/1/ad/"]
