@@ -158,7 +158,6 @@ arrahmah.id
 artikel.rumah123.com
 asarpua.com
 asatuonline.id
-ascomaxx.com
 asiabusinessinfo.com
 asianpost.id
 asibuka.com
@@ -651,7 +650,6 @@ canalberita.com
 canangnews.com
 cantika.com
 cara.my.id
-caraharian.com
 carakami.com
 carapedia.com
 cariaku.com
@@ -2925,7 +2923,6 @@ otoinfo.id
 otojurnalisme.com
 otomotif1.com
 otonetters.id
-otonity.com
 otoproid.com
 otorider.com
 otosia.com
@@ -3907,7 +3904,6 @@ sundalanews.com
 sundaurang.id
 superradio.id
 suporter.co.id
-surabayainside.com
 surabayainsider.com
 surabayaonline.co
 surabayapostnews.com
