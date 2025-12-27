@@ -740,7 +740,6 @@ dagangberita.com
 dailyklik.id
 dailynotif.com
 dailypost.id
-dailysocial.id
 damarinfo.com
 danacita.co.id
 dara.co.id
