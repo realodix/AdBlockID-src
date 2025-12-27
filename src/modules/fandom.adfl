@@ -255,7 +255,9 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
+moenime.com##*:matches-css(position: fixed):has(iframe)
 moenime.com##iframe:matches-css(position: fixed)
+moenime.com##^script:has-text(/decodeURIComponent\(|%[0-9A-Fa-f]{2}/)
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, String.fromCharCode)
