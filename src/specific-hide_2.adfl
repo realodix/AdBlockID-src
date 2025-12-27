@@ -140,7 +140,6 @@ tabloidmatahati.com,tribratanewsmanado.com##aside img[style="max-width: 100%; he
 !
 ! EMPTY ADS PLACEHOLDERS
 ! ------------------------------------------------------------------------------
-trenasia.com,trenasia.id###__next div:has(> footer) + .fixed:has(> button > svg)
 timesindonesia.co.id###news_content > p:has-text(/adv/i)
 bukamata.id##.a-wrap:has(> .label:has-text(/adv/i))
 travelingyuk.com##.a-wrapper:has(> .adsbygoogle)
