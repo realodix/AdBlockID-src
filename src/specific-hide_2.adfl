@@ -142,7 +142,6 @@ tabloidmatahati.com,tribratanewsmanado.com##aside img[style="max-width: 100%; he
 ! ------------------------------------------------------------------------------
 trenasia.com,trenasia.id###__next div:has(> footer) + .fixed:has(> button > svg)
 timesindonesia.co.id###news_content > p:has-text(/adv/i)
-koranmandala.com##.a-wrap:has(> .adsbygoogle)
 bukamata.id##.a-wrap:has(> .label:has-text(/adv/i))
 travelingyuk.com##.a-wrapper:has(> .adsbygoogle)
 dutaimigrasi.com,greenscene.co.id,itnesia.com,tipkerja.com,utekno.com##.adsbygoogle:upward(.code-block)
