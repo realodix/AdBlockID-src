@@ -865,7 +865,6 @@ disway.id
 ditulis.id
 divianews.com
 divisi.id
-djafa.org
 djawaranews.com
 dkliknews.com
 dkylb.com
@@ -2500,7 +2499,6 @@ matrabisnis.id
 matrasnews.com
 mattanews.co
 maungbandung.co.id
-mbaheza.com
 mbinews.id
 mcnewsultra.id
 mcnnews.online
@@ -2782,7 +2780,6 @@ navigasi.eu.org
 nawacita.co
 nawacitalink.com
 nawacitapost.com
-nawalakarsa.id
 nawalamedia.id
 neazone.id
 negerilaskarpelangi.com
