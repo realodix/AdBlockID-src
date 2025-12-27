@@ -71,6 +71,8 @@
 # 179 domains
 *://*.de/*
 @*://phpunit.de/*
+@/ccm19\.de/
+@/clickskeks\.de/
 # 842 domains
 *://*.fr/*
 # 208 .in + 68 co.in
