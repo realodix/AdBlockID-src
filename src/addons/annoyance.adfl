@@ -31,6 +31,7 @@ bratapos.com##.uc-gdpr-notification
 biznetgio.com,dci-indonesia.com,goersapp.com,inputekno.com,komedia.id,mu-online1.com,queennews.id##[class*="cookie" i]
 astra.co.id,myorbit.id,perspectivesnews.com,rajakomen.com,sadiskon.com,siraplimau.com,wendycode.com##[id*="cookie" i]
 smartfren.com##body > div:matches-css(position: fixed):has-text(/cookie/i)
+telkom.co.id##body > div[aria-labelledby="cookie-title"]
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
 kaskus.co.id##+js(set-cookie, cookie_accepted, true)
 honda-indonesia.com##+js(set-local-storage-item, cookie-consent.show, false)
