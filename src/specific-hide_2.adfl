@@ -150,6 +150,7 @@ terkenal.co.id##.post-article img[srcset^="data:image/gif;base64,"]
 halodoc.com##[class*="bg-gray-"].min-h-\[250px\]:has(> div:has-text(/adv/i))
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
 uzone.id##body > .md\:hidden:has(> div:has-text(/iklan/i))
+jelajahcoin.com##center:has(> .adsbygoogle)
 klubpria.com##center:has(> [id^="div-gpt-ad"])
 sinergianews.com,sitnas.id##center:has(> div:has(script))
 bkppkutim.com,viv.co.id##center:has(div > .adsbygoogle)
