@@ -142,7 +142,7 @@ tabloidmatahati.com,tribratanewsmanado.com##aside img[style="max-width: 100%; he
 ! ------------------------------------------------------------------------------
 timesindonesia.co.id###news_content > p:has-text(/adv/i)
 bukamata.id##.a-wrap:has(> .label:has-text(/adv/i))
-greenscene.co.id,itnesia.com,tipkerja.com,utekno.com##.adsbygoogle:upward(.code-block)
+greenscene.co.id,tipkerja.com,utekno.com##.adsbygoogle:upward(.code-block)
 narasi.tv##.before\:content-\[\'Advertisement\'\]
 hapusakun.com##.code-block:has-text(/adv/i)
 narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))
