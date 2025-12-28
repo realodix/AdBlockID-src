@@ -147,7 +147,6 @@ hapusakun.com##.code-block:has-text(/adv/i)
 narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))
 publicholidays.co.id##.phgviewportconditional:has(> .phg-ad):style(min-height: 10px!important;)
 terkenal.co.id##.post-article img[srcset^="data:image/gif;base64,"]
-safahad.my.id##.post-content > div:matches-css(text-align: center):has-text(/scroll/i)
 halodoc.com##[class*="bg-gray-"].min-h-\[250px\]:has(> div:has-text(/adv/i))
 bogordaily.net##article .code-block:matches-css(text-align: center):has(a[href] > img)
 wowkeren.com##article div:matches-css(display: inline-block):has(> script)
