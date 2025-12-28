@@ -144,7 +144,7 @@ timesindonesia.co.id###news_content > p:has-text(/adv/i)
 bukamata.id##.a-wrap:has(> .label:has-text(/adv/i))
 dutaimigrasi.com,greenscene.co.id,itnesia.com,tipkerja.com,utekno.com##.adsbygoogle:upward(.code-block)
 narasi.tv##.before\:content-\[\'Advertisement\'\]
-hapusakun.com,iuwashplus.or.id##.code-block:has-text(/adv/i)
+hapusakun.com##.code-block:has-text(/adv/i)
 narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))
 motorexpertz.com,semaraknews.co.id##.content div:has(> script)
 otoproid.com,pilar.id,recode.id##.entry-content div:has(> .adsbygoogle)
