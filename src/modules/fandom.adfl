@@ -255,9 +255,9 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
-moenime.com##*:matches-css(position: /fixed|relative/):has(:is(iframe, [src*="data:image"]))
-moenime.com##iframe:matches-css(position: fixed)
-moenime.com##^script:has-text(/decodeURIComponent\(|%[0-9A-Fa-f]{2}/)
+moenime.com##*:matches-css(position: /fixed|absolute/):has(:is(iframe, [src*="data:image"]))
+moenime.com##iframe:matches-css(position: /fixed|absolute/)
+moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
 moenime.com##+js(acis, Element.prototype.addEventListener, remove)
 moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, String.fromCharCode)
@@ -267,6 +267,7 @@ moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! Annoyance
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##:is(.widget, .widget-area)
+moenime.com##+js(acis, Array.prototype.join, #)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
