@@ -529,7 +529,6 @@ dardura.com##article #body-post-it > center:has-text(/adv/i)
 tafsirweb.com##article > #promo-box
 brainly.co.id##div[data-testid="brainly_ads_placeholder"]
 halodoc.com##hd-base-display-ads
-hitamputih.site,mcnnews.online##img[alt*="Header AD Image" i]
 ayobacanews.com,beritajurnalis.net,beritapopuler.co.id,bisnismarket.com,bogorzonenews.com,coinvestasi.com,fakta.com,harianindonesia.net,infoterkini.id,infotren.id,jabaronline.com,jurnalcakrawala.com,kabarindoraya.com,kabarkala.com,kalesang.id,kaltimkita.com,lahatsatu.com,lensametro.com,line1.news,liputan12.id,liriknews.com,mahatva.id,mediawarta.com,mistar.id,nuntium.id,pilarparlemen.id,portal7.co.id,portalbanten.net,portalberita.co.id,pusaranmedia.com,revivaltv.id,sakanews.com,serayunews.com,suarabantennews.com,sulselpasti.com##img[alt*="ads" i]
 abdumar.com,detak.co,jurnas.net,kabar7.id,kabarviral79.com,realita.co,revolusinews.id,terabasnews.com,timesindonesia.co.id##img[alt*="adv" i]
 soloaja.co##img[alt*="baner" i]
