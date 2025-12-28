@@ -39,7 +39,7 @@
 /banner/ads-
 /banner/affiliate-$image
 /banner/benner-
-/banner/iklan-
+/banner/iklan-$domain=~tenderstore.id
 /banner/iklan_
 /banner_iklan.
 /banner_iklan1.
