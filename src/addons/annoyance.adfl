@@ -15,12 +15,13 @@ indoleads.com##.cookie-law
 haka.or.id##.cookie-notice
 ditulis.id,mastrigus.com##.cookie-notification
 prudential.co.id##.cookie-policy
-metro-onenews.com,suararossa.com##.cookieadmin_box
+jakartanews.id,metro-onenews.com,suararossa.com##.cookieadmin_box
 arsipbiru.com##.cookies
 erablue.id##.cookies-consent
 lambeturah.co.id,marjinal.id,portal-islam.com##.cookies-warning
 deretcode.com##.dc_cookies
 mitsubishi-motors.co.id,sehataqua.co.id,xl.co.id##.fixed:has-text(/cookie/i)
+liranews.com##.jnews-cookie-law-policy
 mypage.axa.co.id##.modal-cookie
 zurich.co.id##.privacy-warning-main
 kabarsumbar.com##.seopress-user-consent
