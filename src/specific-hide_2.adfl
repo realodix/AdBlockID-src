@@ -145,8 +145,7 @@ bukamata.id##.a-wrap:has(> .label:has-text(/adv/i))
 narasi.tv##.before\:content-\[\'Advertisement\'\]
 hapusakun.com##.code-block:has-text(/adv/i)
 narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))
-motorexpertz.com,semaraknews.co.id##.content div:has(> script)
-today.line.me##.midAdModule-root:has-text(/iklan/i)
+motorexpertz.com##.content div:has(> script)
 publicholidays.co.id##.phgviewportconditional:has(> .phg-ad):style(min-height: 10px!important;)
 terkenal.co.id##.post-article img[srcset^="data:image/gif;base64,"]
 beritasiber.com##.post-content .code-block:has(> .slider-pro)
