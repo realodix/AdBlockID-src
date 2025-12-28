@@ -21,8 +21,6 @@ jakartanews.id,metro-onenews.com,suararossa.com##.cookieadmin_box
 arsipbiru.com##.cookies
 erablue.id##.cookies-consent
 lambeturah.co.id,marjinal.id,portal-islam.com##.cookies-warning
-deretcode.com##.dc_cookies
-indosphera.com##.et-cookies-popup-wrapper
 mitsubishi-motors.co.id,sehataqua.co.id,sementigaroda.com,xl.co.id##.fixed:has-text(/cookie/i)
 liranews.com##.jnews-cookie-law-policy
 mypage.axa.co.id##.modal-cookie
@@ -30,7 +28,7 @@ zurich.co.id##.privacy-warning-main
 kabarsumbar.com##.seopress-user-consent
 bratapos.com##.uc-gdpr-notification
 mrdiy.com##:matches-path(/id) .cookie-bar-wrap
-biznetgio.com,dci-indonesia.com,goersapp.com,inputekno.com,komedia.id,mu-online1.com,queennews.id##[class*="cookie" i]
+biznetgio.com,dci-indonesia.com,deretcode.com,goersapp.com,indoprecast.com,indosphera.com,inputekno.com,komedia.id,mu-online1.com,queennews.id##[class*="cookie" i]
 astra.co.id,myorbit.id,perspectivesnews.com,rajakomen.com,sadiskon.com,siraplimau.com,wendycode.com##[id*="cookie" i]
 smartfren.com##body > div:matches-css(position: fixed):has-text(/cookie/i)
 telkom.co.id##body > div[aria-labelledby="cookie-title"]
