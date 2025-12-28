@@ -146,7 +146,7 @@ narasi.tv##.before\:content-\[\'Advertisement\'\]
 hapusakun.com##.code-block:has-text(/adv/i)
 narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))
 motorexpertz.com,semaraknews.co.id##.content div:has(> script)
-otoproid.com,pilar.id,recode.id##.entry-content div:has(> .adsbygoogle)
+pilar.id##.entry-content div:has(> .adsbygoogle)
 today.line.me##.midAdModule-root:has-text(/iklan/i)
 publicholidays.co.id##.phgviewportconditional:has(> .phg-ad):style(min-height: 10px!important;)
 chordtela.com##.post > div:matches-css(text-align: center):not(.entry-content)

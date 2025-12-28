@@ -2918,7 +2918,6 @@ otoinfo.id
 otojurnalisme.com
 otomotif1.com
 otonetters.id
-otoproid.com
 otorider.com
 otosia.com
 otospeedcar.com
@@ -3354,7 +3353,6 @@ realitasnews.com
 realitasonline.id
 realtimenews.id
 rebolasi.com
-recode.id
 redaksi24.co.id
 redaksi8.com
 redaksi86.com
