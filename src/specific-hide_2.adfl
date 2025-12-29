@@ -156,7 +156,7 @@ bkppkutim.com,viv.co.id##center:has(div > .adsbygoogle)
 antaranews.com,ascomaxx.com,beritaazam.com,cerdika.com,disway.id,inilahkoran.id,jagokata.com,medikomonline.com,mojok.co,motorexpertz.com,pilar.id,pintartekno.id,postingnews.id,publica-news.com,saintif.com,surabayainside.com,travelingyuk.com,uzone.id,wowkeren.com##div:has(> .adsbygoogle)
 suporter.co.id##div:has(> script)
 herstory.co.id,klubpria.com##div:matches-css(text-align: center):has(> [id^="div-gpt-ad"])
-cosmopolitan.co.id,herworld.co.id,katadata.co.id##div:matches-css(text-align: center):has-text(/adv/i)
+cosmopolitan.co.id,herworld.co.id,katadata.co.id,spesialtips.com##div:matches-css(text-align: center):has-text(/adv/i)
 doktersehat.com##div:matches-css(text-align: center):has-text(/iklan/i)
 emka.web.id##p:has-text(/adv/i)
 !
