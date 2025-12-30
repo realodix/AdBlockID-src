@@ -1,7 +1,6 @@
 ajknews.co
 apabeda.com
 beritatrends.co.id
-bidikindonesia.com
 detikperistiwa.co.id
 image.bannermovie.online
 infomalangraya.co.id
@@ -9,6 +8,9 @@ jejakntb.com
 kronikkaltim.com
 mandiriteknik.co.id
 mimbarbangsa.co.id
+nusantaranews.online
 radarbatam.id
 samudranews.com
+spiritkita.com
+swarakawanua.com
 wahanapalangka.com
