@@ -27,8 +27,8 @@ pakarinfo.co.id##body:style(overflow: auto !important;)
 offenseproject.com##+js(acis, document.createElement, ignielAdBlock)
 ! .fc-ab-root .fc-ab-dialog
 ! Bisa hilang dengan (||fundingchoicesmessages.google.com^$3p - ada di uBO)
-andalasrayanews.com,bandasapuluah.com,bardimin.com,bukamata.id,inlens.id,investasiku.id,jejaknarasi.id,rakyatbekasi.com,rinews.id,sketsindonews.com##.fc-ab-root
-andalasrayanews.com,bandasapuluah.com,bardimin.com,bukamata.id,inlens.id,investasiku.id,jejaknarasi.id,rakyatbekasi.com,rinews.id,sketsindonews.com##body:style(overflow: auto !important;)
+andalasrayanews.com,bandasapuluah.com,bardimin.com,bukamata.id,inlens.id,investasiku.id,jejaknarasi.id,rakyatbekasi.com,rinews.id,satelitnews.com,sketsindonews.com##.fc-ab-root
+andalasrayanews.com,bandasapuluah.com,bardimin.com,bukamata.id,inlens.id,investasiku.id,jejaknarasi.id,rakyatbekasi.com,rinews.id,satelitnews.com,sketsindonews.com##body:style(overflow: auto !important;)
 ! foxtool|foxtoolbl.js|#ft-blocker|#@#googleads
 /wp-content/plugins/foxtool/link/blocker/*$domain=beritapopuler.co.id
 ! .mfp-bg .mfp-wrap .rb-popup-center
