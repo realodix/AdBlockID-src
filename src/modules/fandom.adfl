@@ -255,7 +255,8 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
-moenime.com##*:matches-css(position: /fixed|absolute/):has(:is(canvas, iframe, [src*="data:image"]))
+moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"]))
+moenime.com##*:matches-css(position: fixed)
 moenime.com##*:matches-css(position: fixed):has(*:matches-css(position: relative))
 moenime.com##iframe:matches-css(position: /fixed|absolute/)
 moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
@@ -264,12 +265,15 @@ moenime.com##+js(acis, Element.prototype.attachShadow)
 moenime.com##+js(acis, String.fromCharCode)
 moenime.com##+js(acis, window.atob)
 ! Anti Adblock
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=googlesyndication_adsbygoogle.js,domain=moenime.com
+moenime.com##body:style(overflow: auto !important;)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! Annoyance
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##:is(.widget, .widget-area)
 moenime.com##+js(acis, Array.prototype.join, #)
 moenime.com##+js(acis, document.createElement, #)
+moenime.com##+js(acis, document.getElementById, #)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
