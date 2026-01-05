@@ -96,6 +96,7 @@
 *://abcremodelingtn.com/*
 *://abingtondentalarts.com/*
 *://abisam.org/*
+*://abo-privacy.nl/*
 *://abrahamsanchis.es/*
 *://academialosandesfc.com.co/*
 *://academyofdance.co/*
@@ -336,6 +337,7 @@
 *://deniserout.com/*
 *://dennisreloaded.co/*
 *://departemen.us/*
+*://destoeteaalsmeer.nl/*
 *://detrekking.co/*
 *://dffine.com/*
 *://diac.es/*
@@ -363,6 +365,7 @@
 *://drwilsondell.com.br/*
 *://dunhamlane.com/*
 *://eastbourneskiphire.co.uk/*
+*://easychoppers.nl/*
 *://easydoesitdiaperservice.com/*
 *://eatraw.co/*
 *://ebanodesign.com.br/*
@@ -582,6 +585,7 @@
 *://justincoombes.com/*
 *://juventudeslamatanza.com.ar/*
 *://kakzmuzik.com/*
+*://kapsalon-aryan.nl/*
 *://karacha-music.co.uk/*
 *://karlhalby.com/*
 *://karlmarking.com/*
@@ -720,6 +724,7 @@
 *://mpym.org/*
 *://msarchitectureinterieur.com/*
 *://msglobalinc.net/*
+*://musicalkappen.nl/*
 *://musicalmap.co.uk/*
 *://musicamusicastore.com/*
 *://musicflashclass.com/*
@@ -747,6 +752,7 @@
 *://oakmeadowscwc.com/*
 *://octomtech.com/*
 *://odipure.com/*
+*://offthegridunited.nl/*
 *://ol-service.com/*
 *://oldhamskiphire.co.uk/*
 *://oldjerusalemchicago.com/*
