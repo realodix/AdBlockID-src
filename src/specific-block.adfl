@@ -10,7 +10,7 @@
 -1240x200-$image,domain=avinews.com
 -720-x-90-$image,domain=bukamata.id
 -780-x-90-$image,domain=bogordaily.net
--970x250-$image,domain=popculture.id
+-970x250-$image,domain=lampiran.id|popculture.id
 -970x90px-$image,domain=dara.co.id
 -970x90px.$image,domain=gadgetdiva.id
 /w640-h85/*$image,domain=kodim1307.id
@@ -444,6 +444,7 @@ _728x90px.$image,domain=bogordaily.net
 ||kuyou.id/content/images/banner_$image
 ||lacakpos.co.id^*/iklan-$image
 ||laduni.id^*/banner/
+||lampiran.id^*/banner-
 ||lampuhijau.com/assets/general/images/banners/
 ||lampungmandiri.id^*/iklan-$image
 ||law-justice.co/posts/banners/$image
