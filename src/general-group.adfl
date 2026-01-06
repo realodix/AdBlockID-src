@@ -738,14 +738,6 @@ fctv33.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + div:matches
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) iframe + div:matches-css(position: absolute):has(> img)
 ! ------------------------------------------------------------------------------
-! apabeda.com
-! - https://github.com/realodix/AdBlockID/issues/1536
-! - https://apabeda.com/perbedaan-lenovo-ideapad-slim-1-dan-3/
-! - https://membedakan.com/perbedaan-lenovo-ideapad-slim-1-dan-3/
-! -----
-apabeda.com,membedakan.com##+js(aopr, SGPB_POPUP_PARAMS)
-apabeda.com,membedakan.com##+js(window.open-defuser)
-! ------------------------------------------------------------------------------
 ! Semprot
 ! - https://piranhalink.com/semprot | https://bit.ly/ceksemprot
 ! - http://46.166.167.16/

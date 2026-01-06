@@ -70,7 +70,6 @@ ageniklanjawapos.com
 agiodeli.id
 agresifnews.co
 ajaib.co.id
-ajknews.co
 ajnn.net
 akarrumput.com
 akarsari.com
@@ -134,7 +133,6 @@ antaranews.com
 antarpapua.com
 anteroaceh.com
 anterokini.com
-apabeda.com
 apakabarindonesia.com
 apakabarjabar.com
 apakabarnews.com
@@ -2603,7 +2601,6 @@ melansir.com
 melintas.id
 memanggil.co
 membaranews.com
-membedakan.com
 member.jagoanhosting.com
 memoonline.co.id
 memotimur.id
@@ -2678,7 +2675,6 @@ mikbotam.net
 milenianews.com
 mili.id
 mimbar-rakyat.com
-mimbarbangsa.co.id
 mimbarmerdeka.com
 mimbarnusantara.com
 mimbarpublik.com
@@ -2864,7 +2860,6 @@ nusantarainfo.com
 nusantaranews.co
 nusantaranews.id
 nusantaranews.net
-nusantaranews.online
 nusantaranews.web.id
 nusantarapos.co.id
 nusantaraterkini.co
@@ -3267,7 +3262,6 @@ radarbandung.com
 radarbandung.id
 radarbangsa.co.id
 radarbanten.co.id
-radarbatam.id
 radarbekasi.id
 radarberitanasional.com
 radarcianjur.com
@@ -4267,7 +4261,6 @@ wacana-edukasi.com
 wacana.org
 wahanaindonews.com
 wahananews.co
-wahanapalangka.com
 wahanariau.com
 wahdah.or.id
 wajahbatam.id
