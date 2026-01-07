@@ -1,37 +1,51 @@
+# https://regex101.com/r/2w7Pqc/30
+/\.([0-9]{1,3}|id|bg|br|cz|ma|uk|uz)\/(assets|data|img|image|css|jss?|public|httdocs?|auth|files?|system|kcfinder|lib|log|vendor|po-includes|wp-admin|wp-content|wp-includes|wp-data)\//
+/\.(com)\/(assets|data|img|image|httdoc|auth|files?|kcfinder|lib|log|vendor|wp-admin|wp-includes|wp-data)\//
+#
+/\/lib\/vendor\//
+/\/vendor\/.+\/(bin|src)\//
+/\/vendor_verifi\/.+\/src\//
+#------------------------------------------------
 # example.com/path-2/
 # https://regex101.com/r/m9B31Z/4
 #/(\.[a-z]{2,3}\/)([a-z0-9-]+)(-[0-9]{1,2}\/)$/
+#------------------------------------------------
 # .id/foobar/?menyala=KAWANFILM21
 # https://regex101.com/r/rr7MHE/16
 /\.id(\/.+)?(\/\?(?!api|page|halaman|view|search|filter|srsltid)[a-zA-Z0-9_]{3,}=)([a-zA-Z0-9%+-]{5,})$/
+#------------------------------------------------
 # example.com/?id=togel+4d
 # https://regex101.com/r/I3hYSd/2
 # https://stackoverflow.com/questions/6744587/simple-regex-match-any-string-with-at-least-one-hyphen
 /(\.(?:id|nl))(.+)?(\/\?id=)([a-zA-Z0-9]*(?:\+|-)[a-zA-Z0-9]*)+$/
+#------------------------------------------------
 # example.com/?id=lk21
 /id=(lk21|pusatfilm|rebahin(?:21)?)/
+#------------------------------------------------
 # /?coin= | Melengkapi di atasnya, karena keterbatasan harus minimal 2 kata
 # https://regex101.com/r/g88LAj/3
 #/\/\?(?:id|panel|coin|xlost|403_id|srsltid)=/
+#------------------------------------------------
 # .php?done=IDLIX+21
 # https://regex101.com/r/FKNSfw/3
 /\.php\?([a-z]+)=([a-zA-Z0-9]*(?:\+)[a-zA-Z0-9]*)+$/
+#------------------------------------------------
 # .id/id/tag/ben-can-you-hear-me4ccba682-3f7c-4dc1-9e31-9cd80eec6db7.html
 # https://regex101.com/r/s1ioqo/1
 /\.id\/.+([a-z0-9]{8})-([a-z0-9]{4})-([a-z0-9]{4})-([a-z0-9]{4})-([a-z0-9]{12})\.html/
+#------------------------------------------------
 # mashumana.es/13893084-xvideo.html
 # https://regex101.com/r/0BAV5I/2
-/\.(es)\/([0-9]{8})-.+\.html/
+! /\.(es)\/([0-9]{8})-.+\.html/
+#------------------------------------------------
 # rpsyche.de/jclpackt-32631.html
 # https://regex101.com/r/UPZzPE/4
 #/\.(de)\/([a-z]{6,11})-([0-9]{5})\.html/
-# domain.go.id/image/*
-# https://regex101.com/r/2w7Pqc/30
-/\.([0-9]{1,3}|id|bg|br|cz|ma|uk|uz)\/(assets|data|img|image|css|jss?|public|httdocs?|auth|files?|system|kcfinder|lib|log|vendor|po-includes|wp-admin|wp-content|wp-includes|wp-data)\//
-/\.(com)\/(assets|data|img|image|httdoc|auth|files?|kcfinder|lib|log|vendor|wp-admin|wp-includes|wp-data)\//
+#------------------------------------------------
 # https://example.com/skctpj-24231.txt
 # https://regex101.com/r/cMsooA/2
 #/\.(pl)\/([a-z]{4,6})-([0-9]{5})\.(fb2|[a-z]{3,4})/
+#------------------------------------------------
 # Coin, sering ada
 *://jamkerja.com/*
 *://rumusstatistik.com/*
@@ -59,26 +73,61 @@
 #/\.(pl)\/.+\/index$/
 # https://regex101.com/r/aKmT29/8
 /^https?:\/\/(?:www\.)?([a-z]{6})\.([a-z0-9-]+)\.(eu)/
+@/(?<=\/\/|\.)europa\.eu/
 # https://regex101.com/r/tKZH0z/1
 /^https?:\/\/(?:www\.)?([a-z]{3,5}|[a-z]{7,8})\.([a-z0-9-]+)\.(eu)\/([a-z]{7})\//
-# 31 domains
+@/(?<=\/\/|\.)politico\.eu/
+# .be (31 domains)
 *://*.be/*
+@*://*.diplomatie.be/*
+@*://*.fgov.be/*
+@*://*.gov.be/*
+@*://*.ibz.be/*
+@*://emnbelgium.be/*
+@*://federale-regering.be/*
+@*://mygov.be/*
+@/(?<=\/\/|\.)belgium\.be/
+@/(?<=\/\/|\.)dnsbelgium\.be/
 @/(?<=\/\/|\.)spatie\.be/
-# 434 domains
+@/www\..+\.be/
+# .ca (434 domains)
 *://*.ca/*
-# 325 domains
+@*://*.bc.ca/*
+@*://*.gc.ca/*
+@*://domain.ca/*
+@/(?<=\/\/|\.)canada\.ca/
+@/(?<=\/\/|\.)sfu\.ca/
+@/www\..+\.ca/
+# .co.za (325 domains)
 *://*.co.za/*
-# 179 domains
+@/www\..+\.co\.za/
+# .de (179 domains)
 *://*.de/*
+@*://*.bund.de/*
+@*://*.diplo.de/*
 @/(?<=\/\/|\.)ccm19\.de/
 @/(?<=\/\/|\.)clickskeks\.de/
 @/(?<=\/\/|\.)phpunit\.de/
-# 842 domains
+@/www\..+\.de/
+# .es (60 domains)
+*://*.es/*
+@*://*.gob.es/*
+@/www\..+\.es/
+# .fr (842 domains)
 *://*.fr/*
-# 208 .in + 68 co.in
+@*://*.gouv.fr/*
+@/www\..+\.fr/
+# .in (208 .in + 68 co.in)
 *://*.in/*
-# 89 domains
+@*://*.gov.in/*
+@/(?<=\/\/|\.)mygov\.in/
+@/(?<=\/\/|\.)vikaspedia\.in/
+@/www\..+\.in/
+# .pl (89 domains)
 *://*.pl/*
+@*://*.gov.pl/*
+@/(?<=\/\/|\.)dns\.pl/
+@/www\..+\.pl/
 #
 #
 *://*.jamieson.bg/?id=*
@@ -97,19 +146,15 @@
 *://abingtondentalarts.com/*
 *://abisam.org/*
 *://abo-privacy.nl/*
-*://abrahamsanchis.es/*
 *://academialosandesfc.com.co/*
 *://academyofdance.co/*
 *://acalis.co/*
 *://acantho-turismo.com/*
 *://accurateheatingtv.com/*
-*://acfoto.es/*
 *://achavil.com.ar/*
-*://acolabasesoresempresa.es/*
 *://adhhome.co/*
 *://adirondacksflyfishing.com/*
 *://admiralpc.com/*
-*://adriancanto.es/*
 *://advantagebreeders.com/*
 *://aestheticthebrand.co/*
 *://ageetey.com/*
@@ -131,12 +176,10 @@
 *://aloeveraforever.com.mx/*
 *://alohamauiweddings.com/*
 *://alsautopartsus.net/*
-*://altadgpt.es/*
 *://altai-balance.us/*
 *://amandasillsphotography.com/*
 *://amerc.co/*
 *://americanmembrane.us/*
-*://amvfa.es/*
 *://anacuellar.com.mx/*
 *://ananatural.com/*
 *://anazugic.com/*
@@ -145,29 +188,23 @@
 *://angeloberkshomes.com/*
 *://angrycakes.com/*
 *://anketelltraining.com/*
-*://aovevidaperra.es/*
 *://arbroathfcctacademy.co.uk/*
-*://arquidri.es/*
 *://arquitecturaypaisajismo.com/*
 *://arquiteturaa2.com/*
 *://artbymarksehl.com/*
-*://artecindustrial.es/*
 *://artfolkofnorfolk.co.uk/*
 *://artisanandmonkey.com/*
 *://asadormuga.com/*
 *://ascarouen.com/*
 *://aseparklaw.com/*
-*://asesoriagestglobal.es/*
 *://asgroupltd.co.uk/*
 *://asha24.in/*
 *://asianzootube.com/*
-*://asistenciacargruas.es/*
 *://asterstheflorist.com/*
 *://astroboricua.co/*
 *://asyet.co.uk/*
 *://ataasii.com/*
 *://atriz.org/*
-*://ats-ayudantes-iipp.es/*
 *://autospaofwyo.com/*
 *://autranconsultoria.com.br/*
 *://avtube.tech/*
@@ -204,7 +241,6 @@
 *://blueghost.co/*
 *://bodybasics.co/*
 *://bogiesdeli.com/*
-*://bonappetito.es/*
 *://boneymtour.com/*
 *://bonitravel.com.mx/*
 *://borninboston.com/*
@@ -214,7 +250,6 @@
 *://brewers.com.ar/*
 *://brickitsmart.com/*
 *://bridalnbridal.com/*
-*://briseida.es/*
 *://britishlegion-derbyshire.org.uk/*
 *://bsn1.org/*
 *://buddyfinder.us/*
@@ -259,7 +294,6 @@
 *://cellchrome.com/*
 *://centerboise.com/*
 *://centralrailwayonline.com/*
-*://centromerchandising.es/*
 *://centrorecreacionallusitania.com.co/*
 *://charlesdemarcomd.com/*
 *://charltonweddings.co.uk/*
@@ -268,17 +302,13 @@
 *://chiliwallet.com/*
 *://chokilala.com/*
 *://choralecantabile.org/*
-*://chrisharvey.es/*
 *://chrislaychak.com/*
 *://chrislester.me/*
 *://circlebynikkiprasad.us/*
-*://circulorock.es/*
-*://ciudadvivafuenlabrada.es/*
 *://clarkeblog.com/*
 *://cleanerbolton.com/*
 *://cliffe-kent.org.uk/*
 *://cls.com.mx/*
-*://clublobobike.es/*
 *://coastvocal.com/*
 *://cocophotography.org/*
 *://cocteleriazaragoza.com/*
@@ -293,7 +323,6 @@
 *://consuelobarbosa.com/*
 *://contechcorp.co/*
 *://contigocruzroja.org/*
-*://cookmaster.es/*
 *://copetsit.com/*
 *://cornellinstrumentrepairs.co.uk/*
 *://cortezelks.com/*
@@ -314,7 +343,6 @@
 *://dandjstudio.net/*
 *://danielpenaloza.co/*
 *://danilandi.com/*
-*://danilotrainer.es/*
 *://daretodrawdigitally.com/*
 *://dasere.eu/*
 *://data-srv.in/*
@@ -329,18 +357,14 @@
 *://decemberfest.co.uk/*
 *://decover.com.co/*
 *://decryptyourfuture.co.uk/*
-*://deda.es/*
 *://definingsmart.com/*
-*://delgartraining.es/*
 *://demooistemangomeubelen.nl/*
-*://denisacarpacademy.es/*
 *://deniserout.com/*
 *://dennisreloaded.co/*
 *://departemen.us/*
 *://destoeteaalsmeer.nl/*
 *://detrekking.co/*
 *://dffine.com/*
-*://diac.es/*
 *://diamondtailoring.co.uk/*
 *://dikodingin.com/*
 *://dinvales.co/*
@@ -379,7 +403,6 @@
 *://elfestivalaco.com/*
 *://elitecommunity.com.co/*
 *://elizabethstjohn.co/*
-*://elmagopam.es/*
 *://elolivoretreat.com/*
 *://elvislee.uk/*
 *://emilythompsonviolin.com/*
@@ -400,7 +423,6 @@
 *://ethompsonstudio.com/*
 *://eurekamail.co/*
 *://europecouverture.com/*
-*://evomarketing.es/*
 *://explosiveequipment.com/*
 *://fadua.co/*
 *://fansherportfolio.com/*
@@ -417,7 +439,6 @@
 *://flamencodelmar.com/*
 *://flarrowfilms.com/*
 *://flocknpawsfarm.com/*
-*://florcoronas.es/*
 *://flowany.com/*
 *://flowpaddle.co/*
 *://flumevineyard.com/*
@@ -432,7 +453,6 @@
 *://formation-hygiene-haccp.com/*
 *://fortpolkrealty.com/*
 *://foto-model.com/*
-*://fotografiaproducto.es/*
 *://fourmidable.co.uk/*
 *://fpicolombia.co/*
 *://francoisculiere.com/*
@@ -442,7 +462,6 @@
 *://gabiadamsphoto.com/*
 *://gaelkaromba.com/*
 *://gakushinac.com/*
-*://galgomontajes.es/*
 *://gallerianderslundmark.net/*
 *://ganganagar.org/*
 *://ganjafarms.us/*
@@ -478,9 +497,7 @@
 *://grivarellonutricion.com/*
 *://grocer4u.in/*
 *://groupehardy.com/*
-*://grupoincemet.es/*
 *://grupomar.co/*
-*://gruposvq.es/*
 *://guanamorteatrostudio.co/*
 *://guitarlong.com/*
 *://gulustanaytun.com/*
@@ -513,7 +530,6 @@
 *://hooliganhens.com/*
 *://hooveryetkiliservisi.com/*
 *://horizonacr.co/*
-*://hostaleschipiona.es/*
 *://hotelvillaaricia.com/*
 *://hotmilfpic.com/*
 *://hotmovieshd.me/*
@@ -523,14 +539,12 @@
 *://houseofskinclinic.nl/*
 *://hrcounseling.us/*
 *://humanisticas.com/*
-*://hura.es/*
 *://hustletrucks.co/*
 *://hybridsclub.com/*
 *://hygieniapalvelu.com/*
 *://iamrichardgardner.co.uk/*
 *://ianmcneny.com/*
 *://ibizgraphics.com/*
-*://ikervera.es/*
 *://imai-guitars.com/*
 *://imak-engineering.com/*
 *://imamusicbusinessacademy.com/*
@@ -539,10 +553,8 @@
 *://inec.cl/*
 *://inoutspace.com/*
 *://intarcdesigns.com/*
-*://integradz.es/*
 *://intence.co/*
 *://interasearch.com/*
-*://interbon-madera.es/*
 *://interiormotivelondon.co.uk/*
 *://internetmarketingforrestaurants.co.uk/*
 *://intlalum.com/*
@@ -551,7 +563,6 @@
 *://isabellafmodra.com/*
 *://isut.org.tr/*
 *://itselfstudio.com.co/*
-*://itserv.es/*
 *://itshervibe.co/*
 *://ivorybluecafe.com/*
 *://j-moneyclothing.com.co/*
@@ -662,7 +673,6 @@
 *://lvseamstress.com/*
 *://lynmelvillejamesprint.co.uk/*
 *://lynnrwolfe.com/*
-*://mabriba.es/*
 *://madebymestudio.co/*
 *://madeespeciallyforyou.org/*
 *://madefrommelbourne.com.au/*
@@ -681,23 +691,17 @@
 *://marycorum.com/*
 *://masdeagencia.com.ar/*
 *://masexperiencia.com.ar/*
-*://mashumana.es/*
-*://massinor.es/*
 *://mastersandservers.org/*
 *://matthewjure.net/*
-*://mconsultoria.es/*
 *://mcphisto.nl/*
 *://mecchayabai.com/*
-*://medicoenalbacete.es/*
 *://medip.com.mx/*
 *://medstat-az.com/*
 *://megastarmotors.co.uk/*
 *://megsmoving.co.uk/*
 *://melena.com.co/*
 *://melittlebox.co.uk/*
-*://mentoriapas.es/*
 *://meritxellcodina.com/*
-*://mfgweb.es/*
 *://microfinancedirectory.com/*
 *://micuerpo.co/*
 *://mikewbarr.com/*
@@ -773,7 +777,6 @@
 *://ozgurcicek.net/*
 *://pablo-struff.com/*
 *://pablonunez.org/*
-*://padely.es/*
 *://paifactory.com/*
 *://palmierinet.com/*
 *://pampenorte.com.ar/*
@@ -781,7 +784,6 @@
 *://papaspepesauce.co.uk/*
 *://papihai.com/*
 *://paradisecoffeelaveta.com/*
-*://parafiestas.es/*
 *://paraguaylife.com/*
 *://paredesyasociados.com.mx/*
 *://parknova.co/*
@@ -793,7 +795,6 @@
 *://penniman-records.com/*
 *://percusion.com.ar/*
 *://perfect-artificial-lawns.co.uk/*
-*://persianas-herrero.es/*
 *://personaltouchcleaners.net/*
 *://petrakoo.com/*
 *://phoebelloyd.co.uk/*
@@ -817,7 +818,6 @@
 *://powerflowng.com/*
 *://pozitude.co.uk/*
 *://productoslicenciados.com/*
-*://profesordigital.es/*
 *://professionailspaca.us/*
 *://promotionalconceptsinc.com/*
 *://protectparkofkeir.com/*
@@ -833,7 +833,6 @@
 *://radiansoundlab.com/*
 *://radiosonho.com/*
 *://radotex-tkani.com/*
-*://rafaelcastrofotografia.es/*
 *://ramadahotelatakoy.com/*
 *://re-ed.org/*
 *://re-medien.org/*
@@ -870,8 +869,6 @@
 *://rp-reinigung-von-privathaushalten.com/*
 *://rsba1.com/*
 *://rubenmeliksetian.com/*
-*://rubensaldana.es/*
-*://ruralboost.es/*
 *://rusnomad.com/*
 *://sacredwaves.me/*
 *://sadiesea.com/*
@@ -897,7 +894,6 @@
 *://scuzice.org/*
 *://seolentop.co/*
 *://serviceport.com.mx/*
-*://serviciossanjuan.es/*
 *://sffinancialgroup.co/*
 *://shahsaad.com/*
 *://shanedaigle.com/*
@@ -918,7 +914,6 @@
 *://sincerestudios.us/*
 *://singlestrides.com/*
 *://sippinsweet.co/*
-*://sipuedes.es/*
 *://slicepayments.co/*
 *://smafely.com/*
 *://smartbloodsugar.us/*
@@ -932,7 +927,6 @@
 *://solucioneseducativas.me/*
 *://solutionnm.org/*
 *://sortridgemanor.co.uk/*
-*://soryapps.es/*
 *://souldancefitness.com/*
 *://splashfitness-cda.com/*
 *://sport-cruseilles.com/*
@@ -952,7 +946,6 @@
 *://sultanexperience.co.uk/*
 *://suncountryfurniture.com/*
 *://sunnsands.com/*
-*://supernovacomercio.es/*
 *://superrete.com/*
 *://surfacegripp.com/*
 *://suryalife.com/*
@@ -961,7 +954,6 @@
 *://swisst.co/*
 *://swivbox.com/*
 *://t-remodela.com/*
-*://ta-inmo-investment.es/*
 *://taamchina.com/*
 *://tableforfive.co/*
 *://taikee.co/*
@@ -1030,7 +1022,6 @@
 *://transcenddigital.co/*
 *://truckslutsmag.com/*
 *://tuncsuerdas.net/*
-*://tutorialrevitybim.es/*
 *://tvbarbershop.com/*
 *://tvffootwear.com/*
 *://ugandatourismassociation.org/*
