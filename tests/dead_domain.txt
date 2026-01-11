@@ -1,7 +1,6 @@
 ajknews.co
 ameeralife.com
 apabeda.com
-bettercrack.com
 bratanews-id.com
 deteksimalut-news.com
 detikfajar.com
@@ -23,5 +22,3 @@ radarbatam.id
 sajada.id
 sugawa.id
 wahanapalangka.com
-worldforcrack.com
-ziapc.org

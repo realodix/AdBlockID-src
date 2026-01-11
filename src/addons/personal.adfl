@@ -45,10 +45,9 @@ streamtape.*##+js(nowoif)
 ! ---
 ! Fake Button
 haxnode.net##[id^="haxno-"] .dl-btn
-crackedhome.com,crackwin.net,filesmama.com,ziapc.org##center > a[href^="javascript:"]
-bettercrack.com##center a[onclick^="window.open("]
+crackedhome.com,crackwin.net,filesmama.com##center > a[href^="javascript:"]
 haxpc.net##center button:has-text(/download/i)
-crackit.org,oceancrack.com,worldforcrack.com##div[class^="code-block code-block-"]
+crackit.org,oceancrack.com##div[class^="code-block code-block-"]
 ! ---
 ! Limitation
 crackit.org,oceancrack.com,procrackerz.org##*:style(user-select:text!important;)
