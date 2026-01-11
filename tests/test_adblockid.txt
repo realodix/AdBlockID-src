@@ -793,7 +793,6 @@ detik.com
 detik24jam.com
 detik60.com
 detikbabel.com
-detikfajar.com
 detikglobalnews.com
 detikindonesia.co.id
 detikinspirasi.com
@@ -1202,7 +1201,6 @@ halopedeka.com
 haloselebriti.com
 halosemarang.id
 haluanbanten.co.id
-haluanindonesia.co.id
 haluankita.com
 haluanntt.com
 haluansumatera.com
@@ -2761,7 +2759,6 @@ naratimes.com
 naratoria.co
 nasional.id
 nasional.news
-nasionalita.com
 nasionalnews.id
 naskah.id
 natmed.id
@@ -2811,7 +2808,6 @@ ngelink.me
 ngopibareng.id
 ngulikode.com
 niaga.asia
-nitizen.id
 noa.co.id
 nobartvgratis.com
 nokenlive.com
