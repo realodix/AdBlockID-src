@@ -190,8 +190,6 @@
 *://omekin.id/*
 *://payudaragede.blogspot.com/*
 *://pejuanglendir.com/*
-*://pejuhin.link/*
-*://pejuhinxxx.click/*
 *://pemersatudotfun.com/*
 *://pojokan69.com/*
 *://pusatporn18.com/*
@@ -238,6 +236,8 @@
 /(?<=\/\/|\.)ngentub\..+/
 /(?<=\/\/|\.)niihen\..+/
 /(?<=\/\/|\.)novelbasah\..+/
+/(?<=\/\/|\.)pejuhin\..+/
+/(?<=\/\/|\.)pejuhinxxx\..+/
 /(?<=\/\/|\.)pemersatu\..+/
 /(?<=\/\/|\.)pemersatufun\..+/
 /(?<=\/\/|\.)pukihot\..+/

@@ -68,9 +68,9 @@ javindo.*##+js(aost, document.getElementsByTagName, adsBlocked)
 !
 @@||xmalay.net/nativeads-v2.js$1p,script
 !
-pejuhin.link,pejuhinxxx.click###adblock-modal
+pejuhin.*,pejuhinxxx.*###adblock-modal
 ngomek.com###adblock-overlay
-pejuhin.link,pejuhinxxx.click##body:style(overflow: auto!important; position: unset!important;)
+pejuhin.*,pejuhinxxx.*##body:style(overflow: auto!important; position: unset!important;)
 !
 ! ANNOYANCE
 ! ------------------------------------------------------------------------------
