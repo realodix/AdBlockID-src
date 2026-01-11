@@ -92,7 +92,7 @@ jurnas.net###sidebar-banner-120x600-kanan
 jurnas.net###sidebar-banner-120x600-kiri
 kroniktotabuan.com###sidebar-banner-bawah-tombol-share-post:has(video):remove()
 industry.co.id###skinAds
-channelntb.com,dutarakyat.com,harianmerdeka.id,infofakta.com,khazanahgrobogan.com,riauupdate.com,wargalampung.com###slotbanner
+channelntb.com,dutarakyat.com,harianmerdeka.id,infofakta.com,riauupdate.com,wargalampung.com###slotbanner
 instingjurnalis.com###slotbanner:remove()
 amartha.com###sticky-banner
 jurnalnusa.com###sticky-bottom-ad2
@@ -141,7 +141,6 @@ harpersbazaar.co.id,herworld.co.id,motherandbeyond.id##.ads-belt
 duniagames.co.id,netralnews.com##.ads-container
 soulofjakarta.id##.ads-count
 manaberita.com##.ads-fix
-lulopedia.id##.ads-fly-top
 soulofjakarta.id##.ads-headline-desktop
 inakoran.com##.ads-mid-lg
 periskop.id##.ads-parallax-wrapper
@@ -800,7 +799,6 @@ sambar.id##img[data-original-width="1000"][data-original-height="250"]
 jejakhukumindonesia.com##img[data-original-width="1280"][data-original-height="194"]
 realitasnews.com##img[data-original-width="2112"][data-original-height="278"]
 teknoreview.net##img[data-original-width="728"][data-original-height="90"]
-khazanahgrobogan.com##img[data-original-width="790"][data-original-height="90"]
 realitasnews.com##img[data-original-width="819"][data-original-height="1280"]
 buanapagi.com##img[height="1024"][width="594"]
 metrosemarang.com##img[height="1024"][width="601"]
@@ -981,7 +979,7 @@ jejakkriminal.net##img[width="765"][height="256"]
 jamudigital.com##img[width="768"][height="90"]
 borneoindotimes.com##img[width="768"][height="95"]
 matapublik.com##img[width="790"][height="100%"]
-kabarcianjur.com,khazanahgrobogan.com##img[width="790"][height="90"]
+kabarcianjur.com##img[width="790"][height="90"]
 wartakini.co##img[width="793"][height="1122"]
 jurnalispost.online##img[width="796"][height="139"]
 ciremaitoday.com,matalineindonesia.com##img[width="800"][height="1000"]

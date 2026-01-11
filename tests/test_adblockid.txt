@@ -2020,7 +2020,6 @@ keuangannews.id
 keuanganonline.id
 kgnow.com
 khatulistiwanews.net
-khazanahgrobogan.com
 khazanahimani.com
 khazanahpopuler.com
 khazanahriau.com
@@ -2275,7 +2274,6 @@ laros.id
 law-justice.co
 lazada.co.id
 lazone.id
-lebaknews.com
 legacynews.id
 lelemuku.com
 lemaripojok.com
@@ -2397,7 +2395,6 @@ lomboktoday.id
 lombokvibes.com
 lpc-online.com
 lugasnusantara.co.id
-lulopedia.id
 lumpiastudio.com
 lutim-news.com
 luwuktimes.id
@@ -2716,7 +2713,6 @@ mojok.co
 mokinews.com
 moladin.com
 monetag.com
-monitor24.id
 monitorindonesia.com
 monitorkalteng.co.id
 monitornusantara.com
