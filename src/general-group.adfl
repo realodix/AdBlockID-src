@@ -701,8 +701,7 @@ nobartvgratis.com##body:style(overflow: auto!important; position: unset!importan
 ! https://github.com/realodix/AdBlockID/issues/1857
 ! https://github.com/AdguardTeam/AdguardFilters/issues/193238
 ! -----
-||cfcdn.apcqwd.com/prod/svimg/*.gif|$image
-||cfcdn.xdapiym5297.com/prod/svimg/*.gif|$image
+/prod/svimg/*.gif|$image,to=dimg85fkj.cfd
 livesports044.com,livesports055.com,livesports088.com,marza11.shop##.banner
 /tigoals\d+\.com/##.banner
 /tigoals\d+\.com/##.gg-list:has(:is(.gg-txt-discount, .gg-txt-bonus))
