@@ -26,7 +26,7 @@ cekresi.me,indobo.com,techaku.com,tempatwisata.pro,vebma.com##+js(no-fetch-if, p
 ! ANNOYANCE
 ! ------------------------------------------------------------------------------
 ! Pop-Up
-besargaji.com,khaddavi.net,link2unlock.com,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
+bahasteknologi.com,besargaji.com,khaddavi.net,link2unlock.com,lokerwfh.net,meong.club,techbloogs.com,tutwuri.id##+js(nowoif)
 ! ---
 ! Countdown Timer
 besargaji.com,khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##+js(adjust-setInterval)
@@ -37,6 +37,7 @@ saungfirmware.id,savetub.com##+js(set, blurred, false)
 ! Fake Button
 slurr.my.id###content #wpsafegenerate div:has(a > img):not(#wpsafe-link)
 slurr.my.id###content .wpsafe-top div:has(> a > img):not(#wpsafe-generate)
+bahasteknologi.com,besargaji.com###fkdl
 tempatwisata.pro##:has(> a[href="#downloadnow"])
 cekresi.me,tempatwisata.pro##center:has(> p[style^="text-align: center;position: relative;"] > button)
 jurnalistekno.id##div:matches-css(text-align: center):has(> a > img)
