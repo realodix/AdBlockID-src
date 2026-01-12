@@ -16,8 +16,7 @@ xl.co.id##.sc-concent
 bratapos.com##.uc-gdpr-notification
 indoprecast.com##.wd-cookies-popup
 deretcode.com,goersapp.com##[class*="cookie" i]
-myorbit.id##[id*="cookie" i]
-smartfren.com,telkom.co.id##div:matches-css(position: fixed):has-text(/cookie/i)
+myorbit.id,smartfren.com,telkom.co.id##div:matches-css(position: fixed):has-text(/cookie/i)
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
 kaskus.co.id##+js(set-cookie, cookie_accepted, true)
 honda-indonesia.com##+js(set-local-storage-item, cookie-consent.show, false)
