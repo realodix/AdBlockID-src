@@ -43,6 +43,7 @@ aksi.co,bacakabar.id,bantennews.co.id,beritamanado.com,beritasampit.com,busam.id
 @@||iklanku.shopee.co.id/img/$1p,image
 @@||kreatifmedia.co/kreatifmedia/assets/images/banner-iklan/$1p
 @@||tokopedia.net/img/topads/$1p,image
+@@||web.pln.co.id/statics/img/$1p
 ! https://github.com/realodix/AdBlockID/issues/1587#issuecomment-1766114036
 !#if env_chromium
 @@||doubleclick.net^$xhr,redirect-rule=noop.txt,domain=kumparan.com
