@@ -454,6 +454,12 @@ sindonews.com##.parallax-non.t600:style(top: 0 !important;)
 inews.id##div:matches-css(justify-content: center):matches-css(height: 298px):has(> div[id^="div-gpt-ad-"])
 inews.id##div:matches-css(justify-content: center):matches-css(height: 90px):has(> div[id^="div-gpt-ad-"])
 sindonews.com##+js(rc, t480, .content-paralax)
+! Unbreak
+@@/advertising/*$domain=client.okezone.com
+sindonews.com#@##header-ads
+techno.okezone.com#@#.container-ads-topmenu
+! Anti-Adblock
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=okezone.com
 ! Style Fixer
 inews.id,okezone.com##.content-wrap:style(margin-top:0!important;)
 inews.id##body > .wrap-all:style(top: 0 !important;)
@@ -467,12 +473,6 @@ sindonews.com##.vidwrap:remove()
 okezone.com##.vplayer:has(iframe[src^="https://video.okezone.com/embedoutstream"]):remove()
 okezone.com##[id^="ivs-"]:remove()
 inews.id,okezone.com##+js(aopr, document.oncopy)
-! Anti-Adblock
-||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=okezone.com
-! Unbreak
-@@/advertising/*$domain=client.okezone.com
-sindonews.com#@##header-ads
-techno.okezone.com#@#.container-ads-topmenu
 ! ------------------------------------------------------------------------------
 ! Pewarta Network
 ! -----
