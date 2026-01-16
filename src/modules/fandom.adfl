@@ -266,9 +266,11 @@ moenime.com##+js(acis, String.fromCharCode)
 moenime.com##+js(acis, window.atob)
 ! Anti Adblock
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=googlesyndication_adsbygoogle.js,domain=moenime.com
-moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
 moenime.com##body:style(overflow: auto !important;)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
+! uBo memiliki filter general
+! https://github.com/uBlockOrigin/uAssets/blob/06793645aa/filters/filters-2023.txt#L3202
+||trafficbass.com^$xhr,method=head,redirect-rule=nooptext,domain=moenime.com
 ! Annoyance
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##:is(.widget, .widget-area)
