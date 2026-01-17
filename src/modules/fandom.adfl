@@ -271,6 +271,10 @@ moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! uBo memiliki filter general
 ! https://github.com/uBlockOrigin/uAssets/blob/06793645aa/filters/filters-2023.txt#L3202
 ||trafficbass.com^$xhr,method=head,redirect-rule=nooptext,domain=moenime.com
+! Adg mobile, perlu diperiksa
+!#if adguard
+moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
+!#endif
 ! Annoyance
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
 moenime.com##:is(.widget, .widget-area)
