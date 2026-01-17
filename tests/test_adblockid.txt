@@ -113,7 +113,6 @@ amanmakmur.com
 amartha.com
 ambaritanews.com
 ambontoday.com
-ameeralife.com
 amnesia.id
 ampar.id
 anakteknik.co.id
@@ -1531,7 +1530,6 @@ infotangerang.id
 infotelko.com
 infoterkini.id
 infotimes.id
-infotoraja.com
 infotren.id
 infoups.com
 infowarta.com
@@ -2383,7 +2381,6 @@ liriklaguhits.id
 liriknews.com
 lirikterjemahan.id
 listrikindonesia.com
-literasi.net
 livesports044.com
 livesports055.com
 livesports088.com
