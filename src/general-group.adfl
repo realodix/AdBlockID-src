@@ -457,7 +457,6 @@ sindonews.com##+js(rc, t480, .content-paralax)
 ! Unbreak
 @@/advertising/*$domain=client.okezone.com
 sindonews.com#@##header-ads
-techno.okezone.com#@#.container-ads-topmenu
 ! Anti-Adblock
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=okezone.com
 ! Style Fixer
