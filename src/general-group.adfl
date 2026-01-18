@@ -241,7 +241,7 @@ blog.tribunjualbeli.com,bolanas.com,bolasport.com,grid.id,gridhype.id,gridoto.co
 @@/api/ads/*$xhr,domain=klasika.kompas.com
 @@/wp-content/uploads/*$1p,image,domain=korporasi.kompas.id
 ! Anti-Adblock
-||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=grid.id|gridoto.com|juara.net|kompas.com|kompasiana.com|kontan.co.id|motorplus-online.com|parapuan.co|sonora.id|tribunnews.com
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=grid.id|gridoto.com|juara.net|kompas.com|kompas.tv|kompasiana.com|kontan.co.id|motorplus-online.com|parapuan.co|sonora.id|tribunnews.com
 ! Annoyance
 grid.id##*::selection:style(color:white!important;background:#0078d7!important;)
 kontan.co.id##.popup
