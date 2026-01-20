@@ -121,6 +121,7 @@
 # .in (208 .in + 68 co.in)
 *://*.in/*
 @*://*.gov.in/*
+@*://*.nic.in/*
 @/(?<=\/\/|\.)mygov\.in/
 @/(?<=\/\/|\.)vikaspedia\.in/
 @/www\..+\.in/
@@ -153,6 +154,7 @@
 *://acantho-turismo.com/*
 *://accurateheatingtv.com/*
 *://achavil.com.ar/*
+*://actiepuntje.nl/*
 *://adhhome.co/*
 *://adirondacksflyfishing.com/*
 *://admiralpc.com/*
@@ -178,6 +180,7 @@
 *://alohamauiweddings.com/*
 *://alsautopartsus.net/*
 *://altai-balance.us/*
+*://alvastgoedgeregeld.nl/*
 *://amandasillsphotography.com/*
 *://amerc.co/*
 *://americanmembrane.us/*
@@ -460,6 +463,7 @@
 *://franklinhouse.org/*
 *://freemanheatingandcooling.com/*
 *://fultonyouthorchestra.org/*
+*://futboldatabase.nl/*
 *://gabiadamsphoto.com/*
 *://gaelkaromba.com/*
 *://gakushinac.com/*
@@ -746,6 +750,7 @@
 *://networkagainstmalaria.org/*
 *://newankitplastic.com/*
 *://nhathuoctuelamso8.com/*
+*://nieuwearbowet.nl/*
 *://nightingaleshuddersfield.co.uk/*
 *://nikkifitofficial.co.uk/*
 *://nikunjcargo.com/*
@@ -766,6 +771,7 @@
 *://omegarealm.com/*
 *://omiyagefromjapan.com/*
 *://onixbajio.com.mx/*
+*://oogstyling.nl/*
 *://orangeflamingoevents.co.uk/*
 *://orienstechnology.com/*
 *://ortigastownhouses.com/*
@@ -818,6 +824,7 @@
 *://pound-liverpool.co.uk/*
 *://powerflowng.com/*
 *://pozitude.co.uk/*
+*://prinsclausstraat35.nl/*
 *://productoslicenciados.com/*
 *://professionailspaca.us/*
 *://promotionalconceptsinc.com/*
@@ -1069,6 +1076,7 @@
 *://whittleandpartners.com/*
 *://wholelifeconsultants.com/*
 *://wijnhandeldejong.nl/*
+*://wildemanbuurt.nl/*
 *://wildrosestudio.co/*
 *://wilshireconnection.com/*
 *://woofwebshop.com/*
