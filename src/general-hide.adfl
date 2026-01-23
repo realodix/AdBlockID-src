@@ -1465,6 +1465,7 @@
 ##img[alt="banner 325x300"]
 ##img[style="width: 728px; height: 90px;"]
 ##img[title="banner 728x90"]
+##img[width="900px"][height="60px"]
 ! AG - https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/banner_sizes.txt
 ##iframe[width="728"][height="90"]
 ##img[width="468"][height="60"]

@@ -9,6 +9,7 @@
 ! SPECIFIC BLOCK
 ! ------------------------------------------------------------------------------
 /\.(gif|webp)/$image,domain=rumahparaperjaka.*|rumahperjaka.*
+||bokep.work/*.gif
 ||postimg.cc/*/GIFBANNER*-
 !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
