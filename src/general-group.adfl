@@ -659,8 +659,8 @@ okestream.*,okestream365.*##.player-button-ad
 okestream.*,okestream365.*##.stickyfooter
 okestream.*,okestream365.*##.top-player-banner
 ! Annoyance
-okestream.*,~okestream.id,okestream365.*###popbox
-okestream.*,~okestream.id,okestream365.*##+js(rc, flowbox, body)
+~okestream.id,okestream.*,okestream365.*###popbox
+~okestream.id,okestream.*,okestream365.*##+js(rc, flowbox, body)
 ! ------------------------------------------------------------------------------
 ! StreamBola.Group@Gmail.com, Stream.nobartv@Gmail.com, TVBersama.stream@Gmail.com
 ! https://list99.situsnobar.top/, https://tvbersama.cam/
