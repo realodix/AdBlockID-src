@@ -6,7 +6,7 @@
         "sort-packages": true
     },
     "scripts": {
-        "fix": "./vendor/bin/haiku fix",
+        "fix": "./vendor/bin/haiku fix --x",
         "build": "./vendor/bin/haiku build"
     }
 }

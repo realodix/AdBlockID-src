@@ -6,7 +6,7 @@
         {
             "label": "Fix",
             "type": "shell",
-            "command": "./vendor/bin/haiku fix",
+            "command": "./vendor/bin/haiku fix --x",
             "problemMatcher": []
         },
         {
