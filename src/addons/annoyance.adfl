@@ -20,6 +20,7 @@ myorbit.id,smartfren.com,telkom.co.id##div:matches-css(position: fixed):has-text
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
 kaskus.co.id##+js(set-cookie, cookie_accepted, true)
 honda-indonesia.com##+js(set-local-storage-item, cookie-consent.show, false)
+ocbc.id##+js(set-local-storage-item, cookieConsent, true)
 garuda-indonesia.com##+js(set-local-storage-item, cookies, true)
 ! ------------------------------------------------------------------------------
 ! Video Autoplayer
