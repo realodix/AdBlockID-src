@@ -3286,7 +3286,6 @@ radarnusantara.com
 radarpaginews.com
 radarpaser.com
 radarpekanbaru.com
-radarpos.com
 radarpos.id
 radarposnusantara.com
 radarreportasenews.co.id
@@ -3851,7 +3850,6 @@ suloh.id
 sulselekspres.com
 sulselnetwork.com
 sulselpasti.com
-sultengaktual.id
 sultengekspres.com
 sultengsatunews.com
 sultengterkini.id
