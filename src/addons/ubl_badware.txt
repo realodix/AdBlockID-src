@@ -70,14 +70,6 @@
 # Domain .es, .fr, .pl biasanya sudah diblokir oleh easylist
 # atau uBlock filters – Badware risks
 # --------------------------------------------------------
-# https://regex101.com/r/NugGdl/1
-#/\.(pl)\/.+\/index$/
-# https://regex101.com/r/aKmT29/8
-/^https?:\/\/(?:www\.)?([a-z]{6})\.([a-z0-9-]+)\.(eu)/
-@/(?<=\/\/|\.)europa\.eu/
-# https://regex101.com/r/tKZH0z/1
-/^https?:\/\/(?:www\.)?([a-z]{3,5}|[a-z]{7,8})\.([a-z0-9-]+)\.(eu)\/([a-z]{7})\//
-@/(?<=\/\/|\.)politico\.eu/
 # .be (31 domains)
 *://*.be/*
 @*://*.diplomatie.be/*
