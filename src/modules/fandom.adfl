@@ -173,9 +173,11 @@ idlixku.com##body[class*="-style-"] > div[class$=" active"][style] + div[class*=
 playeriframe.sbs###ad-link
 lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
+thebuzzabee.com##div:matches-css(font-size: 10px):has-text(/promoted/i)
 ! Annoyance
 lk21.party###hihi
 cloud.hownetwork.xyz###overlay
+layarkaca21.im##.message-overlay
 playeriframe.sbs##body > a:has(> .message-box)
 ! Iframe
 ||lk21static.buzz/iframe/content2.php$frame
