@@ -193,6 +193,7 @@
 /(?<=\/\/|\.)tubegalore\.com/
 /(?<=\/\/|\.)twojav\.com/
 /(?<=\/\/|\.)videojav\.com/
+/(?<=\/\/|\.)viexx\.com/
 /(?<=\/\/|\.)xasiat\.com/
 /(?<=\/\/|\.)xfree\.com/
 /(?<=\/\/|\.)xhaccess(\d+)?\.com/
