@@ -392,14 +392,14 @@ onepieceberwarna.com##+js(acis, disableSelection, reEnable)
 onepieceberwarna.com##+js(aeld, contextmenu)
 onepieceberwarna.com##+js(aopr, document.oncontextmenu)
 ! -----------------------------------------------
-! komikcast (https://komikcast.li/)
+! komikcast (https://komikcast.to/)
 ! https://github.com/realodix/AdBlockID/issues/1804#issuecomment-2208142333
 ! https://github.com/realodix/AdBlockID/issues/1806#issuecomment-2210671249
 ! -----
-komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch###bannerhomefooter
+komikcast01.*,komikcast02.*,komikcast03.*,komikcast05.*###bannerhomefooter
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##.gulai_asam_manis
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##.kln
-komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##div[id^="teaser"]
+komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikcast05.*,komikindo.ch##div[id^="teaser"]
 ! Annoyance
 komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##+js(nowoif)
 ! -----------------------------------------------
