@@ -5,6 +5,8 @@ fixer:
     - tests
   excludes:
     - modules/_reference.txt
+  options:
+    xmode: true
 
 builder:
   output_dir: dist
