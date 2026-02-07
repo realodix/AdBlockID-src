@@ -5,7 +5,7 @@ fixer:
     - tests
   excludes:
     - modules/_reference.txt
-  options:
+  flags:
     xmode: true
 
 builder:
