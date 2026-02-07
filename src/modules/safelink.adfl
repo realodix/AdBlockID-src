@@ -6,7 +6,7 @@
 !#
 !# --------------------------------------------------------
 !#
-cekresi.me,tempatwisata.pro##span:has-text(/adv/i)
+cekresi.me,datapendidikan.com,tempatwisata.pro##span:has-text(/adv/i)
 !
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
@@ -14,6 +14,7 @@ cekresi.me,tempatwisata.pro##span:has-text(/adv/i)
 ||safelinku.com/ad_home.js$redirect=noop.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jurnalistekno.id|khaddavi.net|lokerwfh.net|smasnug.biz.id|tutwuri.id
 linkerload.com##+js(acis, addEventListener, google_ad_client)
+datapendidikan.com##+js(aeld, adblock-detected)
 linkpoi.me##+js(aopr, app_vars.force_disable_adblock)
 linkpoi.me##+js(aopr, disableItToContinue)
 menjelajahi.com,saungfirmware.id##+js(aopr, short_url_app_vars.force_disable_adblock)
@@ -38,7 +39,7 @@ slurr.my.id###content #wpsafegenerate div:has(a > img):not(#wpsafe-link)
 slurr.my.id###content .wpsafe-top div:has(> a > img):not(#wpsafe-generate)
 bahasteknologi.com,besargaji.com###fkdl
 tempatwisata.pro##:has(> a[href="#downloadnow"])
-cekresi.me,tempatwisata.pro##center:has(> p[style^="text-align: center;position: relative;"] > button)
+cekresi.me,datapendidikan.com,tempatwisata.pro##center:has(> p[style^="text-align: center;position: relative;"] > button)
 jurnalistekno.id##div:matches-css(text-align: center):has(> a > img)
 besargaji.com,khaddavi.net,lokerwfh.net,techbloogs.com,tutwuri.id##div[style="text-align: center;"]:has(> a[target="_blank"] > img[alt="download"])
 link2unlock.com##header > div:matches-css(text-align: center):has(> center > iframe)
