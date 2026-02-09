@@ -1,5 +1,6 @@
 ! Shopping
 m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
+katadata.co.id##.detail-body .section-affiliate
 vidio.com##[class^="shopping-banner-module_"]
 ! Shopping - side effect
 m.vidio.com##.no-scrollbar:style(scrollbar-width: auto!important;)
