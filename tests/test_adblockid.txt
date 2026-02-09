@@ -1319,6 +1319,7 @@ hmstimes.com
 homecare24.id
 honestdocs.id
 hops.id
+hostnic.id
 hotnetnews.co.id
 howdy.id
 hrd-forum.com
