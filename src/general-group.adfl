@@ -645,6 +645,8 @@ jagodangdut.com,tvonenews.com,viva.co.id##.giant-banner
 tvonenews.com##.giant-banner-container
 sahijab.com##.small-mobile-banner
 100kpj.com,tvonenews.com##.sticky-bottom
+! Anti-Adblock
+||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=tvonenews.com
 ! Annoyance
 tvonenews.com,viva.co.id##+js(aopr, document.oncopy)
 ! ------------------------------------------------------------------------------
