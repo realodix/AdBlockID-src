@@ -573,6 +573,7 @@ balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matr
 balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRARight
 garuda.tv,wartaindonesia.id###footer-slideup
 kba.one###gopremium
+kotaku.co.id###head-main-top #leader-wrap > img
 metrotimur.com###head-main-top .mySlides
 kotaku.co.id###head-main-top [href="#"]:has(> img)
 cakrawalantt.com###headlineatas:matches-css(position: fixed)
