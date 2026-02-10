@@ -11,10 +11,6 @@
 # https://regex101.com/r/m9B31Z/4
 #/(\.[a-z]{2,3}\/)([a-z0-9-]+)(-[0-9]{1,2}\/)$/
 #------------------------------------------------
-# .id/foobar/?menyala=KAWANFILM21
-# https://regex101.com/r/rr7MHE/16
-/\.id(\/.+)?(\/\?(?!api|page|halaman|view|search|filter|srsltid)[a-zA-Z0-9_]{3,}=)([a-zA-Z0-9%+-]{5,})$/
-#------------------------------------------------
 # example.com/?id=togel+4d
 # https://regex101.com/r/I3hYSd/2
 # https://stackoverflow.com/questions/6744587/simple-regex-match-any-string-with-at-least-one-hyphen
