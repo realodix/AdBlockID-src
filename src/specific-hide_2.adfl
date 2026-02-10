@@ -17,6 +17,7 @@ radarbandung.id##.elementor-widget-container > .jet-listing-dynamic-image > a > 
 zonaebt.com##.elementor-widget-container > .uael-gallery-parent
 jurnalborneo.com##.elementor-widget-container > a:has(> img[loading="lazy"])
 derapjuang.id,halopaginews.com,humaniora.id,jatengtoday.com,kaltarastories.com,kediritangguh.co,letternews.net,masakini.co,mobilkomersial.com,narasiterkini.com,pilar.id,pojokbatam.id,radarbanten.co.id##.elementor-widget-container > a:has(img)
+wartaikn.com##.elementor-widget-container > a:has(img):not(a:has(img[src*="logo" i]))
 barometerbali.com##.elementor-widget-container > a:has(img):not(a[href^="https://barometerbali.com"])
 intuisi.co##.elementor-widget-container > a[rel*="noopener"]:has(> img)
 jejakntb.com,smsilampung.com,sumaterapost.co,surabayaonline.co##.elementor-widget-container > div > a:has(img)
