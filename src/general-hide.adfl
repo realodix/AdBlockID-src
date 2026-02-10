@@ -488,6 +488,9 @@
 ##.ads-bock-1
 ##.ads-bottom-fixed
 ##.ads-fixed
+##.ads-fixed-bottom
+##.ads-fixed-bottom-container
+##.ads-fixed-bottom-wrapper
 ##.ads-floating-content
 ##.ads-floating-left
 ##.ads-floating-lr
@@ -1246,6 +1249,7 @@
 ##.ray-ads-container
 ##.ray-ads-in-content
 ##.ray-floating-ads
+##.ray-floating-ads-container
 ##.responsive_ad_container
 ##.rt-ads-below-header
 ##.rt-ads-floating
