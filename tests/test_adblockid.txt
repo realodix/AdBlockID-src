@@ -1054,14 +1054,12 @@ gardaindonesia.id
 gardapapua.com
 gardapos.com
 garduoto.com
-garislensa.id
 garismerahnews.com
 garisnews.co.id
 gartonnews.com
 garuda.tv
 garudacitizen.com
 garudadaily.com
-garudarevolution.id
 garutberkabar.com
 garutnewstoday.com
 gatanews.id
@@ -1276,7 +1274,6 @@ harianterbit.com
 harianterbit.id
 harianterkini.id
 hariantimes.com
-harianwarna.id
 harianwijaya.com
 harita.id
 harmasnews.com
@@ -3259,7 +3256,6 @@ queennews.id
 quena.id
 qwords.com
 r3ndy.com
-raciniga.com
 radar-kalteng.com
 radar-x.net
 radar24.co.id
@@ -3530,7 +3526,6 @@ sawitku.id
 sawitplus.co
 sawitpost.com
 schoters.com
-scnewsmedia.com
 sebagai.com
 sebangsanetwork.com
 sebekasi.com
@@ -3625,7 +3620,6 @@ sewaktu.com
 sewaktu.id
 sewelaz.com
 shalokalindonesia.com
-sharer.my.id
 showbizindo.com
 showpoiler.com
 siagasatu.co.id
@@ -3873,7 +3867,6 @@ sultranet.com
 sultranetwork.com
 sultranews.co.id
 sultratop.com
-suluhdesa.com
 suluhkepri.com
 suluhmerdeka.com
 suluhnews.id
