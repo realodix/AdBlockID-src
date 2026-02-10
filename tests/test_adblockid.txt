@@ -755,7 +755,6 @@ datanews.id
 datapendidikan.com
 datapost.id
 daulat.co
-daulatnews.com
 daulatrakyat.com
 davidantonny.com
 dayaknews.com
