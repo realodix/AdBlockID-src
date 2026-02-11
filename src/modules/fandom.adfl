@@ -442,5 +442,5 @@ apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,whybelieveinagod.o
 ! LK21 - Random Domain
 ! -----
 internetincomecoach.com##.floating-bottom-banner
-internetincomecoach.com##a[target*="blank"]:has(> img)
+glenbeulah.org,internetincomecoach.com##a[target*="blank"]:has(> img)
 internetincomecoach.com##+js(nowoif)
