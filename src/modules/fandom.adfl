@@ -434,5 +434,7 @@ shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 ! WG Film21
 ! https://tv-project-naturalmix.pages.dev/ | https://project-zonkerfilms.pages.dev/
 ! -----
-||digitaloceanspaces.com/sponsor-slot-$3p,media,redirect=noopmp4-1s
-apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,laporpakfans.com,wgfilm21.com,whybelieveinagod.org##a[target*="blank"]:has(> img)
+||xuzor.com/wgfilm21/sponsor-$3p,media,redirect=noopmp4-1s
+acoustacorp.com,laporpakfans.com,snowcruise-onze.com,wgfilm21.com##a[target*="blank"]:has(> img)
+! Looks like it's no longer in use
+apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,whybelieveinagod.org##a[target*="blank"]:has(> img)
