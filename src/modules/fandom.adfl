@@ -251,7 +251,7 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! -----
 .gif|$domain=moenime.com
 moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"]))
-moenime.com##*:matches-css(position: absolute):matches-css(background-image: /base64/)
+moenime.com##*:matches-css(position: absolute):matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: fixed)
 moenime.com##iframe:matches-css(position: absolute)
 moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
@@ -272,6 +272,7 @@ moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: rela
 !#endif
 ! Annoyance
 moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
+moenime.com##.entry-content form[action*="/go.php"]
 moenime.com##:is(.widget, .widget-area)
 moenime.com##+js(nowoif)
 ! -----------------------------------------------
