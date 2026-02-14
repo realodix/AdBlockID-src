@@ -250,7 +250,7 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! Moenime
 ! -----
 .gif|$domain=moenime.com
-moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"]))
+moenime.com##*:matches-css(position: absolute):has(:is(canvas, iframe, [href*="data:image"], [src*="data:image"], img[src*="blob:"]))
 moenime.com##*:matches-css(position: absolute):matches-css(background-image: /base64|url\(/)
 moenime.com##*:matches-css(position: fixed)
 moenime.com##iframe:matches-css(position: absolute)
