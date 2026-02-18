@@ -6,7 +6,7 @@ fixer:
   excludes:
     - modules/_reference.txt
   flags:
-    xmode: true
+    fmode: true
 
 builder:
   output_dir: dist
