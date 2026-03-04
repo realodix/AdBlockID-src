@@ -139,7 +139,7 @@
 /(?<=\/\/|\.)4tube\.com/
 /(?<=\/\/|\.)alohatube\.com/
 /(?<=\/\/|\.)analgalore\.com/
-/(?<=\/\/|\.)asianpinay.\..+/
+/(?<=\/\/|\.)asianpinay\..+/
 /(?<=\/\/|\.)assoass\.com/
 /(?<=\/\/|\.)avbase\.net/
 /(?<=\/\/|\.)avclub\.com/
