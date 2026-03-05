@@ -260,7 +260,7 @@ moenime.com##*:matches-css(position: absolute):has(*:matches-css(list-style-imag
 moenime.com##*:matches-css(position: absolute):has(*:matches-css-after(content: /base64|url\(/))
 moenime.com##*:matches-css(position: static):matches-css(display: /grid|flex/):has(> :matches-css(position: static)):remove()
 !
-moenime.com##*:matches-css(position: /absolute|relative/):has(:is(canvas, embed, iframe, image, object, [data*="data:image"], [href*="data:image"], [src*="data:image"], [src*="blob:"], [data*="blob:"]))
+moenime.com##*:matches-css(position: /absolute|relative/):has(:is(canvas, embed, iframe, object, image, [type*="image"], [data*="data:image"], [href*="data:image"], [src*="data:image"], [src*="blob:"], [data*="blob:"]))
 moenime.com##*:matches-css(position: /fixed|sticky/)
 moenime.com##*:matches-css(position: absolute):matches-css(content: /base64|url\(/)
 moenime.com##*:matches-css(position: absolute):matches-css(list-style-image: /base64|url\(/)
