@@ -554,6 +554,7 @@ republika.co.id##article > div:matches-css(text-align:center):has-text(/sponsore
 ! Annoyance
 republika.co.id##.popup
 ! Style Fixer
+republika.co.id##main.fixedtop:style(margin-top: unset !important)
 republika.co.id##header:style(position: inherit !important)
 ! ------------------------------------------------------------------------------
 ! ruangguru - PT. Ruang Raya Indonesia
