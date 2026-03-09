@@ -277,6 +277,7 @@ moenime.com##+js(acis, HTMLDialogElement.prototype.showModal)
 moenime.com##+js(acis, String.fromCharCode)
 moenime.com##+js(acis, window.atob)
 moenime.com##+js(acis, window.requestAnimationFrame)
+moenime.com##+js(prevent-innerHTML)
 !
 moenime.com##body > [style*="position"]:remove()
 !moenime.com##*:matches-css(position: static) > :matches-css(position: absolute)
@@ -285,6 +286,7 @@ moenime.com##body > [style*="position"]:remove()
 ! Anti Adblock
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=googlesyndication_adsbygoogle.js,domain=moenime.com
 moenime.com##body:style(overflow: auto !important;)
+moenime.com##html:style(overflow: auto !important;)
 moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 ! uBo memiliki filter general
 ! https://github.com/uBlockOrigin/uAssets/blob/06793645aa/filters/filters-2023.txt#L3202
