@@ -211,7 +211,7 @@ doroni.me,doronime.id##.Popup
 ! JuraganFilm https://linktr.ee/jflink, https://juragan.info/
 ! juraganfilm.com (at) gmail [dot] com
 ! -----
-*.gif$image,to=bk21.net
+.gif$image,to=bk21.net
 ||bk21.net/*.mp4$media,redirect=noopmp4-1s
 juragan.*###banner
 juragan.*##.idmuvi-afterplayer
