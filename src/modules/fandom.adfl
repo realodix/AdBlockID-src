@@ -280,9 +280,6 @@ moenime.com##+js(acis, window.requestAnimationFrame)
 moenime.com##+js(prevent-innerHTML)
 !
 moenime.com##body > [style*="position"]:remove()
-!moenime.com##*:matches-css(position: static) > :matches-css(position: absolute)
-!moenime.com##*:matches-css(position: static):matches-css(display: /grid|flex/):has(> :matches-css(position: static)):remove()
-!moenime.com##body > [style*="margin-"]:has(> img[src*="data:" i]):remove()
 ! Anti Adblock
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=googlesyndication_adsbygoogle.js,domain=moenime.com
 moenime.com##body:style(overflow: auto !important;)
