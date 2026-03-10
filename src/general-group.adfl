@@ -693,9 +693,9 @@ bgibola.*,bgibola777.*,bgibola99.*##.top-player-banner
 ! https://s.id/bolasiar
 ! Polanya mirip dengan StreamBola.Group, gambar iklan diambil dari infohalu.xyz
 ! -----
-bolasiar777.*,bolasiar88.*###floatcenter
-bolasiar777.*,bolasiar88.*###floating_banner_top
-bolasiar777.*,bolasiar88.*##a[target="_blank"]:has(> img)
+bolasiar.blog,bolasiar777.*,bolasiar88.*###floatcenter
+bolasiar.blog,bolasiar777.*,bolasiar88.*###floating_banner_top
+bolasiar.blog,bolasiar777.*,bolasiar88.*##a[target="_blank"]:has(> img)
 ! ------------------------------------------------------------------------------
 ! Bolaonline TV
 ! https://heylink.me/bolaonlinesport
