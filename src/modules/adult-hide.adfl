@@ -1208,7 +1208,6 @@
 ##a[title*="slot online terpercaya" i]
 ##a[title*="tasiktoto" i] > img
 ##a[title="8togel" i]:has(img)
-##a[title="Kartu Online"][target="_blank"] > img
 ##a[title="MAINCUAN"][target="_blank"] > img
 ##a[title="MANSION77"][target="_blank"] > img
 ##a[title="RGOCASINO"][target="_blank"] > img
