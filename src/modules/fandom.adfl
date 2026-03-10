@@ -330,18 +330,14 @@ cosmicscans.asia,novascans.id##a[target*="blank"]:has(> img)
 /kmvs\d+\.com/##.kln
 /kmvs\d+\.com/##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
-! Kiryuu - https://kiryuu.co/
+! Kiryuu - https://kiryuu.co/, https://kiryuu.io/
 ! -----
 .gif$image,domain=/kiryuu0\d+\.com/
-kiryuu.cc##.kln
-kiryuu.cc##a[target*="blank"]:has(> img)
-kiryuu.cc##div[id^="teaser"]
 /kiryuu0\d+\.com/###floatcenter
 /kiryuu0\d+\.com/##.kln
 /kiryuu0\d+\.com/##a[target*="blank"]:has(> img)
 /kiryuu0\d+\.com/##div[id^="teaser"]
 ! Annoyance
-kiryuu.cc##+js(nowoif)
 /kiryuu0\d+\.com/##+js(nowoif)
 ! -----------------------------------------------
 ! Manhwaland - https://manhwaland.in/ / https://manhwaindo.io/ / https://manhwaland.email/

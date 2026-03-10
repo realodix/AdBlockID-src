@@ -488,6 +488,7 @@
 ##.ads-billboard
 ##.ads-bock-1
 ##.ads-bottom-fixed
+##.ads-chapter-0
 ##.ads-fixed
 ##.ads-fixed-bottom
 ##.ads-fixed-bottom-container
@@ -497,6 +498,7 @@
 ##.ads-floating-lr
 ##.ads-floating-right
 ##.ads-giant
+##.ads-header-1
 ##.ads-header-bottom
 ##.ads-header-wrap
 ##.ads-hor
@@ -858,6 +860,7 @@
 ##.float-iklan-kiri
 ##.floatadsatas
 ##.floatadsbawah
+##.floating-ads
 ##.floating-ads-left
 ##.floating-ads-right
 ##.floating-banner-atas
