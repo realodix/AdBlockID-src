@@ -856,6 +856,7 @@ _728x90px.$image,domain=bogordaily.net
 !
 ! THIRD PARTY BLOCKS
 ! ------------------------------------------------------------------------------
+/Ads/*$to=filedon.co
 ||aiprodev.com/files/banner/$3p
 ||backlink.co.id^*/badge-$image,domain=~backlink.co.id|~blogpartner.id
 ||cloudhost.id^*/iklan_$3p,domain=~idcloudhost.co.id|~idcloudhost.com
