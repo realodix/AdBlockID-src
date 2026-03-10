@@ -248,57 +248,6 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]
 ! Annoyance
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! -----------------------------------------------
-! Moenime
-! -----
-.gif|$domain=moenime.com
-moenime.com##*:matches-css(background-image: /base64|url\(/)
-moenime.com##*:matches-css(position: /absolute|relative/):has(*:matches-css(content: /base64|url\(/))
-moenime.com##*:matches-css(position: /absolute|relative/):matches-css(background-image: /base64|url\(/)
-moenime.com##*:matches-css(position: absolute):has(*:matches-css(background-image: /base64|url\(/))
-moenime.com##*:matches-css(position: absolute):has(*:matches-css(border-image-source: /base64|url\(/))
-moenime.com##*:matches-css(position: absolute):has(*:matches-css(list-style-image: /base64|url\(/))
-moenime.com##*:matches-css(position: absolute):has(*:matches-css-after(content: /base64|url\(/))
-!
-moenime.com##*:matches-css(position: /absolute|relative/):has(:is(canvas, embed, iframe, object, [src*="blob:"], [data*="blob:"]))
-moenime.com##*:matches-css(position: /fixed|sticky/)
-moenime.com##*:matches-css(position: absolute):matches-css(content: /base64|url\(/)
-moenime.com##*:matches-css(position: absolute):matches-css(list-style-image: /base64|url\(/)
-moenime.com##:is([srcset*="data:"], [style*="transform"]):matches-css(position: absolute)
-moenime.com##[open]:remove()
-moenime.com##iframe:matches-css(position: absolute)
-moenime.com##^script:has-text(/decodeURIComponent\(|(?:%|x)[0-9A-Fa-f]{2}/)
-moenime.com##+js(acis, Blob)
-moenime.com##+js(acis, CSSStyleDeclaration.prototype.setProperty)
-moenime.com##+js(acis, Element.prototype.addEventListener, remove)
-moenime.com##+js(acis, Element.prototype.attachShadow)
-moenime.com##+js(acis, HTMLDialogElement.prototype.showModal)
-moenime.com##+js(acis, Node.prototype.appendChild)
-moenime.com##+js(acis, String.fromCharCode)
-moenime.com##+js(acis, window.atob)
-moenime.com##+js(acis, window.requestAnimationFrame)
-moenime.com##+js(prevent-innerHTML)
-! moenime.com##*:matches-css(position: /absolute|relative/):has(:is(image, [data*="data:image"], [href*="data:image"], [src*="data:image"], img[src*="data:" i]))
-! moenime.com##*:matches-css(position: relative):has([src*="base64"])
-!
-moenime.com##body > [style*="position"]:remove()
-! Anti Adblock
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=googlesyndication_adsbygoogle.js,domain=moenime.com
-moenime.com##body:style(overflow: auto !important;)
-moenime.com##html:style(overflow: auto !important;)
-moenime.com##+js(set, HTMLScriptElement.prototype.onerror, undefined)
-! uBo memiliki filter general
-! https://github.com/uBlockOrigin/uAssets/blob/06793645aa/filters/filters-2023.txt#L3202
-||trafficbass.com^$xhr,method=head,redirect-rule=nooptext,domain=moenime.com
-! Adg mobile, perlu diperiksa
-!#if adguard
-moenime.com##*:matches-css(position: absolute):has(> :matches-css(position: relative))
-!#endif
-! Annoyance
-moenime.com##.entry-content div:matches-css(text-align: center):has([onclick])
-moenime.com##.entry-content form[action*="/go.php"]
-moenime.com##:is(.widget, .widget-area)
-moenime.com##+js(nowoif)
-! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
 ! -----
 .gif|$image,domain=oploverz.*
