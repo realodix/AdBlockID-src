@@ -136,6 +136,7 @@ pemersatu.org###pemersatuDiv
 pemersatudotfun.com###player #myDiv:has(button[onclick*="mematikan-adblock"])
 216.219.94.112##.responsive-player > #myDiv:has(button[onclick*="window.open('https://www.nesabamedia.com/cara-mematikan-adblock'"])
 pemersatu.fun,pemersatu.org##:matches-path(/wp-content/themes) #myDiv
+216.219.94.112,pemersatu.store,pemersatu.top,pemersatufun.com##^script:has-text(checkAds)
 pemersatu.fun,pemersatu.org,pemersatu.top,pemersatudotfun.com,pemersatufun.site##+js(rc, kamucurang|kamucurang-fader, div, stay)
 ! Annoyance
 pemersatu.fun,pemersatu.org##+js(set-cookie, jetpack_post_subscribe_modal_dismissed, true)
