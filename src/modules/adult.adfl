@@ -121,7 +121,7 @@ drbokep.*##a[target*="blank"]:has(> img)
 ! https://pemersatu.fun/
 ! -----------------------------------------------
 pemersatufun.com###advertisement
-pemersatu.top##.ad
+pemersatu.top,pemersatufun.site##.ad
 pemersatu.org,pemersatu.store,pemersatu.top,pemersatudotfun.com,pemersatufun.com,pemersatufun.site##[role="advertisement"]
 ! Anti-Adblock
 ||jads.co/js/jads.js$redirect-rule=noop.js,domain=pemersatudotfun.com|pemersatufun.com|pemersatufun.site
