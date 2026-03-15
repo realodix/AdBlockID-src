@@ -7,6 +7,7 @@ fixer:
     - modules/_reference.txt
   flags:
     fmode: true
+    exact_attr_to_css_selector: false
 
 builder:
   output_dir: dist
