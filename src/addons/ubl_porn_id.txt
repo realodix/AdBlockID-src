@@ -233,9 +233,11 @@
 /(?<=\/\/|\.)avtubs\..+/
 /(?<=\/\/|\.)avtubxplay\..+/
 /(?<=\/\/|\.)bacolviral\..+/
+/(?<=\/\/|\.)boscinema21\..+/
 /(?<=\/\/|\.)bosku21\..+/
 /(?<=\/\/|\.)cerita18plus\..+/
 /(?<=\/\/|\.)dicrotin\..+/
+/(?<=\/\/|\.)dramaserial21\..+/
 /(?<=\/\/|\.)filmjepangku\..+/
 /(?<=\/\/|\.)filmnikmat\..+/
 /(?<=\/\/|\.)filmnikmattv1\..+/
@@ -243,6 +245,7 @@
 /(?<=\/\/|\.)gocrot\..+/
 /(?<=\/\/|\.)gocrot\.org/
 /(?<=\/\/|\.)indo18\..+/
+/(?<=\/\/|\.)indofilmdewasa\..+/
 /(?<=\/\/|\.)indopanas\..+/
 /(?<=\/\/|\.)javindo\..+/
 /(?<=\/\/|\.)komikremaja\..+/
@@ -254,6 +257,7 @@
 /(?<=\/\/|\.)niihen\..+/
 /(?<=\/\/|\.)nntnbkptv2\..+/
 /(?<=\/\/|\.)nokephub\..+/
+/(?<=\/\/|\.)nontonfilmnikmat\..+/
 /(?<=\/\/|\.)novelbasah\..+/
 /(?<=\/\/|\.)pejuhin\..+/
 /(?<=\/\/|\.)pejuhinxxx\..+/
