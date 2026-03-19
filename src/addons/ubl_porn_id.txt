@@ -191,7 +191,6 @@
 *://ngejav.blog/*
 *://ngocoks.com/*
 *://ngomek.com/*
-*://nntnbkptv2.space/*
 *://nontonjavid.net/*
 *://omekin.casa/*
 *://omekin.id/*
@@ -240,6 +239,7 @@
 /(?<=\/\/|\.)filmjepangku\..+/
 /(?<=\/\/|\.)filmnikmat\..+/
 /(?<=\/\/|\.)filmnikmattv1\..+/
+/(?<=\/\/|\.)filmonline\..+/
 /(?<=\/\/|\.)gocrot\..+/
 /(?<=\/\/|\.)gocrot\.org/
 /(?<=\/\/|\.)indo18\..+/
@@ -252,6 +252,7 @@
 /(?<=\/\/|\.)ngecrots\..+/
 /(?<=\/\/|\.)ngentub\..+/
 /(?<=\/\/|\.)niihen\..+/
+/(?<=\/\/|\.)nntnbkptv2\..+/
 /(?<=\/\/|\.)nokephub\..+/
 /(?<=\/\/|\.)novelbasah\..+/
 /(?<=\/\/|\.)pejuhin\..+/
@@ -260,6 +261,7 @@
 /(?<=\/\/|\.)pemersatufun\..+/
 /(?<=\/\/|\.)pukihot\..+/
 /(?<=\/\/|\.)rumahperjaka\..+/
+/(?<=\/\/|\.)semikeren\..+/
 /(?<=\/\/|\.)tantecentil\..+/
 /(?<=\/\/|\.)tube8\..+/
 /(?<=\/\/|\.)videocrot1\..+/
