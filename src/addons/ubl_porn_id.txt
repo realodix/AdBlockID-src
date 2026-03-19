@@ -115,7 +115,6 @@
 *://bluevid.cam/*
 *://bokebbind.shop/*
 *://bokebviral.world/*
-*://bosku21.cam/*
 *://cerita21plus.com/*
 *://cerita69.blog/*
 *://ceritaajib.wordpress.com/*
@@ -234,6 +233,7 @@
 /(?<=\/\/|\.)avtubs\..+/
 /(?<=\/\/|\.)avtubxplay\..+/
 /(?<=\/\/|\.)bacolviral\..+/
+/(?<=\/\/|\.)bosku21\..+/
 /(?<=\/\/|\.)cerita18plus\..+/
 /(?<=\/\/|\.)dicrotin\..+/
 /(?<=\/\/|\.)filmjepangku\..+/
