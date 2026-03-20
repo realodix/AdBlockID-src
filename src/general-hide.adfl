@@ -358,6 +358,7 @@
 ###lAds
 ###le_header_ads
 ###left_ads_float_phonedevelop
+###lin-floating-ad
 ###lmd-ads
 ###lmd-iklan
 ###lmd-parallax-ads
@@ -1169,6 +1170,7 @@
 ##.layout__ads
 ##.leaderboard-ads-wrapper
 ##.leaderboard__ads
+##.lin-ad-header
 ##.link_banner_iklan
 ##.lmd-iklan
 ##.load_iklan_leaderboard_1
