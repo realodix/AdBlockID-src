@@ -867,6 +867,7 @@ _728x90px.$image,domain=bogordaily.net
 ||ib.pictures/img/ibbanner/$3p
 ||idtheme.com/img/banner-$3p
 ||idtheme.com/img/old/idt-size-$3p,image
+||imgbanner.site^$3p,image
 ||pages.dev^$script,domain=atlantaelectronics.co.id
 ||seedbacklink.com^*-banner.$3p,image
 ||wp.com/www.backlink.co.id/wp-content/uploads/$image,domain=~backlink.co.id|~blogpartner.id
