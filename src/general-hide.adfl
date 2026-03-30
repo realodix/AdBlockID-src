@@ -1155,6 +1155,7 @@
 ##.ixlan
 ##.ixlan-widget-kanan
 ##.js-ads-stick
+##.jsads-slot
 ##.jx-ads
 ##.jx-props-ad-slot-footer-sticky
 ##.kb-ads-dynamic
@@ -1311,6 +1312,7 @@
 ##.sidebar-banner-bawah-wrap
 ##.sidebar-banner-mobile-bawah-wrap
 ##.sidebar-iklan
+##.sidebar__ads
 ##.single_ad_728x90
 ##.sk_splash_ads
 ##.skidAds
