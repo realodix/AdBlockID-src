@@ -62,6 +62,7 @@ komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !import
 awsubs.co##div:matches-css(position: fixed):has(> .kln)
 komiku.org##div:matches-css(text-align:center):has(> span:has-text(/iklan/i))
 animekompi.fun,bioskop21.*,dojing.net,hidoristream.online,komik18.xyz,komikdewasa.art,komikstation.org,komiku.asia,melongmovies.com,mihentai.com,movieku.*,sektedoujin.cc##div[id^="teaser"]
+komiknesia.asia##img[alt*="adv" i]
 boscinematv1.space##img[alt*="iklan"]
 westmanga.me##main > .fixed
 !
