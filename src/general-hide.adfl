@@ -151,6 +151,7 @@
 ###d_ads
 ###desktop-ads-id-1
 ###desktop-ads-id-2
+###desktop-floating-ad
 ###detailSkinAdLeft
 ###detailSkinAdRight
 ###div-ad-dbt
@@ -424,6 +425,8 @@
 ###srcadsurlblock
 ###sticky-ad-atas
 ###sticky-ad-bawah
+###sticky-ads-mobile
+###sticky-bottom-ad
 ###sticky-iklan
 ###switch-ad
 ###tisisads
@@ -450,8 +453,10 @@
 ##.ad-728-container
 ##.ad-bawah
 ##.ad-before
+##.ad-bottom-wrapper
 ##.ad-code-block
 ##.ad-float-image
+##.ad-header-bottom
 ##.ad-heder-320-50
 ##.ad-min-280
 ##.ad-slot-wrap
