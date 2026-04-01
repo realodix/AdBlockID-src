@@ -88,14 +88,13 @@ beritaharian.sg##[data-testid="advertisement-element"]
 ! ------------------------------------------------------------------------------
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
 ! https://github.com/AdguardTeam/tsurlfilter/issues/148
-! 0.0.realodix##.btn[onclick]:remove-attr(onclick)
-! 0.0.realodix##body:remove-class(cdk-global-scrollblock)
+0.0.realodix##.btn[onclick]:remove-attr(onclick)
+0.0.realodix##body:remove-class(cdk-global-scrollblock)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/206
-! ||doubleclick.net^$script,from=example.com
+||ex-ample.org^$script,from=ex-ample.com
 ! https://github.com/AdguardTeam/ExtendedCss/issues/138
-! 0.0.realodix##div.banner:matches-css-before(content: /adv/i)
+0.0.realodix##div.banner:matches-css-before(content: /adv/i)
 ! https://github.com/AdguardTeam/ExtendedCss/issues/164
-! 0.0.realodix##:matches-path(/^/home/) [data-testid="primaryColumn"]:others()
+0.0.realodix##:matches-path(/^/home/) [data-testid="primaryColumn"]:others()
 !
-0.0.realodix##+js(prevent-fetch, pagead2.googlesyndication.com)
 0.0.realodix##+js(prevent-window-open)
