@@ -8,6 +8,20 @@ fixer:
   flags:
     fmode: true
 
+
+linter:
+  rules:
+    fmode: true
+  paths:
+    - src
+  excludes:
+    - modules/_reference.txt
+    - addons/ubl_badware.txt
+    - addons/ubl_gambling.txt
+    - addons/ubl_porn_id.txt
+    - addons/ubl_porn_int.txt
+
+
 builder:
   output_dir: dist
   filter_list:
