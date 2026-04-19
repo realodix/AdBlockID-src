@@ -1,8 +1,12 @@
 name: Lint
 
 on:
-  - pull_request
-  - push
+  pull_request:
+    paths:
+      - 'src/**'
+  push:
+    paths:
+      - 'src/**'
 
 jobs:
   build:
