@@ -188,6 +188,7 @@ kompasiana.com##.banner-center
 sonora.id##.banner-skin
 kompas.com##.banner-sticky-holder
 kompasiana.com##.banner-top
+grid.id##.before\:content-\[\'advertisment\'\]
 grid.id##.bottom_banner
 tribunnewswiki.com##.box__reserved
 kontan.co.id##.center:has(> .heightads250)
