@@ -108,6 +108,8 @@ pusatporn18.com##.content-post center:has(> a > img)
 ! 21Gratis - https://t.me/nonton21gratis, https://t.me/asupan21viral
 ! -----------------------------------------------
 /wp-content/uploads/*.mp4$1p,media,redirect=noopmp4-1s,to=artisbokep.*|republikbokep.*|xbokepin.*
+artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
+xbokepin.*###popupBannerOverlay
 artisbokep.*##.top-banner
 artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 ! Desu
