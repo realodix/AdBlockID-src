@@ -166,6 +166,7 @@ idlixku.com##*:style(filter: unset !important; pointer-events: auto!important;)
 idlixku.com##body[class*="-style-"] > *:style(filter: none !important;)
 idlixku.com##body[class*="-style-"] > div[class$=" active"][style]
 idlixku.com##body[class*="-style-"] > div[class$=" active"][style] + div[class*="-"]:has(> div[class$=" active"][style])
+idlixku.com##+js(prevent-setTimeout, getComputedStyle)
 ! -----------------------------------------------
 ! https://d21.team/ | https://linktr.ee/lk21real
 ! https://www.facebook.com/groups/dunia21official/
