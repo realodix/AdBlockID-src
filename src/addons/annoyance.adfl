@@ -95,6 +95,7 @@ mitra10.com###installAppWrapper
 matain.id##.app_layer
 kontan.co.id##.appbanner-wrapper
 investor.id##.banner-app
+bilibili.tv##.dialog--mobile
 sindonews.com##.download-sindoapps
 liputan6.com##.gateway__mobile-app
 kapanlagi.com##.liputan6-mobileapp-widget
@@ -106,6 +107,7 @@ merdeka.com##header .assambleApp
 tokopedia.com##[data-testid="WTA-TopSticky"]
 tokopedia.com##body:style(margin-top: 0!important;)
 tokopedia.com##div:matches-css(position: fixed):has(> button[aria-label="close web to app pop up" i])
+bilibili.tv##html, body:style(overflow: auto !important;)
 ! ------------------------------------------------------------------------------
 ! Paywall
 ! -----
