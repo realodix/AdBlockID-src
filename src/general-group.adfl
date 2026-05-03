@@ -745,6 +745,16 @@ fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + 
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) div:matches-css(position: relative):has(> img + div:matches-css(position: absolute))
 /^[a-z\d]{4,}\.[a-z\d]{12,}\.(cfd|sbs|shop)$/##:matches-path(/id) body:has-text(/(rbtv|superabbit)77/i) iframe + div:matches-css(position: absolute):has(> img)
 ! ------------------------------------------------------------------------------
+! KuyhAa
+! - https://www.kuyhaa.me/
+! -----
+||kuyhaa.me/*.php
+||kuyhaa.me/pmbut.js
+kuyhaa.me###protected-content
+kuyhaa.me##.entry-content center > a:has(> input[src])
+kuyhaa.me##+js(aeld, '', aadb_get_data)
+kuyhaa.me##+js(nowoif)
+! ------------------------------------------------------------------------------
 ! Semprot
 ! - https://piranhalink.com/semprot | https://bit.ly/ceksemprot
 ! - http://46.166.167.16/
