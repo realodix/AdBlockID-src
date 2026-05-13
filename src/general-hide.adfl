@@ -1525,6 +1525,7 @@
 ~qwords.com##[href^="https://promosi.qwords.com/"]:has(img)
 ~toffee.id##[href^="https://toffee.id/growth?"]:has(img)
 ~bankbjb.co.id##[href^="https://www.bankbjb.co.id/promo/"] > img
+~biznet.id,~biznetdatacenter.com,~biznetfestival.com,~biznetgio.com,~biznethome.net,~biznetnetworks.com##[href^="https://www.biznetgio.com/"][href*="utm_medium=banner"]
 ~blibli.com##[href^="https://www.blibli.com/promosi/"]:has(img)
 !
 ! WHITELIST - INTERNATIONAL
