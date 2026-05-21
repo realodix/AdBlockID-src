@@ -27,6 +27,7 @@ honda-indonesia.com##+js(set-local-storage-item, cookie-consent.show, false)
 ocbc.id##+js(set-local-storage-item, cookieConsent, true)
 garuda-indonesia.com##+js(set-local-storage-item, cookies, true)
 asianet.co.id##+js(set-local-storage-item, cookiesAccepted, true)
+komdigi.go.id##+js(set-local-storage-item, localConsent, true)
 ! ------------------------------------------------------------------------------
 ! Video Autoplayer
 ! -----
