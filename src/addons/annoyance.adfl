@@ -21,6 +21,7 @@ deretcode.com,goersapp.com##[class*="cookie" i]
 myorbit.id,smartfren.com,telkom.co.id##div:matches-css(position: fixed):has-text(/cookie/i)
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
 kaskus.co.id##+js(set-cookie, cookie_accepted, true)
+bca.co.id##+js(set-cookie, cookieconsent_status, dismiss, , reload, 1)
 honda-indonesia.com##+js(set-local-storage-item, cookie-consent.show, false)
 ocbc.id##+js(set-local-storage-item, cookieConsent, true)
 garuda-indonesia.com##+js(set-local-storage-item, cookies, true)
