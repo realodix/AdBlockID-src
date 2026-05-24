@@ -101,8 +101,6 @@
 *://abgcrot.stream/*
 *://adstub.net/*
 *://avtubflix.com/*
-*://avtubhub.web.id/*
-*://avtubnet.web.id/*
 *://avtubreal.com/*
 *://avtubsek.com/*
 *://avtubvidz.it.com/*
