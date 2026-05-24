@@ -675,7 +675,6 @@ marketeers.com##.modal-login-container:has([src^="https://ads.marketeers.com"])
 mediarevolusi.co.id##.module .image-wrap.tf_rel > img
 tintainformasi.com##.module-widget > .widget:has(> script)
 disway.id,motorexpertz.com,postingnews.id,semaraknews.co.id##.nkt__stick
-jabaronline.com##.oduu-widget-content:has(> center > a[target="_blank"] > img)
 minanews.net##.para_caption
 mcwnews.com##.paradetail
 jabar-online.com,kepripedia.com,vcgamers.com##.paralax_div
