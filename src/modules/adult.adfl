@@ -61,6 +61,7 @@ kpopdeepfakes.*#@##banner_ad
 !
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
+kingbokep.one##+js(acis, checkAdsStatus)
 pasarbokep.com##+js(aopr, adsBlocked)
 pasarbokep.com,sangetods.*##+js(no-fetch-if, pagead2.googlesyndication.com)
 ! chp_ads_blocker | adblock_title
