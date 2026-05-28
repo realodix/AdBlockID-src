@@ -51,10 +51,10 @@ bokep360.*##a[title="banner" i]:has(> img)
 filmjepangku.com,hencop.com,javsubindo.*,lendirpedia.*,minioppai.org,pascol.*,pemersatu.link,starjepang.wiki,terviral.cam##body > div[id^="teaser"]
 indoporn.*##div:has(> .adsbyexoclick)
 filmnikmat.*##img[alt*="iklan"]
-kingbokep.*##img[src*=".gif"]:not(div[class*="video"][class*="card"] > img)
-kingbokep.*##img[src*=".webp"]:not(div[class*="video"][class*="card"] > img)
+kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
+kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
 indoporntv.*##video:style(cursor: auto!important;)
-kingbokep.*##video[src*=".webm"]:not(div[class*="video"][class*="card"] > img)
+kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ! ---
 ! Unbreak
 kpopdeepfakes.*#@##banner_ad
