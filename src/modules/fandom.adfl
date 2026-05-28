@@ -174,7 +174,6 @@ lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.m
 thebuzzabee.com##div:matches-css(font-size: 10px):has-text(/promoted/i)
 ! Annoyance
 cloud.hownetwork.xyz###overlay
-layarkaca21.im##.message-overlay
 playeriframe.sbs##body > a:has(> .message-box)
 ! Iframe
 ||lk21static.buzz/iframe/content2.php$frame
