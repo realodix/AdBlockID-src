@@ -156,9 +156,9 @@ idlixku.com##.asgdc
 idlixku.com##.module_home_ads
 idlixku.com##a[target*="blank"]:has(> img)
 ! Annoyance
-idlixku.com##html:style(overflow: auto !important; )
+idlixku.com##html, body:style(overflow: visible !important;)
+idlixku.com##+js(nowoif)
 ! Anti Adblock
-idlixku.com##*:style(filter: unset !important; pointer-events: auto!important;)
 idlixku.com##+js(prevent-setTimeout, getComputedStyle)
 ! -----------------------------------------------
 ! https://d21.team/ | https://linktr.ee/lk21real
