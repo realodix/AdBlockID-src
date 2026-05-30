@@ -399,6 +399,7 @@ shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 ! WG Film21
 ! https://tv-project-naturalmix.pages.dev/ | https://project-zonkerfilms.pages.dev/
 ! -----
+||r2.dev^$media,redirect=noopmp4-1s,domain=wgfilm21.*
 ||xuzor.com/wgfilm21/sponsor-$3p,media,redirect=noopmp4-1s
 laporpakfans.com,wgfilm21.com,wgfilm21.net##a[target*="blank"]:has(> img)
 ! Terlihat sudah tidak aktif
