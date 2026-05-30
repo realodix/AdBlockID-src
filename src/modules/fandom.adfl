@@ -400,9 +400,9 @@ shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 ! https://tv-project-naturalmix.pages.dev/ | https://project-zonkerfilms.pages.dev/
 ! -----
 ||xuzor.com/wgfilm21/sponsor-$3p,media,redirect=noopmp4-1s
-acoustacorp.com,laporpakfans.com,snowcruise-onze.com,wgfilm21.com##a[target*="blank"]:has(> img)
+laporpakfans.com,wgfilm21.com,wgfilm21.net##a[target*="blank"]:has(> img)
 ! Terlihat sudah tidak aktif
-apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,whybelieveinagod.org##a[target*="blank"]:has(> img)
+acoustacorp.com,apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,snowcruise-onze.com,whybelieveinagod.org##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! LK21 - Random Domain
 ! -----
