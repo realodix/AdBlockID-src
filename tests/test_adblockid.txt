@@ -4222,6 +4222,7 @@ tvberita.co.id
 tvbersama.cam
 tvbersama.cc
 tvbersama.cyou
+tvbersama.rest
 tvonenews.com
 tvpapua.com
 tvrijakartanews.com
