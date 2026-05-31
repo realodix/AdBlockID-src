@@ -56,7 +56,7 @@ cinemakeren6.id##.lna-livescore-home-tabs-widget
 filem21.org##.mobile-banner
 cinemaemas6.com,cinemakeren6.id##.slot-machine-wrapper
 cinemaemas6.com,mangaindo.*,sattorrent.com##.widget:has(img[style="max-width: 100%; height: auto;"])
-anichin.watch,ikiru.wtf,layarkaca21ok.site,mangatale.co,movieku.*,tooncubus.top,wibudesu.co##a:has(> img[src$=".gif"])
+anichin.watch,ikiru.wtf,layarkaca21ok.site,mangatale.co,movieku.*,tooncubus.top##a:has(> img[src$=".gif"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
 01ntn.cc,91.208.197.221,anibatch.moe,anichin.social,animekompi.sbs,animexin.dev,bioskop21.*,boscinematv1.space,cinemaemas6.com,cinemakeren6.id,filem21.org,gudangkomik.com,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,kazefuri.info,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kuroshireader.com,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nntonfilm.my.id,nomat.store,omanga.net,otakudesu.best,otakudesu.id,rebahin.lol,sobatmov.xyz,westmanga.me,winbu.tv##a[target*="blank"]:has(> img)
@@ -122,7 +122,7 @@ anibatch.moe,anichin.blog,animekompi.sbs,cinemaemas6.com,cinemakeren6.id,dramaen
 !
 ! ---
 ! CM Pop-Up banners / cm-popup-modal / ouibounce-modal
-nontondrama.blog,russsmithlaw.com,sobatmov.xyz,sokuja.uk,wibudesu.co##+js(aopr, popup_custom_data)
+nontondrama.blog,sobatmov.xyz,sokuja.uk##+js(aopr, popup_custom_data)
 ! Popup Builder / sgpb-popup / sg-popup
 gudangmovies21.chat,sattorrent.com,soulscans.my.id##+js(aopr, SGPB_POPUP_PARAMS)
 ! 205.251.192.122|205.251.196.232|205.251.198.102|205.251.195.47
