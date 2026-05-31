@@ -195,3 +195,17 @@ bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokep
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##a[target*="blank"]:has(> img)
 ! Annoyance
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##+js(nowoif)
+! -----------------------------------------------
+! Annoying Popups
+! -----------------------------------------------
+||berbagi.app/assets/devtools-detector.js
+berbagi.app##div:matches-css(position: fixed)
+!
+!||simplepaste.site^$popup
+!||skripsitesisdisertasi.biz.id^$popup
+||getandplay.web.id^$popup
+!
+||acquaintjokinglyscoring.com^$popup
+||bondeddarkenedswerve.com^$popup
+||shopnoit.com^$popup
+||wonderfulyesterday.com^$popup
