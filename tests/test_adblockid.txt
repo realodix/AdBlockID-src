@@ -381,6 +381,7 @@ berita-cendana.com
 berita-indo.id
 berita-net.com
 berita.99.co
+berita.news
 beritaaktual.co
 beritaanda.net
 beritaazam.com
