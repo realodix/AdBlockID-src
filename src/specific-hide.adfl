@@ -658,6 +658,7 @@ paragram.id##.head-space
 dutapublik.com##.header-top-right
 hipwee.com##.hipwee-cuan
 besttangsel.com##.home .cb-module-block:has(> .cb-module-title:has-text(/iklan/i))
+hatipena.com##.home .fl-module[itemtype="https://schema.org/ImageObject"] .fl-photo-content
 jagatpapua.com##.home .flexslider
 indosultra.com##.home .ibox-thumb
 inlens.id##.home .n2-section-smartslider
