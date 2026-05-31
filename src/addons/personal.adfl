@@ -56,4 +56,5 @@ crackit.org,oceancrack.com,procrackerz.org##+js(aopr, document.oncontextmenu)
 ! ---
 ! Dev-Tools
 ! /devtools-detector.$script,domain=~bestx.stream|~boltx.stream|~boosterx.stream|~watchx.top
+||berbagi.app/assets/devtools-detector.js$3p
 ||cdn.jsdelivr.net/npm/disable-devtool@$3p,script

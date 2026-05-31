@@ -198,7 +198,6 @@ bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokep
 ! -----------------------------------------------
 ! Annoying Popups
 ! -----------------------------------------------
-||berbagi.app/assets/devtools-detector.js
 berbagi.app##div:matches-css(position: fixed)
 !
 !||simplepaste.site^$popup
