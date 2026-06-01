@@ -4,6 +4,7 @@
 ! Affiliate / Referral
 ! -----
 ||collaborator.pro/images/referral/$3p
+||idcloudhost.com/wp-content/uploads/$3p,image,domain=~idcloudhost.co.id
 ||idwebhost.com/assets/img/hostingtermurah/$3p
 ||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
 ||niagaspace.sgp1.cdn.digitaloceanspaces.com/assets/images/affiliasi/$domain=~niagahoster.co.id
@@ -31,6 +32,7 @@
 ~monetag.com##[href^="https://monetag.com/?ref_id="]:has(img)
 ~domainesia.com##[href^="https://my.domainesia.com/ref.php"]:has(img)
 ~hawkhost.com##[href^="https://my.hawkhost.com/aff.php"]:has(img)
+~idcloudhost.co.id,~idcloudhost.com##[href^="https://my.idcloudhost.com/aff."]
 ~niagahoster.co.id##[href^="https://panel.niagahoster.co.id/ref/"]:has(img)
 ~seedbacklink.com##[href^="https://panel.seedbacklink.com/aff/"]:has(img)
 ~iux.com,~iuxmarket.com##[href^="https://portal.iux.com/id/register"]:has(img)
