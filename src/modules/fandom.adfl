@@ -338,13 +338,13 @@ cosmicscans.asia,novascans.id##a[target*="blank"]:has(> img)
 ! -----
 /ads/*$to=gmbr.pro
 ||ads.gmbr.pro^
-manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
-manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
-manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
-manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
+manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
+manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
+manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
+manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 ! Annoyance
-manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(aeld, contextmenu)
-manhwadesu.art,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
+manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(aeld, contextmenu)
+manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
 ! -----------------------------------------------
 ! onepieceberwarna.com
 ! -----
