@@ -10,6 +10,7 @@
 ! ------------------------------------------------------------------------------
 kilastimor.com###leader-wrap > a > img
 atjehterkini.id,kepripedia.com,matrasnews.com,patrolihukum.net###sidebar-header
+potretpapua.com##.before-widget .gallery-item
 tirto.id##.d-sidebar:has([id^="gpt-"])
 kaltengterkini.co.id##.elementor-widget-container .elementor-image
 minanews.net##.elementor-widget-container .elementor-shortcode
