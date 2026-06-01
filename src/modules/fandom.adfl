@@ -338,6 +338,7 @@ cosmicscans.asia,novascans.id##a[target*="blank"]:has(> img)
 ! -----
 /ads/*$to=gmbr.pro
 ||ads.gmbr.pro^
+manhwaland.land###f-widget.fixed
 manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
 manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
 manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
