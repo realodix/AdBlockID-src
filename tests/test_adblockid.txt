@@ -2307,6 +2307,7 @@ laros.id
 law-justice.co
 lazada.co.id
 lazone.id
+lead.co.id
 legacynews.id
 lelemuku.com
 lemaripojok.com
