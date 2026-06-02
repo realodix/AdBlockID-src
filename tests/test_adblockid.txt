@@ -3047,6 +3047,7 @@ patrolinews.id
 patrolinews86.com
 patrolipost.com
 patrolisukabumi.co.id
+patrolmedia.co.id
 patronnews.co.id
 pcnucilacap.com
 pcplus.co.id
