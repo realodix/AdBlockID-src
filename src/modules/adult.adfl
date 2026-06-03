@@ -39,7 +39,7 @@ indoporntv.*##.fluid_nonLinear_ad
 javlendirqu.*,lendirqu.*##.happy-header
 dewaporn.*##.happy-header > a:has(> img)
 dewaporn.*##.happy-sidebar > a:has(> img)
-filmjepangku.com,filmjepangku.net,heppinn.id,javsubid.*,javsubindo.*,nontonhentai.net,pascol.*,starjepang.wiki##.kln
+filmjepangku.com,filmjepangku.net,heppinn.id,javsubid.*,javsubindo.*,nontonhentai.net,pascol.*,starjepang.one##.kln
 nekopoi.care##.leftarea
 lendirqu.*##.popup-banner
 sangevip.com##.promo-banner
@@ -49,7 +49,7 @@ agenbokep.*,bandarbokep.*,ceritanakal.com,duniabokep.*,indobokepin.*,javsubindo.
 pejuanglendir.com##a:not([href="https://www.pejuanglendir.com/"]):has(> img)
 18subindo.com,agenbokep.*,bandarbokep.*,bokepindo.*,bokepindo21.*,bokepjilbab.*,bokepvir.*,cctvbokep.*,duniabokep.*,filmnikmat.*,filmnikmattv1.*,gocrot.me,gocrot.org,hencop.com,igo-bokep.*,igobokep.*,javindo.*,javlendirqu.*,javsubindo.*,kesiangan.com,lendirpedia.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,ngocoks.com,nntnbkptv2.space,nokephub.*,nontonbokep.*,nontonhentai.net,nontonhentai.org,pascol.*,pojokan69.com,rumahperjaka.*,seponghub.*,sibokepjepang.*,terviral.cam##a[target*="blank"]:has(> img)
 bokep360.*##a[title="banner" i]:has(> img)
-filmjepangku.com,hencop.com,javsubindo.*,lendirpedia.*,minioppai.org,pascol.*,pemersatu.link,starjepang.wiki,terviral.cam##body > div[id^="teaser"]
+filmjepangku.com,hencop.com,javsubindo.*,lendirpedia.*,minioppai.org,pascol.*,pemersatu.link,starjepang.one,terviral.cam##body > div[id^="teaser"]
 indoporn.*##div:has(> .adsbyexoclick)
 filmnikmat.*##img[alt*="iklan"]
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
