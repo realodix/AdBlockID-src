@@ -3755,6 +3755,7 @@ smartizen.my.id
 smartparent.id
 smasnug.biz.id
 smol.id
+smpantura.news
 smsibondowoso.or.id
 smsilampung.com
 snacklink.co
