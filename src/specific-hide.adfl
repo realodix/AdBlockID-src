@@ -732,6 +732,7 @@ gerbangindonesia.co.id,katakepri.com,terasmedia.id,theeast.co.id##.wpb_wrapper:h
 ftnews.co.id##.wrap_leaderboard
 dropshipaja.com##:matches-path(/blog) .code-block
 deepublishstore.com##:matches-path(/blog) .code-block:has(> a > img)
+tvrinews.com##[class*="bg-gray"]:has(> [class*="bg-gray"]:has-text(/adv/i))
 bisnisbanten.com##[class^="stream-item"]:has(> span:has-text(/adv/i))
 klikpositif.com##[data-klikpstf-trackid]:has(img)
 kumparan.com##[data-qa-id*="mobile-article-page-"]:has-text(/adv/i)
