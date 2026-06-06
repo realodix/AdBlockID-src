@@ -117,7 +117,6 @@ beritajogja.id,kbr.id,kepri.co.id##aside a[target="_blank"]:has(> img)
 cluetoday.com,kabarnusantaranews.com,koranpelita.co,rakyatbicara.id##aside figure > img
 bangkitmedia.com##aside p:matches-css(text-align: center):has(> a > img)
 gardapapua.com##aside:has-text(/adv/i)
-
 ! ---
 ! Dimension
 brigadenews.co.id,kroniktotabuan.com###sidebar-category img[style="max-width: 100%; height: auto;"]
