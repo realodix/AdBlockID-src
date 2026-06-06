@@ -83,6 +83,12 @@ stomp.sg##.w-full.min-h-\[120px\]:has(> .w-\[320px\].lg\:w-\[970px\])
 tnp.sg##.w-full.min-h-\[50px\].lg\:min-h-\[120px\]
 beritaharian.sg##[data-testid="advertisement-element"]
 !
+! VIETNAM
+! ------------------------------------------------------------------------------
+vietnam.vn##:matches-path(/id) #ad-post-above
+vietnam.vn##:matches-path(/id) #ad-post-between-sections
+vietnam.vn##:matches-path(/id) #ad-post-bottom
+!
 ! ADGUARD COMPATIBILITY
 ! ------------------------------------------------------------------------------
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
