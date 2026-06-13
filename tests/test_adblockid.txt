@@ -131,6 +131,7 @@ angket24.id
 annanews.co.id
 annews.co.id
 anoatimes.com
+antaran.id
 antaranews.com
 antarpapua.com
 anteroaceh.com
