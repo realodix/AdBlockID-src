@@ -393,6 +393,15 @@ shinigami.*,shinigamitoon.*##+js(aeld, contextmenu)
 shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 /shinigami0\d+\.com/##+js(aopr, lepopup_vars)
 ! -----------------------------------------------
+! Layar Otaku
+! https://landing.layarotaku.id/ | https://v3.layarwibu.com/ | https://www.layarecchi.com/
+! -----
+.webp|$to=layarotaku.id
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##.kln
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##body > div:matches-css(position: fixed)
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##img[width="410px"][height="90px"]
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##img[width="535px"][height="90px"]
+! -----------------------------------------------
 ! WG Film21
 ! https://tv-project-naturalmix.pages.dev/ | https://project-zonkerfilms.pages.dev/
 ! -----
