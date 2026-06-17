@@ -1,13 +1,17 @@
 0.0.realodix
 01ntn.cc
+129.212.234.208
+139.59.31.127
 139.59.66.207
 139.59.68.199
+152.42.222.112
 154.203.162.62
 154.203.165.93
 154.93.72.176
 154.93.81.7
 159.223.38.130
 159.65.12.44
+159.89.199.235
 162.244.95.216
 162.244.95.217
 165.245.191.130
@@ -18,8 +22,10 @@
 178.62.105.101
 198.105.112.102
 198.105.112.22
+204.3.203.34
 206.189.89.66
 207.180.246.102
+212.212.104.25
 217.76.53.139
 45.11.57.31
 acoustacorp.com
@@ -252,6 +258,7 @@ lnkl.st
 lokerwfh.net
 lynk.id
 maingbo.com
+managementstudyhq.com
 managingdesire.org
 mangaaku.com
 mangacanblog.com
@@ -311,7 +318,7 @@ otakudesu.best
 otakudesu.id
 ouo.io
 paficerminnangedang.org
-pagakeckempas.org
+pafisekernan.org
 pagakecmpunda.org
 page.link
 pedu.li
@@ -340,6 +347,7 @@ redirectbisnis4dsafest.com
 redirectenakslotsafest.com
 redirectmpo0110safest.com
 redirectolx101safest.com
+rewardseeds.com
 rivercatsmainecoons.com
 royal22.vip
 rozbih.org
@@ -398,6 +406,7 @@ tiny.one
 tinyurl.com
 tipmra.com
 tkpd.fyi
+todayeco.com
 tooncubus.top
 tutwuri.id
 unapro.org
