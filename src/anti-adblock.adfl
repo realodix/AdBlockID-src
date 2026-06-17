@@ -49,7 +49,7 @@ mykmu.net##+js(set-constant, tie.ad_blocker_disallow_images_placeholder, '')
 @@/fuckadblock.js$script,domain=harapansultra.com|pewarta-indonesia.com
 @@||exoclick.com/ads.js$script,domain=y2tube.pro
 @@||hetanews.com/js/googleafs.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bukutafsirmimpi.xyz|ditulis.id|kbm.id
+@@||pagead2.googlesyndication.com/pagead/$domain=bukutafsirmimpi.xyz|ditulis.id|kbm.id|otodiva.id
 @@||static.doubleclick.net/instream/ad_status.js$xhr,domain=ditulis.id
 !
 ! Unbreak
