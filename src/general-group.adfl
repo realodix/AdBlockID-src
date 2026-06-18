@@ -204,7 +204,7 @@ kontan.co.id##.heightads250
 kontan.co.id##.heightads50
 kontan.co.id##.inner-paralax-ad
 sonora.id##.kcm
-kompas.com##.kcm-track:has(> #AdTrackHbInterscrollerMobile)
+kompas.com##.kcm-track
 kontan.co.id##.liftdownclass
 bolasport.com,kompas.tv##.mgidclsbanner
 bolasport.com##.mid-banner
