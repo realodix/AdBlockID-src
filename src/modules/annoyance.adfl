@@ -64,7 +64,6 @@ jamudigital.com###boxes
 situsnobar.top###floatcenter
 kompaslampung.com##.jqbox_innerhtml
 !
-99updates.id##.modal-open:style(overflow: auto!important; position: unset!important;)
 affmotor.com,alkitabonline.org,bacaterus.com,bankiir.id,beritaja.com,biayatarif.com,brainly.co.id,carisinyal.com,emitennews.com,gamefinity.id,gammafisblog.com,gen987fm.com,goodnewsfromindonesia.id,hellosehat.com,infopapuaselatan.com,inilah.com,jabar-online.com,jagobengkel.com,ladiestory.id,lenteratoday.com,pakaibanking.com,pelindo.co.id,persis.or.id,pilihprofesi.com,prosesbayar.com,sumselindependen.com,tuliskan.id,versusbeda.com##html, body:style(overflow: auto!important; position: unset!important;)
 ketik.co.id##html:style(scrollbar-width: unset!important;)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
