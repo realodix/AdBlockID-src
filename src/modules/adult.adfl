@@ -14,6 +14,7 @@
 !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
+||serverx16.online/hls/
 !
 ! SPECIFIC HIDE
 ! ------------------------------------------------------------------------------
