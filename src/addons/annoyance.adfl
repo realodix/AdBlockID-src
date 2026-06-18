@@ -26,6 +26,7 @@ xl.co.id##.sc-concent
 bratapos.com##.uc-gdpr-notification
 indoprecast.com##.wd-cookies-popup
 deretcode.com,goersapp.com##[class*="cookie" i]
+goal.com##[id^="sp_message_container_"]
 myorbit.id,smartfren.com,telkom.co.id##div:matches-css(position: fixed):has-text(/cookie/i)
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
 kaskus.co.id##+js(set-cookie, cookie_accepted, true)
