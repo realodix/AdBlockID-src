@@ -141,8 +141,6 @@
 *://idjav.blog/*
 *://igodesu.tv/*
 *://indo18plus.com/*
-*://indocroot.site/*
-*://indojavstream.sbs/*
 *://indonesianporn.com.es/*
 *://indonesiaporn.pro/*
 *://indopanasid.top/*
@@ -151,7 +149,6 @@
 *://indovidplus.org/*
 *://javdesu.tv/*
 *://javindod.com/*
-*://javsubindo.cv/*
 *://javtube.pro/*
 *://javxindo.com/*
 *://jeniusplay.com/*
@@ -241,9 +238,12 @@
 /(?<=\/\/|\.)gocrot\.org/
 /(?<=\/\/|\.)indo18\..+/
 /(?<=\/\/|\.)indoav\..+/
+/(?<=\/\/|\.)indocroot\..+/
 /(?<=\/\/|\.)indofilmdewasa\..+/
+/(?<=\/\/|\.)indojavstream\..+/
 /(?<=\/\/|\.)indopanas\..+/
 /(?<=\/\/|\.)javindo\..+/
+/(?<=\/\/|\.)javsubindo\..+/
 /(?<=\/\/|\.)komikremaja\..+/
 /(?<=\/\/|\.)linkbacol\..+/
 /(?<=\/\/|\.)liveomek\..+/
