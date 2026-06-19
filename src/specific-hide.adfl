@@ -533,6 +533,7 @@ gamebrott.com##a[href^="https://link.gamebrott.com/"][target="_blank"]:has(> img
 penabali.com##a[href^="https://link.penabali.com/go/"]
 bengkeldigital.my.id##a[href^="https://risharyanto.id/"]:has(img)
 titipjepang.com##a[href^="https://titipjepang.com/promo/"]:has(> img)
+transportasimedia.com##a[href^="https://transportasimedia.com/ads/"]
 monitorindonesia.com##a[rel*="sponsored"]
 bentengsumbar.com,sijorikepri.com,wawainews.id##a[title*="iklan" i]:has(> img)
 ntbsatu.com##a[title="iklan" i]
