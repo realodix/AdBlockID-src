@@ -59,6 +59,12 @@ Jalankan command `composer install` di direktori root AdBlockID.
 
 Haiku menyediakan beberapa command utama untuk memelihara daftar filter AdBlockID:
 
+- `./vendor/bin/haiku lint`
+
+  Memeriksa kesalahan dalam daftar filter.
+
+  VSCode Task: `Lint`
+
 - `./vendor/bin/haiku fix`
 
   Mengurutkan dan merapikan daftar filter.
