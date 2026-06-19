@@ -49,15 +49,13 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
 
 ## 🛠️ Pengelolaan
 
-AdBlockID menggunakan [Haiku](https://github.com/realodix/haiku) sebagai *tools* untuk mengelola dan memelihara daftar filter. Haiku membantu dalam proses sortir, membersihkan, dan menggabungkan filter di folder `src` menjadi file tunggal di `dist`, sehingga pemeliharaan menjadi mudah dan efisien tanpa editing manual.
+AdBlockID menggunakan [Haiku](https://github.com/realodix/haiku) sebagai *tools* untuk mengelola dan memelihara daftar filter.
 
 ### Instalasi
 
-Jalankan command `composer install` di direktori root AdBlockID.
+Jalankan command `composer install` di direktori root `AdBlockID-src`.
 
 ### Penggunaan
-
-Haiku menyediakan beberapa command utama untuk memelihara daftar filter AdBlockID:
 
 - `./vendor/bin/haiku lint`
 
@@ -73,7 +71,7 @@ Haiku menyediakan beberapa command utama untuk memelihara daftar filter AdBlockI
 
 - `./vendor/bin/haiku build`
 
-  Menggabungkan semua filter dari folder `src/` menjadi satu file di folder `dist/`.
+  Menggabungkan semua filter (`/src`) menjadi satu file filter siap pakai (`/src`).
 
   VSCode Task: `Build`
 
