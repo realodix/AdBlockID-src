@@ -27,7 +27,6 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
  │   └─ safelink.adfl             [All] Situs berjenis safelink/shortlink.
  ├─ /addons                 AdBlockID Addons
  │   └─ ...
- ├─ adservers.adfl          [G] Daftar domain/IP penyedia layanan iklan pihak ketiga.
  ├─ anti-adblock.adfl       [G/S] Melumpuhkan ad block detection.
  ├─ extended.adfl           [S] Perbaiki tampilan situs setelah iklannya dihilangkan.
  ├─ general-block.adfl      [G] Blokir iklan.

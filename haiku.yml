@@ -37,7 +37,6 @@ builder:
       source:
         - src/general-block.adfl
         - src/general-hide.adfl
-        - src/adservers.adfl
         - src/general-group.adfl
         - src/specific-block.adfl
         - src/specific-hide.adfl
