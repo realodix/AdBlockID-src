@@ -2826,6 +2826,7 @@ nasional.news
 nasionalnews.id
 naskah.id
 natmed.id
+navaswara.com
 navigasi.eu.org
 nawacita.co
 nawacitalink.com
