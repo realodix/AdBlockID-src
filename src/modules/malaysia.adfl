@@ -9,6 +9,7 @@ astroawani.com###banner
 utusantv.com###uts-billboard
 bharian.com.my,hmetro.com.my##.ad
 mediahiburan.my##.adplaceholder-mrec
+chinapress.com.my##.ads-frame
 kinitv.com##.bg-gray-100:has(> .adunitContainer)
 thevocket.com##.billboard-wrap
 webbrowsertools.com##.card:has-text(/advertisement/i)
