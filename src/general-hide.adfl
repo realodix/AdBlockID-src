@@ -781,6 +781,9 @@
 ##.ane-iklan-container
 ##.ane-iklan-isi
 ##.ane-iklan-longbanner-header
+##.anm-ad-img
+##.anm-ad-sidebar
+##.anm-ad-slot
 ##.anm__flying--ads-holder
 ##.anm__flying--ads-left
 ##.anm__flying--ads-right
@@ -1466,6 +1469,7 @@
 ##.widget-iklan-sidebar
 ##.widgetAds1
 ##.widget_advertisement-image
+##.widget_anm_ad_space_specific
 ##.widget_iklan_atas
 ##.widget_iklan_atas_content
 ##.wrap-ads-r
