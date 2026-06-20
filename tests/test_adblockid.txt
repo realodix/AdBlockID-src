@@ -4283,6 +4283,7 @@ tvbersama.cam
 tvbersama.cc
 tvbersama.cyou
 tvbersama.rest
+tvku.tv
 tvonenews.com
 tvpapua.com
 tvrijakartanews.com
