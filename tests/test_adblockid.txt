@@ -978,6 +978,7 @@ extranews.id
 fajar.co.id
 fajarbanten.co.id
 fajarborneo.com
+fajarcirebon.com
 fajarharapan.id
 fajarmalut.com
 fajarmanado.com
