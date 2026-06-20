@@ -36,8 +36,14 @@ vanakkammalaysia.com.my##img[width="728"][height="91"]
 kisahdunia.com##+js(aost, DOMTokenList.prototype.contains, manageBodyClasses)
 !
 ! ANNOYANCE
+! -----------------------------------------------
+! POPUP & OVERLAY
+! -----
+bernama.com##.fade.show
+bernama.com##html, body:style(overflow: auto!important; position: unset!important;)
+! -----------------------------------------------
 ! Unblock Mouse limitations
-! ------------------------------------------------------------------------------
+! -----
 azhan.co,mediahiburan.my##+js(acis, disableSelection, reEnable)
 mediahiburan.my##+js(acis, document.oncontextmenu)
 !
