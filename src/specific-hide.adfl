@@ -272,6 +272,9 @@ pelitamaluku.com##.bannerside
 kabarmancing.com,lensanews.net##.bannersinglefot
 lamanriau.com##.basic-banner
 dialogpublik.com##.betteradscontainer
+bisnis.com##.billboardParallax
+bisnis.com##.billboardPushdown
+bisnis.com##.billboardWrapper
 beritapelitakarawang.com,dewankarawang.com,karawangkekinian.com,pelitakarawang.com##.billboard_ads_pushdown
 karogaul.com##.blog-banner
 tirto.id##.bnnr-prmm
@@ -619,9 +622,6 @@ casaindonesia.com##.articleBody > div[style="padding: 30px 0; text-align:center 
 cara.my.id##.atas-artikel
 cara.my.id##.bawah-artikel
 infogarut.id##.bg-go-white.overflow-hidden:has(> span:has-text(/adv/i))
-bisnis.com##.billboardParallax
-bisnis.com##.billboardPushdown
-bisnis.com##.billboardWrapper
 beritapelitakarawang.com,dewankarawang.com,karawangkekinian.com,pelitakarawang.com##.billboard_flying
 goinsan.com##.bottomBox
 borobudurnews.com##.bs-sksitem
