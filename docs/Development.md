@@ -16,16 +16,15 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
 ```
 /src
  ├─ /modules
- │   ├─ adult.adfl                [S] ...
- │   ├─ adult-block.adfl          [G] Blokir iklan berkonten dewasa.
- │   ├─ adult-hide.adfl           [G] Sembunyikan iklan berkonten dewasa.
- │   ├─ annoyance.adfl            [G/S] Menghilangkan elemen yang mengganggu.
- │   ├─ annoyance_limitation.adfl [G/S] Menangani beberapa limitasi.
- │   ├─ annoyance_safelink.adfl   [G/S] Menampilkan link asli yang ditutupi oleh safelink.
- │   ├─ fandom.adfl               [All] Situs streaming, baca komik, dan lainnya.
- │   ├─ malaysia.adfl             [All] Situs berbahasa Melayu.
- │   └─ safelink.adfl             [All] Situs berjenis safelink/shortlink.
+ │   ├─ adult.adfl          [S] ...
+ │   ├─ adult-block.adfl    [G] Blokir iklan berkonten dewasa.
+ │   ├─ adult-hide.adfl     [G] Sembunyikan iklan berkonten dewasa.
+ │   ├─ fandom.adfl         [All] Situs streaming, baca komik, dan lainnya.
+ │   ├─ malaysia.adfl       [All] Situs berbahasa Melayu.
+ │   └─ safelink.adfl       [All] Situs berjenis safelink/shortlink.
  ├─ /addons                 AdBlockID Addons
+ │   ├─ /Annoyances             Filter annoyances
+ │   │   └─ ...
  │   └─ ...
  ├─ anti-adblock.adfl       [G/S] Melumpuhkan ad block detection.
  ├─ extended.adfl           [S] Perbaiki tampilan situs setelah iklannya dihilangkan.

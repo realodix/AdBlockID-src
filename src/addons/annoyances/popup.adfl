@@ -1,9 +1,3 @@
-!# Menghilangkan elemen yang mengganggu dan kurang menguntungkan untuk user
-!#
-!# --------------------------------------------------------
-!#
-! POPUP & OVERLAY
-! ------------------------------------------------------------------------------
 ?key=*&submetric=$3p,popup
 jurnalfaktual.id,kotakgame.com##+js(aopr, $.magnificPopup.open)
 beritasore.co.id,jejakmufassir.my.id,mistertekno.com##+js(nowoif)
@@ -31,7 +25,6 @@ ladiestory.id###modalBanner
 ketik.co.id###modalPopup
 bankiir.id,biayatarif.com,pakaibanking.com,pilihprofesi.com,prosesbayar.com,tuliskan.id###myCont
 emitennews.com###myPopup
-telset.id###overlay
 lahatonline.com###popover
 josstoday.com###popup
 gamefinity.id,kabarpublik.id###popup-ads
@@ -60,10 +53,6 @@ emitennews.com##.popup-ads
 beritaup2date.com##.w3-modal
 pasjabar.com##.wp-popup
 !
-jamudigital.com###boxes
-situsnobar.top###floatcenter
-kompaslampung.com##.jqbox_innerhtml
-!
 affmotor.com,alkitabonline.org,bacaterus.com,bankiir.id,beritaja.com,biayatarif.com,brainly.co.id,carisinyal.com,emitennews.com,gamefinity.id,gammafisblog.com,gen987fm.com,goodnewsfromindonesia.id,hellosehat.com,infopapuaselatan.com,inilah.com,jabar-online.com,jagobengkel.com,ladiestory.id,lenteratoday.com,pakaibanking.com,pelindo.co.id,persis.or.id,pilihprofesi.com,prosesbayar.com,sumselindependen.com,tuliskan.id,versusbeda.com##html, body:style(overflow: auto!important; position: unset!important;)
 ketik.co.id##html:style(scrollbar-width: unset!important;)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
@@ -72,33 +61,3 @@ duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
 !#else
 duniagames.co.id##html:remove-class(cdk-global-scrollblock)
 !#endif
-!
-! FAKE BUTTON
-! ------------------------------------------------------------------------------
-kuyhaa-me.id,yasir-252.net##.entry-content .code-block
-rgames31.com##.entry-content > center a[target="_blank"] input
-abbaspc.net,bagas3-1.co##.entry-content center > a:has(> button)
-gigapurbalingga.cc,kuyhaa-me.pw##.entry-content center:has(> .button-container > button)
-kuyhaa.cc##.post-wrapper .code-block:has(> center > a > button)
-kuyhaa.id##article #download-container button:has-text(/download/i)
-kuyhaacracks.com##article .code-block
-gigapurbalinggaa.com##article .code-block > center:has(> button:has-text(/download/i))
-kuyhaa.id##article center:has(.button-container > button:has-text(/download/i))
-alex71.com,bagas31.pro,kuyhaa-me.id,kuyhaa.team##article center:has(> a[href^="javascript:void("])
-bagas3-1.com,bagas31.org,bagas31.pw##button[onclick^="handleDownload" i]
-!
-! GENERAL
-! ------------------------------------------------------------------------------
-! Automated Link Attribution
-/copy_credit.$script,domain=kompas.com
-||sindonews.com/sc-v1.js
-||tribunnews.com/js/copy.js
-gridoto.com,kompasiana.com,sonora.id,tribunnews.com##+js(aeld, /copy|keydown/)
-katadata.co.id##+js(aopr, addLink)
-tirto.id##+js(rc, container900, div)
-! ---
-! Browser Back (history manipulation)
-! 0.0.realodix##+js(set, window.onpopstate, noopFunc)
-! ---
-! Defuse reloading of a document through a meta "refresh" tag.
-tipskerja.com##+js(refresh-defuser)

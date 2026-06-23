@@ -45,9 +45,6 @@ builder:
         - src/whitelist.adfl
         - src/extended.adfl
         - src/modules/fandom.adfl
-        - src/modules/annoyance.adfl
-        - src/modules/annoyance_limitation.adfl
-        - src/modules/annoyance_safelink.adfl
         - src/modules/safelink.adfl
         - src/modules/adult.adfl
         - src/modules/adult-block.adfl
@@ -63,10 +60,23 @@ builder:
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
       source:
-        - src/addons/annoyance.adfl
-        - src/addons/self-promotion.adfl
         - src/addons/personal.adfl
+        - src/addons/self-promotion.adfl
         - src/addons/badware.adfl
+    - filename: annoyance.txt
+      header: |
+        [Adblock Plus 2.0]
+        ! Title: AdBlockID - Annoyances
+        ! Description: Remove Pop-Ups, cookie warnings and other annoyances.
+        ! Last modified: %timestamp%
+        ! Expires: 6 days
+        ! Homepage: https://github.com/realodix/AdBlockID
+        ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
+      source:
+        - src/addons/annoyances/general.adfl
+        - src/addons/annoyances/limitation.adfl
+        - src/addons/annoyances/popup.adfl
+        - src/addons/annoyances/safelink.adfl
     - filename: safesearch.txt
       header: |
         ---

@@ -15,7 +15,6 @@
 92news.id
 a-news.id
 abadikini.com
-abbaspc.net
 abchannel.id
 abdipersadafm.co.id
 abdumar.com
@@ -63,7 +62,6 @@ advertising.katadata.co.id
 advertising.kontan.co.id
 aedi.ai
 afederasi.com
-affmotor.com
 agaranews.com
 agency-iklan.com
 ageniklanjawapos.com
@@ -87,7 +85,6 @@ aktualonline.co.id
 aktuil.com
 akurasi.id
 akurat.co
-alex71.com
 alexanews.id
 alfagift.id
 alfatih-media.com
@@ -174,7 +171,6 @@ aspirasinews.id
 aspost.id
 assets.ayobandung.com
 astra.co.id
-astronauts.id
 atasaspal.com
 atjehdaily.id
 atjehterkini.id
@@ -231,15 +227,9 @@ bacatrend.com
 backlink.co.id
 badakpos.com
 badmintonews.id
-bagas3-1.co
-bagas3-1.com
-bagas31.org
-bagas31.pro
-bagas31.pw
 bagiberita.id
 bagusnews.co
 bahanarakyat.com
-bahankain.com
 bahasakita.com
 bahasteknologi.com
 bahterajateng.com
@@ -329,7 +319,6 @@ batamclick.com
 bataminfo.co.id
 batamnews.co.id
 batamnow.com
-batampos.co.id
 batamtimes.co
 batamtoday.com
 batarapos.com
@@ -718,7 +707,6 @@ chatnews.id
 chordindonesia.com
 cilacapkekinian.com
 cilangkahannewschannel.com
-cindenian.com
 cipasera.com
 cipulusnews.com
 cireboners.id
@@ -927,7 +915,6 @@ edisiindonesia.id
 edisimedan.com
 editor.co.id
 editor.id
-editorial9.com
 editorialkaltim.com
 eduhistoria.com
 edunews.id
@@ -1070,8 +1057,6 @@ galuhnews.com
 gamebrott.com
 gamefinity.id
 gamingonphone.com
-gammafisblog.com
-gap.web.id
 garda.co.id
 garda.id
 gardaanimalia.com
@@ -1106,13 +1091,10 @@ gemilangpos.com
 gemparnews.com
 gempurnews.com
 gemuruhnews.com
-gen987fm.com
-gendis.id
 genmilenial.id
 genmuslim.id
 genpi.co
 gensa.club
-gentra.co.id
 genvoice.id
 genyo.id
 genzdaily.com
@@ -1125,8 +1107,6 @@ gesahkita.com
 gesuri.id
 getarnews.com
 ggwp.id
-gigapurbalingga.cc
-gigapurbalinggaa.com
 gilangnews.com
 gimic.id
 girinesia.com
@@ -1180,7 +1160,6 @@ gudangssl.id
 guebanget.com
 guideku.com
 gurindam.id
-guru-id.com
 gurusiana.id
 gustani.id
 habanusantara.net
@@ -1275,7 +1254,6 @@ hariankandidat.co.id
 hariankarawang.com
 hariankepri.com
 hariankota.com
-harianlenteraindonesia.co.id
 harianmalang.com
 harianmassa.id
 harianmemokepri.com
@@ -1356,7 +1334,6 @@ howdy.id
 hrd-forum.com
 hub.jogjaweb.co.id
 hukamanews.com
-hukum-hukum.com
 hukumkriminal.net
 hukumonline.com
 hulondalo.id
@@ -1367,7 +1344,6 @@ hybrid.co.id
 ib.pictures
 ibarat.id
 ibenews.id
-ibtimes.id
 id.alongwalker.co
 id.mashable.com
 id.quora.com
@@ -1375,7 +1351,6 @@ id.rayhaber.com
 id.seedbacklink.com
 id.techinasia.com
 id.theasianparent.com
-idblanter.com
 idealis.co.id
 ideanews.id
 ideatimes.id
@@ -1702,7 +1677,6 @@ jambioke.com
 jambione.com
 jambiseru.com
 jambiterkini.com
-jamudigital.com
 jangantulalit.com
 jangkara.com
 jangkarpena.com
@@ -1752,7 +1726,6 @@ jejakkasus.info
 jejakkeadilan.com
 jejakkriminal.com
 jejakkriminal.net
-jejakmufassir.my.id
 jejaknarasi.id
 jejakntb.com
 jejakpos.id
@@ -1782,7 +1755,6 @@ jogjaweb.co.id
 joglojateng.com
 joglomedia.com
 joglosemarnews.com
-josstoday.com
 journallampung.com
 journalnusantara.com
 journalsumatera.com
@@ -2160,7 +2132,6 @@ kompas.id
 kompas.tv
 kompas1.net
 kompasiana.com
-kompaslampung.com
 kompiajaib.com
 kompirasi.com
 komunica.id
@@ -2210,7 +2181,6 @@ koranntb.com
 koranntt.com
 korannusantara.id
 koranpagionline.com
-koranpapua.id
 koranpelita.co
 koranpelita.com
 koranperbatasan.com
@@ -2230,7 +2200,6 @@ koreksinews.com
 koreri.com
 koropak.com
 korporasi.kompas.id
-kostatv.id
 kostjakarta.com
 kotakgame.com
 kotaku.co.id
@@ -2259,8 +2228,6 @@ kuantanxpress.id
 kuasa.net
 kuasakata.com
 kuatbaca.com
-kucingmania.net
-kucingpersia.co.id
 kulturnativ.com
 kumalanews.id
 kumbanews.com
@@ -2276,16 +2243,9 @@ kutairaya.com
 kutipan.co
 kutipan.co.id
 kutora.id
-kuyhaa-me.id
-kuyhaa-me.pw
-kuyhaa.cc
-kuyhaa.id
 kuyhaa.me
-kuyhaa.team
-kuyhaacracks.com
 kuyou.id
 kwarta5.com
-lacako.com
 lacakpos.co.id
 ladiestory.id
 laduni.id
@@ -2313,7 +2273,6 @@ lampungmandiri.id
 lampungmediaonline.com
 lampungnesia.com
 lampungpagi.com
-lampungpost.id
 lampungpride.com
 lampungpro.co
 lampungrayanews.com
@@ -2441,7 +2400,6 @@ liranews.com
 liratv.id
 liriklaguhits.id
 liriknews.com
-lirikterjemahan.id
 listrikindonesia.com
 livesports044.com
 livesports055.com
@@ -2516,7 +2474,6 @@ manggarainews.com
 manggisnews.com
 manuntungnews.com
 marawapost.com
-maribelajarcoding.com
 marinyo.com
 mariodevan.com
 marjinal.id
@@ -2840,7 +2797,6 @@ nasionalnews.id
 naskah.id
 natmed.id
 navaswara.com
-navigasi.eu.org
 nawacita.co
 nawacitalink.com
 nawacitapost.com
@@ -2881,17 +2837,14 @@ newstasikmalaya.com
 newsurban.id
 newsyess.com
 ngaderes.com
-ngaji.id
 nganjukterkini.id
 ngelink.me
 ngopibareng.id
-ngulikode.com
 niaga.asia
 noa.co.id
 nobartvgratis.com
 nokenlive.com
 nolmeter.com
-nomor.net
 nomplok.com
 nongkrong.co
 northsulawesinews.com
@@ -2899,7 +2852,6 @@ nosakaltara.com
 noteza.id
 notif.news
 notifindonesia.com
-noveltoon.mobi
 ntbnow.co
 ntbpos.com
 ntbsatu.com
@@ -2974,7 +2926,6 @@ onekliknews.com
 onlinekoe.com
 onlinepantura.com
 ontime.id
-openkerja.id
 opiniindonesia.com
 opsintb.com
 optika.id
@@ -3011,7 +2962,6 @@ padangtime.com
 pajajaranekspres.com
 pakaibanking.com
 pakarinfo.co.id
-paketinternet.net
 palapanews.com
 palapapos.co.id
 palembangindependen.com
@@ -3088,7 +3038,6 @@ pedomanbengkulu.com
 pedulirakyat.co.id
 pejuangkantoran.com
 pelalawanpos.co
-pelindo.co.id
 pelita.co.id
 pelitaekspres.com
 pelitajabar.com
@@ -3108,7 +3057,6 @@ pemantiknews.id
 pembaruan.id
 penabali.com
 penabicara.com
-penakatolik.com
 penaku.id
 penalutim.com
 penamerdeka.com
@@ -3213,7 +3161,6 @@ porosnusantara.co.id
 porostimur.com
 portal-indonesia.com
 portal-islam.com
-portal-islam.id
 portal.id
 portal7.co.id
 portalamanah.com
@@ -3280,7 +3227,6 @@ presmedia.id
 primbon.com
 primesasia.com
 prioritastv.com
-proaksinews.com
 prodeteksi.com
 productnation.co
 progresif.id
@@ -3334,7 +3280,6 @@ qsantri.eu.org
 queennews.id
 quena.id
 qwords.com
-r3ndy.com
 radar-kalteng.com
 radar-x.net
 radar24.co.id
@@ -3389,7 +3334,6 @@ radartasik.id
 radartimur.id
 radarupdate.id
 radioazamfm.id
-radiokucing.com
 radioonline.co.id
 radiowebindo.com
 ragam-indonesia.com
@@ -3478,7 +3422,6 @@ reviewsteknologiku.tech
 revivaltv.id
 revolusinews.com
 revolusinews.id
-rgames31.com
 rgol.id
 riau24.com
 riau86.com
@@ -3578,7 +3521,6 @@ samawarea.com
 sambar.id
 samuderakepri.co.id
 samudranews.com
-sandeq.co.id
 sandimerahputih.com
 sanga.id
 sangalu.com
@@ -3773,7 +3715,6 @@ sisijabar.com
 sitnas.id
 situasi.co.id
 situskuliner.com
-situsnobar.top
 situsproperti.com
 siwalimanews.com
 skalapost.com
@@ -3832,7 +3773,6 @@ sriwijayaonline.com
 star-news.id
 starbanjar.com
 static.promediateknologi.id
-stekom.ac.id
 stmikaelkranji.org
 stories.rahasiagadis.com
 strategi.id
@@ -3885,7 +3825,6 @@ suarakeadilannews.id
 suarakepri.com
 suaraklaten.id
 suarakonsumenindonesia.com
-suarakumandang.com
 suarakuningan.com
 suaralampung.co.id
 suaralinggau.com
@@ -4035,7 +3974,6 @@ tabloidlintaspena.com
 tabloidmatahati.com
 tabloidpilarpost.com
 taburapos.co
-tafsirq.com
 tafsirweb.com
 tagarjatim.id
 tahuberita.com
@@ -4069,7 +4007,6 @@ targetnews.id
 tatarmedia.id
 tatiye.id
 tatkala.co
-taxacademy.id
 tebarberita.id
 techaku.com
 techbloogs.com
@@ -4090,7 +4027,6 @@ telegrafnews.co
 telegraph.id
 telisik.id
 telisik.net
-telset.id
 telusur.co.id
 tempat-usaha.com
 tempo.co
@@ -4177,7 +4113,6 @@ tipikal.com
 tipkerja.com
 tipologi.com
 tipsbelajarbahasainggris.com
-tipskerja.com
 tiradar.id
 tirasonline.com
 tirilolok.co.id
@@ -4195,7 +4130,6 @@ toffee.id
 toffeedev.com
 tokopedia.link
 tomei.id
-tomtekno.com
 tonjoostudio.com
 topbnews.com
 topbusiness.id
@@ -4285,7 +4219,6 @@ tubasmedia.com
 tugasbangsa.com
 tugujatim.id
 tugumalang.id
-tuliskan.id
 tunggal.co
 tuntaslampung.com
 tuntasonline.id
@@ -4311,7 +4244,6 @@ ulasan.co
 ulasan.tv
 unews.id
 ungkap.co.id
-unja.ac.id
 unsulbarnews.com
 updatekaltim.com
 updatetodaynews.com
@@ -4339,7 +4271,6 @@ vartadiy.com
 vcgamers.com
 venuemagz.com
 versiterkini.com
-versusbeda.com
 victorynews.id
 video.okezone.com
 vidio.com
@@ -4366,18 +4297,15 @@ voxkalteng.com
 voxlampung.com
 voxnusantara.com
 wacana-edukasi.com
-wacana.org
 wahanaindonews.com
 wahananews.co
 wahanariau.com
-wahdah.or.id
 wajahbangsanews.com
 wajahbatam.id
 wajahborneo.com
 wajoterkini.com
 wakool.id
 waktuindonesia.id
-wandercom.id
 wanmedia.co.id
 waralabakan.com
 wargalampung.com
@@ -4402,7 +4330,6 @@ wartaindo.news
 wartaindonesia.co
 wartaindonesiaonline.com
 wartainspirasi.com
-wartajurnalis.com
 wartakepri.co.id
 wartakini.co
 wartakita.id
