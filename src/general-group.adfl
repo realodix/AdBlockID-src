@@ -450,6 +450,7 @@ okezone.com##.flying_ads
 okezone.com##.iframe-banner:remove()
 inews.id,sindonews.com##.parallax-ad
 inews.id##.stickyAds
+inews.id##.stickyAds-wp
 okezone.com##.title-ads-mega
 sindonews.com##.vid-ads:remove()
 inews.id##[id^="ads-rect-"]
