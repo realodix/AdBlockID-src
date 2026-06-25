@@ -76,6 +76,7 @@ detik.com##.ratio-dugout-detail
 kompas.com###contentArticle > .kgnw-middle:has(> .kgnw-middle-player):remove()
 cnnindonesia.com###livetv-float:remove()
 detik.com###notif-20d .float-vid__content:remove()
+informasi.com###popup-video:remove()
 cnbcindonesia.com###streamBox.fixed:remove()
 katadata.co.id###video_in_article:remove()
 detik.com##.aevp:has(> .sisip_video_ds):remove()
