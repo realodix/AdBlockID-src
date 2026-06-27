@@ -55,6 +55,7 @@
 ###ads-content1
 ###ads-content2
 ###ads-kecil
+###ads-paling-atas
 ###ads-scrollpage-container-leaderboard
 ###ads-top-header-parallax
 ###ads-vert-300
@@ -794,6 +795,7 @@
 ##.area-iklan-kanan-atas
 ##.area-iklan-kiri-atas
 ##.areaiklan
+##.article-ad-slot
 ##.article-bottom-ad
 ##.awael-ads-carousel
 ##.baca-juga-ad
@@ -1376,6 +1378,7 @@
 ##.sf-ad-header-below
 ##.sf-shadow-iklan
 ##.side-ad-section
+##.sidebar-ad-widget
 ##.sidebar-ads-group
 ##.sidebar-ads1
 ##.sidebar-ads2
