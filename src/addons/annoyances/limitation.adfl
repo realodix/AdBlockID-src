@@ -1,7 +1,3 @@
-!# Menghilangkan beberapa limitasi pada mouse dan keyboard
-!#
-!# --------------------------------------------------------
-!#
 ! GENERAL
 ! ------------------------------------------------------------------------------
 /aseerishraque/disable-inspect-browser/*
@@ -51,3 +47,11 @@ tirto.id##+js(aopr, window.$nuxt._route.query.copy)
 ! Video Player
 ! ------------------------------------------------------------------------------
 20.detik.com,cnbcindonesia.com,cnnindonesia.com,transtv.co.id##+js(ra, oncontextmenu|disablepictureinpicture, video, stay)
+!
+! PAYWALL
+! ------------------------------------------------------------------------------
+kompas.id##.non-paywall:style(display: block !important;)
+kompas.id##.paywall
+thejakartapost.com##.tjp-overlay
+thejakartapost.com##.tjp-paywall
+thejakartapost.com##body, html, .active:style(overflow: auto !important; position: initial !important;)
