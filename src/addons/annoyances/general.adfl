@@ -35,9 +35,10 @@ garuda-indonesia.com##+js(set-local-storage-item, cookies, true)
 asianet.co.id##+js(set-local-storage-item, cookiesAccepted, true)
 komdigi.go.id##+js(set-local-storage-item, localConsent, true)
 !
+indonesiabusinesspost.com##.blackkosong
 puratos.co.id##.modal
 puratos.co.id##.modal-backdrop
-puratos.co.id##body,html:style(overflow: auto !important; position: initial !important;)
+indonesiabusinesspost.com,puratos.co.id##body, html:style(overflow: auto !important; position: initial !important;)
 !
 ! VIDEO AUTOPLAYER
 ! ------------------------------------------------------------------------------
