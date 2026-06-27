@@ -152,6 +152,9 @@ bagas3-1.com,bagas31.org,bagas31.pw##button[onclick^="handleDownload" i]
 ! ------------------------------------------------------------------------------
 kompas.id##.non-paywall:style(display: block !important;)
 kompas.id##.paywall
+thejakartapost.com##.tjp-overlay
+thejakartapost.com##.tjp-paywall
+thejakartapost.com##body, html, .active:style(overflow: auto !important; position: initial !important;)
 !
 ! RELATED ARTICLE
 ! ------------------------------------------------------------------------------
