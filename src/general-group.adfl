@@ -762,6 +762,7 @@ fctv33.*,fctv33hd.*,fctv77.*,rbsports77.*,rbtv77.*##:matches-path(/id) iframe + 
 ! -----
 ||kuyhaa.me/*.php
 ||kuyhaa.me/pmbut.js
+@@||kuyhaa.me/wp-admin/admin-ajax.php
 kuyhaa.me###protected-content
 kuyhaa.me##.entry-content center > a:has(> input[src])
 kuyhaa.me##+js(aeld, '', aadb_get_data)
