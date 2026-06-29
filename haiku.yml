@@ -73,10 +73,10 @@ builder:
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
       source:
-        - src/addons/annoyances/general.adfl
-        - src/addons/annoyances/limitation.adfl
-        - src/addons/annoyances/popup.adfl
-        - src/addons/annoyances/safelink.adfl
+        - src/addons/annoyances/any_general.adfl
+        - src/addons/annoyances/any_limitation.adfl
+        - src/addons/annoyances/any_popup.adfl
+        - src/addons/annoyances/any_safelink.adfl
     - filename: safesearch.txt
       header: |
         ---
