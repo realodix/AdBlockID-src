@@ -109,7 +109,7 @@ cli.re
 clickurl.link
 cloud.hownetwork.xyz
 conferencebyphone.com
-cosmicscans.asia
+cosmicscans.to
 cpcanc.org
 crotpedia.net
 cuanbgt.id
@@ -150,6 +150,7 @@ gacorbgt.com
 gacorbgt.ws
 gambarklikzeus.com
 ganool.app
+gcbos.com
 gendeng.de
 getnoticedgetfound.com
 glenbeulah.org
@@ -316,7 +317,6 @@ nontondrama.my
 nontondrama.wiki
 nontonfilm.website
 noromax01.my.id
-novascans.id
 omanga.net
 onepieceberwarna.com
 oppa.biz

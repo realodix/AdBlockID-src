@@ -484,6 +484,8 @@
 ##.ad-float-image
 ##.ad-header-bottom
 ##.ad-heder-320-50
+##.ad-markup
+##.ad-markup__item
 ##.ad-min-280
 ##.ad-slot-wrap
 ##.ad-type2_
@@ -956,6 +958,11 @@
 ##.float-iklan-kiri
 ##.floatadsatas
 ##.floatadsbawah
+##.floating-ad
+##.floating-ad--center
+##.floating-ad__frame
+##.floating-ad__inner
+##.floating-ad__script
 ##.floating-ads
 ##.floating-ads-left
 ##.floating-ads-right

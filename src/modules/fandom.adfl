@@ -316,9 +316,8 @@ ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21offici
 ! https://github.com/AdguardTeam/AdguardFilters/issues/192859
 ! https://github.com/keiyoushi/extensions-source/issues/9041
 ! -----
-cosmicscans.asia,novascans.id###floatcenter
-cosmicscans.asia,novascans.id##.kln
-cosmicscans.asia,novascans.id##a[target*="blank"]:has(> img)
+cosmicscans.to##a[target*="blank"]:has(> img)
+cosmicscans.to##html, body:style(overflow: auto!important; position: unset!important;)
 /cosmic\d+\.co/###floatcenter
 /cosmic\d+\.co/##.kln
 /cosmic\d+\.co/##a[target*="blank"]:has(> img)
