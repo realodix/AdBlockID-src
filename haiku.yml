@@ -60,9 +60,9 @@ builder:
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
       source:
-        - src/addons/personal.adfl
-        - src/addons/self-promotion.adfl
-        - src/addons/badware.adfl
+        - src/addons/plus/p_general.adfl
+        - src/addons/plus/p_int.adfl
+        - src/addons/plus/p_badware.adfl
     - filename: annoyance.txt
       header: |
         [Adblock Plus 2.0]

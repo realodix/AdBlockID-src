@@ -1,35 +1,3 @@
-! Shopping
-m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
-katadata.co.id##.detail-body .section-affiliate
-vidio.com##[class^="shopping-banner-module_"]
-! Shopping - side effect
-m.vidio.com##.no-scrollbar:style(scrollbar-width: auto!important;)
-m.vidio.com##.overflow-hidden:style(overflow: auto!important;)
-m.vidio.com##body:style(overflow: auto!important; position: unset!important;)
-m.vidio.com##+js(rc, overflow-hidden|lg:overflow-hidden!, body, stay)
-! Voucher Promo
-bogordaily.net,mojok.co##.code-block > .voucher_at
-inews.id##.content-detail .voucherWrap
-sindonews.com##.content-row .voucher_at
-diadona.id##.detail-body .voucherWrap
-okezone.com##.details .voucherWrap
-! Voucher Promo (Mobile)
-okezone.com##.Post__Container .voucherWrap
-inews.id##.detail-artikel .voucherWrap
-sindonews.com##.detail-desc .voutstream
-!
-! STYLE FIXER
-! ------------------------------------------------------------------------------
-mediabumn.com###mvp-site-main:style(margin-top: 0!important;)
-eksposisi.com###single-content:style(margin-top: 150px!important;)
-theiconomics.com##.archive .wp-page:style(margin-top: 150px!important;)
-theiconomics.com##.home .bkmodule:style(margin-top: 100px!important;)
-jatimtimes.com##.main-page:style(min-height: initial!important;)
-theiconomics.com##.single-post .code-block + .single-page:style(margin-top: 100px!important;)
-glints.com##body:style(margin-top: 0!important;)
-detik.com##body:style(padding-top: 0!important;)
-detik.com##header:style(margin: 0!important; padding: 0!important;)
-!
 ! BLOG NETWORK
 ! ------------------------------------------------------------------------------
 ||bloggerhub.id/wp-content/uploads/$3p
@@ -54,26 +22,6 @@ detik.com##header:style(margin: 0!important; padding: 0!important;)
 !#if adguard
 /^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$badfilter,document,popup,subdocument
 !#endif
-!
-! INTERNATIONAL (Indonesian Language)
-! ------------------------------------------------------------------------------
-id.alongwalker.co##.ads_fullbox
-id.theasianparent.com##.bottom-sticky.only-mobile.layer-bsa-bn:style(min-height: 0 !important;)
-id.techinasia.com##.gam-ads-banner
-id.theasianparent.com##.mobile-ad-wrap
-id.theasianparent.com##.outstream-ad-slot
-id.quora.com##.q-box:has(> .q-flex > .dom_annotate_google_ad)
-id.theasianparent.com##.tap-ad-container
-id.rayhaber.com##.textwidget > a:has(> img)
-id.mashable.com##.topadv
-parcelsapp.com##div[style="text-align: center; min-height: 280px;"]
-! Annoyances
-! ---
-id.theasianparent.com##*:style(user-select:text!important;)
-id.theasianparent.com##+js(aopr, document.onselectstart)
-! Style Fixer
-! ---
-id.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: 10px!important;)
 !
 ! SINGAPORE
 ! ------------------------------------------------------------------------------

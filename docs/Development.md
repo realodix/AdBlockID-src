@@ -23,7 +23,9 @@ Agar mudah di-maintain, daftar filter dipecah dan dikelompokkan ke dalam beberap
  │   ├─ malaysia.adfl       [All] Situs berbahasa Melayu.
  │   └─ safelink.adfl       [All] Situs berjenis safelink/shortlink.
  ├─ /addons                 AdBlockID Addons
- │   ├─ /Annoyances             Filter annoyances
+ │   ├─ /annoyances             Filter annoyances
+ │   │   └─ ...
+ │   ├─ /plus                   Filter AdBlockID Plus
  │   │   └─ ...
  │   └─ ...
  ├─ anti-adblock.adfl       [G/S] Melumpuhkan ad block detection.
