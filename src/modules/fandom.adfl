@@ -79,6 +79,7 @@ kopajasubs.info##+js(aopr, adAdbLoad)
 komiku.org,sektedoujin.cc##+js(nobab)
 ! ---
 ! chp_ads_blocker | adblock_title | /wp-content/plugins/chp-ads-block-detector/
+! ---
 blurayufr.cam##+js(acis, chp_ads_blocker_detector)
 kumapoi.info##+js(noeval-if, /chp_?ad/)
 layardrama21.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
@@ -93,6 +94,7 @@ mangalist.org#@#.adsbygoogle
 !0.0.realodix##+js(aopr, wcadbwp)
 ! ---
 ! Unbreak
+! ---
 @@||mangaindo.*^$ghide
 adikanime.com#@#.idmuvi-banner-aftercontent
 layardrama.*,layardrama21.*#@#.idmuvi-topbanner-aftermenu
@@ -119,7 +121,6 @@ komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
 anibatch.moe,anichin.blog,animekompi.sbs,cinemaemas6.com,cinemakeren6.id,dramaencode.net,gudangkomik.com,kawanfilm21.co,kazefuri.cloud,kazefuri.info,nimegami.id,otakudesu.best,rebahan21.com,rebahin.lol,sektedoujin.cc,sobatmov.xyz,sokuja.uk,westmanga.me##+js(nowoif)
 !
-! ---
 ! CM Pop-Up banners / cm-popup-modal / ouibounce-modal
 nontondrama.blog,sobatmov.xyz,sokuja.uk##+js(aopr, popup_custom_data)
 ! Popup Builder / sgpb-popup / sg-popup

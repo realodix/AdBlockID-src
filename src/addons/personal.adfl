@@ -30,7 +30,9 @@ crackshash.com##.wp-ad-top
 !
 ! ANNOYANCE
 ! ------------------------------------------------------------------------------
+! ---
 ! PopUp
+! ---
 crackshash.com##+js(acis, document.getElementsByClassName, wp-ad)
 ! doodstream.com
 dood.*##+js(acis, adcashMacros)
@@ -44,17 +46,20 @@ streamtape.*##+js(acis, JSON.parse, Promise)
 streamtape.*##+js(nowoif)
 ! ---
 ! Fake Button
+! ---
 haxnode.net##[id^="haxno-"] .dl-btn
 crackedhome.com,crackwin.net,filesmama.com##center > a[href^="javascript:"]
 haxpc.net##center button:has-text(/download/i)
 crackit.org,oceancrack.com##div[class^="code-block code-block-"]
 ! ---
 ! Limitation
+! ---
 crackit.org,oceancrack.com,procrackerz.org##*:style(user-select:text!important;)
 crackit.org,oceancrack.com,procrackerz.org##+js(aopr, disableSelection)
 crackit.org,oceancrack.com,procrackerz.org##+js(aopr, document.oncontextmenu)
 ! ---
 ! Dev-Tools
+! ---
 ! /devtools-detector.$script,domain=~bestx.stream|~boltx.stream|~boosterx.stream|~watchx.top
 ||berbagi.app/assets/devtools-detector.$3p
 ||cdn.jsdelivr.net/npm/disable-devtool@$3p,script

@@ -92,11 +92,13 @@ idntimes.com,katadata.co.id##article .dm-player:remove()
 bola.com##article .js-full-iframe-vidio:remove()
 liputan6.com##article iframe.vidio-embed:remove()
 cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
-! -----
+! ---
 ! Mobile
+! ---
 bolanas.com,bolasport.com,grid.id,gridoto.com,kompas.tv,kontan.co.id,motorplus-online.com,parapuan.co##.kgnw-root:has(> .kgnw-player):remove()
-! -----
+! ---
 ! International
+! ---
 fandom.com###fandom-mobile-wrapper .article-featured-video:remove()
 vpnjantit.com###globalsun:has(> #globalsun-div-player):remove()
 !
