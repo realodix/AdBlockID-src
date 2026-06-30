@@ -3,7 +3,7 @@
 /wp-content/plugins/photection/*$script,domain=onepieceberwarna.com
 komikzoid.id,sektekomik.id##+js(ra, oncontextmenu|ondragstart|onkeydown|onmousedown|onselectstart|style, body)
 !
-! MOUSE
+! MOUSE CLICK
 ! ------------------------------------------------------------------------------
 onepieceberwarna.com##+js(acis, disableSelection, reEnable)
 otakudesu.blog##+js(acis, document.oncontextmenu)

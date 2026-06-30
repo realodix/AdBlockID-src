@@ -150,8 +150,6 @@ yummy.co.id##div:matches-css(align-items: center):has-text(/adv/i)
 idntimes.com###floatingbanner:matches-css(position: fixed):remove()
 popmama.com###mainBannerPopup
 popmama.com##body:style(overflow: auto!important; position: unset!important;)
-! Annoyance Others
-idntimes.com,popmama.com##+js(aeld, /copy|keydown/)
 ! ------------------------------------------------------------------------------
 ! Kompas Gramedia
 ! -----
@@ -416,8 +414,6 @@ metrotvnews.com##.rails_left
 metrotvnews.com##.rails_right
 metrotvnews.com##.sticky-bottom-ct
 metrotvnews.com##.top-frame
-! Annoyance
-mediaindonesia.com##+js(aopr, document.oncopy)
 ! Style Fixer
 medcom.id##.mid_content div.box_7_ct:nth-of-type(4):style(margin-bottom:0!important;)
 ! ------------------------------------------------------------------------------
@@ -476,16 +472,6 @@ sindonews.com#@##header-ads
 ! Style Fixer
 inews.id,okezone.com##.content-wrap:style(margin-top:0!important;)
 inews.id##body > .wrap-all:style(top: 0 !important;)
-! Annoyance
-okezone.com###contentx .vicon:remove()
-okezone.com###rekomendasi_video:remove()
-okezone.com##.content-wrap .video-wrap:remove()
-sindonews.com##.vidembed-box:remove()
-okezone.com##.video-wrap:has(#rekomendasi_video):remove()
-sindonews.com##.vidwrap:remove()
-okezone.com##.vplayer:has(iframe[src^="https://video.okezone.com/embedoutstream"]):remove()
-okezone.com##[id^="ivs-"]:remove()
-inews.id,okezone.com##+js(aopr, document.oncopy)
 ! ------------------------------------------------------------------------------
 ! Pewarta Network
 ! -----
@@ -662,8 +648,6 @@ sahijab.com##.small-mobile-banner
 100kpj.com,tvonenews.com##.sticky-bottom
 ! Anti-Adblock
 ||fundingchoicesmessages.google.com/i/pub-$script,redirect=noopjs,domain=tvonenews.com
-! Annoyance
-tvonenews.com,viva.co.id##+js(aopr, document.oncopy)
 ! ------------------------------------------------------------------------------
 ! OKEStream
 ! https://okestream.streamnobar.com
@@ -730,9 +714,7 @@ livesports044.com,livesports055.com,livesports066.com,livesports088.com,marza11.
 ! Annoyance
 livesports044.com,livesports055.com,livesports066.com,livesports088.com,marza11.shop##*:style(scrollbar-width: thin!important;)
 livesports044.com,livesports055.com,livesports066.com,livesports088.com,marza11.shop##body:style(overflow: auto!important; position: unset!important;)
-livesports044.com,livesports055.com,livesports066.com,livesports088.com,marza11.shop##+js(aopr, document.oncontextmenu)
 /tigoals\d+\.com/##*:style(scrollbar-width: thin!important;)
-/tigoals\d+\.com/##+js(aopr, document.oncontextmenu)
 /tigoals\d+\.com/##body:style(overflow: auto!important; position: unset!important;)
 ! ------------------------------------------------------------------------------
 ! RBTV77 - https://www.rbtv77news.com/rbtvplus-link/ | https://www.rbtv77news.com/fctv33-link/
