@@ -895,6 +895,8 @@ _728x90px.$image,domain=bogordaily.net
 ||aedi.ai/common/js/v1/aedi-$domain=bloombergtechnoz.com|inews.id|katadata.co.id|okezone.com|sindonews.com
 ||aurum.tirto.id^
 ||services.7searchppc.com/api/adscript$domain=tintainformasi.com
+! Maybe it'll be on Easylist later
+||colorfulculture.click^
 ! ---
 ! https://github.com/AdguardTeam/AdguardFilters/blob/d8f2470823/BaseFilter/sections/general_url.txt#L421
 /\/[0-9a-f]{32}\/invoke\.js/$third-party,script,redirect-rule=noopjs
