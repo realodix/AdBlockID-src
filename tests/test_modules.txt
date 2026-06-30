@@ -59,7 +59,6 @@ anichin.co
 anichin.name
 anichin.watch
 anidraw.net
-animebatch.id
 animein.net
 animekhor.org
 animekompi.sbs
@@ -130,7 +129,6 @@ dojing.net
 donasi.lk21.de
 doroni.me
 doronime.id
-doujinku.org
 dramaencode.net
 dub.link
 dub.sh
@@ -273,10 +271,8 @@ maingbo.com
 mainstreambeer.com
 managementstudyhq.com
 managingdesire.org
-mangaaku.com
 mangacanblog.com
 mangakita.me
-mangakuu.com
 mangalist.org
 mangasusuku.com
 mangatale.co
@@ -311,7 +307,6 @@ narasininja.net
 nawala.my
 nekokun.my.id
 ngelink.me
-ngomik.mom
 niagararestoration.org
 nimegami.id
 nntonfilm.my.id
@@ -321,7 +316,6 @@ nontondrama.blog
 nontondrama.my
 nontondrama.wiki
 nontonfilm.website
-noromax01.my.id
 ohioafterschoolnetwork.org
 omanga.net
 onepieceberwarna.com
@@ -377,7 +371,6 @@ savetub.com
 sbobet.host
 seka.li
 sektedoujin.cc
-sektekomik.id
 server-x7.xyz
 sfsv.org
 shadowofthevampire.com
@@ -395,7 +388,6 @@ slurr.my.id
 sngine.com
 snowcruise-onze.com
 sobatmov.xyz
-softkomik.com
 sokuja.id
 sokuja.uk
 sorty.bio
@@ -413,7 +405,6 @@ tapme.ink
 teman21.app
 tembak.pro
 tempatwisata.pro
-tenshiku.asia
 terbangrusia.site
 terbit21.gdn
 thebuzzabee.com

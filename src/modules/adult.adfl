@@ -98,9 +98,6 @@ bokepvir.*,javsubindo.*##+js(aopr, window.pum_popups)
 agenbokep.*,bandarbokep.*,bokepindo.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
 sukasex.*##+js(rmnt, script, popupUrl)
 ! ---
-! Mouse/Key Limitations
-kingbokep.*##*:style(user-select:text!important;)
-! ---
 ! Fake Button
 pusatporn18.com##.content-post center:has(> a > img)
 ! ---
@@ -124,7 +121,6 @@ artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 doujindesu.tv,igodesu.tv,javdesu.tv##a[target*="blank"]:has(> img)
 ! Annoyance
-doujindesu.tv##+js(aopr, document.oncontextmenu)
 doujindesu.tv,igodesu.tv##+js(nowoif)
 ! -----------------------------------------------
 ! DrBokep
@@ -189,7 +185,6 @@ rumahbokep.*,videocrot.*,websitebokep-id.*##a[target*="blank"]:has(> img)
 ! Annoyance
 rumahbokep.*,videocrot.*,websitebokep-id.*##body > div[style^="position: fixed; display: block; width: 100%; height: 100%;"]
 rumahbokep.*,videocrot.*,websitebokep-id.*##iframe.padPreload[style^="width: 0px; height: 0px; position: absolute;"]
-rumahbokep.*,videocrot.*,websitebokep-id.*##+js(aeld, contextmenu)
 rumahbokep.*,videocrot.*,websitebokep-id.*##+js(nowoif)
 ! -----------------------------------------------
 ! sukanontonbokep@gmail.com

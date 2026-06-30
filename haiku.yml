@@ -77,6 +77,7 @@ builder:
         - src/addons/annoyances/any_limitation.adfl
         - src/addons/annoyances/any_popup.adfl
         - src/addons/annoyances/any_safelink.adfl
+        - src/addons/annoyances/any_fandom_limitation.adfl
     - filename: safesearch.txt
       header: |
         ---

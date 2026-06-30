@@ -129,25 +129,6 @@ gudangmovies21.chat,sattorrent.com,soulscans.my.id##+js(aopr, SGPB_POPUP_PARAMS)
 ! 205.251.196.195|205.251.192.17|205.251.199.226|205.251.195.59
 ! 0.0.realodix##+js(acis, parseInt, break;case $.)
 komikstation.org##+js(acis, JSON.parse, break;case $.)
-! ---
-! Unblock context menu and other mouse limitations
-! ---
-komikzoid.id,sektekomik.id##+js(ra, oncontextmenu|ondragstart|onkeydown|onmousedown|onselectstart|style, body)
-!
-otakudesu.blog##+js(acis, document.oncontextmenu)
-mangacanblog.com##+js(aeld, /^(?:contextmenu|selectstart)$/)
-anichin.co##+js(aeld, /copy|keydown/)
-anichin.co,desu.xxx,dojing.net,doujinku.org,filem21.org,ikiru.wtf,kaitoani.org,komik18.xyz,komikdewasa.art,komiksin.net,komikstation.org,komiktap.info,komiku.asia,komikzoid.id,kumapoi.info,mangaaku.com,mangakita.me,mangakuu.com,mangasusuku.com,mangatale.co,mihentai.com,ngomik.mom,noromax01.my.id,rawkuma.net,sektedoujin.cc,softkomik.com,soulscans.my.id,tenshiku.asia,westmanga.me##+js(aeld, contextmenu)
-kusonime.com##+js(aeld, keydown)
-komikzoid.id,kusonime.com,tooncubus.top##+js(aopr, document.oncontextmenu)
-mangacanblog.com##+js(aopr, document.onkeydown)
-! ---
-! Auto Safelink
-! ---
-animebatch.id##+js(aopr, SAFELINK_CONFIG)
-kusonime.com,melongmovies.com##+js(aopr, app_url)
-nimegami.id##+js(aopr, go_url)
-alqanime.net##+js(aopr, ouo_token)
 !
 ! GROUPED BY OWNER / TYPE
 ! ------------------------------------------------------------------------------
@@ -241,8 +222,6 @@ mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.bebaskan
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.kln
 mirrorkomik.info##div[id^="teaser"]
 mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]
-! Annoyance
-mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##+js(aeld, contextmenu)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
 ! -----
@@ -283,8 +262,6 @@ pf21.ink,pusatfilm21.online,pusatfilm21info.com##a[target*="blank"]:has(> img)
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx###floating_banner_top
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx##a:has(> img[src$=".gif"])
 rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx##a[target*="blank"]:has(> img)
-! Annoyance
-rebahan21.net,rebahan21.org,rebahan21.xyz,rebahin21.com.mx##+js(aopr, document.oncontextmenu)
 ! -----------------------------------------------
 ! Samehadaku
 ! -----
@@ -298,8 +275,6 @@ samehadaku.*##a[rel*="nofollow"]:has(> img)
 samehadaku.*##a[target*="blank"]:has(> img)
 samehadaku.*##a[target="_blank"] ~ .naveps:style(display: inline !important;)
 samehadaku.*##a[target="_blank"] ~ .pencenter:style(display: inline-block !important;)
-! Annoyance
-samehadaku.*##+js(aeld, contextmenu)
 ! -----------------------------------------------
 ! Terbit21
 ! terbit21.com@gmail.com / https://tv1.terbit21.store/
@@ -345,18 +320,11 @@ manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"
 manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
 manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 ! Annoyance
-manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(aeld, contextmenu)
 manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
 ! -----------------------------------------------
 ! onepieceberwarna.com
 ! -----
 onepieceberwarna.com##a[target*="blank"]:has(> img):not(a[href*="onepieceberwarna.com"])
-! Annoyance
-/wp-content/plugins/photection/*$script,domain=onepieceberwarna.com
-onepieceberwarna.com##*:style(user-select:text!important;)
-onepieceberwarna.com##+js(acis, disableSelection, reEnable)
-onepieceberwarna.com##+js(aeld, contextmenu)
-onepieceberwarna.com##+js(aopr, document.oncontextmenu)
 ! -----------------------------------------------
 ! komikcast (https://komikcast.to/)
 ! https://github.com/realodix/AdBlockID/issues/1804#issuecomment-2208142333
@@ -377,8 +345,6 @@ komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.ch##+js(nowoif)
 ! -----
 komikdewasa.mom,komikindo.fit,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##.kln
 komikdewasa.mom,komikindo.fit,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
-! Annoyance
-komikdewasa.mom,komikindo.fit,komikindo1.*,komikindo2.*,komikindo3.*,komikindo4.*,mangatoon.cc##+js(aeld, contextmenu)
 ! -----------------------------------------------
 ! Shinigami / https://shinigami.bio/ | https://shinigami.to/
 ! https://github.com/realodix/AdBlockID/issues/1768
@@ -392,7 +358,6 @@ shinigami.*,shinigamitoon.*##a[target*="blank"]:has(> img)
 /shinigami0\d+\.com/##a[target*="blank"]:has(> img)
 ! /wp-content/plugins/halfdata-green-popups/*$domain=shinigami.*|shinigami01.*|shinigami02.*|shinigami03.*|shinigami04.*|shinigami05.*|shinigami06.*|shinigami07.*|shinigamitoon.*
 ! /wp-content/plugins/halfdata-green-popups/*$domain=/shinigami0\d+\.com/
-shinigami.*,shinigamitoon.*##+js(aeld, contextmenu)
 shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 /shinigami0\d+\.com/##+js(aopr, lepopup_vars)
 ! -----------------------------------------------
