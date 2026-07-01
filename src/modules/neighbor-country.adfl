@@ -22,6 +22,7 @@ thevocket.com##.mid-megaboard
 malaysiakini.com##.min-h-\[90px\]:has(> div[style="max-height:90px"])
 hmetro.com.my##.pcto-banner
 berita.mediacorp.sg##.programtic-ads
+thesmartlocal.com,thesmartlocal.my##.tsl-top-ad
 stomp.sg##.w-full.min-h-\[120px\]:has(> .w-\[320px\].lg\:w-\[970px\])
 tnp.sg##.w-full.min-h-\[50px\].lg\:min-h-\[120px\]
 astroawani.com##[class*="adsContainer" i]
