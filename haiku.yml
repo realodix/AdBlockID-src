@@ -49,7 +49,7 @@ builder:
         - src/modules/adult.adfl
         - src/modules/adult-block.adfl
         - src/modules/adult-hide.adfl
-        - src/modules/malaysia.adfl
+        - src/modules/neighbor-country.adfl
     - filename: adblockid_plus.adfl.txt
       header: |
         [Adblock Plus 2.0]

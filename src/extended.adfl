@@ -23,15 +23,6 @@
 /^https?:\/\/(?:ak\.)?[a-z]{6,12}\.(?:com|net)\/4\/\d{7}/$badfilter,document,popup,subdocument
 !#endif
 !
-! SINGAPORE
-! ------------------------------------------------------------------------------
-||fintechnews.sg^*-banner-
-beritaharian.sg##.max-w-full.min-h-\[80px\].lg\:min-h-\[120px\]:has(> [data-testid="advertisement-element"])
-berita.mediacorp.sg##.programtic-ads
-stomp.sg##.w-full.min-h-\[120px\]:has(> .w-\[320px\].lg\:w-\[970px\])
-tnp.sg##.w-full.min-h-\[50px\].lg\:min-h-\[120px\]
-beritaharian.sg##[data-testid="advertisement-element"]
-!
 ! ADGUARD COMPATIBILITY
 ! ------------------------------------------------------------------------------
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
