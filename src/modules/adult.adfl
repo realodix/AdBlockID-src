@@ -176,8 +176,8 @@ drakorwovel.my.id,nekopoi.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! adsiklan101022@gmail.com
 ! -----------------------------------------------
-boscinema21.bar,bosku21.bar,dramaserial21.bar,filmonline.bar,indofilmdewasa.bar,nontonfilmnikmat.bar,semikeren.site###fadeinbox
-boscinema21.bar,bosku21.bar,dramaserial21.bar,filmonline.bar,indofilmdewasa.bar,nontonfilmnikmat.bar,semikeren.site##a[target*="blank"]:has(> img)
+boscinema21.bar,bosku21.sbs,dramaserial21.bar,filmonline.bar,indofilmdewasa.bar,nontonfilmnikmat.bar,semikeren.site###fadeinbox
+boscinema21.bar,bosku21.sbs,dramaserial21.bar,filmonline.bar,indofilmdewasa.bar,nontonfilmnikmat.bar,semikeren.site##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! video.crot2016@gmail.com
 ! -----------------------------------------------
