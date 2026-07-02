@@ -98,9 +98,6 @@ bokepvir.*,javsubindo.*##+js(aopr, window.pum_popups)
 agenbokep.*,b0k3hviral3.blogspot.com,bandarbokep.*,bokepindo.*,bokepindo69.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,muantap2.blogspot.com,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
 sukasex.*##+js(rmnt, script, popupUrl)
 ! ---
-! Fake Button
-pusatporn18.com##.content-post center:has(> a > img)
-! ---
 ! Browser Back (history manipulation)
 ! 0.0.realodix##+js(acis, history.pushState, window.location.href)
 !
