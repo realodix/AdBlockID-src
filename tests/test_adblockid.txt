@@ -730,7 +730,6 @@ codeflare.net
 coganews.co.id
 coinvestasi.com
 corongrakyat.co.id
-corpnet.net.id
 correcto.id
 cosmopolitan.co.id
 coverbothside.com
@@ -749,7 +748,6 @@ dailyklik.id
 dailynotif.com
 dailypost.id
 damarinfo.com
-danacita.co.id
 dara.co.id
 darahjuang.online
 dardura.com
@@ -4255,7 +4253,6 @@ urbannews.id
 utamanews.com
 utamanews.id
 utamapost.com
-utas.co
 utusanindo.com
 uwrite.id
 uzone.id
@@ -4396,8 +4393,6 @@ yourjavascript.com
 yukngiklan.com
 yummy.co.id
 zaferinadigital.com
-zalora.co.id
-zenius.net
 zetizens.id
 zipansion.com
 zonabandung.com
