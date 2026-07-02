@@ -170,7 +170,6 @@ aspirasiku.id
 aspirasinews.id
 aspost.id
 assets.ayobandung.com
-astra.co.id
 atasaspal.com
 atjehdaily.id
 atjehterkini.id
