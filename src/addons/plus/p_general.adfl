@@ -36,6 +36,7 @@ auksi.co.id##:matches-path(/detail-artikel) .ads-link
 lifepal.co.id##:matches-path(/media) [class^="ArticleBanner_" i]
 lifepal.co.id##:matches-path(/media) [class^="BannerLeads_" i]
 lifepal.co.id##:matches-path(/media) [class^="EndBanner_" i]
+pintu.co.id##:matches-path(/news) #inline-banner
 ! ---
 ! Shopping
 ! ---
