@@ -1,8 +1,10 @@
 ! SELF-PROMOTION
 ! ------------------------------------------------------------------------------
+/breaking_banner/*$image,domain=vidio.com
 ! ---
 ! Shopping
 ! ---
+||quiz.vidio.com/engagement_campaigns/
 tribunnews.com###article .widgettshop
 m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
 tribunnews.com###jualbeli2022
