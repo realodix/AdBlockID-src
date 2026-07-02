@@ -95,7 +95,6 @@ gocrot.me,gocrot.org##.popup-cr7
 pusatporn18.com,sibinor.fun##+js(aeld, /^(?:load|click)$/, popMagic)
 dicrotin.*,nokephub.*,pojokan69.com##+js(aopr, SGPB_POPUP_PARAMS)
 bokepvir.*,javsubindo.*##+js(aopr, window.pum_popups)
-agenbokep.*,b0k3hviral3.blogspot.com,bandarbokep.*,bokepindo.*,bokepindo69.*,doooood.co,duniabokep.*,hencop.com,indobokepin.*,javindo.*,javsubindo.*,malayporntube.net,minioppai.org,muantap2.blogspot.com,myhdjav.me,ngentub.cc,nontonbokep.*,sibokepjepang.*##+js(nowoif)
 sukasex.*##+js(rmnt, script, popupUrl)
 ! ---
 ! Browser Back (history manipulation)
@@ -117,8 +116,6 @@ artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 ! - https://desu.bio/jav/
 ! -----------------------------------------------
 doujindesu.tv,igodesu.tv,javdesu.tv##a[target*="blank"]:has(> img)
-! Annoyance
-doujindesu.tv,igodesu.tv##+js(nowoif)
 ! -----------------------------------------------
 ! DrBokep
 ! -----------------------------------------------
@@ -156,7 +153,6 @@ sebokep.com##+js(aopr, SGPB_POPUP_PARAMS)
 66.29.129.111,66.29.129.114,66.29.129.121,66.29.129.126,66.29.129.161,avtub.cc,avtub.net,avtub.pet,avtubflix.com,bokepid.*,bokepsin.*,omekin.id,pasarbokep.id,playbokep.*,rajabokep.*,sangelink.com.de,sangetube.*,simontokreal.com,vibokep.*##a[target*="blank"]:has(> img)
 ! Annoyance
 66.29.129.111,66.29.129.114,66.29.129.121,66.29.129.126,66.29.129.161,avtub.cc,avtub.net,avtub.pet,avtubflix.com,bokepid.*,bokepsin.*,omekin.id,pasarbokep.id,playbokep.*,rajabokep.*,sangelink.com.de,sangetube.*,simontokreal.com,vibokep.*##+js(aopr, ujiPopups)
-66.29.129.111,66.29.129.114,66.29.129.121,66.29.129.126,66.29.129.161,avtub.cc,avtub.net,avtub.pet,avtubflix.com,bokepid.*,bokepsin.*,omekin.id,pasarbokep.id,playbokep.*,rajabokep.*,sangelink.com.de,sangetube.*,simontokreal.com,vibokep.*##+js(nowoif)
 ! Browser Back (history manipulation)
 ! pasarbokep.id,playbokep.*,rajabokep.*,sangelink.com.de,simontokreal.com##+js(acis, history.replaceState, location.replace)
 ! -----------------------------------------------
@@ -181,29 +177,8 @@ rumahbokep.*,videocrot.*,websitebokep-id.*##a[target*="blank"]:has(> img)
 ! Annoyance
 rumahbokep.*,videocrot.*,websitebokep-id.*##body > div[style^="position: fixed; display: block; width: 100%; height: 100%;"]
 rumahbokep.*,videocrot.*,websitebokep-id.*##iframe.padPreload[style^="width: 0px; height: 0px; position: absolute;"]
-rumahbokep.*,videocrot.*,websitebokep-id.*##+js(nowoif)
 ! -----------------------------------------------
 ! sukanontonbokep@gmail.com
 ! -----------------------------------------------
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##.btm_ban
 bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##a[target*="blank"]:has(> img)
-! Annoyance
-bokepcrot.*,bokepcrot69.*,bokepkita.*,bokepsex.*,inibokep.*,kamarbokep.*,kebokepanku.*,ruangbokep.*,ruangbokep99.*,sibokep.*##+js(nowoif)
-! -----------------------------------------------
-! Annoying Popups
-! -----------------------------------------------
-||hubapi.my.id^$3p
-berbagi.app###_0xAbModal
-berbagi.app##div:matches-css(position: fixed)
-ngicstream.site##+js(nowoif)
-!
-!||simplepaste.site^$popup
-!||skripsitesisdisertasi.biz.id^$popup
-||getandplay.web.id^$popup
-!
-||acquaintjokinglyscoring.com^$popup
-||badnessgimmickposted.com^$popup
-||bondeddarkenedswerve.com^$popup
-||shopnoit.com^$popup
-||villainoussession.com^$popup
-||wonderfulyesterday.com^$popup
