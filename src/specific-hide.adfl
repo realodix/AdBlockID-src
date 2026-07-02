@@ -470,8 +470,6 @@ mobil123.com##:matches-path(/berita) .article__story-recommended-ads
 linktown.co.id##:matches-path(/blog) .brus-banners
 mitra10.com##:matches-path(/blog) .gtm_mitra10_cta_banner_header
 sapx.id##:matches-path(/blog) .header-before-ad
-qwords.com##:matches-path(/blog) .promo-ad-article
-qwords.com##:matches-path(/blog) .promo-image
 pinhome.id##:matches-path(/blog) [class^="analytics-right-side-banner-"]
 pinhome.id##:matches-path(/blog) [class^="style_stickyBannerDesktop_"]
 pinhome.id##:matches-path(/blog) [class^="style_stickyBannerMobile_"]
