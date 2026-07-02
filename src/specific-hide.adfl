@@ -470,9 +470,6 @@ mobil123.com##:matches-path(/berita) .article__story-recommended-ads
 linktown.co.id##:matches-path(/blog) .brus-banners
 mitra10.com##:matches-path(/blog) .gtm_mitra10_cta_banner_header
 sapx.id##:matches-path(/blog) .header-before-ad
-pinhome.id##:matches-path(/blog) [class^="analytics-right-side-banner-"]
-pinhome.id##:matches-path(/blog) [class^="style_stickyBannerDesktop_"]
-pinhome.id##:matches-path(/blog) [class^="style_stickyBannerMobile_"]
 utas.co,zalora.co.id,zenius.net##:matches-path(/blog) a[href*="utm_campaign="]:has(> img)
 toffeedev.com##:matches-path(/blog) a[href^="https://marketing.toffeedev.com/"]:has(img)
 hostnic.id##:matches-path(/blog) a[href^="https://www.hostnic.id/promo/"]

@@ -6,12 +6,17 @@ mekari.com##:matches-path(/blog) #banner_flex_ewa_v2_hr_after_content
 mekari.com##:matches-path(/blog) #banner_flex_ewa_v2_hr_before_h2_2
 qwords.com##:matches-path(/blog) .ads-promo-akhir
 qwords.com##:matches-path(/blog) .ads-promo-tengah
+pinhome.id##:matches-path(/blog) .slick-slider
+pinhome.id##:matches-path(/blog) [class^="analytics-right-side-banner-"]
+pinhome.id##:matches-path(/blog) [class^="style_stickyBannerDesktop_"]
+pinhome.id##:matches-path(/blog) [class^="style_stickyBannerMobile_"]
 megavision.net.id##:matches-path(/blog) a[href*="megavision.net.id/pricing"]:has(> img)
 megavision.net.id##:matches-path(/blog) a[href*="megavision.net.id/subscribe-internet/"]:has(> img)
 qwords.com##:matches-path(/blog) a[href^="https://portal.qwords.com/link.php"]
 lifepal.co.id##:matches-path(/media) [class^="ArticleBanner_" i]
 lifepal.co.id##:matches-path(/media) [class^="BannerLeads_" i]
 lifepal.co.id##:matches-path(/media) [class^="EndBanner_" i]
+pinhome.id##[class^="pin-banner"]
 ! ---
 ! Shopping
 ! ---
