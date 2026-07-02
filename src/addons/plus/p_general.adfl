@@ -11,6 +11,7 @@ mekari.com##:matches-path(/blog) #banner_flex_ewa_v2_hr_after_content
 mekari.com##:matches-path(/blog) #banner_flex_ewa_v2_hr_before_h2_2
 qwords.com##:matches-path(/blog) .ads-promo-akhir
 qwords.com##:matches-path(/blog) .ads-promo-tengah
+linktown.co.id##:matches-path(/blog) .brus-banners
 hostnic.id##:matches-path(/blog) .code-block
 favo.id##:matches-path(/blog) .main-banner
 pinhome.id##:matches-path(/blog) .slick-slider
