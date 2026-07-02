@@ -13,6 +13,7 @@ qwords.com##:matches-path(/blog) .ads-promo-akhir
 qwords.com##:matches-path(/blog) .ads-promo-tengah
 linktown.co.id##:matches-path(/blog) .brus-banners
 hostnic.id##:matches-path(/blog) .code-block
+mitra10.com##:matches-path(/blog) .gtm_mitra10_cta_banner_header
 favo.id##:matches-path(/blog) .main-banner
 pinhome.id##:matches-path(/blog) .slick-slider
 pinhome.id##:matches-path(/blog) [class^="analytics-right-side-banner-"]
