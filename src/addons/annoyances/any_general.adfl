@@ -39,6 +39,10 @@ indonesiabusinesspost.com##.blackkosong
 puratos.co.id##.modal
 puratos.co.id##.modal-backdrop
 indonesiabusinesspost.com,puratos.co.id##body, html:style(overflow: auto !important; position: initial !important;)
+! ---
+! International
+! ---
+unesco.org##.unesco-cookie-banner
 !
 ! VIDEO AUTOPLAYER
 ! ------------------------------------------------------------------------------
