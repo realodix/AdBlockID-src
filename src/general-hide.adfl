@@ -1440,7 +1440,9 @@
 ##.sticky-ad-close-button-bawah
 ##.sticky-adku
 ##.sticky-ads-bottom
+##.sticky-ads-bottom-desktop
 ##.sticky-ads-left
+##.sticky-ads-mobile
 ##.sticky-ads-right
 ##.supermag-ad-widget
 ##.tayang_ads
@@ -1478,6 +1480,7 @@
 ##.videoOverAdBig
 ##.vlog-banner
 ##.vlog-bnr
+##.vmax-ads
 ##.warning_iklan
 ##.warp-ads-paralax
 ##.widget-ads-top
