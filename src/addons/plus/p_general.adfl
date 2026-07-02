@@ -6,6 +6,7 @@ mekari.com##:matches-path(/blog) #banner_flex_ewa_v2_hr_after_content
 mekari.com##:matches-path(/blog) #banner_flex_ewa_v2_hr_before_h2_2
 qwords.com##:matches-path(/blog) .ads-promo-akhir
 qwords.com##:matches-path(/blog) .ads-promo-tengah
+hostnic.id##:matches-path(/blog) .code-block
 pinhome.id##:matches-path(/blog) .slick-slider
 pinhome.id##:matches-path(/blog) [class^="analytics-right-side-banner-"]
 pinhome.id##:matches-path(/blog) [class^="style_stickyBannerDesktop_"]
@@ -15,6 +16,7 @@ megavision.net.id##:matches-path(/blog) a[href*="megavision.net.id/subscribe-int
 toffeedev.com##:matches-path(/blog) a[href^="https://localboost.id/"]:has(img)
 toffeedev.com##:matches-path(/blog) a[href^="https://marketing.toffeedev.com/"]:has(img)
 qwords.com##:matches-path(/blog) a[href^="https://portal.qwords.com/link.php"]
+hostnic.id##:matches-path(/blog) a[href^="https://www.hostnic.id/promo/"]
 lifepal.co.id##:matches-path(/media) [class^="ArticleBanner_" i]
 lifepal.co.id##:matches-path(/media) [class^="BannerLeads_" i]
 lifepal.co.id##:matches-path(/media) [class^="EndBanner_" i]
