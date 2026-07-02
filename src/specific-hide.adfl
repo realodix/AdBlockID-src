@@ -717,8 +717,6 @@ bertuahpos.com,bumilampung.com,lampost.co,portallnews.id,satubanten.com,sumbarki
 info-ambon.com,terabasnews.com##.wpb_wrapper > p > img
 gerbangindonesia.co.id,katakepri.com,terasmedia.id,theeast.co.id##.wpb_wrapper:has(> a + style)
 ftnews.co.id##.wrap_leaderboard
-dropshipaja.com##:matches-path(/blog) .code-block
-deepublishstore.com##:matches-path(/blog) .code-block:has(> a > img)
 tvrinews.com##[class*="bg-gray"]:has(> [class*="bg-gray"]:has-text(/adv/i))
 kabarsulbar.com##[class^="kabar-after-content"]:has(> img)
 bisnisbanten.com##[class^="stream-item"]:has(> span:has-text(/adv/i))
