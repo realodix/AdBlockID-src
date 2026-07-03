@@ -584,6 +584,8 @@
 ##.ads-section-2
 ##.ads-section-3
 ##.ads-section-3-content
+##.ads-side-250
+##.ads-side-600
 ##.ads-sidebar-1
 ##.ads-single-top
 ##.ads-size-square
@@ -1211,6 +1213,7 @@
 ##.iklantop
 ##.iklantop50
 ##.iklanwid
+##.ikln
 ##.ikln1
 ##.ikln160kanan
 ##.ikln160kiri
@@ -1230,6 +1233,8 @@
 ##.indositusxxi-floatbanner-footer
 ##.infeed-ads
 ##.iniiklan
+##.inner-ads-content-1
+##.inner-ads-side-small
 ##.inner-post-ads
 ##.inner_header_kabar_ads
 ##.inside-post-ad
