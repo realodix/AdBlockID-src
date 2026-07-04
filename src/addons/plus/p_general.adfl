@@ -53,6 +53,7 @@ orami.co.id##.floating-shopping
 viva.co.id##.main-content + .section-affiliate
 linktown.co.id##.single-related-outer:has-text(/produk/i)
 favo.id##:matches-path(/blog) .product-card
+yoona.id##:matches-path(/blog) .yoo-check-our-products
 vidio.com##[class^="shopping-banner-module_"]
 ! side effect
 m.vidio.com##.no-scrollbar:style(scrollbar-width: auto!important;)
