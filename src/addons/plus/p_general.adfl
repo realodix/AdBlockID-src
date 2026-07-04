@@ -38,6 +38,7 @@ hostnic.id##:matches-path(/blog) a[href^="https://www.hostnic.id/promo/"]
 astra.co.id##:matches-path(/blog) a[href^="https://www.trac.astra.co.id/promo/"]
 bobobox.com,caroline.id,corpnet.net.id,danacita.co.id##:matches-path(/blog) img[alt*="banner" i]
 auksi.co.id##:matches-path(/detail-artikel) .ads-link
+axe.com##:matches-path(/id/inspirasi) .featured-product
 lifepal.co.id##:matches-path(/media) [class^="ArticleBanner_" i]
 lifepal.co.id##:matches-path(/media) [class^="BannerLeads_" i]
 lifepal.co.id##:matches-path(/media) [class^="EndBanner_" i]
