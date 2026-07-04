@@ -2,6 +2,7 @@
 ! ------------------------------------------------------------------------------
 /breaking_banner/*$image,domain=vidio.com
 blog.dewaweb.com##.cf-banner-desktop-shortcode
+finansialku.com##.sticky-footer
 cermati.com##:matches-path(/artikel) .ads-container
 cermati.com##:matches-path(/artikel) .sticky-banner-wrapper
 cermati.com##:matches-path(/artikel) [data-banner]:has(> a)
