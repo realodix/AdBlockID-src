@@ -2,6 +2,7 @@
 ! ------------------------------------------------------------------------------
 ||bloggerhub.id/wp-content/uploads/$3p
 ||brtnetwork.id/wp-content/uploads/$3p
+||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ~bloggercrony.com##[href*="//bloggercrony.com"]:has(img)
 ~bloggerperempuan.com##[href*="//bloggerperempuan.com"]:has(img)
 ~emak2blogger.com##[href*="//emak2blogger.com"]:has(img)

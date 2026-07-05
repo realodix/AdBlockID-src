@@ -3,7 +3,6 @@
 ||brtnetwork.id/wp-content/uploads/$3p
 ||casakreatif.com/wp-content/uploads/$3p
 ||photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
-||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ~emak2blogger.com##[href*="//s.id/EmakBlogger"]:has(img)
 !
 ! QUICK FIX
