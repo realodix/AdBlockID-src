@@ -1,11 +1,9 @@
 ! BLOG NETWORK
 ! ------------------------------------------------------------------------------
-||bloggerhub.id/wp-content/uploads/$3p
 ||brtnetwork.id/wp-content/uploads/$3p
 ||casakreatif.com/wp-content/uploads/$3p
 ||photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
-||wp.com/bloggerhub.id/wp-content/uploads/$image,domain=~bloggerhub.id
 ~emak2blogger.com##[href*="//s.id/EmakBlogger"]:has(img)
 !
 ! QUICK FIX
