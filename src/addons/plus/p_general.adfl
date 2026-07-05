@@ -1,3 +1,7 @@
+! CAMPAIGN
+! ------------------------------------------------------------------------------
+~bloggercrony.com##[href*="//bloggercrony.com"]:has(img)
+~emak2blogger.com##[href*="//emak2blogger.com"]:has(img)
 ! SELF-PROMOTION
 ! ------------------------------------------------------------------------------
 /breaking_banner/*$image,domain=vidio.com
