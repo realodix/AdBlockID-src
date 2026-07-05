@@ -45,6 +45,7 @@ builder:
         - src/whitelist.adfl
         - src/extended.adfl
         - src/modules/fandom.adfl
+        - src/modules/popup.adfl
         - src/modules/safelink.adfl
         - src/modules/adult.adfl
         - src/modules/adult-block.adfl
