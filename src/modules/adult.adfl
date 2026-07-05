@@ -83,6 +83,7 @@ pejuhin.*,pejuhinxxx.*##body:style(overflow: auto!important; position: unset!imp
 ! ANNOYANCE
 ! ------------------------------------------------------------------------------
 ! Pop-Up
+berbagi.app###_0xAbModal
 filmnikmat.*,filmnikmattv1.*###fadeinbox
 doooood.co###overlay
 bokepindo21.*###popup
@@ -92,9 +93,12 @@ dicrotin.*##.bx_wrap
 rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 nontonjavid.net##.popbox
 gocrot.me,gocrot.org##.popup-cr7
+berbagi.app##div:matches-css(position: fixed)
+skripsitesisdisertasi.biz.id##div[style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 999999; opacity: 0; cursor: pointer; background: transparent; pointer-events: auto;"]
 pusatporn18.com,sibinor.fun##+js(aeld, /^(?:load|click)$/, popMagic)
 dicrotin.*,nokephub.*,pojokan69.com##+js(aopr, SGPB_POPUP_PARAMS)
 bokepvir.*,javsubindo.*##+js(aopr, window.pum_popups)
+4meplayer.com,ngicstream.site##+js(nowoif)
 sukasex.*##+js(rmnt, script, popupUrl)
 ! ---
 ! Browser Back (history manipulation)

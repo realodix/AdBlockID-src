@@ -1321,6 +1321,7 @@ hotnetnews.co.id
 howdy.id
 hrd-forum.com
 hub.jogjaweb.co.id
+hubapi.my.id
 hukamanews.com
 hukumkriminal.net
 hukumonline.com
