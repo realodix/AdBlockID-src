@@ -2,6 +2,7 @@
 ! ------------------------------------------------------------------------------
 /breaking_banner/*$image,domain=vidio.com
 blog.dewaweb.com##.cf-banner-desktop-shortcode
+espos.id##.post-banner-style-1
 finansialku.com##.sticky-footer
 cermati.com##:matches-path(/artikel) .ads-container
 cermati.com##:matches-path(/artikel) .sticky-banner-wrapper
