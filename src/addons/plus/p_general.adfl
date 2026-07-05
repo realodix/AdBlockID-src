@@ -1,6 +1,7 @@
 ! CAMPAIGN
 ! ------------------------------------------------------------------------------
 ~bloggercrony.com##[href*="//bloggercrony.com"]:has(img)
+~bloggerperempuan.com##[href*="//bloggerperempuan.com"]:has(img)
 ~emak2blogger.com##[href*="//emak2blogger.com"]:has(img)
 ! SELF-PROMOTION
 ! ------------------------------------------------------------------------------
