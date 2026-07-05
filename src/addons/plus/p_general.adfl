@@ -1,6 +1,7 @@
 ! CAMPAIGN
 ! ------------------------------------------------------------------------------
 ||bloggerhub.id/wp-content/uploads/$3p
+||brtnetwork.id/wp-content/uploads/$3p
 ~bloggercrony.com##[href*="//bloggercrony.com"]:has(img)
 ~bloggerperempuan.com##[href*="//bloggerperempuan.com"]:has(img)
 ~emak2blogger.com##[href*="//emak2blogger.com"]:has(img)
