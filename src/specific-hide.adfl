@@ -188,6 +188,7 @@ ivoox.id##.adsens-right
 semuabis.com##.adsense-ad
 petpintar.com##.adsense-head
 dafunda.com##.adsense-inlinepost
+uzone.id##.adsense-placeholder
 petpintar.com##.adsense-side
 vcgamers.com##.adslatest
 codeflare.net##.adsparallax
@@ -753,6 +754,7 @@ subsc.my.id##a[target="_blank"]:has(span > img)
 acehekspres.com,acehportal.com,acehstandar.com,acehtrend.com,kabartamiang.com,kabartimurnews.com,malukuterkini.com,metropolis.id,modusaceh.co##article #slpremium
 bulat.co.id,datanews.id,digtara.com,drberita.id,halomedan.com,kitakini.news##article .melayang
 beritainvestigasi.com,lintas10.com,papuatimes.co.id##article .newkarma-core-before-dontmiss
+uzone.id##article > .w-full.h-\[500px\]
 kabarnusantaranews.com##article figure > img
 hamilplus.com##body > :has(> span:has-text(/adv/i))
 rajakomen.com##body > [id^="idxhallo_"].no_css_here
@@ -761,6 +763,7 @@ intip24news.com##body.sticky-header:style(padding: unset!important;)
 ivoox.id##div > a[target="_blank"]:has(> img[style="width: 100%;"])
 marketeers.com##div:has(> iframe[src^="https://ads.marketeers.com"])
 ngopibareng.id##div:has(> p:has-text(/adv/i))
+uzone.id##div:has(> span:has-text(/adv/i))
 jpnn.com##div:matches-css(height: 100px)
 dataindonesia.id##div[style^='background-image: url("/img/logo-ads']:has(> [id^="div-gpt-ad-"])
 humaniora.id##figure:has(> a):has-text(/adv/i)
