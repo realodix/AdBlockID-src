@@ -84,7 +84,6 @@ reaksimedia.com###main-ads:remove()
 beautyjournal.id###main-banner-container
 newstasikmalaya.com###mega-billboard-container
 indonesiasatu.co###mobile-top-advert
-bankiir.id,biayatarif.com,pilihprofesi.com,prosesbayar.com###myAds
 bidikindonesianews.co.id,eksposisi.com,indojambi.id,inspirasijambi.com,kilasgarutnews.id,lingkarjambi.id,newsceoaceh.com,sekilasbanten.com,terasjambi.id###news-feed-banner
 suararepubliknews.com###news-feed-banner img
 narasi.tv###placement_before_video_detail_academy_advertorial
@@ -639,7 +638,7 @@ sportjabar.com##.floating-imagel
 sportjabar.com##.floating-imager
 sahabatnews.net##.floatwa
 indozone.id,optika.id,tek.id##.flying_carpet_div
-bacaterus.com,bareksa.com,bisnis.com,carisinyal.com,goodnewsfromindonesia.id,harpersbazaar.co.id,herworld.co.id,indozone.id,iradiofm.com,iswaranetwork.com,kamini.id,lokerjakarta.id,malukuterkini.com,motherandbeyond.id,panditfootball.com,poskota.co.id,selular.id,suarasurabaya.net,therockinlife.com,traxonsky.com##.footer_sticky
+bareksa.com,bisnis.com,carisinyal.com,goodnewsfromindonesia.id,harpersbazaar.co.id,herworld.co.id,indozone.id,iradiofm.com,iswaranetwork.com,kamini.id,lokerjakarta.id,malukuterkini.com,motherandbeyond.id,panditfootball.com,poskota.co.id,selular.id,suarasurabaya.net,therockinlife.com,traxonsky.com##.footer_sticky
 lokerjakarta.id##.footer_sticky_desktop
 greenscene.co.id,mamikos.com,mojok.co##.footer_stickyexp
 genvoice.id##.for-hide:has(> .for-mobile)

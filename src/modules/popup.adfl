@@ -17,38 +17,20 @@ bangsaku.co,derapjuang.id,detaknews.co.id,embaranmedia.com,faktabanten.co.id,har
 ! .popmake .popmake-overlay .pum-overlay
 harianlenteraindonesia.co.id,jurnaltivi.com,proaksinews.com,taxacademy.id,tugumalang.id,zonaintegritas.news##+js(aopr, window.pum_popups)
 !
-paketinternet.net###bukafpop
-obordewata.com###fancybox-overlay
-obordewata.com###fancybox-wrap
-ladiestory.id###modalBanner
-ketik.co.id###modalPopup
-bankiir.id,biayatarif.com,pilihprofesi.com,prosesbayar.com,tuliskan.id###myCont
 emitennews.com###myPopup
 lahatonline.com###popover
-josstoday.com###popup
 gamefinity.id,kabarpublik.id###popup-ads
 internetbaik.telkomsel.com###popupOverlay
-wandercom.id###popuplayout
-inilah.com##.MuiModal-root
-awall.id,ibtimes.id,kalbaronline.com,kapabar.com##.ays-pb-modals
-astronauts.id##.brave_popup
 duniagames.co.id##.cdk-overlay-container
 lacako.com##.chat-popup
 emitennews.com##.content-popup-ads
-infopapuaselatan.com,lenteratoday.com,pelindo.co.id,persis.or.id##.fade.show
-sumselindependen.com##.fancybox-container
+infopapuaselatan.com##.fade.show
 sukabumiheadline.com##.jet-popup
-timetoday.id##.jetpack-subscribe-modal
 jagobengkel.com,versusbeda.com##.jquery-modal
-ladiestory.id##.modal-backdrop
-bacaterus.com,carisinyal.com##.oxy-modal-backdrop
-beritaja.com,gammafisblog.com,jabar-online.com##.popbox
+jabar-online.com##.popbox
 emitennews.com##.popup-ads
-beritaup2date.com##.w3-modal
-pasjabar.com##.wp-popup
 !
-bacaterus.com,bankiir.id,beritaja.com,biayatarif.com,brainly.co.id,carisinyal.com,emitennews.com,gamefinity.id,gammafisblog.com,goodnewsfromindonesia.id,infopapuaselatan.com,inilah.com,jabar-online.com,jagobengkel.com,ladiestory.id,lenteratoday.com,pelindo.co.id,persis.or.id,pilihprofesi.com,prosesbayar.com,sumselindependen.com,timetoday.id,tuliskan.id,versusbeda.com##html, body:style(overflow: auto!important; position: unset!important;)
-ketik.co.id##html:style(scrollbar-width: unset!important;)
+brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,jabar-online.com,jagobengkel.com,versusbeda.com##html, body:style(overflow: auto!important; position: unset!important;)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
 !#if (adguard)
 duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
