@@ -612,6 +612,7 @@ bidiknewstoday.com##.elementor-element > .elementor-widget-container:has(> .elem
 balinews.id##.elementor-swiper
 koransn.com##.entry > div[style*="text-align:center;"]:has(> img)
 sergaplampung.com,sumateranews.co.id##.entry-content .code-block > img
+suarasultra.com##.entry-content .demo_1
 kabarmadura.id##.entry-content .slider-pro
 ntbsatu.com##.entry-content .stream-item-inline-post:has(> .stream-title:has-text(/iklan/i))
 kuotareguler.com##.entry-content > .code-block
