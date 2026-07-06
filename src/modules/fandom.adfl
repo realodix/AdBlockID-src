@@ -373,9 +373,11 @@ layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier
 ! WG Film21
 ! https://tv-project-naturalmix.pages.dev/ | https://project-zonkerfilms.pages.dev/
 ! -----
-||r2.dev^$media,redirect=noopmp4-1s,domain=wgfilm21.*
+||r2.dev^$media,redirect=noopmp4-1s,domain=cyberfortsoftware.com|jnadesigns.com|laporpakfans.com|poetarea.com|wgfilm21.*|zeeshealth.com
 ||xuzor.com/wgfilm21/sponsor-$3p,media,redirect=noopmp4-1s
-cyberfortsoftware.com,jnadesigns.com,laporpakfans.com,wgfilm21.com,wgfilm21.net##a[target*="blank"]:has(> img)
+iframeprotection.com###overlay-ad
+cyberfortsoftware.com,jnadesigns.com,laporpakfans.com,poetarea.com,wgfilm21.com,wgfilm21.net,zeeshealth.com##.show.top-slide-popup
+cyberfortsoftware.com,jnadesigns.com,laporpakfans.com,poetarea.com,wgfilm21.com,wgfilm21.net,zeeshealth.com##a[target*="blank"]:has(> img)
 ! Terlihat sudah tidak aktif
 acoustacorp.com,apieceofmonologue.com,attendnyc.com,carolinescomedyschool.com,snowcruise-onze.com,whybelieveinagod.org##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
