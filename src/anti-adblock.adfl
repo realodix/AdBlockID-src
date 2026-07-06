@@ -36,7 +36,7 @@ infoaceh.net##+js(aopr, $.magnificPopup.open)
 ! KlinkzADBlock
 kareel.com##+js(set, config.adblock.selector, true)
 ! tie-popup-adblock
-abadikini.com,badakpos.com,deras.id,hasanah.id,mykmu.net,partaiku.id,rukim.id,teknoob.id##+js(set, tie.ad_blocker_detector, null)
+abadikini.com,badakpos.com,deras.id,hasanah.id,mykmu.net,partaiku.id,rukim.id##+js(set, tie.ad_blocker_detector, null)
 mykmu.net##+js(set-constant, tie.ad_blocker_disallow_images_placeholder, '')
 !
 ! SPECIFIC BLOCK
