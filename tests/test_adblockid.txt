@@ -177,7 +177,6 @@ atnews.id
 autentik.id
 autonetmagz.com
 autoride.co.id
-avesiar.com
 avinews.com
 awall.id
 axialnews.id
