@@ -21,6 +21,7 @@ emitennews.com###myPopup
 lahatonline.com###popover
 gamefinity.id,kabarpublik.id###popup-ads
 internetbaik.telkomsel.com###popupOverlay
+wandercom.id###popuplayout
 duniagames.co.id##.cdk-overlay-container
 lacako.com##.chat-popup
 emitennews.com##.content-popup-ads
@@ -30,7 +31,7 @@ jagobengkel.com,versusbeda.com##.jquery-modal
 jabar-online.com##.popbox
 emitennews.com##.popup-ads
 !
-brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,jabar-online.com,jagobengkel.com,versusbeda.com##html, body:style(overflow: auto!important; position: unset!important;)
+brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,jabar-online.com,jagobengkel.com,versusbeda.com,wandercom.id##html, body:style(overflow: auto!important; position: unset!important;)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
 !#if (adguard)
 duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
