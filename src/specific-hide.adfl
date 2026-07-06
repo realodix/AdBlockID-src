@@ -626,6 +626,7 @@ iglobalnews.co.id##.entry-content > div[class^="iglob-"]:has(> div[class^="iglob
 hargo.co.id##.entry-content > div[style="float: none; margin:10px 0 10px 0; text-align:center;"]:has(> img)
 atasaspal.com##.entry-content > p > a[rel*="noreferrer"]:has(> img)
 redaksi8.com##.entry-content [class^="redak-after-content-"]
+nujatiagung.com##.entry-content div:has(> :has-text(/adv/i))
 jurnalfaktual.id##.f-slideup
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-leftSd
 jejakinformasi.id,peoplenews.id##.fixed-lside

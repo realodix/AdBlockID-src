@@ -101,6 +101,7 @@ annews.co.id##.widget:has-text(/sponsor/i)
 suarakeadilannews.id##.widget_block > a:has(img)
 delikasia.com,liputan4.com##.widget_block > img
 benuanews.com,rublikanesia.com,swanara.com##.widget_block:has(p > .adsbygoogle)
+nujatiagung.com##.wp-block-image > img
 kuninganmass.com##.zox-side-widget > figure > img
 bedahnusantara.com,faktakalbar.id,kaltengnews.co.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
 jurnalkaltara.com##[class^="mvp-widget"] .wp-block-image > img
