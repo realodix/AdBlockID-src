@@ -827,6 +827,7 @@ dialognews.id
 dialogpublik.com
 dialograkyat.com
 dianisa.com
+diantimur.com
 diaribali.com
 dicintai.com
 didikpos.com
