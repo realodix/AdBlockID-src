@@ -11,5 +11,6 @@ affmotor.com,ajaib.co.id,gen987fm.com,nupasuruan.or.id##html, body:style(overflo
 sahijab.com###firebase-popup
 pituruhnews.com###myNotification
 pasbana.com###myNotification:has(> #update-box)
+borneoflash.com###pushPromptOverlay
 suara.com##.notification-banner
 haibunda.com##.pushnotif
