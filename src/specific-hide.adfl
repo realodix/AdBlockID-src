@@ -629,9 +629,9 @@ atasaspal.com##.entry-content > p > a[rel*="noreferrer"]:has(> img)
 redaksi8.com##.entry-content [class^="redak-after-content-"]
 nujatiagung.com##.entry-content div:has(> :has-text(/adv/i))
 jurnalfaktual.id##.f-slideup
-drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-leftSd
+drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-leftSd
 jejakinformasi.id,peoplenews.id##.fixed-lside
-drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-rightSd
+drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-rightSd
 jejakinformasi.id,peoplenews.id##.fixed-rside
 narasi.tv##.fixed.bottom-0
 monitorindonesia.com##.fixed.slide-in-from-bottom

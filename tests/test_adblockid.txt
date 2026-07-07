@@ -1653,6 +1653,7 @@ jalurinfosulbar.id
 jalurnews.com
 jambidaily.com
 jambinet.id
+jambinews.id
 jambioke.com
 jambione.com
 jambiseru.com
