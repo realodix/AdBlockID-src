@@ -4276,6 +4276,7 @@ volleynews.id
 vosmedia.co.id
 voxkalteng.com
 voxlampung.com
+voxntt.com
 voxnusantara.com
 wacana-edukasi.com
 wahanaindonews.com
