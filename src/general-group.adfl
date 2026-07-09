@@ -21,6 +21,7 @@
 ~atid.me##[href^="https://atid.me/adv.php"]:has(img)
 ~atid.me##[href^="https://atid.me/go/"]:has(img)
 ~adsterra.com##[href^="https://beta.publishers.adsterra.com/signup"]:has(img)
+~exabytes.co.id##[href^="https://billing.exabytes.co.id/aff.php"]:has(img)
 ~collaborator.pro##[href^="https://collaborator.pro?ref="]:has(img)
 ~jogjaweb.co.id##[href^="https://hub.jogjaweb.co.id/aff.php?"]:has(img)
 ~idwebhost.com##[href^="https://idwebhost.com/aff/"]:has(img)
