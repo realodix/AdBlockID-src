@@ -122,6 +122,7 @@
 #
 # .it
 *://acquamarina97.it/*
+*://harasun.it/*
 *://inforentri.it/*
 *://www.studiodentisticousoni.it/*
 # .nl
