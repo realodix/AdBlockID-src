@@ -39,6 +39,3 @@ duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
 !#else
 duniagames.co.id##html:remove-class(cdk-global-scrollblock)
 !#endif
-!
-! POP-UP PAGE
-! ------------------------------------------------------------------------------
