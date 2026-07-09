@@ -1,6 +1,7 @@
 gen987fm.com###popup_banner
 nupasuruan.or.id##.jetpack-subscribe-modal
 affmotor.com##.jquery-modal
+qwords.com##:matches-path(/blog) [data-ff-type="popup"]
 ajaib.co.id##[aria-labelledby="campaign-popup-title"]
 !
 affmotor.com,ajaib.co.id,gen987fm.com,nupasuruan.or.id##html, body:style(overflow: auto!important; position: unset!important;)
