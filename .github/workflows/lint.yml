@@ -19,9 +19,15 @@ jobs:
         with:
           php-version: '8.5'
           coverage: none
+      - name: Debug Packagist
+        run: |
+          curl https://repo.packagist.org/p2/realodix/haiku~dev.json
       - name: Install dependencies
         run: |
           composer install --no-dev --optimize-autoloader
+      - name: Debug Composer
+        run: |
+          composer show realodix/haiku
       - name: Lint
         run: |
           vendor/bin/haiku lint
