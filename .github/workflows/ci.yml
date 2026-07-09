@@ -17,12 +17,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v6
         with:
-          fetch-depth: 100
+          fetch-depth: 255
 
       - name: Generate Hash Matrix
         id: set-matrix
         run: |
-          HASHES=$(git log -n 100 --format="%H" | cut -c 1-5 | jq -R . | jq -s -c .)
+          HASHES=$(git log -n 255 --format="%H" | cut -c 1-5 | jq -R . | jq -s -c .)
           echo "hashes=${HASHES}" >> $GITHUB_OUTPUT
   ci:
     needs: get-hashes
