@@ -6,7 +6,9 @@ batamclick.com,editorial9.com,jarrakpos.com,mediakaltim.com,nabire.net,sandeq.co
 ! Elementor - /wp-content/plugins/elementor/
 minanews.net,teropongmedia.id##.elementor-popup-modal
 minanews.net,teropongmedia.id##body:style(overflow: auto!important; position: unset!important;)
-
+! hustle-ui / hustle-popup
+lokerjakarta.id##.hustle-popup
+lokerjakarta.id##html.hustle-no-scroll:style(overflow: auto!important; position: unset!important;)
 ! mpp-container
 /wp-content/plugins/master-popups/*$domain=mediamerdeka.co
 ! Popup Builder / sgpb-popup / sg-popup
