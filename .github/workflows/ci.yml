@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  pull_request:
+    paths:
+      - 'src/**'
+  push:
+    paths:
+      - 'src/**'
+
+jobs:
+  get-hashes:
+    runs-on: ubuntu-latest
+    outputs:
+      hash_matrix: ${{ steps.set-matrix.outputs.hashes }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 255
+
+      - name: Generate Hash Matrix
+        id: set-matrix
+        run: |
+          HASHES=$(git log -n 255 --format="%H" | cut -c 1-5 | jq -R . | jq -s -c .)
+          echo "hashes=${HASHES}" >> $GITHUB_OUTPUT
+  ci:
+    needs: get-hashes
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        commit_hash: ${{ fromJson(needs.get-hashes.outputs.hash_matrix) }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.5'
+          coverage: none
+      - name: Install dependencies
+        run: |
+          composer install --no-dev --optimize-autoloader
