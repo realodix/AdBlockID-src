@@ -25,14 +25,14 @@ wandercom.id###popuplayout
 duniagames.co.id##.cdk-overlay-container
 lacako.com##.chat-popup
 emitennews.com##.content-popup-ads
-infopapuaselatan.com##.fade.show
+infopapuaselatan.com,kabargolkar.com##.fade.show
 sukabumiheadline.com##.jet-popup
 jagobengkel.com,versusbeda.com##.jquery-modal
 asiaboxdrama.com##.mantine-Modal-root
 jabar-online.com##.popbox
 emitennews.com##.popup-ads
 !
-asiaboxdrama.com,brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,jabar-online.com,jagobengkel.com,versusbeda.com,wandercom.id##html, body:style(overflow: auto!important; position: unset!important;)
+asiaboxdrama.com,brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,jabar-online.com,jagobengkel.com,kabargolkar.com,versusbeda.com,wandercom.id##html, body:style(overflow: auto!important; position: unset!important;)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
 !#if (adguard)
 duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
