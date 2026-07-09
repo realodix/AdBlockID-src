@@ -634,6 +634,7 @@ jejakinformasi.id,peoplenews.id##.fixed-lside
 drphone.id,halilintarnews.id,harianmerdeka.id,indimanado.com,jambinews.id,komentar.co,orasirakyat.com,pasjabar.com,sbnnews.id,teraskabar.id##.fixed-rightSd
 jejakinformasi.id,peoplenews.id##.fixed-rside
 narasi.tv##.fixed.bottom-0
+m.kaskus.co.id##.fixed.bottom-0:has(> [id^="div-gpt-ad-"])
 monitorindonesia.com##.fixed.slide-in-from-bottom
 dutanusantaramerdeka.com##.flexslider
 infopublik.id##.float-info
