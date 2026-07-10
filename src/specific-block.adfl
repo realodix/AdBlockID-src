@@ -894,5 +894,5 @@ _728x90px.$image,domain=bogordaily.net
 ! Maybe it'll be on Easylist later
 ||colorfulculture.click^
 ! ---
-! https://github.com/AdguardTeam/AdguardFilters/blob/d8f2470823/BaseFilter/sections/general_url.txt#L421
+! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_url.txt#L422
 /\/[0-9a-f]{32}\/invoke\.js/$third-party,script,redirect-rule=noopjs

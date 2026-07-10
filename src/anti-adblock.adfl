@@ -75,10 +75,7 @@ qoo10.co.id,surgatekno.com##ins[data-ad-client]
 !
 ! GENERAL BLOCK
 ! ------------------------------------------------------------------------------
-! parked domains anti adb
-! https://github.com/uBlockOrigin/uAssets/issues/14345
-/px.gif?$image,redirect-rule=1x1.gif
-! https://github.com/uBlockOrigin/uAssets/blob/75b591730f/filters/filters-2022.txt#L1011
+! https://github.com/uBlockOrigin/uAssets/blob/9fd8b8b821/filters/filters-2022.txt#L867
 *#*/ad/$image,redirect-rule=1x1.gif
 !
 /images/ads.$image,redirect-rule=1x1.gif
