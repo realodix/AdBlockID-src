@@ -159,18 +159,17 @@ playeriframe.sbs##body > a:has(> .message-box)
 ! Iframe
 ||lk21static.buzz/iframe/content2.php$frame
 ! -----------------------------------------------
-! https://d21.media/ | https://amp.indokeren21.site/
-! https://www.facebook.com/groups/lk21media/
+! https://d21.media/ | http://101.99.90.164/ | https://sf21.team/
+! info@surgafilm21.com
 ! -----
 ||d21.media/img/*.gif$image
 ||d21.media/vid/$media,redirect=noopmp4-1s
 ||d21.media^*/iklan-
-nontondrama.wiki,skeeterbyte.com,tagkia.com###player-below-b
-nontondrama.wiki,skeeterbyte.com,tagkia.com##a[target*="blank"]:has(> img)
-skeeterbyte.com,tagkia.com##div:matches-css(font-size: 10px):has-text(/promoted/i)
+sf21.space###overlay-iklan-internal
+lk21official.top,skeeterbyte.com,surgafilm21.website##a[target*="blank"]:has(> img)
 ! Iframe
 ||tolonglah.pages.dev$frame
-nontondrama.wiki,skeeterbyte.com,tagkia.com##:matches-path(/links/?url=) body > .container-iframe
+skeeterbyte.com##:matches-path(/links/?url=) body > .container-iframe
 ! -----------------------------------------------
 ! Doronime
 ! -----
