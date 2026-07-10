@@ -1555,6 +1555,7 @@ inilahkoran.id
 inilahmedan.com
 inilahnews.com
 inilahonline.com
+inilahsukabumi.com
 inilahsultra.com
 inilampung.com
 inimedan.com
