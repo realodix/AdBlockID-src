@@ -655,6 +655,9 @@
 ##.ads_970x250
 ##.ads__970x250
 ##.ads__boxr
+##.ads__min-h-\[250px\]
+##.ads__min-h-\[300px\]
+##.ads__min-h-\[90px\]
 ##.ads__parallax
 ##.ads__parallax__fixed
 ##.ads__r1
