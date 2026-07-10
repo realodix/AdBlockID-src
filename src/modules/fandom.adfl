@@ -105,6 +105,7 @@ adikanime.com##.adik-warning
 ! ---
 ! Pop-Up & Overlay
 ! ---
+kazefuri.id###fAP_fkAdPop
 indositusxxi.id,kopajasubs.info###fb-fanbox
 filem21.org###overlay
 anichin.co,anichin.name,anichin.watch,animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog###overplay
@@ -117,7 +118,9 @@ sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
-anibatch.moe,dramaencode.net,kazefuri.cloud,rebahan21.com,sokuja.uk##+js(nowoif)
+anibatch.moe,dramaencode.net,kazefuri.cloud,kazefuri.id,rebahan21.com,sokuja.uk##+js(nowoif)
+!
+kazefuri.id##html, body:style(overflow: auto!important; position: unset!important;)
 !
 ! CM Pop-Up banners / cm-popup-modal / ouibounce-modal
 nontondrama.blog,sobatmov.xyz,sokuja.uk##+js(aopr, popup_custom_data)
