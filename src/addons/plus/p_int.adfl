@@ -55,8 +55,9 @@ crackshash.com##.wp-ad-top
 @@/ad300.js$domain=rubystm.com|rubyvid.com|streamruby.com
 @@/ad_common.js$domain=rubystm.com|rubyvid.com|streamruby.com
 !
+explorecams.com###adblock-popup
 leeapk.com###antiAdBlock
-leeapk.com##html, body:style(overflow: auto!important; position: unset!important;)
+explorecams.com,leeapk.com##html, body:style(overflow: auto!important; position: unset!important;)
 !
 ! ANNOYANCE
 ! ------------------------------------------------------------------------------
