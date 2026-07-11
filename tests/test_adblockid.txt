@@ -1700,6 +1700,7 @@ jatimterkini.id
 jatimtimes.com
 jatimupdate.id
 javamedia.id
+javanetwork.co.id
 javanewsonline.co.id
 javasatu.com
 jawaban.com
