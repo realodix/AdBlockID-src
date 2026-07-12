@@ -315,12 +315,12 @@ cosmicscans.to##html, body:style(overflow: auto!important; position: unset!impor
 /ads/*$to=gmbr.pro
 ||ads.gmbr.pro^
 manhwaland.land###f-widget.fixed
-manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
-manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
-manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
-manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
+manhwadesu.im,manhwaindo.my,manhwaland.baby,manhwaland.land##.kln
+manhwadesu.im,manhwaindo.my,manhwaland.baby,manhwaland.land##a[target*="blank"]
+manhwadesu.im,manhwaindo.my,manhwaland.baby,manhwaland.land##div[id^="teaser"]
+manhwadesu.im,manhwaindo.my,manhwaland.baby,manhwaland.land##div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 ! Annoyance
-manhwadesu.shop,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
+manhwadesu.im,manhwaindo.my,manhwaland.baby,manhwaland.land##+js(nowoif)
 ! -----------------------------------------------
 ! onepieceberwarna.com
 ! -----
