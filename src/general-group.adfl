@@ -21,6 +21,7 @@
 ~gramedia.com##[href^="https://aff.gramedia.com/"]:has(img)
 ~atid.me##[href^="https://atid.me/adv.php"]:has(img)
 ~atid.me##[href^="https://atid.me/go/"]:has(img)
+~baic.co.id##[href^="https://baic.co.id/"][href*="=referral"]:has(img)
 ~adsterra.com##[href^="https://beta.publishers.adsterra.com/signup"]:has(img)
 ~exabytes.co.id##[href^="https://billing.exabytes.co.id/aff.php"]:has(img)
 ~collaborator.pro##[href^="https://collaborator.pro?ref="]:has(img)
