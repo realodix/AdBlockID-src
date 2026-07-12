@@ -145,6 +145,7 @@ sindonews.com##.download-sindoapps
 liputan6.com##.gateway__mobile-app
 kapanlagi.com##.liputan6-mobileapp-widget
 id.theasianparent.com##.top-app-download-banner
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div:matches-css(position: relative):has(> div:matches-css(position: relative) + a):has-text(/idn app/i)
 my.telkomsel.com##div[class^="BannerDownload"]
 my.telkomsel.com##div[class^="DialogInstall"]
 merdeka.com##header .assambleApp
