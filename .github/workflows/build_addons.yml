@@ -20,7 +20,7 @@ jobs:
 
     steps:
     - name: Checkout src repo
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
       with:
         fetch-depth: 0  # git history
 
@@ -39,7 +39,7 @@ jobs:
         vendor/bin/haiku build
 
     - name: Checkout target repo (AdBlockID)
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
       with:
         repository: realodix/AdBlockID
         token: ${{ secrets.ABID_BUILD }}

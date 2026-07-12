@@ -15,7 +15,7 @@ jobs:
       hash_matrix: ${{ steps.set-matrix.outputs.hashes }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 255
 
@@ -32,7 +32,7 @@ jobs:
         commit_hash: ${{ fromJson(needs.get-hashes.outputs.hash_matrix) }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
