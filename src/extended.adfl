@@ -24,4 +24,5 @@
 ! https://github.com/AdguardTeam/ExtendedCss/issues/164
 0.0.realodix##:matches-path(/^/home/) [data-testid="primaryColumn"]:others()
 !
+0.0.realodix##+js(prevent-setTimeout, getComputedStyle)
 0.0.realodix##+js(prevent-window-open)
