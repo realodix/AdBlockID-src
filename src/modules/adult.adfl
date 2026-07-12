@@ -112,6 +112,7 @@ sukasex.*##+js(rmnt, script, popupUrl)
 ! 21Gratis - https://t.me/nonton21gratis, https://t.me/asupan21viral
 ! -----------------------------------------------
 /wp-content/uploads/*.mp4$1p,media,redirect=noopmp4-1s,to=artisbokep.*|republikbokep.*|xbokepin.*
+||r2.dev^*.gif$domain=artisbokep.*|xbokepin.*
 artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
 xbokepin.*###popupBannerOverlay
 artisbokep.*##.top-banner
