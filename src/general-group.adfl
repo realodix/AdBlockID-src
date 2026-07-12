@@ -11,6 +11,7 @@
 ||oketheme.com/members/file/get/path/.banners.$3p,image
 ||seedbacklink.com^*/badge-$3p,image
 ||sugeng.id^*/banner-$3p
+||theme-sphere.com^$3p,image
 ||triv.co.id^*/banner/$3p
 ||wp.com/www.jagoanhosting.com^*/banner-$domain=~jagoanhosting.app|~jagoanhosting.com
 ~niagahoster.co.id##[href*="//niagahoster.co.id" i][href*="?REFERRALCODE" i]:has(img)
@@ -43,6 +44,7 @@
 ~ajaib.co.id##[href^="https://referral.ajaib.co.id/"]:has(img)
 ~sugeng.id##[href^="https://sugeng.id/?ref="]:has(img)
 ~nephobox.com,~onelink.me,~terabox.com##[href^="https://terabox.onelink.me/"]:has(img)
+~theme-sphere.com##[href^="https://theme-sphere.com/buy/go.php"]:has(img)
 ~triv.co.id##[href^="https://triv.co.id/aff/"]:has(img)
 ~clickadu.com##[href^="https://www.clickadu.com/?rfd="]:has(img)
 ~dewaweb.com##[href^="https://www.dewaweb.com/aff.php?aff="]:has(img)
