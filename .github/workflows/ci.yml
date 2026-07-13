@@ -30,6 +30,7 @@ jobs:
     strategy:
       matrix:
         commit_hash: ${{ fromJson(needs.get-hashes.outputs.hash_matrix) }}
+      max-parallel: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v7
