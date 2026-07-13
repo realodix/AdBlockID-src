@@ -144,6 +144,7 @@ investor.id##.banner-app
 sindonews.com##.download-sindoapps
 liputan6.com##.gateway__mobile-app
 kapanlagi.com##.liputan6-mobileapp-widget
+rctiplus.com##.sticky-install-menu
 id.theasianparent.com##.top-app-download-banner
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div:matches-css(position: relative):has(> div:matches-css(position: relative) + a):has-text(/idn app/i)
 my.telkomsel.com##div[class^="BannerDownload"]
