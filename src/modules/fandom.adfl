@@ -154,7 +154,6 @@ idlixku.com##+js(nostif, getComputedStyle)
 playeriframe.sbs###ad-link
 lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.love,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
-thebuzzabee.com##div:matches-css(font-size: 10px):has-text(/promoted/i)
 ! Annoyance
 cloud.hownetwork.xyz###overlay
 playeriframe.sbs##body > a:has(> .message-box)
