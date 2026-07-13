@@ -1,15 +1,15 @@
 ! FAKE BUTTON
 ! ------------------------------------------------------------------------------
 kuyhaa-me.id,yasir-252.net##.entry-content .code-block
-kuyhaa-me.pw,kuyhaa.id##.entry-content .gp-download-wrapper
 rgames31.com##.entry-content > center a[target="_blank"] input
 abbaspc.net,bagas3-1.co##.entry-content center > a:has(> button)
 kuyhaa.cc##.post-wrapper .code-block:has(> center > a > button)
 gigapurbalingga.cc##a[href^="https://archivehub.com.ng/r/?t="]
 bagas3-1.com##a[href^="https://source.com.ng/r/?t="]
 kuyhaacracks.com##article .code-block
+bagas31.org,kuyhaa-me.pw,kuyhaa.id##article .gp-download-wrapper
 alex71.com,kuyhaa-me.id,kuyhaa.team##article center:has(> a[href^="javascript:void("])
-bagas31.org,bagas31.pw##button[onclick^="handleDownload" i]
+bagas31.pw##button[onclick^="handleDownload" i]
 !
 ! CAMPAIGN
 ! ------------------------------------------------------------------------------
