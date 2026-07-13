@@ -17,6 +17,7 @@ arsipbiru.com##.cookies
 erablue.id##.cookies-consent
 mu-online1.com,queennews.co.id##.cookies-show
 indosphera.com##.et-cookies-popup-wrapper
+vidio.com##.fixed:has(> #user-consent-title)
 mitsubishi-motors.co.id,sehataqua.co.id,sementigaroda.com##.fixed:has-text(/cookie/i)
 axa.co.id##.modal-cookie
 zurich.co.id##.privacy-warning-main
