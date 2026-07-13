@@ -198,7 +198,6 @@
 *://omekin.casa/*
 *://omekin.id/*
 *://payudaragede.blogspot.com/*
-*://pejuanglendir.com/*
 *://pemersatudotfun.com/*
 *://pojokan69.com/*
 *://pusatporn18.com/*
@@ -273,6 +272,7 @@
 /(?<=\/\/|\.)nontonfilmnikmat\..+/
 /(?<=\/\/|\.)novelbasah\..+/
 /(?<=\/\/|\.)omek\.co\.uk/
+/(?<=\/\/|\.)pejuanglendir\..+/
 /(?<=\/\/|\.)pejuhin\..+/
 /(?<=\/\/|\.)pejuhinxxx\..+/
 /(?<=\/\/|\.)pemersatu\..+/
