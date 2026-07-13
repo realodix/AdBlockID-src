@@ -1354,6 +1354,7 @@
 ##[href$="zeus.fun/doujindesu"]
 ##[href*="//vn.adnetworks.top/go/"] > img
 ~redirect388herosafest.com##[href*="redirect388herosafest.com/register/"]:has(> img)
+~redirectatta234safest.com##[href*="redirectatta234safest.com/register/"]:has(> img)
 ~redirectbaik777safest.com##[href*="redirectbaik777safest.com/register/"]:has(> img)
 ~redirectbandarxlsafest.com##[href*="redirectbandarxlsafest.com/register/"]:has(> img)
 ~redirectbisnis4dsafest.com##[href*="redirectbisnis4dsafest.com/register/"]:has(> img)
