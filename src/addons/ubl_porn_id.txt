@@ -102,6 +102,11 @@
 *://95.111.230.204/*
 *://abgcrot.stream/*
 *://adstub.net/*
+*://asupan.media/*
+*://asupan.tokyo/*
+*://asupan.wiki/*
+*://asupanpremium.site/*
+*://asupanpremium.tokyo/*
 *://avtubflix.com/*
 *://avtubreal.com/*
 *://avtubsek.com/*
@@ -165,6 +170,7 @@
 *://kisahghairah.com/*
 *://klipjepang.icu/*
 *://koleksi.media/*
+*://koleksiasupan.pages.dev/*
 *://komikaja.com/*
 *://komikland.com/*
 *://komikpoi.com/*
@@ -224,6 +230,8 @@
 *://xpanashot.pro/*
 *://xporn.org/*
 *://xvideosgg.com/*
+/(?<=\/\/|\.)asupanhot\..+/
+/(?<=\/\/|\.)asupanindo\..+/
 /(?<=\/\/|\.)asupanonly\..+/
 /(?<=\/\/|\.)asupanpremium\..+/
 /(?<=\/\/|\.)avtub\..+/
