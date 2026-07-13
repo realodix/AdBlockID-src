@@ -122,6 +122,7 @@
 #
 # .it
 *://acquamarina97.it/*
+*://cflc-confcoopliguria.it/*
 *://harasun.it/*
 *://inforentri.it/*
 *://www.studiodentisticousoni.it/*
