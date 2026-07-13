@@ -187,7 +187,7 @@ linkweb.buzz
 lk21.de
 lk21.film
 lk21official.cc
-lk21official.love
+lk21official.dev
 lk21official.top
 lk21online.mom
 lk21static.buzz
