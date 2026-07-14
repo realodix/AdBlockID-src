@@ -162,6 +162,7 @@ tokopedia.com##div:matches-css(position: fixed):has(> button[aria-label="close w
 ! NEWSLETTER
 ! ------------------------------------------------------------------------------
 astra.co.id###form-news-letter
+rumahparfum.com###newsletter_block_left
 halodoc.com##.article-page__article-email-wrapper
 kompasiana.com##.kolom-newslt
 !
