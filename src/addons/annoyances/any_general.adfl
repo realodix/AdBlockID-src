@@ -161,6 +161,7 @@ tokopedia.com##div:matches-css(position: fixed):has(> button[aria-label="close w
 ! NEWSLETTER
 ! ------------------------------------------------------------------------------
 astra.co.id###form-news-letter
+kompasiana.com##.kolom-newslt
 !
 ! RELATED ARTICLE
 ! ------------------------------------------------------------------------------
