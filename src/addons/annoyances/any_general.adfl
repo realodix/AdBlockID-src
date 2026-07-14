@@ -109,6 +109,7 @@ parapuan.co##article + #defaultVideoContainer:remove()
 idntimes.com,katadata.co.id##article .dm-player:remove()
 bola.com##article .js-full-iframe-vidio:remove()
 liputan6.com##article iframe.vidio-embed:remove()
+liputan6.com##aside .live--streaming:remove()
 cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
 ! ---
 ! Mobile
