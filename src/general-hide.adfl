@@ -538,6 +538,8 @@
 ##.ads-atas
 ##.ads-atas-player
 ##.ads-banner-container
+##.ads-banner-wrapper
+##.ads-banner-wrapper-1
 ##.ads-bawah
 ##.ads-bawah-player
 ##.ads-below-single
@@ -545,6 +547,7 @@
 ##.ads-billboard
 ##.ads-bock-1
 ##.ads-bottom-fixed
+##.ads-bottom-wrapper
 ##.ads-chapter-0
 ##.ads-fixed
 ##.ads-fixed-bottom

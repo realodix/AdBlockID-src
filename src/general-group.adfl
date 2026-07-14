@@ -257,6 +257,7 @@ kontan.co.id##.popup
 ! Trans Media - Detik Network
 ! -----
 ||akcdn.detik.net.id/community/media/*/gif-banner-
+||amazonaws.com/assets.femaledaily.com/web-assets/ads/
 ||awscdnstatic.detik.net.id/live/_assets/cnbc/banner/
 ||detik.com^*/bannerinternal/
 ||newrevive.detik.com^
@@ -283,6 +284,7 @@ detik.com##.skybanner
 cnbcindonesia.com,cnnindonesia.com,haibunda.com,insertlive.com##.smartbanner_new
 cnbcindonesia.com##.sticky-banner
 cnbcindonesia.com##.sticky-banner-desktop
+femaledaily.com##.top-banner
 20.detik.com##.vertical-video-snap__slide .ads-container
 20.detik.com##.vertical-video-snap__slide .adsContainer
 20.detik.com##.vertical-video-snap__slide .container-video-ads
