@@ -286,7 +286,7 @@ cnbcindonesia.com##.sticky-banner-desktop
 20.detik.com##.vertical-video-snap__slide .ads-container
 20.detik.com##.vertical-video-snap__slide .adsContainer
 20.detik.com##.vertical-video-snap__slide .container-video-ads
-cnnindonesia.com##[data-target="block/banner"]
+cnnindonesia.com,haibunda.com##[data-target="block/banner"]
 haibunda.com##div:has(> .static_banner1)
 cnnindonesia.com##div:has(> [id^="adv-"])
 detik.com,insertlive.com##div[data-ads]
