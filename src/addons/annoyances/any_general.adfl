@@ -131,6 +131,7 @@ bilibili.tv###bilibiliPlayer .ip-watermark
 ! AUTOMATED LINK ATTRIBUTION
 ! ------------------------------------------------------------------------------
 /copy_credit.$script,domain=kompas.com
+||cnbcindonesia.com/cnbc/js/clipboard.js
 ||sindonews.com/sc-v1.js
 ||tribunnews.com/js/copy.js
 gridoto.com,kompasiana.com,sonora.id,tribunnews.com##+js(aeld, /copy|keydown/)
