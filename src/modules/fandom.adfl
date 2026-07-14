@@ -25,6 +25,7 @@
 !
 ||01repo.pages.dev/$media,redirect=noopmp4-1s
 ||animein.net/ADS/$media,redirect=noopmp4-1s
+||animekompi.link/wp-content/uploads/$media,redirect=noopmp4-1s
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||animeku.org/public/vid/$media,redirect=noopmp4-1s
 ||asia9sports.com/wp-content/uploads/$3p,media,redirect=noopmp4-1s
