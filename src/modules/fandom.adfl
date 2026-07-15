@@ -14,6 +14,7 @@
 ||cdnfgo.xyz/wp-content/uploads/*.gif|$domain=komiktap.info
 ||filmdewasa.org/pictures/*.gif
 ||gambarklikzeus.com/pic/*.gif
+||img.gm21.download/linkalternatif
 ||imgbob.site/images/banner/$3p
 ||kimochi.ink/banner/$3p
 ||mypic.site/banner/$3p
@@ -120,7 +121,7 @@ sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
-anibatch.moe,dramaencode.net,kazefuri.cloud,kazefuri.id,otakupoi.org,rebahan21.com,sokuja.uk##+js(nowoif)
+anibatch.moe,dramaencode.net,gudangmovies21.chat,kazefuri.cloud,kazefuri.id,otakupoi.org,rebahan21.com,sokuja.uk##+js(nowoif)
 !
 kazefuri.id,otakupoi.org##html, body:style(overflow: auto!important; position: unset!important;)
 !
