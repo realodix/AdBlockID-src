@@ -1280,7 +1280,7 @@
 ##a[title="gitartogel" i]
 ##a[title="hokidewa" i]:has(img)
 ##a[title="jayapoker" i]:has(img)
-##a[title="kaikoslot" i] > img
+##a[title="kaikoslot" i]:has(img)
 ##a[title="klikhoki" i]:has(img)
 ##a[title="kuningtoto" i]:has(img)
 ##a[title="macaudewa" i]:has(img)
