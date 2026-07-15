@@ -129,6 +129,10 @@ vpnjantit.com###globalsun:has(> #globalsun-div-player):remove()
 ! ------------------------------------------------------------------------------
 bilibili.tv###bilibiliPlayer .ip-watermark
 !
+! AI SUGGESTION
+! ------------------------------------------------------------------------------
+wardahbeauty.com###expert-wrapper
+!
 ! AUTOMATED LINK ATTRIBUTION
 ! ------------------------------------------------------------------------------
 /copy_credit.$script,domain=kompas.com
