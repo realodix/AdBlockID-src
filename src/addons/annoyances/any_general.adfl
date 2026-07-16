@@ -26,7 +26,7 @@ a-news.id##.rb-cookie
 xl.co.id##.sc-concent
 bratapos.com##.uc-gdpr-notification
 indoprecast.com##.wd-cookies-popup
-deretcode.com,goersapp.com##[class*="cookie" i]
+deretcode.com,goersapp.com,rns.id##[class*="cookie" i]
 goal.com##[id^="sp_message_container_"]
 hukumonline.com,myorbit.id,smartfren.com,telkom.co.id,vocagame.com##div:matches-css(position: fixed):has-text(/cookie/i)
 offenseproject.com##+js(set-cookie, CookiePolicy, accepted)
