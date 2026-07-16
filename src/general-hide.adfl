@@ -1553,6 +1553,8 @@
 ##body > div[style^="position: fixed; inset: 0px; z-index: 2147483647; background-color: transparent; pointer-events: auto; cursor: auto; margin: 0px; padding: 0px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_elemhide.txt#L412
 ##body > div[style^="position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01"][style*=";cursor:pointer"]:empty
+! https://github.com/AdguardTeam/AdguardFilters/blob/865ea1cc36/BaseFilter/sections/general_elemhide.txt#L418
+##.wps-player__happy-inside
 ! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_elemhide.txt#L466
 ##.happy-footer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/122098
