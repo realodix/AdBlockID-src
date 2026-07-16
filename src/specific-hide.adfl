@@ -581,8 +581,8 @@ notif.news###carouselExampleIndicators
 nu.or.id###carouselHeader:has(a[class="print:hidden"] > img[src^="https://storage.nu.or.id/storage/banners/"])
 kabarbaik.co###content .header-video[autoplay]:remove()
 kotaku.co.id###content-area .code-block > img
-balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRALeft
-balipost.com,humaniora.id,indeksnews.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRARight
+balipost.com,humaniora.id,indeksnews.com,lapan6online.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRALeft
+balipost.com,humaniora.id,indeksnews.com,lapan6online.com,lintaslampung.com,liputanjatim.com,matrasnews.com,redaksisatu.id###divFLRARight
 garuda.tv###footer-slideup
 kba.one###gopremium
 kotaku.co.id###head-main-top #leader-wrap > img
