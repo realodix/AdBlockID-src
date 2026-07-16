@@ -1,11 +1,13 @@
 gen987fm.com###popup_banner
+femaledaily.com##.banner-popup-bg-filter
+femaledaily.com##.banner-popup-container
 mentayanet.com,nupasuruan.or.id,rakyatbekasi.com##.jetpack-subscribe-modal
 affmotor.com##.jquery-modal
 qwords.com##:matches-path(/blog) [data-ff-type="popup"]
 ajaib.co.id##[aria-labelledby="campaign-popup-title"]
 taxacademy.id##+js(aopr, window.pum_popups)
 !
-affmotor.com,ajaib.co.id,gen987fm.com,mentayanet.com,nupasuruan.or.id,rakyatbekasi.com##html, body:style(overflow: auto!important; position: unset!important;)
+affmotor.com,ajaib.co.id,femaledaily.com,gen987fm.com,mentayanet.com,nupasuruan.or.id,rakyatbekasi.com##html, body:style(overflow: auto!important; position: unset!important;)
 !
 ! NOTIFICATION
 ! ------------------------------------------------------------------------------
