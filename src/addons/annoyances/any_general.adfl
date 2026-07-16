@@ -176,6 +176,7 @@ hellosehat.com##[data-type="subscription_box_A"]
 tribunnews.com###article #_popIn_recommend_word
 bolatimes.com,dewiku.com,himedik.com,hitekno.com,matamata.com###geniee-berita-terkait
 gridoto.com##.content_footer .artikel_terkait:has(script[src^="https://jsc.mgid.com"])
+detik.com##cb-rekomendit
 !
 ||typeform.com$frame,domain=detik.com
 detik.com##div[data-tf-loaded]
