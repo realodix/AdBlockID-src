@@ -41,12 +41,15 @@ garuda-indonesia.com##+js(set-local-storage-item, cookies, true)
 asianet.co.id##+js(set-local-storage-item, cookiesAccepted, true)
 komdigi.go.id##+js(set-local-storage-item, localConsent, true)
 !
+generali.co.id###cookies
 vcgamers.com###kami-menghargai-privasi-anda-drawer
 vcgamers.com###overlay
 indonesiabusinesspost.com##.blackkosong
 puratos.co.id##.modal
 puratos.co.id##.modal-backdrop
+generali.co.id##.show.fade
 indonesiabusinesspost.com,puratos.co.id,vcgamers.com##body, html:style(overflow: auto !important; position: initial !important;)
+generali.co.id##html, body:style(overflow: auto!important; position: unset!important;)
 ! ---
 ! International
 ! ---
