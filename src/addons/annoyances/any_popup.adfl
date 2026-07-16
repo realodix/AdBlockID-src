@@ -14,6 +14,7 @@ affmotor.com,ajaib.co.id,gen987fm.com,mentayanet.com,nupasuruan.or.id,rakyatbeka
 sahijab.com###firebase-popup
 pituruhnews.com###myNotification
 pasbana.com###myNotification:has(> #update-box)
+beautynesia.id###pnot
 borneoflash.com###pushPromptOverlay
 suara.com##.notification-banner
 haibunda.com##.pushnotif

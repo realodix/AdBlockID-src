@@ -75,6 +75,7 @@ pintu.co.id##:matches-path(/news) #inline-banner
 tribunnews.com###article .widgettshop
 m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
 tribunnews.com###jualbeli2022
+beautynesia.id##.beaupicks
 katadata.co.id##.detail-body .section-affiliate
 gramedia.com##.entry-content > .grame-promo
 orami.co.id##.floating-shopping
