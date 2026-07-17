@@ -1548,17 +1548,16 @@
 ##gmn-companion-ad-renderer
 ##img[data-ai-hint="advertisement banner"]
 ##img[data-permalink^="/apps/iklan-"]
-! AG
-! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_elemhide.txt#L406
+! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L406
 ##body > div[style^="position: fixed; inset: 0px; z-index: 2147483647; background-color: transparent; pointer-events: auto; cursor: auto; margin: 0px; padding: 0px;"]
-! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_elemhide.txt#L412
+! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L412
 ##body > div[style^="position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01"][style*=";cursor:pointer"]:empty
-! https://github.com/AdguardTeam/AdguardFilters/blob/865ea1cc36/BaseFilter/sections/general_elemhide.txt#L418
+! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L418
 ##.wps-player__happy-inside
-! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_elemhide.txt#L466
+! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L466
 ##.happy-footer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/122098
-! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_elemhide.txt#L480
+! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L480
 ##.happy-inside-player
 ! https://github.com/easylist/easylist/blob/0fcfb4e0ea/easylist/easylist_general_hide.txt#L3836
 ###teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"]
