@@ -1561,6 +1561,8 @@
 ##.happy-inside-player
 ! https://github.com/easylist/easylist/blob/0fcfb4e0ea/easylist/easylist_general_hide.txt#L3836
 ###teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"]
+! variants
+###teaser3[style="width: 100%;height:0;text-align: center;display: scroll;position:fixed;bottom: 115px;margin: 0 auto;z-index: 103;"]
 !
 ! DIMENSION
 ! ------------------------------------------------------------------------------
