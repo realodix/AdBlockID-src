@@ -219,11 +219,11 @@ nontonanimeid.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! MirrorKomik - https://mirrorkomik.id
 ! -----
-/Uangjajan/*$image,domain=mirrorinkomik.my.id|mirrorkomik.info|mirrorkomik.site
-mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.bebaskan
-mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##.kln
+||cdngue.my.id/public/img/Uangjajan/$3p,image
+mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##.bebaskan
+mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##.kln
 mirrorkomik.info##div[id^="teaser"]
-mirrorinkomik.my.id,mirrorkomik.info,mirrorkomik.site##img[alt*="banner" i]
+mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##img[alt*="banner" i]
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
 ! -----
