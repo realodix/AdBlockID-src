@@ -12,6 +12,7 @@ kilastimor.com###leader-wrap > a > img
 asajabar.com,atjehterkini.id,kepripedia.com,matrasnews.com,patrolihukum.net###sidebar-header
 potretpapua.com##.before-widget .gallery-item
 tirto.id##.d-sidebar:has([id^="gpt-"])
+realestat.id##.elementor-widget > a:has(img):not(a:has(img[src*="logo" i]))
 kaltengterkini.co.id##.elementor-widget-container .elementor-image
 minanews.net##.elementor-widget-container .elementor-shortcode
 radarbandung.id##.elementor-widget-container > .jet-listing-dynamic-image > a > img
