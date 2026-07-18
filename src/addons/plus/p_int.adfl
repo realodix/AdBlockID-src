@@ -14,6 +14,7 @@ vietnam.vn##:matches-path(/id) #ad-post-above
 vietnam.vn##:matches-path(/id) #ad-post-between-sections
 vietnam.vn##:matches-path(/id) #ad-post-bottom
 parcelsapp.com##:matches-path(/id) div[style="text-align: center; min-height: 280px;"]
+tradersunion.com##:matches-path(/ind) .branded-banner
 ! ---
 ! Annoyances
 ! ---
