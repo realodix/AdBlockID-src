@@ -538,6 +538,7 @@
 ##[href="https://klik.best/filmapik"]
 ##[href="https://klik.best/hencop"]
 ##[href="https://klik.best/ibodm21"]
+##[href="https://klik.best/idlixal"]
 ##[href="https://klik.best/ikiru"]
 ##[href="https://klik.best/indolk21"]
 ##[href="https://klik.best/kocast"]
@@ -605,6 +606,8 @@
 ##[href="https://klik.top/dojinhkd"]
 ##[href="https://klik.top/doujin"]
 ##[href="https://klik.top/dutamovie21"]
+##[href="https://klik.top/idlixal"]
+##[href="https://klik.top/idlixalidks"]
 ##[href="https://klik.top/ikihd"]
 ##[href="https://klik.top/ikiruid"]
 ##[href="https://klik.top/kiryuid"]
@@ -1366,8 +1369,7 @@
 ~koko88.my##[href*="koko88.my"]
 ~saiikou.com##[href*="saiikou.com"]
 !
-##[href$="zeus.fun/PM21"]
-##[href$="zeus.fun/doujindesu"]
+~dominasidewa.*,~klikzeus10.*,~zeus.fun##[href*=".zeus.fun/"]
 ##[href*="//vn.adnetworks.top/go/"] > img
 ##[href*="/masuk"][href*="safest.com/register/"]:has(img)
 ~akseskaiko.cam##[href="https://akseskaiko.cam/login"]
