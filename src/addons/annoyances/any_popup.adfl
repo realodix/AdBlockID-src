@@ -16,6 +16,7 @@ affmotor.com,ajaib.co.id,femaledaily.com,gen987fm.com,mentayanet.com,nupasuruan.
 sahijab.com###firebase-popup
 gemarnews.com,pituruhnews.com###myNotification
 pasbana.com###myNotification:has(> #update-box)
+langit7.id###notify
 beautynesia.id,cxomedia.id###pnot
 borneoflash.com###pushPromptOverlay
 suara.com##.notification-banner
