@@ -592,7 +592,7 @@ cakrawalantt.com###headlineatas:matches-css(position: fixed)
 lahatonline.com###kontenkiri #maincontentarea > .ls-fullscreen-wrapper > [id^="layerslider_"]
 lahatonline.com###kontenkiri #sliderutama
 sorotjakarta.com###mvp-leader-cont
-bursabisnis.id,garudacitizen.com,sumselnews.co.id###mvp-leader-wrap
+bursabisnis.id,detail.id,garudacitizen.com,sumselnews.co.id###mvp-leader-wrap
 cuplik.com###myCarousel-ik-left
 jawaraspeed.com###openModal:has-text(/ads/i)
 kumparan.com###parallax
