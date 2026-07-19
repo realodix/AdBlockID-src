@@ -159,6 +159,7 @@ playeriframe.sbs###ad-link
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
 ! Annoyance
+dadadidi.de###hihi
 cloud.hownetwork.xyz###overlay
 playeriframe.sbs##body > a:has(> .message-box)
 ! Iframe
