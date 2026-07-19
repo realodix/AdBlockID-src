@@ -165,6 +165,7 @@
 *://kamarjav.com/*
 *://kawai.day/*
 *://kesiangan.com/*
+*://kingav.net/*
 *://kisah69.blog/*
 *://kisahbecek.com/*
 *://kisahghairah.com/*
@@ -223,6 +224,7 @@
 *://vidl.pro/*
 *://warkep.com/*
 *://xbfb.lol/*
+*://xgemoy.com/*
 *://xjilbab.cam/*
 *://xmalay.net/*
 *://xorgasmo.com/*
@@ -249,6 +251,8 @@
 /(?<=\/\/|\.)filmnikmat\..+/
 /(?<=\/\/|\.)filmnikmattv1\..+/
 /(?<=\/\/|\.)filmonline\..+/
+/(?<=\/\/|\.)gairahtv\..+/
+/(?<=\/\/|\.)gairahx\..+/
 /(?<=\/\/|\.)gocrot\..+/
 /(?<=\/\/|\.)gocrot\.org/
 /(?<=\/\/|\.)indo18\..+/
