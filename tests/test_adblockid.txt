@@ -2440,6 +2440,7 @@ liratv.id
 liriklaguhits.id
 liriknews.com
 listrikindonesia.com
+literasi.co
 livesports044.com
 livesports055.com
 livesports066.com
