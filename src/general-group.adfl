@@ -3,6 +3,7 @@
 ! ------------------------------------------------------------------------------
 ! Affiliate / Referral
 ! -----
+||bidoola.com/dispatch/referral/$3p
 ||collaborator.pro/images/referral/$3p
 ||idcloudhost.com/wp-content/uploads/$3p,image,domain=~idcloudhost.co.id
 ||idwebhost.com/assets/img/hostingtermurah/$3p
@@ -47,6 +48,7 @@
 ~nephobox.com,~onelink.me,~terabox.com##[href^="https://terabox.onelink.me/"]:has(img)
 ~theme-sphere.com##[href^="https://theme-sphere.com/buy/go.php"]:has(img)
 ~triv.co.id##[href^="https://triv.co.id/aff/"]:has(img)
+~bidoola.com##[href^="https://www.bidoola.com/ref/"]:has(img)
 ~clickadu.com##[href^="https://www.clickadu.com/?rfd="]:has(img)
 ~dewaweb.com##[href^="https://www.dewaweb.com/aff.php?aff="]:has(img)
 ~domainesia.com##[href^="https://www.domainesia.com/?aff="]:has(img)
