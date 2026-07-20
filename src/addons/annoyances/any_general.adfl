@@ -137,11 +137,6 @@ vpnjantit.com###globalsun:has(> #globalsun-div-player):remove()
 ! ------------------------------------------------------------------------------
 bilibili.tv###bilibiliPlayer .ip-watermark
 !
-! AI SUGGESTION
-! ------------------------------------------------------------------------------
-wardahbeauty.com###expert-wrapper
-dqlab.id##.iframe-chat-ai
-!
 ! AUTOMATED LINK ATTRIBUTION
 ! ------------------------------------------------------------------------------
 /copy_credit.$script,domain=kompas.com
