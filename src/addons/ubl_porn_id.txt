@@ -102,6 +102,7 @@
 *://95.111.230.204/*
 *://abgcrot.stream/*
 *://adstub.net/*
+*://asiasizzle.com/*
 *://asupan.media/*
 *://asupan.tokyo/*
 *://asupan.wiki/*
@@ -132,6 +133,8 @@
 *://crot.media/*
 *://crothot.com/*
 *://crotpedia.net/*
+*://csnbiru.blog/*
+*://csnplayhd.com/*
 *://demplon.com/*
 *://dojing.net/*
 *://doodjavindo.com/*
@@ -142,6 +145,7 @@
 *://dutasex.bond/*
 *://fantasiku.com/*
 *://filmbkp.com/*
+*://flickerlust.com/*
 *://hanime.tv/*
 *://heavenlydistrict.vip/*
 *://hencop.com/*
@@ -157,6 +161,7 @@
 *://indoporn21.site/*
 *://indosex21.net/*
 *://indovidplus.org/*
+*://indoxxihot.com/*
 *://javdesu.tv/*
 *://javindod.com/*
 *://javtube.pro/*
@@ -188,6 +193,7 @@
 *://manhwaland.app/*
 *://manhwapoi.com/*
 *://manytoon.com/*
+*://markasfilmhot.com/*
 *://minioppai.org/*
 *://missavx.com/*
 *://moncrot.vip/*
@@ -232,6 +238,7 @@
 *://xpanashot.pro/*
 *://xporn.org/*
 *://xvideosgg.com/*
+*://zonaplus.space/*
 /(?<=\/\/|\.)asupanhot\..+/
 /(?<=\/\/|\.)asupanindo\..+/
 /(?<=\/\/|\.)asupanonly\..+/
