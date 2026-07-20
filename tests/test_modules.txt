@@ -64,6 +64,7 @@ cinemakeren6.id
 cinemaz.cc
 cinta.mu
 cli.re
+clickaja.com
 clickurl.link
 cloud.hownetwork.xyz
 contravir.com
@@ -174,8 +175,10 @@ linkads.info
 linkasd.com
 linkbbn.xyz
 linkfast.vip
+linkid.asia
 linkjalur.vip
 linkmbsw.xyz
+linkmu.my
 linkol.xyz
 linkpoi.me
 linkr.it

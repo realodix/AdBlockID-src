@@ -203,6 +203,7 @@
 ###floatadsss
 ###floatbannerkanan
 ###floatbannerkiri
+###floating-ads-idlix
 ###floating_ads_bottom_textcss
 ###floating_ads_bottom_textcss2
 ###floating_ads_bottom_textcss_ad
@@ -1051,6 +1052,7 @@
 ##.idblog-footerbanner
 ##.idblog-topbanner
 ##.idblog-topbanner-aftermenu
+##.idlix-ads-container
 ##.idmuvi-banner-aftercontent
 ##.idmuvi-banner-beforecontent
 ##.idmuvi-banner-insidecontent

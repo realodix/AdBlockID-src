@@ -121,12 +121,6 @@ xbokepin.*###popupBannerOverlay
 artisbokep.*##.top-banner
 artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
-! BokepIndo https://movd21.com/x/
-! -----------------------------------------------
-||assetcsn.site/image/*.gif$3p
-asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space###popup-banner-overlay
-asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space##.ad-banner
-! -----------------------------------------------
 ! Desu
 ! - https://desu.bio/doujin/
 ! - https://desu.bio/igo/
