@@ -225,17 +225,21 @@ mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##.kln
 mirrorkomik.info##div[id^="teaser"]
 mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##img[alt*="banner" i]
 ! -----------------------------------------------
-! https://movd21.com/ https://movd21.com/x/
+! https://movd21.com/, https://movd21.com/x/
+! https://csnlink.bio/film21
 ! -----------------------------------------------
 ||assetcsn.site/banner-$3p
+||assetcsn.site/banner/$3p
 ||assetcsn.site/GIF/$3p
 ||assetcsn.site/image/*.gif$3p
 ||assetcsn.site/promotion/$3p
 asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space###popup-banner-overlay
 arunflixy.com,cinexeone.com,csncinema.live,dewataflix.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com###popup-overlay
+lk21id.com###popupBottom
+lk21id.com###popupOverlay
 asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space##.ad-banner
 arunflixy.com,cinexeone.com,csncinema.live,dewataflix.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com##.ad-stack-container
-arunflixy.com,asiasizzle.com,cinexeone.com,csnbiru.blog,csncinema.live,csnplayhd.com,dewataflix.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com,zonaplus.space##html, body:style(overflow: auto!important; position: unset!important;)
+arunflixy.com,asiasizzle.com,cinexeone.com,csnbiru.blog,csncinema.live,csnplayhd.com,dewataflix.com,flickerlust.com,indoxxihot.com,lk21id.com,markasfilmhot.com,megafimly.com,merpamov.com,movielucky.com,nagavidz.com,zonaplus.space##html, body:style(overflow: auto!important; position: unset!important;)
 ! -----------------------------------------------
 ! Oploverz https://link.oploverz.ltd/
 ! -----
