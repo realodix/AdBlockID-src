@@ -312,12 +312,14 @@ samehadaku.*##a[target="_blank"] ~ .pencenter:style(display: inline-block !impor
 ! Terbit21
 ! terbit21.com@gmail.com / https://tv1.terbit21.store/
 ! -----
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###float-banner
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###float-bottom-banner
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,movieon21.mov,movies21.ing,nontonfilm.website,teman21.app,terbit21.*,terbit21official.*###top-banner
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,movieon21.mov,movies21.ing,nontonfilm.website,t21.press,teman21.app,terbit21.*,terbit21official.*##a[target*="blank"]:has(> img)
+||terbit21.gdn/ads/
+bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,terbit21.*,terbit21official.*###float-banner
+bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,terbit21.*,terbit21official.*###float-bottom-banner
+bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,terbit21.*,terbit21official.*###top-banner
+bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,t21.press,terbit21.*,terbit21official.*##.inner-floatbanner-bottom
+bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,t21.press,terbit21.*,terbit21official.*##a[target*="blank"]:has(> img)
 ! Annoyance
-ayononton.app,bioskopkeren.shop,cinemaindo.dev,d21.im,ditonton.dev,dunia21official.*,filmapik.my,ganool.app,movieon21.mov,movies21.ing,nontonfilm.website,t21.press,teman21.app,terbit21.*,terbit21official.*##+js(nowoif)
+bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.website,t21.press,terbit21.*,terbit21official.*##+js(nowoif)
 ! -----------------------------------------------
 ! COSMIC ID - https://cosmictoon.id/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/192859
