@@ -51,10 +51,7 @@ duniagames.co.id##html:remove-class(cdk-global-scrollblock)
 ||hungry-exit.com^
 ||wonderfulyesterday.com^
 ! page
-||cek.to^$popup
 ||getandplay.web.id^$popup
-||klik.best^$popup
-||klik.top^$popup
 !
 ||acquaintjokinglyscoring.com^$popup
 ||badnessgimmickposted.com^$popup
@@ -67,3 +64,7 @@ duniagames.co.id##html:remove-class(cdk-global-scrollblock)
 ||villainoussession.com^$popup
 ||wonderfulyesterday.com^$popup
 ||zzuolmapj.com^$popup
+! shortlink
+||cek.to^$popup
+||klik.best^$popup
+||klik.top^$popup
