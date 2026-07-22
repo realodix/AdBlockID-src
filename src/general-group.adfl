@@ -384,11 +384,12 @@ bola.com##.layout__content:style(margin-top: 0!important;)
 ! -----
 ||mediaindonesia.com^*/banners/
 mediaindonesia.com###content [class^="parallax_"]:has([id*="div-gpt-ad-"])
+medcom.id###div_billboard1
 metrotvnews.com##.ads
 metrotvnews.com##.ads-large-leaderboard
 inibaru.id##.adsbyadop:upward([class*="bg-"])
 mediaindonesia.com##.article #parallax_wrap
-mediaindonesia.com##.banner
+medcom.id,mediaindonesia.com##.banner
 lampost.co##.banner-content
 metrotvnews.com##.banner-header-ads
 medcom.id##.banner_content
