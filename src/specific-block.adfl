@@ -909,3 +909,5 @@ _728x90px.$image,domain=bogordaily.net
 /^https?:\/\/[a-z-]{6,}\.(?:com?|pro|info|xyz)\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$match-case,3p,script,xhr
 ! https://github.com/AdguardTeam/AdguardFilters/blob/f39244d0ae/BaseFilter/sections/specific.txt#L22684
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{4,5}$/$match-case,3p,script
+! https://github.com/AdguardTeam/AdguardFilters/blob/a581db5879/BaseFilter/sections/specific.txt#L22699
+/^https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z])[0-9a-zA-Z]{3,26}\/\d{3,6}(?:[&?][0-9_a-z]=[0-9A-Za-z-]+)*$/$match-case,3p,script,subdocument,xhr
