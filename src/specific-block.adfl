@@ -905,5 +905,7 @@ _728x90px.$image,domain=bogordaily.net
 ! ---
 ! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_url.txt#L422
 /\/[0-9a-f]{32}\/invoke\.js/$third-party,script,redirect-rule=noopjs
+! https://github.com/AdguardTeam/AdguardFilters/blob/4b684f6b92/BaseFilter/sections/specific.txt#L874
+/^https?:\/\/[a-z-]{6,}\.(?:com?|pro|info|xyz)\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}$/$match-case,3p,script,xhr
 ! https://github.com/AdguardTeam/AdguardFilters/blob/f39244d0ae/BaseFilter/sections/specific.txt#L22684
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{4,5}$/$match-case,3p,script
