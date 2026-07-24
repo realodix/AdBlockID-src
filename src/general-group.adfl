@@ -646,6 +646,8 @@ hops.id,unews.id##[id^="gpt_unit_"]:has(> [id^="google_ads_"])
 ! ------------------------------------------------------------------------------
 ! TB News
 ! -----
+||tribratanews.polri.go.id^*/website.banner/
+||tribratanews.polri.go.id^*/x_banner_
 tribrata.tv###sidebar-header img[style="max-width: 100%; height: auto;"]
 tribrata.tv##.ad-middle
 tribratanewsalor.com,tribratanewsbelu.com,tribratanewsende.com,tribratanewsflorestimur.com,tribratanewskupang.com,tribratanewskupangkota.com,tribratanewslembata.com,tribratanewsmanggarai.com,tribratanewsmanggaraibarat.com,tribratanewsntt.com,tribratanewsrotendao.com,tribratanewssikka.com,tribratanewssumbabarat.com,tribratanewssumbabaratdaya.com,tribratanewssumbatimur.com,tribratanewsttu.com##.logo-banner .pull-right
