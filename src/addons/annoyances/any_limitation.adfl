@@ -52,3 +52,7 @@ kompas.id##.paywall
 thejakartapost.com##.tjp-overlay
 thejakartapost.com##.tjp-paywall
 thejakartapost.com##body, html, .active:style(overflow: auto !important; position: initial !important;)
+! ---
+! Dev-Tools
+! ---
+||berbagi.app/assets/devtools-detector.$3p
