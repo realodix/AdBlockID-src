@@ -646,6 +646,7 @@ hops.id,unews.id##[id^="gpt_unit_"]:has(> [id^="google_ads_"])
 ! ------------------------------------------------------------------------------
 ! TB News
 ! -----
+||mediahub.polri.go.id/api/*/advertisements/
 ||tribratanews.polri.go.id^*/website.banner/
 ||tribratanews.polri.go.id^*/x_banner_
 tribratanews.lampung.polri.go.id###renderBanner
