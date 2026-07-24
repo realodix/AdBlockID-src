@@ -901,6 +901,8 @@ _728x90px.$image,domain=bogordaily.net
 ||colorfulculture.click^
 ||dooods.pro^
 ! ---
+! https://github.com/AdguardTeam/AdguardFilters/blob/8619820669/BaseFilter/sections/general_url.txt#L24
+/^https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}$/$match-case,third-party,script
 ! https://github.com/AdguardTeam/AdguardFilters/blob/d39891819f/BaseFilter/sections/general_url.txt#L422
 /\/[0-9a-f]{32}\/invoke\.js/$third-party,script,redirect-rule=noopjs
 ! https://github.com/AdguardTeam/AdguardFilters/blob/4b684f6b92/BaseFilter/sections/specific.txt#L874

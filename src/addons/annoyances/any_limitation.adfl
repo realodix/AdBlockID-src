@@ -56,5 +56,6 @@ thejakartapost.com##body, html, .active:style(overflow: auto !important; positio
 ! Dev-Tools
 ! ---
 ! /devtools-detector.$script,domain=~bestx.stream|~boltx.stream|~boosterx.stream|~watchx.top
+/disable-devtool.min.js
 ||berbagi.app/assets/devtools-detector.$3p
 ||cdn.jsdelivr.net/npm/disable-devtool@$3p,script
