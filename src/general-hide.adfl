@@ -405,6 +405,8 @@
 ###le_header_ads
 ###left_ads_float_phonedevelop
 ###lin-floating-ad
+###lj-middle-ad-1
+###lj-top-banner-ad-wrap
 ###lmd-ads
 ###lmd-iklan
 ###lmd-parallax-ads
@@ -1316,6 +1318,13 @@
 ##.leaderboard__ads
 ##.lin-ad-header
 ##.link_banner_iklan
+##.lj-ad-box
+##.lj-home-sidebar-ad
+##.lj-middle-article-ad
+##.lj-middle-article-ad-content
+##.lj-sidebar-ad-widget
+##.lj-top-banner-ad
+##.lj-top-banner-ad-wrap
 ##.lmd-iklan
 ##.load_iklan_leaderboard_1
 ##.load_iklan_leaderboard_2
