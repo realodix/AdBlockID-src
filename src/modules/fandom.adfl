@@ -70,7 +70,7 @@ animotvslash.org,soulscans.my.id##body > div[style^="width: 100%;text-align: cen
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 awsubs.co##div:matches-css(position: fixed):has(> .kln)
 komiku.org##div:matches-css(text-align:center):has(> span:has-text(/iklan/i))
-dojing.net,movieku.*,sektedoujin.cc##div[id^="teaser"]
+movieku.*##div[id^="teaser"]
 komiknesia.asia##img[alt*="adv" i]
 !
 ! ANTI-ADBLOCK
