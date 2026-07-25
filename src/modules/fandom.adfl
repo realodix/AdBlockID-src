@@ -42,7 +42,7 @@ cinemaz.cc###adStop
 filem21.org###banner-container
 movieku.*###btm_banner
 dojing.net###catfish-banner
-kaitoani.org,movieku.*###close-teaser
+kaitoani.org###close-teaser
 kuramanime.*###close-teaser-footer
 layardrama21.*###floatbanner-bottom
 anichin.blog,anichin.co,anichin.watch,hidoristream.online,kazefuri.cloud,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
@@ -62,7 +62,7 @@ filem21.org##.mobile-banner
 cinemakeren6.id##.slot-machine-wrapper
 mangaindo.*,sattorrent.com##.widget:has(img[style="max-width: 100%; height: auto;"])
 animeplus.id##[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
-anichin.watch,ikiru.wtf,mangatale.co,movieku.*,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
+anichin.watch,ikiru.wtf,mangatale.co,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
 anibatch.moe,anichin.co,animekompi.sbs,animexin.dev,anoboy.xyz,bioskop21.*,cinemakeren6.id,desu.xxx,filem21.org,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,komikaja.com,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nomat.store,nontoncinema.org,omanga.net,otakudesu.blog,otakudesu.id,sobatmov.xyz,winbu.tv##a[target*="blank"]:has(> img)
@@ -70,7 +70,6 @@ animotvslash.org,soulscans.my.id##body > div[style^="width: 100%;text-align: cen
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 awsubs.co##div:matches-css(position: fixed):has(> .kln)
 komiku.org##div:matches-css(text-align:center):has(> span:has-text(/iklan/i))
-movieku.*##div[id^="teaser"]
 komiknesia.asia##img[alt*="adv" i]
 !
 ! ANTI-ADBLOCK
