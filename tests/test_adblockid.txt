@@ -1827,6 +1827,7 @@ jurnalnews.id
 jurnalnusa.com
 jurnalone.id
 jurnalpantura.id
+jurnalpapua.id
 jurnalpatrolinews.co.id
 jurnalpolisi.co.id
 jurnalsulsel.com
