@@ -583,6 +583,7 @@
 ##.ads-kecil
 ##.ads-kiri-player
 ##.ads-kotak
+##.ads-line-box
 ##.ads-long-banner
 ##.ads-medium-banner
 ##.ads-mega
@@ -657,6 +658,7 @@
 ##.ads970250
 ##.ads970x90
 ##.adsContainerWeb
+##.adsFrame
 ##.adsFrame500
 ##.adsFrameSideLeft
 ##.adsFrameSideRight
