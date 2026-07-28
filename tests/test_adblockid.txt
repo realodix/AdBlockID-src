@@ -702,7 +702,6 @@ channelbali.com
 channeljatim.com
 channelntb.com
 channelsulawesi.id
-chatnews.id
 chordindonesia.com
 cilacapkekinian.com
 cilangkahannewschannel.com
@@ -1608,7 +1607,6 @@ inteligensia.id
 intensnews.id
 intermedianews.co.id
 intersisinews.com
-intimes.co.id
 intimnews.com
 intinews.co
 intip24news.com
@@ -1791,7 +1789,6 @@ jurnalisbicara.com
 jurnalismenews.com
 jurnalisnews.com
 jurnalispos.co.id
-jurnalispos.id
 jurnalispost.online
 jurnalistekno.id
 jurnalkaltara.com
@@ -3875,7 +3872,6 @@ suaramerdeka.com
 suaramimika.com
 suaramuhammadiyah.id
 suaranasional.id
-suaranetwork.id
 suaranusa.co.id
 suaranusaina.id
 suaranusantara.co
@@ -3911,7 +3907,6 @@ subsc.my.id
 sudutberita.id
 sudutkalteng.com
 sudutpandang.id
-sugawa.id
 sugeng.id
 suhugamer.com
 sukabumiheadline.com
@@ -4034,7 +4029,6 @@ tanamonews.com
 tandabaca.id
 tandaseru.com
 tanganrakyat.id
-tangerangberkabar.id
 tangerangnews.co.id
 tangerangnews.com
 tangerangpos.id

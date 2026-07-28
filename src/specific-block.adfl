@@ -35,7 +35,6 @@ _728x90px.$image,domain=bogordaily.net
 !
 ||ads.sorot.co^$1p
 !
-/\/[0-9]{19,20}\.(png|webp)/$image,domain=sugawa.id
 ||8mediatech.com/banner/
 ||aboutsemarang.id^*/iklan-$image
 ||acehekspres.com/files/sewaan/
@@ -179,7 +178,6 @@ _728x90px.$image,domain=bogordaily.net
 ||celotehriau.com/assets/banner/
 ||cemerlangnews.com^*/banner/
 ||centerklik.com^*/banner-
-||chatnews.id/banner-$image
 ||cipulusnews.com^*/ads-$image
 ||ciremainews.com^*/banner-$image
 ||citakaltara.com/media/banner-
