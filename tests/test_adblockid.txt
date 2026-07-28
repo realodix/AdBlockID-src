@@ -2614,7 +2614,6 @@ medianesia.id
 medianews.co.id
 medianotaris.com
 mediapolmaspoldasu.com
-mediaportalnews.com
 mediapriangan.com
 mediapromed.com
 mediapublik.net
@@ -3035,7 +3034,6 @@ papuabangkit.com
 papuabaratnews.co
 papuabaratpos.com
 papuadalamberita.com
-papuaekspose.com
 papuakita.com
 papuapos.com
 papuaposnabire.com
@@ -3628,7 +3626,6 @@ sekitarbandung.id
 sekitarjabar.com
 sekitarjambi.com
 sekitarkita.id
-sekitarsurabaya.com
 sekolahnews.com
 selalu.id
 selaparangnews.com
@@ -3947,7 +3944,6 @@ sulselekspres.com
 sulselnetwork.com
 sulselpasti.com
 sultengekspres.com
-sultengsatunews.com
 sultengterkini.id
 sultrack.com
 sultrainformasi.id
@@ -3955,7 +3951,6 @@ sultraline.id
 sultralink.com
 sultranesia.com
 sultranet.com
-sultranetwork.com
 sultranews.co.id
 sultratop.com
 suluhkepri.com
@@ -4026,7 +4021,6 @@ swaramuda.com
 swaranesia.com
 swaranews.com
 swarawarta.co.id
-swargantara.com
 swatantranews.com
 syfaganjarstory.com
 tabikpun.com
