@@ -122,11 +122,11 @@ artisbokep.*##.top-banner
 artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! Desu
-! - https://desu.bio/doujin/
-! - https://desu.bio/igo/
-! - https://desu.bio/jav/
+! - https://desu.xxx/
 ! -----------------------------------------------
+||desu.xxx/content/banner/
 doujindesu.tv,igodesu.tv,javdesu.tv##a[target*="blank"]:has(> img)
+desu.xxx##a[target*="blank"]:has(> img):not(.btn-link)
 doujindesu.tv,igodesu.tv##+js(nowoif)
 ! -----------------------------------------------
 ! DrBokep
