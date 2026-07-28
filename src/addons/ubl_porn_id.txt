@@ -204,7 +204,6 @@
 *://ngomek.com/*
 *://nontonjavid.net/*
 *://omekin.casa/*
-*://omekin.id/*
 *://payudaragede.blogspot.com/*
 *://pemersatudotfun.com/*
 *://pojokan69.com/*
@@ -284,6 +283,7 @@
 /(?<=\/\/|\.)nontonfilmnikmat\..+/
 /(?<=\/\/|\.)novelbasah\..+/
 /(?<=\/\/|\.)omek\.co\.uk/
+/(?<=\/\/|\.)omekin\..+/
 /(?<=\/\/|\.)pejuanglendir\..+/
 /(?<=\/\/|\.)pejuhin\..+/
 /(?<=\/\/|\.)pejuhinxxx\..+/
