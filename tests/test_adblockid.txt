@@ -210,7 +210,6 @@ ayosurabaya.com
 ayotasik.com
 ayotegal.com
 ayotekno.id
-ayovibes.com
 ayoyogya.com
 babad.id
 babadbanten.com
@@ -413,7 +412,6 @@ beritajabar.news
 beritajateng.tv
 beritajatim.com
 beritajogja.com
-beritajogja.id
 beritajowo.com
 beritajurnalis.net
 beritakaltim.co
@@ -846,7 +844,6 @@ dianisa.com
 diantimur.com
 diaribali.com
 dicintai.com
-didikpos.com
 difanews.com
 digdayamedia.id
 digitalnews.co.id
@@ -1433,7 +1430,6 @@ indonesiadaily.co.id
 indonesiadaily.net
 indonesiaexpat.id
 indonesiafolks.com
-indonesiainsider.id
 indonesiamove.com
 indonesiana.id
 indonesianchannel.com
@@ -1998,7 +1994,6 @@ karakter.co.id
 karawangkekinian.com
 karawangnews.com
 kareel.com
-karimuntoday.com
 karir.com
 karogaul.com
 karosatuklik.com
@@ -2070,7 +2065,6 @@ ketikpos.com
 keuangannews.id
 keuanganonline.id
 kgnow.com
-khatulistiwanews.net
 khazanahimani.com
 khazanahpopuler.com
 khazanahriau.com
@@ -2368,7 +2362,6 @@ libernesia.com
 lidik.id
 ligaolahraga.com
 lihatgambar.my.id
-lihatjabar.com
 lihatjambi.com
 limakabar.com
 limitnews.net
@@ -2637,7 +2630,6 @@ mediasulut.co
 mediasumutku.com
 mediaterobos.com
 mediatni-polri.id
-mediatnipolri.id
 mediatotabuan.co
 mediatrapnews.com
 mediatrias.com
@@ -4088,7 +4080,6 @@ tenderstore.id
 tengokberita.com
 tentangindonesia.com
 terabasnews.com
-teraju.co.id
 teraktual.co.id
 teramedia.id
 teras.id
@@ -4365,7 +4356,6 @@ wandercom.id
 wanitamedan.com
 wanmedia.co.id
 waralabakan.com
-wargalampung.com
 warna.co
 warnanusa.com
 warta-nusantara.com
