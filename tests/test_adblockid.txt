@@ -589,7 +589,6 @@ bonepos.com
 bongkah.id
 bongkarmerdeka.com
 bongkarpost.co.id
-bonsernews.com
 borneoflash.com
 borneoglobe.com
 borneoindotimes.com
@@ -921,7 +920,6 @@ edunews.id
 ekbis.co
 ekbisbanten.com
 ekbisindonesia.com
-ekbistangsel.com
 ekoin.co
 ekonominews.com
 eksisnews.com
@@ -934,7 +932,6 @@ eljabar.com
 elmitra95fm.com
 elnusanews.com
 elshinta.com
-embaran.co
 embaranmedia.com
 embed.dugout.com
 emitennews.com
@@ -1074,7 +1071,6 @@ garuda.tv
 garudacitizen.com
 garudadaily.com
 garutberkabar.com
-garutnewstoday.com
 gatanews.id
 gatra.com
 gawai.co
@@ -1372,7 +1368,6 @@ idezia.com
 idfeeds.com
 idgameware.com
 idisionline.com
-idjatim.com
 idncitizen.com
 idnhits.com
 idnnews.co.id
@@ -1653,7 +1648,6 @@ iwanbanaran.com
 j5newsroom.com
 jabar-online.com
 jabarekspres.com
-jabarhits.com
 jabaribernews.com
 jabarinside.com
 jabarnews.com
@@ -1777,7 +1771,6 @@ joglojateng.com
 joglomedia.com
 joglosemarnews.com
 josstoday.com
-journallampung.com
 journalnusantara.com
 journalsumatera.com
 jpnn.com
@@ -1798,7 +1791,6 @@ jurnalcakrawala.com
 jurnalekbis.com
 jurnalfaktual.id
 jurnalflores.co.id
-jurnalgarut.com
 jurnalindo.com
 jurnalisbicara.com
 jurnalismenews.com
@@ -1884,7 +1876,6 @@ kabarjournalist.com
 kabarkala.com
 kabarkalbar.com
 kabarkalimantan1.com
-kabarkata.com
 kabarkibar.id
 kabarku.net
 kabarluwuk.com
@@ -1989,7 +1980,6 @@ kanalindonesia.com
 kanalinspirasi.com
 kanalkalimantan.com
 kanalkalteng.com
-kanalkota.com
 kanalmetro.com
 kanalntb.co
 kanaltangerang.com
@@ -2250,7 +2240,6 @@ kraya.id
 kreatifmedia.co
 kreatifnews.com
 kreta.id
-krimum.com
 kritikbekasi.com
 kritikel.id
 krjogja.com
@@ -2891,7 +2880,6 @@ newstabir.com
 newstasikmalaya.com
 newsurban.id
 newsyess.com
-ngaderes.com
 nganjukterkini.id
 ngelink.me
 ngopibareng.id
@@ -2960,7 +2948,6 @@ oduu.cloud
 offenseproject.com
 ojenews.com
 okeborneo.com
-okebung.com
 okegas.id
 okeguys.com
 okemedan.com
@@ -3193,7 +3180,6 @@ pojok6.id
 pojokbaca.id
 pojokbanua.com
 pojokbatam.id
-pojokberita.co
 pojokdurasi.com
 pojokindonesia.com
 pojokmalioboro.com
@@ -3497,7 +3483,6 @@ riau86.com
 riauaktual.com
 riaubernas.com
 riaubook.com
-riauetalase.com
 riauin.com
 riauinfo.com
 riaukarya.com
@@ -3549,7 +3534,6 @@ ruber.id
 rubicnews.com
 rubis.id
 rublikanesia.com
-rublikasi.com
 rubrik.co.id
 rubrika.co.id
 rubrikjambi.com
@@ -3675,7 +3659,6 @@ sentralsultra.com
 sentraltimur.com
 sepasinews.com
 sepeda.me
-seperdetik.com
 sepintas.com
 seputaraceh.id
 seputarbabel.com
@@ -4467,7 +4450,6 @@ winnetnews.com
 winstarlink.com
 wiradesa.co
 wisatarakyat.com
-wiwidstory.com
 womanesia.com
 wonosobozone.com
 wordpers.id
@@ -4496,7 +4478,6 @@ zonajogja.com
 zonakalteng.co.id
 zonakata.com
 zonakepri.com
-zonamaluku.com
 zonamu.com
 zonanews.id
 zonanusantara.com
