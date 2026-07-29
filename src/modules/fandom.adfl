@@ -21,7 +21,6 @@
 ||streamapi.info/uploads/adsbaru$xhr
 !
 ||01repo.pages.dev/$media,redirect=noopmp4-1s
-||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
 ||animein.net/ADS/$media,redirect=noopmp4-1s
 ||animekompi.link/wp-content/uploads/$media,redirect=noopmp4-1s
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
@@ -43,7 +42,7 @@ dojing.net###catfish-banner
 kaitoani.org###close-teaser
 kuramanime.*###close-teaser-footer
 layardrama21.*###floatbanner-bottom
-anichin.blog,anichin.cafe,anichin.co,hidoristream.online,kazefuri.cloud,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
+hidoristream.online,kazefuri.cloud,komiksin.net,mangaindo.*,nekokun.my.id,soulscans.my.id###floatcenter
 bioskop21.*###floating_banner_bottom
 crotpedia.net,shirodoujin.com##.ads
 movieku.*##.adsx
@@ -53,7 +52,7 @@ narasininja.net##.float-bottom
 narasininja.net##.float-overlay
 filem21.org##.floating-bottom-banner
 kuramanime.*##.floating__footer
-ainzscans.net,ainzscans01.com,alqanime.net,anichin.blog,anichin.cafe,anichin.co,anichin.moe,anichin.ro,animekhor.org,animekompi.sbs,animeplus.id,hidoristream.online,ikiru.wtf,isekaisubs.web.id,kaitoani.org,kanzenin.info,kazefuri.cloud,komikdewasa.art,komiksin.net,komiktap.info,komikx.art,mangacanblog.com,mangaindo.*,mangakita.me,mangasusuku.com,melongmovies.com,movieku.*,nekonime.cloud,rawkuma.net,sektedoujin.cc,sokuja.uk,soulscans.my.id##.kln
+ainzscans.net,ainzscans01.com,alqanime.net,animekhor.org,animekompi.sbs,animeplus.id,hidoristream.online,ikiru.wtf,isekaisubs.web.id,kaitoani.org,kanzenin.info,kazefuri.cloud,komikdewasa.art,komiksin.net,komiktap.info,komikx.art,mangacanblog.com,mangaindo.*,mangakita.me,mangasusuku.com,melongmovies.com,movieku.*,nekonime.cloud,rawkuma.net,sektedoujin.cc,sokuja.uk,soulscans.my.id##.kln
 cinemakeren6.id##.lna-livescore-home-tabs-widget
 filem21.org##.mobile-banner
 cinemakeren6.id##.slot-machine-wrapper
@@ -62,7 +61,7 @@ animeplus.id##[style^="width: 100%;text-align: center;display: scroll;position:f
 ikiru.wtf,mangatale.co,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
-anibatch.moe,anichin.co,animekompi.sbs,animexin.dev,anoboy.xyz,bioskop21.*,cinemakeren6.id,filem21.org,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,komikaja.com,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nomat.store,nontoncinema.org,omanga.net,otakudesu.blog,otakudesu.id,sobatmov.xyz,winbu.tv##a[target*="blank"]:has(> img)
+anibatch.moe,animekompi.sbs,animexin.dev,anoboy.xyz,bioskop21.*,cinemakeren6.id,filem21.org,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,komikaja.com,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nomat.store,nontoncinema.org,omanga.net,otakudesu.blog,otakudesu.id,sobatmov.xyz,winbu.tv##a[target*="blank"]:has(> img)
 animotvslash.org,soulscans.my.id##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 komiku.org##div:matches-css(text-align:center):has(> span:has-text(/iklan/i))
@@ -107,7 +106,7 @@ adikanime.com##.adik-warning
 kazefuri.id,otakupoi.org###fAP_fkAdPop
 indositusxxi.id,kopajasubs.info###fb-fanbox
 filem21.org###overlay
-anichin.cafe,anichin.co,animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog,rijunime.it.com###overplay
+animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog,rijunime.it.com###overplay
 animekompi.sbs##.ays-pb-modals
 kuramanime.*##.player-overplay
 jeniusplay.com##.pppppup
@@ -170,6 +169,15 @@ lk21official.top,skeeterbyte.com,surgafilm21.website##a[target*="blank"]:has(> i
 ! Iframe
 ||tolonglah.pages.dev$frame
 skeeterbyte.com##:matches-path(/links/?url=) body > .container-iframe
+! -----------------------------------------------
+! ANICHIN
+! -----------------------------------------------
+||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
+anichin.blog,anichin.cafe,anichin.co,anichin.watch###floatcenter
+anichin.cafe,anichin.co###overplay
+anichin.blog,anichin.cafe,anichin.co,anichin.moe,anichin.ro,anichin.watch##.kln
+anichin.watch##a:has(img[src$=".gif"])
+anichin.co##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! 01Nonton
 ! -----------------------------------------------
