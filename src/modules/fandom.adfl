@@ -65,6 +65,7 @@ anibatch.moe,animekompi.sbs,animexin.dev,anoboy.xyz,bioskop21.*,cinemakeren6.id,
 animotvslash.org,soulscans.my.id##body > div[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 komiku.org##div:matches-css(text-align:center):has(> span:has-text(/iklan/i))
+hidoristream.online##div[id^="teaser"]
 komiknesia.asia##img[alt*="adv" i]
 !
 ! ANTI-ADBLOCK
