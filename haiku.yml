@@ -34,7 +34,7 @@ builder:
         ! Expires: 1 days
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
-      source:
+      includes:
         - src/general-block.adfl
         - src/general-hide.adfl
         - src/general-group.adfl
@@ -60,7 +60,7 @@ builder:
         ! Expires: 6 days
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
-      source:
+      includes:
         - src/addons/plus/p_general.adfl
         - src/addons/plus/p_int.adfl
         - src/addons/plus/p_badware.adfl
@@ -73,7 +73,7 @@ builder:
         ! Expires: 6 days
         ! Homepage: https://github.com/realodix/AdBlockID
         ! License: https://github.com/realodix/AdBlockID/blob/main/LICENSE
-      source:
+      includes:
         - src/addons/annoyances/any_general.adfl
         - src/addons/annoyances/any_limitation.adfl
         - src/addons/annoyances/any_popup.adfl
@@ -86,7 +86,7 @@ builder:
         description: A filter that blocks spam, misleading, and malicious websites from appearing in search results!
         homepage: https://github.com/realodix/AdBlockID
         ---
-      source:
+      includes:
         - src/addons/ubl_badware.txt
     - filename: safesearch_plus.txt
       header: |
@@ -94,7 +94,7 @@ builder:
         name: AdBlockID Addons (Safesearch Plus)
         homepage: https://github.com/realodix/AdBlockID
         ---
-      source:
+      includes:
         - src/addons/ubl_badware.txt
         - src/addons/ubl_porn_int.txt
         - src/addons/ubl_porn_id.txt
