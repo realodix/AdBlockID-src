@@ -1552,6 +1552,11 @@
 ##.widget_anm_ad_space_specific
 ##.widget_iklan_atas
 ##.widget_iklan_atas_content
+##.wp-iklan-banner
+##.wp-iklan-footer
+##.wp-iklan-header
+##.wp-iklan-slider-left
+##.wp-iklan-slider-right
 ##.wrap-ads-r
 ##.wrap-fixed-ads
 ##.wrap_right_ad
