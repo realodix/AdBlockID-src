@@ -1668,6 +1668,7 @@ jakartadaily.id
 jakartaglobe.id
 jakartainsider.id
 jakartajakarta.id
+jakartakita.com
 jakartanetizen.com
 jakartanotebook.com
 jakartaraya.co.id
