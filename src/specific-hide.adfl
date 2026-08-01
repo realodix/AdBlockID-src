@@ -656,7 +656,7 @@ jejakinformasi.id,peoplenews.id##.fixed-rside
 narasi.tv##.fixed.bottom-0
 m.kaskus.co.id##.fixed.bottom-0:has(> [id^="div-gpt-ad-"])
 monitorindonesia.com##.fixed.slide-in-from-bottom
-hatipena.com##.fl-module[itemtype="https://schema.org/ImageObject"] .fl-photo-content
+aktualtangerang.com,hatipena.com##.fl-module[itemtype="https://schema.org/ImageObject"] .fl-photo-content
 dutanusantaramerdeka.com##.flexslider
 infopublik.id##.float-info
 sportjabar.com##.floating-imagel
