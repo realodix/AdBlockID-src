@@ -125,6 +125,7 @@
 *://cflc-confcoopliguria.it/*
 *://harasun.it/*
 *://inforentri.it/*
+*://projectcarssrls.it/*
 *://www.studiodentisticousoni.it/*
 # .nl
 *://aangepastchalet.nl/*
