@@ -945,7 +945,6 @@ eranasional.com
 esgnow.id
 esnbanten.com
 esports.id
-esports.merahputih.com
 esportsku.com
 espos.id
 essensi.co
@@ -2663,6 +2662,7 @@ mentarisumatera.com
 mentayanet.com
 mentengnews.com
 meong.club
+merahputih.com
 merahputihnews.id
 merahputihterkini.com
 merata.net
