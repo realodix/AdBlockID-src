@@ -16,11 +16,6 @@ vietnam.vn##:matches-path(/id) #ad-post-bottom
 parcelsapp.com##:matches-path(/id) div[style="text-align: center; min-height: 280px;"]
 tradersunion.com##:matches-path(/ind) .branded-banner
 ! ---
-! Annoyances
-! ---
-id.theasianparent.com##*:style(user-select:text!important;)
-id.theasianparent.com##+js(aopr, document.onselectstart)
-! ---
 ! Style Fixer
 ! ---
 id.theasianparent.com##.baseLayout .bottom-sticky.layer-bsa-bn-ca:style(min-height: 10px!important;)
@@ -84,9 +79,3 @@ haxnode.net##[id^="haxno-"] .dl-btn
 crackedhome.com,crackwin.net,filesmama.com##center > a[href^="javascript:"]
 haxpc.net##center button:has-text(/download/i)
 crackit.org,oceancrack.com##div[class^="code-block code-block-"]
-! ---
-! Limitation
-! ---
-crackit.org,oceancrack.com,procrackerz.org##*:style(user-select:text!important;)
-crackit.org,oceancrack.com,procrackerz.org##+js(aopr, disableSelection)
-crackit.org,oceancrack.com,procrackerz.org##+js(aopr, document.oncontextmenu)

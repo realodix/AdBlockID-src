@@ -40,6 +40,12 @@ bahasakita.com,metrokendari.com,rakyatbekasi.com,rukim.id##+js(acis, disableSele
 unja.ac.id##+js(acis, disableselect, reEnable)
 infoastronomy.org##+js(aopr, document.onmousedown)
 infoastronomy.org,noveltoon.mobi,portal-islam.id##+js(aopr, document.onselectstart)
+! ---
+! International
+crackit.org,id.theasianparent.com,oceancrack.com,procrackerz.org##*:style(user-select:text!important;)
+crackit.org,oceancrack.com,procrackerz.org##+js(aopr, disableSelection)
+crackit.org,oceancrack.com,procrackerz.org##+js(aopr, document.oncontextmenu)
+id.theasianparent.com##+js(aopr, document.onselectstart)
 !
 ! Video Player
 ! ------------------------------------------------------------------------------
