@@ -127,6 +127,7 @@ bolanas.com,bolasport.com,grid.id,gridoto.com,kompas.tv,kontan.co.id,motorplus-o
 ! Singapore and Malaysia
 ! ---
 hmetro.com.my,nst.com.my###bitmovin-player:has(#bitmovin-close-btn):remove()
+buletintv3.my##[itemprop="articleBody"] #horizontal-player-injection:has(#bitmovin-close-btn)
 ! ---
 ! International
 ! ---
