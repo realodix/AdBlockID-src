@@ -408,6 +408,7 @@ shinigami.*,shinigamitoon.*##+js(aopr, lepopup_vars)
 ! -----
 .webp|$to=layarotaku.id
 layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##.kln
+layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##.video-content > div[style^="position:absolute;"]
 layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##body > div:matches-css(position: fixed)
 layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##img[width="410px"][height="90px"]
 layarecchi.best,layarotaku.id,layarwibu.com,nekonime.org,xml-acronym-demystifier.org##img[width="535px"][height="90px"]
