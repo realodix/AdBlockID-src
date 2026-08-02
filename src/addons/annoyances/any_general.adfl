@@ -124,6 +124,10 @@ cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
 ! Mobile
 bolanas.com,bolasport.com,grid.id,gridoto.com,kompas.tv,kontan.co.id,motorplus-online.com,parapuan.co##.kgnw-root:has(> .kgnw-player):remove()
 ! ---
+! Singapore and Malaysia
+! ---
+nst.com.my###bitmovin-player:has(#bitmovin-close-btn):remove()
+! ---
 ! International
 ! ---
 fandom.com###fandom-mobile-wrapper .article-featured-video:remove()
