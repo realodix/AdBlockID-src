@@ -122,7 +122,6 @@ liputan6.com##aside .live--streaming:remove()
 cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
 ! ---
 ! Mobile
-! ---
 bolanas.com,bolasport.com,grid.id,gridoto.com,kompas.tv,kontan.co.id,motorplus-online.com,parapuan.co##.kgnw-root:has(> .kgnw-player):remove()
 ! ---
 ! International
