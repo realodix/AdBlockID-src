@@ -35,6 +35,7 @@ legacynews.id##.mh-widget > .wp-block-image > a > img
 legacynews.id##.mh-widget > .wp-block-image > figure > img
 legacynews.id##.mh-widget > .wp-block-image > img
 tintainformasi.com##.module-widget > .widget:has(> script)
+simakberita.com##.mvp-side-widget .wp-block-image > figure > img
 jurnalkaltara.com,kitasulsel.com##.mvp-side-widget .wp-block-image > img
 oduu.cloud##.oduu-widget-content > .text-center:has(> img)
 sumbardaily.com##.sidebar-entry .wp-block-image
