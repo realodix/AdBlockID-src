@@ -200,6 +200,7 @@
 ###et_ads-2
 ###fixfloatingads
 ###float-ads
+###floatAds
 ###float_ads_bottom
 ###floatads1
 ###floatads2
@@ -981,6 +982,7 @@
 ##.fbt-ad-block
 ##.fbt_ad
 ##.fixfloatingads
+##.float-ads-2
 ##.float-ads-footer
 ##.float-ads-left
 ##.float-ads-right
