@@ -166,7 +166,9 @@ playeriframe.sbs,videonode.de##body > a:has(> .message-box)
 ||d21.media/vid/$media,redirect=noopmp4-1s
 ||d21.media^*/iklan-
 sf21.space###overlay-iklan-internal
-lk21official.top,skeeterbyte.com,surgafilm21.website##a[target*="blank"]:has(> img)
+lk21official.asia##.inner-ads
+lk21official.asia,skeeterbyte.com,surgafilm21.website##a[target*="blank"]:has(> img)
+lk21official.asia##+js(nowoif)
 ! Iframe
 ||tolonglah.pages.dev$frame
 skeeterbyte.com##:matches-path(/links/?url=) body > .container-iframe
