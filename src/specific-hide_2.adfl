@@ -104,7 +104,7 @@ delikasia.com,liputan4.com##.widget_block > img
 benuanews.com,rublikanesia.com,swanara.com##.widget_block:has(p > .adsbygoogle)
 nujatiagung.com##.wp-block-image > img
 kuninganmass.com##.zox-side-widget > figure > img
-bedahnusantara.com,faktakalbar.id,kaltengnews.co.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
+bedahnusantara.com,faktakalbar.id,okeyboz.com,trasberita.com##[class*="widget"] .metaslider
 jurnalkaltara.com##[class^="mvp-widget"] .wp-block-image > img
 saburomedia.com##aside .mg-widget.widget_media_video:remove()
 dutaserviceac.com##aside .widget:has(.label:has-text(/adv/i))
@@ -126,7 +126,6 @@ beritasulsel.com,bidiknewstoday.com,dara.co.id,kabarpapua.co,okeborneo.com,rakya
 berita.news,bidikindonesianews.co.id,brigadenews.co.id,daulatrakyat.com,haliyora.id,harianmerdeka.co,harianrakyataceh.com,idnnewspublish.com,inspirasijambi.com,jejaknarasi.id,kabarpapua.co,kanalindonesia.com,kepri.info,klikmadura.id,ksinews.id,madinapos.com,medankinian.com,medikita.com,menara.co.id,netizenku.com,patrolihukum.net,sulutnews.com,timur-online.com###sidebar-single img[style*="max-width: 100%; height: auto;"]
 lahatonline.com###sidebarkiri img[style="max-width: 100%; height: auto;"]
 mediaasuransinews.co.id##.box-widget img[style="max-width: 100%; height: auto;"]
-kaltengnews.co.id##.footer-widget img[style="max-width: 100%; height: auto;"]
 bentaratimur.id,ruzkaindonesia.id##.rt-widget:has(img[style="max-width: 100%; height: auto;"])
 dara.co.id,florespos.net,goodnews.co.id,kanalindonesia.com,mevin.id,pelitanusantara.net,persda.com,rakyatjabarnews.com,rakyatpos.id,sapulangit.com##.sidebar-middle-wrap img[style="max-width: 100%; height: auto;"]
 jurnalline.com##.sidebar-widget img[style="max-width: 100%; height: auto;"]
