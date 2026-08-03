@@ -32,11 +32,12 @@ jagobengkel.com,versusbeda.com##.jquery-modal
 asiaboxdrama.com##.mantine-Modal-root
 jabar-online.com##.popbox
 emitennews.com##.popup-ads
+arrahmah.id##.popup-banner
 infopapuaselatan.com,kabargolkar.com,pilarnewsonline.com##.show.fade
 salampapua.com##.swal2-container
 inst-media.id##.tdm-popup-modal-wrap
 !
-asiaboxdrama.com,brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,inst-media.id,jabar-online.com,jagobengkel.com,kabargolkar.com,pilarnewsonline.com,salampapua.com,versusbeda.com,wandercom.id##html, body:style(overflow: auto!important; position: unset!important;)
+arrahmah.id,asiaboxdrama.com,brainly.co.id,emitennews.com,gamefinity.id,goodnewsfromindonesia.id,infopapuaselatan.com,inst-media.id,jabar-online.com,jagobengkel.com,kabargolkar.com,pilarnewsonline.com,salampapua.com,versusbeda.com,wandercom.id##html, body:style(overflow: auto!important; position: unset!important;)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
 !#if (adguard)
 duniagames.co.id##+js(rc, cdk-global-scrollblock, html)
