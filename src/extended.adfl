@@ -15,14 +15,14 @@
 ! ------------------------------------------------------------------------------
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/164
 ! https://github.com/AdguardTeam/tsurlfilter/issues/148
-0.0.realodix##.btn[onclick]:remove-attr(onclick)
-0.0.realodix##body:remove-class(cdk-global-scrollblock)
+0.0.realodix.co##.btn[onclick]:remove-attr(onclick)
+0.0.realodix.co##body:remove-class(cdk-global-scrollblock)
 ! https://github.com/AdguardTeam/FiltersCompiler/issues/206
 ||ex-ample.org^$script,from=ex-ample.com
 ! https://github.com/AdguardTeam/ExtendedCss/issues/138
-0.0.realodix##div.banner:matches-css-before(content: /adv/i)
+0.0.realodix.co##div.banner:matches-css-before(content: /adv/i)
 ! https://github.com/AdguardTeam/ExtendedCss/issues/164
-0.0.realodix##:matches-path(/^/home/) [data-testid="primaryColumn"]:others()
+0.0.realodix.co##:matches-path(/^/home/) [data-testid="primaryColumn"]:others()
 !
-0.0.realodix##+js(prevent-setTimeout, getComputedStyle)
-0.0.realodix##+js(prevent-window-open)
+0.0.realodix.co##+js(prevent-setTimeout, getComputedStyle)
+0.0.realodix.co##+js(prevent-window-open)
