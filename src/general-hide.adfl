@@ -1584,6 +1584,7 @@
 ##gmn-companion-ad-renderer
 ##img[data-ai-hint="advertisement banner"]
 ##img[data-permalink^="/apps/iklan-"]
+##img[title="COLLABMEDIANET-ADS-1"]
 ! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L406
 ##body > div[style^="position: fixed; inset: 0px; z-index: 2147483647; background-color: transparent; pointer-events: auto; cursor: auto; margin: 0px; padding: 0px;"]
 ! https://github.com/AdguardTeam/AdguardFilters/blob/685b1dd376/BaseFilter/sections/general_elemhide.txt#L412
