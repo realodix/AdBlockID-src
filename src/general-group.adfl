@@ -507,8 +507,6 @@ beritasatu.com##.d-flex:has(> div > [id^="div-gpt-"])
 beritasatu.com##.gam-ads
 investor.id##.mega-ads
 investor.id##.sticky
-sumselupdate.com##.sticky_bottom
-sumselupdate.com##.textwidget > img
 investor.id##body > .w-100:matches-css(height: 250px)
 beritasatu.com##div:matches-css(min-width: 300px):matches-css(min-height: 250px)
 beritasatu.com,investor.id,jakartaglobe.id##div:matches-css(text-align: center):has-text(/adv/i)
