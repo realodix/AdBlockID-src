@@ -1263,7 +1263,6 @@ harianmassa.id
 harianmemokepri.com
 harianmerahputih.id
 harianmerapi.com
-harianmerdeka.co
 harianmerdeka.co.id
 harianmerdeka.id
 harianmetro.id
