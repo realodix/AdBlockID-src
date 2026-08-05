@@ -51,9 +51,10 @@ vcgamers.com###overlay
 indonesiabusinesspost.com##.blackkosong
 puratos.co.id##.modal
 puratos.co.id##.modal-backdrop
+id.loccitane.com##.needsclick
 generali.co.id##.show.fade
 indonesiabusinesspost.com,puratos.co.id,vcgamers.com##body, html:style(overflow: auto !important; position: initial !important;)
-generali.co.id##html, body:style(overflow: auto!important; position: unset!important;)
+generali.co.id,id.loccitane.com##html, body:style(overflow: auto!important; position: unset!important;)
 ! ---
 ! International
 ! ---
