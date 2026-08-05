@@ -869,6 +869,7 @@ _728x90px.$image,domain=bogordaily.net
 /Ads/*$to=filedon.co
 ||aiprodev.com/files/banner/$3p
 ||backlink.co.id^*/badge-$image,domain=~backlink.co.id|~blogpartner.id
+||cdn-imgur.com/images/banner/*.gif$3p,image
 ||cloudhost.id^*/iklan_$3p,domain=~idcloudhost.co.id|~idcloudhost.com
 ||cloudhost.id^*/privat-ads/$3p,domain=~idcloudhost.co.id|~idcloudhost.com
 ||dirastore.com/delikwp/wp-content/uploads/$3p,image

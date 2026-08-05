@@ -1365,6 +1365,7 @@
 ##a[title="gitarpoker" i]:has(img)
 ##a[title="gitartogel" i]
 ##a[title="hokidewa" i]:has(img)
+##a[title="idngoal" i]:has(img)
 ##a[title="jayapoker" i]:has(img)
 ##a[title="kaikoslot" i]:has(img)
 ##a[title="klikhoki" i]:has(img)
@@ -1378,9 +1379,10 @@
 ##a[title^="agen slot online" i] > img
 ##a[title^="bandar slot" i] > img
 ##a[title^="daftar slot online" i] > img
+##a[title^="judi bola" i]:has(img)
 ##a[title^="situs judi online"]
 ##a[title^="situs slot" i] > img
-##a[title^="slot gacor" i] > img
+##a[title^="slot gacor" i]:has(img)
 ##img[alt*="QQangpao" i]
 ##img[alt*="QQjelas" i]
 ##img[alt*="QQpedia" i]
@@ -1412,6 +1414,7 @@
 ##img[alt="enakslot" i]
 ##img[alt="eqn388"]
 ##img[alt="hokidewa" i]
+##img[alt="idngoal" i]
 ##img[alt="igamble247" i]
 ##img[alt="ilucky88" i]
 ##img[alt="instantoto" i]
@@ -1436,6 +1439,7 @@
 ##img[alt="totobet" i]
 ##img[alt="ungutoto" i]
 ##img[alt="vegas88" i]
+##img[alt^="judi bola" i]
 ##img[alt^="slot gacor" i]
 ##img[title="albaslot" i]
 ##img[title="birutoto" i]
