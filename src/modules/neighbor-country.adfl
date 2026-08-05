@@ -45,6 +45,9 @@ vanakkammalaysia.com.my##img[width="728"][height="91"]
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
 @@||static.doubleclick.net/instream/ad_status.js$domain=kisahdunia.com
+eight.audio,flyfm.audio,hotfm.audio,koolfm.audio,molekfm.audio###player-ads-block-modal
+eight.audio,flyfm.audio,hotfm.audio,koolfm.audio,molekfm.audio##.show.fade
+eight.audio,flyfm.audio,hotfm.audio,koolfm.audio,molekfm.audio##html, body:style(overflow: auto!important; position: unset!important;)
 kisahdunia.com##+js(aost, DOMTokenList.prototype.contains, manageBodyClasses)
 !
 ! ANNOYANCE
