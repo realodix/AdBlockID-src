@@ -20,7 +20,7 @@ erablue.id##.cookies-consent
 mu-online1.com,queennews.co.id##.cookies-show
 indosphera.com##.et-cookies-popup-wrapper
 vidio.com##.fixed:has(> #user-consent-title)
-kahfeveryday.com,mitsubishi-motors.co.id,sehataqua.co.id,sementigaroda.com##.fixed:has-text(/cookie/i)
+kahfeveryday.com,mitsubishi-motors.co.id,sehataqua.co.id,sementigaroda.com,sensatia.com##.fixed:has-text(/cookie/i)
 iknpos.id##.jl-gdpr
 axa.co.id##.modal-cookie
 zurich.co.id##.privacy-warning-main
