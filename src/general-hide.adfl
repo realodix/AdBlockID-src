@@ -139,6 +139,8 @@
 ###aiklanheader8
 ###aiklantengah
 ###aiklantengah1
+###apskinadsleft
+###apskinadsright
 ###area-iklan-kanan-atas
 ###area-iklan-kiri-atas
 ###banner-atas
@@ -232,6 +234,8 @@
 ###header-ad-mobile
 ###hide-fixed-ads
 ###homepage-top-ad
+###hpskinadsleft
+###hpskinadsright
 ###idblog-adb-enabled
 ###idiklan_kanan
 ###idiklan_kiri

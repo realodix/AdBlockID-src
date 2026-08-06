@@ -24,6 +24,10 @@ dinaspajak.com###adsmabur
 idezia.com###adstop
 indonesiasatu.co###advert-top-desktop
 banjarhits.co,qsantri.eu.org###after-ad
+jawapos.com###apbottom
+jawapos.com###aprb1
+jawapos.com###aprb2
+jawapos.com###apskyscraper
 tirto.id###ats-insert_ads-1-wrapper
 bekesah.co,berita.news,beritamimika.com,citakaltara.com,fajar.co.id,medianews.co.id,mensobsession.com###banner
 hybrid.co.id###banner-floating
@@ -505,6 +509,8 @@ infobanknews.com##[data-ad-campaign]
 infobanknews.com##[data-ad-position]
 informasi.com##[data-ad-slot]
 goodnewsfromindonesia.id##[data-cptid*=".id_728x90"]
+jawapos.com##[data-jp-ad-slot-id]
+jawapos.com##[data-jp-ad-slot-wrapper]
 kumparan.com##[data-qa-id*="banner"]
 kumparan.com##[data-qa-id*="sticky-bottom-ads"]
 kumparan.com##[data-qa-id="left-skyscrapper-ads"]
