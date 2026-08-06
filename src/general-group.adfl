@@ -394,7 +394,7 @@ metrotvnews.com##.ads
 metrotvnews.com##.ads-large-leaderboard
 inibaru.id##.adsbyadop:upward([class*="bg-"])
 mediaindonesia.com##.article #parallax_wrap
-medcom.id,mediaindonesia.com##.banner
+medcom.id,mediaindonesia.com,metrotvnews.com##.banner
 lampost.co##.banner-content
 metrotvnews.com##.banner-header-ads
 medcom.id##.banner_content
