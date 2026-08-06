@@ -2,9 +2,9 @@
 ! QUICK FIX
 ! ------------------------------------------------------------------------------
 ! Missing easylist filter on AdGuard
-!#if adguard
-##[id^="div-gpt-ad"]
-!#endif
+! ##[id^="div-gpt-ad"]
+kapanlagi.com###div-gpt-ad-kapanlagi-smart-oop
+kapanlagi.com###div-gpt-ad-topfrm-parallax-wrapper
 ! https://github.com/AdguardTeam/AdguardFilters/issues/147108#issuecomment-1499379187
 ! https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2322
 !#if adguard

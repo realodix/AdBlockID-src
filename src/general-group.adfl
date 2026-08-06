@@ -372,9 +372,6 @@ merdeka.com##.section-body .bottomframe:has(> #gpt-ad-div-bottom-frame-placehold
 bola.net##[id^="div-gpt-ad"]:upward(.dfp-bframe-cont)
 merdeka.com##[id^="gpt-ad-div-section-"]
 brilio.net##amp-iframe:has([src*="advertnative.com"])
-!#if (adguard)
-kapanlagi.com##div[id^="div-gpt-"]
-!#endif
 ! Voucher Promo
 brilio.net,briliobeauty.net,techno.id##.voucher_at
 ! Whitelist
