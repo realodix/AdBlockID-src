@@ -278,6 +278,7 @@
 ###iklan-desktop-under_image
 ###iklan-giantbanner
 ###iklan-head
+###iklan-header
 ###iklan-infeed
 ###iklan-kanan-postingan
 ###iklan-kiri
@@ -1133,6 +1134,7 @@
 ##.iklan-for-web
 ##.iklan-ft-mobile
 ##.iklan-full
+##.iklan-gambar
 ##.iklan-giantbanner
 ##.iklan-giantbanner-content
 ##.iklan-half
