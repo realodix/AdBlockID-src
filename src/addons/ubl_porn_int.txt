@@ -6,6 +6,11 @@
 /[\w]?[bcdfghjklmnpqrstvwxyz\-\d]jav\.(com?|net|org|ai|at|best|bet|biz|cc|cfd|ch|day|dev|eu|fit|global|hot|icu|info|lol|life|love|me|mom|one|pics|pro|red|ru|sh|site|sx|to|today|tube|tv|uno|us|vip|watch|website|xyz)/
 /jav[bcdfghjklmnpqrstvwxyz\-\d][\w-]+\.(com?|net|org|ai|at|best|bet|biz|cccfd||ch|day|dev|eu|fit|global|hot|icu|info|lol|life|love|me|mom|one|pics|pro|red|ru|sh|site|sx|to|today|tube|tv|uno|us|vip|watch|website|xyz)/
 #
+*://*.javporn.com.es/*
+*://*.masturhub/*
+*://*.melonstube.com/*
+*://*.nudevista.net/*
+*://*.tgtube.com/*
 *://3xplanet.net/*
 *://7mmtv.sx/*
 *://aicelebs.club/*
@@ -47,6 +52,7 @@
 *://hdhole.com/*
 *://hdstepmoms.com/*
 *://heavyfetish.com/*
+*://hoes.tube/*
 *://hot-xnxx-videos.com/*
 *://jabletv.ru/*
 *://japanhdv.com/*
@@ -76,6 +82,7 @@
 *://netflav5.com/*
 *://noodlemagazine.com/*
 *://okxxx.it.com/*
+*://only-av.com/*
 *://oppai.stream/*
 *://orientalkink.com/*
 *://oversport.tv/*
@@ -103,6 +110,7 @@
 *://stepmomson.com/*
 *://sxyprn.net/*
 *://teenxy.com/*
+*://tenshigao.com/*
 *://thaipoony.com/*
 *://thaixa.com/*
 *://thaixclips.com/*
@@ -121,6 +129,7 @@
 *://upskirt.tv/*
 *://viojav.com/*
 *://vipwank.com/*
+*://virtualrealjapan.com/*
 *://vpnoverview.com/*
 *://vua3x.com/*
 *://x-x-x.video/*

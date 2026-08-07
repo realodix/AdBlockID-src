@@ -136,6 +136,7 @@
 *://ceritalucahnovel.com/*
 *://ceritanakal.com/*
 *://cewekgenit.ltd/*
+*://cindosma.pages.dev/*
 *://colflix.com/*
 *://crot.media/*
 *://crothot.com/*
@@ -174,6 +175,7 @@
 *://javtube.pro/*
 *://javxindo.com/*
 *://jeniusplay.com/*
+*://jepangkawai.com/*
 *://jilbabhot.com/*
 *://kamarjav.com/*
 *://kawai.day/*
@@ -210,7 +212,6 @@
 *://ngejav.blog/*
 *://ngocoks.com/*
 *://ngomek.com/*
-*://nontonjavid.net/*
 *://omekin.casa/*
 *://payudaragede.blogspot.com/*
 *://pemersatudotfun.com/*
@@ -231,6 +232,7 @@
 *://sukatetek.blogspot.com/*
 *://sundapedia.com/*
 *://susubiru.com/*
+*://takashifujii.com/*
 *://tantemalam.fit/*
 *://tantenakal.net/*
 *://tantepanas.org/*
@@ -240,6 +242,7 @@
 *://warkep.com/*
 *://xbfb.lol/*
 *://xgemoy.com/*
+*://xjepang.com/*
 *://xjilbab.cam/*
 *://xmalay.net/*
 *://xorgasmo.com/*
@@ -285,10 +288,12 @@
 /(?<=\/\/|\.)manhwadesu\..+/
 /(?<=\/\/|\.)ngecrots\..+/
 /(?<=\/\/|\.)ngentub\..+/
+/(?<=\/\/|\.)ngewetube\..+/
 /(?<=\/\/|\.)niihen\..+/
 /(?<=\/\/|\.)nntnbkptv2\..+/
 /(?<=\/\/|\.)nokephub\..+/
 /(?<=\/\/|\.)nontonfilmnikmat\..+/
+/(?<=\/\/|\.)nontonjavid\..+/
 /(?<=\/\/|\.)novelbasah\..+/
 /(?<=\/\/|\.)omek\.co\.uk/
 /(?<=\/\/|\.)omekin\..+/
@@ -304,6 +309,7 @@
 /(?<=\/\/|\.)tube8\..+/
 /(?<=\/\/|\.)videobacol\..+/
 /(?<=\/\/|\.)videocrot1\..+/
+/(?<=\/\/|\.)videocrot\..+/
 /(?<=\/\/|\.)videyindo\..+/
 /(?<=\/\/|\.)videylokal\..+/
 /(?<=\/\/|\.)xpanas\..+/
