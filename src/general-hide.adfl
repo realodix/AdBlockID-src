@@ -1364,6 +1364,7 @@
 ##.menu-rs-iklan
 ##.mh-ad-spot
 ##.mh-loop-ad
+##.minami-ad-slot
 ##.mks_adswidget_ul
 ##.mobileAd_bottom_floating
 ##.mobileads
@@ -1565,6 +1566,7 @@
 ##.widget_anm_ad_space_specific
 ##.widget_iklan_atas
 ##.widget_iklan_atas_content
+##.wp-block-minami-ad-slot
 ##.wp-iklan-banner
 ##.wp-iklan-footer
 ##.wp-iklan-header
