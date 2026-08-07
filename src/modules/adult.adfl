@@ -13,6 +13,7 @@
 ||lockerimage.com^*/banner-$3p
 ||pejuanglendir.site^*/banners/
 ||postimg.cc/*/GIFBANNER*-
+||sukajavid.net/assets/images/banner/
 !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
@@ -40,6 +41,7 @@ dicrotin.*###global_promo
 bokepvir.*###sticky-banner
 bokepvir.*###sticky-banner-footer
 doooood.co##.ad-container
+4k-studios.com,sukajavid.net##.ad-under-player
 nekopoi.care##.adsgen
 podjav.tv##.banner-card
 ceritaseksindo.org##.banner-float-bottom
@@ -110,6 +112,9 @@ dicrotin.*,kampungbokep.site,nokephub.*,pojokan69.com##+js(aopr, SGPB_POPUP_PARA
 bokepvir.*,javsubindo.*##+js(aopr, window.pum_popups)
 agenbokep.*,b0k3hviral3.blogspot.com,bandarbokep.*,bokepindo.*,bokepindo69.*,doooood.co,duniabokep.*,indobokepin.*,javindo.*,javsubindo.*,kimcilonly.*,muantap2.blogspot.com,myhdjav.me,nontonbokep.*,sibokepjepang.*,videyindo.*##+js(nowoif)
 sukasex.*##+js(rmnt, script, popupUrl)
+!
+4k-studios.com,sukajavid.net##.popup-ad-overlay
+4k-studios.com,sukajavid.net##html, body:style(overflow: auto!important; position: unset!important; overscroll-behavior-y: unset!important;)
 ! ---
 ! Browser Back (history manipulation)
 ! 0.0.realodix##+js(acis, history.pushState, window.location.href)
