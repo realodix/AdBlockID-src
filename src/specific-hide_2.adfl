@@ -149,7 +149,7 @@ tabloidmatahati.com##aside img[style="max-width: 100%; height: auto;"]
 !
 ! EMPTY ADS PLACEHOLDERS
 ! ------------------------------------------------------------------------------
-bukamata.id##.a-wrap:has(> .label:has-text(/adv/i))
+bukamata.id,technonesia.id##.a-wrap:has(> .label:has-text(/adv/i))
 narasi.tv##.before\:content-\[\'Advertisement\'\]
 hapusakun.com##.code-block:has-text(/adv/i)
 narasi.tv##.container.justify-center:has(> .font-roboto:has-text(/adv/i))

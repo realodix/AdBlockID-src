@@ -4074,6 +4074,7 @@ techmind.id
 techno.id
 techno.okezone.com
 technologyindonesia.id
+technonesia.id
 tegas.co
 tek.id
 tekape.co
