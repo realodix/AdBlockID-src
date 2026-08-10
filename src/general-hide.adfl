@@ -266,9 +266,11 @@
 ###iklan-8-8
 ###iklan-9-9
 ###iklan-atas
+###iklan-atas-1
 ###iklan-banner
 ###iklan-baris
 ###iklan-bawah
+###iklan-bawah-1
 ###iklan-close
 ###iklan-desktop-half_page
 ###iklan-desktop-rectangle1
@@ -1200,6 +1202,7 @@
 ##.iklan1
 ##.iklan160kanan
 ##.iklan160kiri
+##.iklan2
 ##.iklan300x250
 ##.iklan468x60
 ##.iklan728x90

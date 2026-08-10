@@ -553,6 +553,7 @@ titipjepang.com##a[href^="https://titipjepang.com/promo/"]:has(> img)
 transportasimedia.com##a[href^="https://transportasimedia.com/ads/"]
 inilahbandung.com,monitorindonesia.com##a[rel*="sponsored"]
 bentengsumbar.com,sijorikepri.com,wawainews.id##a[title*="iklan" i]:has(> img)
+otojatim.com##a[title*="promo" i]:has(img)
 ntbsatu.com##a[title="iklan" i]
 radarmanadoonline.com##a[title^="adv" i]
 dardura.com##article #body-post-it > center:has-text(/adv/i)
