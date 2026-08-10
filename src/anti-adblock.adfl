@@ -16,6 +16,10 @@ anakteknik.co.id,howdy.id,obengplus.com##+js(no-fetch-if, pagead2.googlesyndicat
 wendycode.com##+js(no-setTimeout-if, _0x, 2000)
 gurusiana.id##+js(set, detectAdBlock, noopFunc)
 jagokata.com##+js(set-local-storage-item, ignoreadblock, true)
+! general
+otodiva.id##.detect-modal
+otodiva.id##html, body:style(overflow: auto!important; position: unset!important;)
+! tie-popup-adblock
 ! chp_ads_blocker | adblock_title
 downloadtanku.org##+js(noeval-if, adbEnableForPage)
 ! Ad Inserter (ai_front / ai_adb / aiADB / ad-inserter / ai-adb) | https://wordpress.org/plugins/ad-inserter/
