@@ -16,7 +16,7 @@ gurusiana.id##+js(set, detectAdBlock, noopFunc)
 jagokata.com##+js(set-local-storage-item, ignoreadblock, true)
 ! general
 otodiva.id##.detect-modal
-otodiva.id##html, body:style(overflow: auto!important; position: unset!important;)
+otodiva.id##html:has(.detect-modal), body:has(.detect-modal):style(overflow: auto!important; position: unset!important;)
 ! tie-popup-adblock
 ! chp_ads_blocker | adblock_title
 downloadtanku.org##+js(noeval-if, adbEnableForPage)
