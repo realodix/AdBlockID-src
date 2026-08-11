@@ -194,6 +194,7 @@
 *://komikland.com/*
 *://komikpoi.com/*
 *://kontenterabox.com/*
+*://kurakura21.com/*
 *://kurakura21.net/*
 *://lendirpedia.icu/*
 *://lendirqu.cam/*

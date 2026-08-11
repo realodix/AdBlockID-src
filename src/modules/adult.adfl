@@ -75,6 +75,8 @@ kpopdeepfakes.*#@##banner_ad
 !
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
+@@||pagead2.googlesyndication.com/pagead/$domain=kurakura21.com
+@@||static.doubleclick.net/instream/ad_status.js$xhr,domain=kurakura21.com
 kingbokep.bio,kingbokep.one##+js(acis, checkAdsStatus)
 pasarbokep.com##+js(aopr, adsBlocked)
 pasarbokep.com,sangetods.*##+js(no-fetch-if, pagead2.googlesyndication.com)
