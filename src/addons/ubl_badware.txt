@@ -121,13 +121,11 @@
 #
 #
 # .it
-*://acquamarina97.it/*
-*://cflc-confcoopliguria.it/*
-*://harasun.it/*
-*://inforentri.it/*
-*://projectcarssrls.it/*
-*://www.studiodentisticousoni.it/*
+*://*.spazionidi.it/*
+*://*.studiodentisticousoni.it/*
 # .nl
+*://*.boerenbusinessclubnorg.nl/*
+*://*.happyhomestuff.nl/*
 *://aangepastchalet.nl/*
 *://abo-privacy.nl/*
 *://actiepuntje.nl/*

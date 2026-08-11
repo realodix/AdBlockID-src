@@ -62,6 +62,7 @@
 *://*.masturhub/*
 *://*.maturetube.com/*
 *://*.melonstube.com/*
+*://*.mikebigdick.com/*
 *://*.mrdeepfake.su/*
 *://*.myfakedude.com/*
 *://*.mythaidoll.com/*
@@ -117,8 +118,11 @@
 *://*.xgent.com/*
 *://*.xhamsterlive.com/*
 *://*.xhtotal.com/*
+*://*.xhvid.com/*
 *://*.xozilla.com/*
 *://*.xshemale.tv/*
+*://*.xvids.win/*
+*://*.xxvideoss.org/*
 *://*.youjizz.best/*
 *://*.youjizz.com/*
 *://*.youjizz.io/*
