@@ -184,6 +184,9 @@ halodoc.com##.article-page__article-email-wrapper
 kompasiana.com##.kolom-newslt
 hellosehat.com##[data-type="subscription_box_A"]
 !
+officialmykonos.com##.subscription-popup
+officialmykonos.com##html, body:has(.subscription-popup):style(overflow: auto!important; position: unset!important;)
+!
 ! RELATED ARTICLE
 ! ------------------------------------------------------------------------------
 tribunnews.com###article #_popIn_recommend_word
