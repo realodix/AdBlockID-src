@@ -185,7 +185,9 @@ kompasiana.com##.kolom-newslt
 hellosehat.com##[data-type="subscription_box_A"]
 !
 officialmykonos.com##.subscription-popup
+thebodytale.com##[id*="newslatter"]
 officialmykonos.com##html, body:has(.subscription-popup):style(overflow: auto!important; position: unset!important;)
+thebodytale.com##html, body:has([id*="newslatter"]):style(overflow: auto!important; position: unset!important;)
 !
 ! RELATED ARTICLE
 ! ------------------------------------------------------------------------------
