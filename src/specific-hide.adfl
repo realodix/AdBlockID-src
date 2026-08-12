@@ -619,6 +619,7 @@ jurnalnusa.com###sticky-bottom2
 21cineplex.com###top-bar
 faktualnews.co###wideskyscraper
 inilah.com##.MuiStack-root:has(> span:has-text(/adv/i))
+otodiva.id,surabayaonline.co##.a-wrap
 tribunrakyat.com##.affiliatebox
 orami.co.id##.article-post #post-bottom:has(> p.text-center:has-text(/adv/i))
 orami.co.id##.article-post #post-section2:has(> p.text-center:has-text(/adv/i))
@@ -927,7 +928,6 @@ balikpapanupdate.com##img[width="1280"][height="256"]
 mediasriwijaya.com,wahanaindonews.com##img[width="1280"][height="295"]
 berandamaluku.com,satumaluku.id##img[width="1280"][height="320"]
 pijarnews.com##img[width="1280"][height="328"]
-surabayaonline.co##img[width="1300"][height="200"]
 rgol.id##img[width="1360"][height="240"]
 suarainvestigasi.com##img[width="150"][height="51"]
 beritabuana.co##img[width="150"][height="750"]
