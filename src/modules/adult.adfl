@@ -83,7 +83,7 @@ pasarbokep.com,sangetods.*##+js(no-fetch-if, pagead2.googlesyndication.com)
 ! chp_ads_blocker | adblock_title
 kesiangan.com,lk21semi.*,minioppai.org##+js(acis, chp_ads_blocker_detector)
 bokepgemoy.*,kontenterabox.com##+js(aost, document.createElement, adsBlocked)
-fantasiku.com,igobokep.*##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
+fantasiku.com,igobokep.*,kurakura21.net##+js(noeval-if, /fairAdblock|chp_?adblock|adsbygoogle\.js/)
 ! mdpDeBlocker
 javindo.*##+js(aost, document.getElementsByTagName, adsBlocked)
 !
