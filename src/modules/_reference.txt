@@ -14,6 +14,7 @@ samehadaku.*__https://samehadaku.email/
 shinigami.*__https://shinigami.ws/|https://shinigami.cx/
 shinigamitoon.*__https://shinigamitoon.xyz/|https://shinigamitoon.app/|https://shinigamitoon.id/
 kimcilonly.*__https://tv.kimcilonly.de/
+nontonbokep.*__https://nontonbokep.tokyo/
 
 
 ##.widget:has(figure > img)
