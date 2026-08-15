@@ -341,10 +341,10 @@ bioskopkeren.shop,d21.im,dunia21official.*,filmapik.my,movieon21.mov,nontonfilm.
 cosmicscans.to##a[target*="blank"]:has(> img)
 cosmicscans.to##html, body:style(overflow: auto!important; position: unset!important;)
 /cosmic\d+\.co/###floatcenter
-/cosmic\d+\.co/##.kln
-/cosmic\d+\.co/##a[target*="blank"]:has(> img)
 /kmvs\d+\.com/###floatcenter
+/cosmic\d+\.co/##.kln
 /kmvs\d+\.com/##.kln
+/cosmic\d+\.co/##a[target*="blank"]:has(> img)
 /kmvs\d+\.com/##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
 ! Kiryuu - https://kiryuu.co/, https://kiryuu.io/
