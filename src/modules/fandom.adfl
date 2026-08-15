@@ -347,7 +347,7 @@ cosmicscans.to##html, body:style(overflow: auto!important; position: unset!impor
 /cosmic\d+\.co/##a[target*="blank"]:has(> img)
 /kmvs\d+\.com/##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
-! Kiryuu - https://kiryuu.co/, https://kiryuu.io/
+! Kiryuu - https://kiryuu.co/, https://kiryuu.io/, https://kiryuu.io/domain/
 ! -----
 .gif$image,domain=/kiryuu0\d+\.com/
 /kiryuu0\d+\.com/###floatcenter
