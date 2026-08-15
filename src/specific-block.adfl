@@ -867,6 +867,7 @@ _728x90px.$image,domain=bogordaily.net
 ! THIRD PARTY BLOCKS
 ! ------------------------------------------------------------------------------
 /Ads/*$to=filedon.co
+||advertisement.b-cdn.net$3p,image,domain=~bunny.net
 ||aiprodev.com/files/banner/$3p
 ||backlink.co.id^*/badge-$image,domain=~backlink.co.id|~blogpartner.id
 ||cdn-imgur.com/images/banner/*.gif$3p,image
