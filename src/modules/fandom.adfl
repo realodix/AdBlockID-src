@@ -72,6 +72,8 @@ komiknesia.asia##img[alt*="adv" i]
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=anidraw.net
+||outbrain.com/outbrain.js$redirect-rule=noop.js,domain=hentai.web.id
+||quantserve.com/quant.js$redirect-rule=noop.js,domain=hentai.web.id
 @@-ads-banner.$script,domain=kusonime.com
 kopajasubs.info##+js(aopr, adAdbLoad)
 komiku.org,sektedoujin.cc##+js(nobab)
@@ -120,7 +122,7 @@ sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
 komikstation.org##+js(aeld, /^(?:load|click)$/, popMagic)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
-anibatch.moe,dramaencode.net,gudangmovies21.chat,kazefuri.cloud,kazefuri.id,newlk21id.com,otakupoi.org,rebahan21.com,sokuja.uk##+js(nowoif)
+anibatch.moe,dramaencode.net,gudangmovies21.chat,hentai.web.id,kazefuri.cloud,kazefuri.id,newlk21id.com,otakupoi.org,rebahan21.com,sokuja.uk##+js(nowoif)
 newlk21id.com##+js(ra, href, #clickfakeplayer, stay)
 !
 kazefuri.id,komikpoi.com,otakupoi.org##html, body:style(overflow: auto!important; position: unset!important;)
