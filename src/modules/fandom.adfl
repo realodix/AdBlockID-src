@@ -114,6 +114,7 @@ animekompi.sbs##.ays-pb-modals
 kuramanime.*##.player-overplay
 jeniusplay.com##.pppppup
 godriveplayer.net,jeniusplay.com##.pppx
+kaitoani.org##.video-content > #guzusukdcuw
 sokuja.uk##.video-content > div:has(> div[align="center"] > a[onclick*="none"])
 sokuja.uk##body > div:matches-css(position: fixed)
 sokuja.uk##div:matches-css(position: fixed):has(> div > #countdown)
