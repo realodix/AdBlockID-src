@@ -46,7 +46,12 @@
 *://*.fux.com/*
 *://*.gaymaletube.com/*
 *://*.grigtube.com/*
+*://*.h-anime.net/*
+*://*.hanime.video/*
+*://*.hanimetv.top/*
 *://*.hdblackass.com/*
+*://*.henvids.com/*
+*://*.hstream.moe/*
 *://*.jable.tv/*
 *://*.japanxtubes.com/*
 *://*.japanxxtube.com/*
@@ -132,6 +137,7 @@
 *://*.young-filipina.com/*
 *://*.yuvideos.biz/*
 *://*.zenra.net/*
+*://*.zhentube.com/*
 *://3xplanet.net/*
 *://7mmtv.sx/*
 *://aicelebs.club/*
