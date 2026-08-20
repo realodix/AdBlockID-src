@@ -186,8 +186,8 @@ hellosehat.com##[data-type="subscription_box_A"]
 !
 officialmykonos.com##.subscription-popup
 thebodytale.com##[id*="newslatter"]
-thebodytale.com##html, body:has([id*="newslatter"]):style(overflow: auto!important; position: unset!important;)
 officialmykonos.com##html:has(.subscription-popup),body:has(.subscription-popup):style(overflow: auto!important; position: unset!important;)
+thebodytale.com##html:has([id*="newslatter"]),body:has([id*="newslatter"]):style(overflow: auto!important; position: unset!important;)
 !
 ! RELATED ARTICLE
 ! ------------------------------------------------------------------------------
