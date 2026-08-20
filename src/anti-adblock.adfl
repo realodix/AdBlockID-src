@@ -44,7 +44,6 @@ mykmu.net##+js(set-constant, tie.ad_blocker_disallow_images_placeholder, '')
 ! SPECIFIC BLOCK
 ! ------------------------------------------------------------------------------
 ||bloggerku.com/antiadblock/$script
-||googletagmanager.com/gtag/js$script,redirect-rule=googletagmanager_gtm.js,domain=harianmerdeka.id
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=visionplus.id
 ||mikbotam.net/detector/$script
 ||mycoding.id/assets/seosecret/seosecretidnblockads.js
