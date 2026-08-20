@@ -2497,7 +2497,6 @@ manadolive.co.id
 manadonesia.com
 manadonews.co.id
 manadoterkini.com
-manadoxpress.com
 mandalikapost.com
 mandarnews.com
 mandiripangan.com
@@ -3225,7 +3224,6 @@ portal7.co.id
 portalamanah.com
 portalbangsa.co.id
 portalbanten.net
-portalbaraya.com
 portalbengkulu.com
 portalberita.co.id
 portalberitalampung.com
@@ -3416,7 +3414,6 @@ rakyatpos.com
 rakyatpos.id
 rakyatpriangan.com
 rakyatta.co
-ramanews.tv
 ranakanews.com
 rasioo.id
 ratumedia.id
@@ -3556,7 +3553,6 @@ sabanapedia.com
 sabdanews.com
 saberpungli.com
 sabili.id
-sabogoran.com
 saburomedia.com
 sahabatnews.com
 sahabatnews.net
@@ -3637,7 +3633,6 @@ selalu.id
 selaparangnews.com
 selasar.co
 selatanindonesia.com
-selebgram.net
 selidikinews.com
 selingga.com
 selingkarwilis.com
@@ -4352,7 +4347,6 @@ vivaborneo.com
 vnn.co.id
 voa-islam.com
 voicemagz.com
-volleynews.id
 vosmedia.co.id
 voxkalteng.com
 voxlampung.com
