@@ -653,7 +653,6 @@ lenterajateng.com##.entry-content > .code-block:has(> noscript)
 mykmu.net,pelitarakyat.com##.entry-content > .stream-item
 kalteng.co##.entry-content > .stream-item-below-post-content
 harianaceh.co.id##.entry-content > [id^="haria-"]:has(> [id^="haria-"] > .haria-adlabel)
-belajarmandiriyuk.com##.entry-content > div:matches-css(text-align: center):has(> p:has-text(/adv/i))
 iglobalnews.co.id##.entry-content > div[class^="iglob-"]:has(> div[class^="iglob-"]:has-text(/adv/i))
 hargo.co.id##.entry-content > div[style="float: none; margin:10px 0 10px 0; text-align:center;"]:has(> img)
 atasaspal.com##.entry-content > p > a[rel*="noreferrer"]:has(> img)
@@ -784,7 +783,7 @@ lenterasemarang.com##a[href^="https://lenterasemarang.com/main/banner_"]
 prudensi.com##a[href^="https://prudensi.com/category/advertorial/"]:has(> img)
 ditulis.id,qoo10.co.id,reviewsteknologiku.tech,suarakuningan.com##a[href^="https://s.shopee.co.id/"]
 informasilomba.com,pojokreview.com##a[href^="https://shope.ee/"]:has(> img)
-artikel.rumah123.com,belajarmandiriyuk.com,liputanindonesia.co.id##a[href^="https://shopee.co.id/"]:has(> img)
+artikel.rumah123.com,liputanindonesia.co.id##a[href^="https://shopee.co.id/"]:has(> img)
 pcplus.co.id,utamanews.com##a[href^="https://tokopedia.link/"]:has(> img)
 thebalitimes.com##a[href^="https://www.amazon.com/s?k="]
 centerklik.com,kabarterdepan.com,poindonews.com##a[rel="nofollow"] > img

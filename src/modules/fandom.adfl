@@ -70,7 +70,6 @@ komiknesia.asia##img[alt*="adv" i]
 !
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
-||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=anidraw.net
 ||outbrain.com/outbrain.js$redirect-rule=noop.js,domain=hentai.web.id
 ||quantserve.com/quant.js$redirect-rule=noop.js,domain=hentai.web.id
 @@-ads-banner.$script,domain=kusonime.com
