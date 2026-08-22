@@ -75,6 +75,7 @@ kpopdeepfakes.*#@##banner_ad
 !
 ! ANTI-ADBLOCK
 ! ------------------------------------------------------------------------------
+||vlitag.com/prebid/default/prebid-$redirect-rule=noop.js,domain=petmoniker.com|sangetods.net
 @@||pagead2.googlesyndication.com/pagead/$domain=kurakura21.com
 @@||static.doubleclick.net/instream/ad_status.js$xhr,domain=kurakura21.com
 kingbokep.bio,kingbokep.one##+js(acis, checkAdsStatus)
