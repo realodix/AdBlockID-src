@@ -5,6 +5,9 @@
 /(faketaxi|missav)/
 /[\w]?[bcdfghjklmnpqrstvwxyz\-\d]jav\.(com?|net|org|ai|at|best|bet|biz|cc|cfd|ch|day|dev|eu|fit|global|hot|icu|info|lol|life|love|me|mom|one|pics|pro|red|ru|sh|site|sx|to|today|tube|tv|uno|us|vip|watch|website|xyz)/
 /jav[bcdfghjklmnpqrstvwxyz\-\d][\w-]+\.(com?|net|org|ai|at|best|bet|biz|cccfd||ch|day|dev|eu|fit|global|hot|icu|info|lol|life|love|me|mom|one|pics|pro|red|ru|sh|site|sx|to|today|tube|tv|uno|us|vip|watch|website|xyz)/
+title *= "free porn" i
+title =~ /porn (tube|video)/i
+title =~ /sex (cam|movie)/i
 #
 *://*.141jav.com/*
 *://*.18j.tv/*
@@ -22,7 +25,9 @@
 *://*.assoass.com/*
 *://*.avbase.net/*
 *://*.avclub.com/*
+*://*.babesource.com/*
 *://*.bellesa.co/*
+*://*.camsmut.com/*
 *://*.celebritygalleriesfree.com/*
 *://*.cfake.com/*
 *://*.creampie.kim/*
@@ -30,6 +35,7 @@
 *://*.cute-asians.com/*
 *://*.devilsfilm.com/*
 *://*.dinotube.com/*
+*://*.drtuber.com/*
 *://*.en-youjizz.com/*
 *://*.eng-tnaflix.com/*
 *://*.eng-youjizz.com/*
@@ -51,6 +57,8 @@
 *://*.hanimetv.top/*
 *://*.hdblackass.com/*
 *://*.henvids.com/*
+*://*.heyzo.com/*
+*://*.homemadegalore.com/*
 *://*.hstream.moe/*
 *://*.jable.tv/*
 *://*.japanxtubes.com/*
@@ -70,10 +78,13 @@
 *://*.mikebigdick.com/*
 *://*.mrdeepfake.su/*
 *://*.myfakedude.com/*
+*://*.mylust.com/*
 *://*.mythaidoll.com/*
 *://*.naughtyamerica.com/*
+*://*.nu-bay.com/*
 *://*.nudevista.net/*
 *://*.nuvid.com/*
+*://*.onlyfans.com/*
 *://*.peekvids.com/*
 *://*.pictoa.com/*
 *://*.playvids.com/*
@@ -88,10 +99,12 @@
 *://*.shemale.army/*
 *://*.shemaleflirt.com/*
 *://*.shemalez.com/*
+*://*.suckhoevang.org/*
 *://*.sxyprn.com/*
 *://*.tabooheat.com/*
 *://*.taikip.com/*
 *://*.tgtube.com/*
+*://*.thaigirlswild.com/*
 *://*.theporndude.onl/*
 *://*.thumbzilla.com/*
 *://*.tiava.com/*
@@ -99,6 +112,7 @@
 *://*.tnaflix.bond/*
 *://*.tnaflix.com/*
 *://*.tnaflix.pro/*
+*://*.topvid.tv/*
 *://*.tranny.one/*
 *://*.trannyclips.com/*
 *://*.transjizz.com/*
@@ -116,6 +130,7 @@
 *://*.videojav.com/*
 *://*.viexx.com/*
 *://*.vintagecuties.com/*
+*://*.vipxnxx.com/*
 *://*.xasiat.com/*
 *://*.xctube.com/*
 *://*.xfree.com/*

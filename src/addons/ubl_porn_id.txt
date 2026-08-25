@@ -1,6 +1,9 @@
 /([\w\-]*)?(bokep|bokeb|bugil|dewasa|hentai|memek|mesum|montok|porno|sange|seks)([\w-]*)?\..+/
 title *= "bokep" i
-title *= "ngewe" i
+title *= "ngentot" i
+title =~ /(download|nonton|tonton) jav/i
+title =~ /\bcolmek\b/i
+title =~ /\bngewe\b/i
 #
 *://best.cerita-intim69.love/*
 #
@@ -30,6 +33,7 @@ title *= "ngewe" i
 *://*.bacoltubbe.shop/*
 *://*.bacoltube.forum/*
 *://*.bacoltube.help/*
+*://*.bahanbagus.com/*
 *://*.becekku.com/*
 *://*.binorsemok.net/*
 *://*.birahijab.click/*
@@ -77,6 +81,7 @@ title *= "ngewe" i
 *://*.igodesu.tv/*
 *://*.indo18plus.com/*
 *://*.indohdx.com/*
+*://*.indojav.stream/*
 *://*.indojavid.com/*
 *://*.indonesianporn.com.es/*
 *://*.indonesiaporn.pro/*
@@ -164,6 +169,7 @@ title *= "ngewe" i
 *://*.sexkomix2.com/*
 *://*.starjepang.one/*
 *://*.stwjilbab.com/*
+*://*.subjavid.com/*
 *://*.sukatetek.blogspot.com/*
 *://*.sukawibu.com/*
 *://*.sundapedia.com/*
@@ -288,8 +294,13 @@ title *= "ngewe" i
 *://89.250.72.12/*
 *://91.209.70.164/*
 *://95.111.230.204/*
+*://bandarjav.wordpress.com/*
+*://bclind2.blogspot.com/*
 *://gudangceritahot.wordpress.com/*
+*://indoviralpart3.blogspot.com/*
 *://ngeringerisedep.wordpress.com/*
+*://sedarahahuh.blogspot.com/*
+*://seleratinggi88.blogspot.com/*
 *://sexualmalam.blogspot.com/*
 /(?<=\/\/|\.)asupanhot\..+/
 /(?<=\/\/|\.)avtub\..+/
@@ -311,7 +322,6 @@ title *= "ngewe" i
 /(?<=\/\/|\.)indocroot\..+/
 /(?<=\/\/|\.)indocrot\..+/
 /(?<=\/\/|\.)indofilmdewasa\..+/
-/(?<=\/\/|\.)indojavstream\..+/
 /(?<=\/\/|\.)indopanas\..+/
 /(?<=\/\/|\.)javindo\..+/
 /(?<=\/\/|\.)javsubindo\..+/
