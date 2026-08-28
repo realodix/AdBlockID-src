@@ -51,9 +51,6 @@ duniagames.co.id##html:remove-class(cdk-global-scrollblock)
 ||farflung-permission.com^
 ||hubapi.my.id^$3p
 ||wonderfulyesterday.com^
-! page
-||getandplay.web.id^$popup
-||simplepaste.site^$popup
 !
 ||acquaintjokinglyscoring.com^$popup
 ||asukabeh.my.id^$popup
@@ -70,6 +67,9 @@ duniagames.co.id##html:remove-class(cdk-global-scrollblock)
 ||tokoviral.online^$popup
 ||villainoussession.com^$popup
 ||wonderfulyesterday.com^$popup
+! page
+||getandplay.web.id^$popup
+||simplepaste.site^$popup
 ! shortlink
 ||cek.to^$popup
 ||klik.best^$popup
