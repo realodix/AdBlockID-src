@@ -875,6 +875,7 @@ disway.id
 ditulis.id
 divianews.com
 divisi.id
+djakarta.id
 djawaranews.com
 djituberita.com
 dkliknews.com
