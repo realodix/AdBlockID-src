@@ -11,6 +11,7 @@ berita.news,harianjatim.com,putraindonews.com,sukabuminews.id###wpconsent-root
 jawaban.com##.alert-cookie-policy
 hukumonline.com##.banner_cookies
 biznetgio.com##.bgn-cookie-consent
+bri.co.id##.bottom-0.fixed
 uwinflyofficial.id##.cm[aria-modal*="true"]:has-text(/cookie/i)
 cimbniaga.co.id##.cookie-banner
 banjarhits.co,benhil.net,borneotrend.com,indonesia.travel,lingkaran.id,possindo.com,radioonline.co.id,sportsstation.id##.cookie-consent
