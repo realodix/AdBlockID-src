@@ -24,7 +24,7 @@ linter:
 
 builder:
   output_dir: dist
-  filter_list:
+  filter_lists:
     - filename: adblockid.adfl.txt
       header: |
         [Adblock Plus 2.0]
