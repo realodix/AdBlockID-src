@@ -42,8 +42,10 @@ dictionary.cambridge.org##.am-default_moreslots
 softfamous.com##.container_ads
 divyamodapk.com##.custpostads
 androidapksfree.com##.header-ad-heading
+daily.dev##.max-w-\[300px\].min-h-\[286px\]:has(> span:has-text(/adv/i))
 runninglevel.com##.publift_adunit
 designcise.com##.sticky-banner-wrapper
+daily.dev##.tablet\:max-w-\[728px\].max-w-\[320px\]:has(> span:has-text(/adv/i))
 crackshash.com##.wp-ad
 crackshash.com##.wp-ad-top
 !
