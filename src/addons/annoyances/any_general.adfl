@@ -201,6 +201,39 @@ detik.com##cb-rekomendit
 ||typeform.com$frame,domain=detik.com
 detik.com##div[data-tf-loaded]
 !
+! AFFILIATE / SHOPPING
+! ------------------------------------------------------------------------------
+||quiz.vidio.com/engagement_campaigns/
+tribunnews.com###article .widgettshop
+m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
+tribunnews.com###jualbeli2022
+beautynesia.id##.beaupicks
+katadata.co.id##.detail-body .section-affiliate
+gramedia.com##.entry-content > .grame-promo
+orami.co.id##.floating-shopping
+viva.co.id##.main-content + .section-affiliate
+linktown.co.id##.single-related-outer:has-text(/produk/i)
+favo.id##:matches-path(/blog) .product-card
+yoona.id##:matches-path(/blog) .yoo-check-our-products
+vidio.com##[class^="shopping-banner-module_"]
+! side effect
+m.vidio.com##.no-scrollbar:style(scrollbar-width: auto!important;)
+m.vidio.com##.overflow-hidden:style(overflow: auto!important;)
+m.vidio.com##body:style(overflow: auto!important; position: unset!important;)
+m.vidio.com##+js(rc, overflow-hidden|lg:overflow-hidden!, body, stay)
+! ---
+! Voucher Promo
+! ---
+bogordaily.net,mojok.co##.code-block > .voucher_at
+inews.id##.content-detail .voucherWrap
+sindonews.com##.content-row .voucher_at
+diadona.id##.detail-body .voucherWrap
+okezone.com##.details .voucherWrap
+! mobile
+okezone.com##.Post__Container .voucherWrap
+inews.id##.detail-artikel .voucherWrap
+sindonews.com##.detail-desc .voutstream
+!
 ! OTHERS
 ! ------------------------------------------------------------------------------
 ! Browser Back (history manipulation)
