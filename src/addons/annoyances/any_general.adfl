@@ -184,6 +184,7 @@ rumahparfum.com###newsletter_block_left
 halodoc.com##.article-page__article-email-wrapper
 kompasiana.com##.kolom-newslt
 hellosehat.com##[data-type="subscription_box_A"]
+octarine.co.id##+js(set-local-storage-item, octarine.newsletter.dismissed, 1)
 !
 officialmykonos.com##.subscription-popup
 thebodytale.com##[id*="newslatter"]
