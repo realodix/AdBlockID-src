@@ -207,6 +207,7 @@ detik.com##div[data-tf-loaded]
 tribunnews.com###article .widgettshop
 m.vidio.com###fluid-watch-livestreaming .fixed:has(div > button[aria-label*="close" i])
 tribunnews.com###jualbeli2022
+shopping.tribunnews.com##.affiliate__widget
 beautynesia.id##.beaupicks
 katadata.co.id##.detail-body .section-affiliate
 gramedia.com##.entry-content > .grame-promo
