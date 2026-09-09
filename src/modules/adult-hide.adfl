@@ -1456,9 +1456,11 @@
 ##img[title="naga588" i]
 ##img[title="slot gacor" i]
 !
+##[href*=".biz/register?ref="]:has(img)
 ~dominasidewa.*,~klikzeus10.*,~zeus.fun##[href*=".zeus.fun/"]
 ##[href*="//vn.adnetworks.top/go/"] > img
 ##[href*="/agen"][href*="safest.com/register/"]:has(img)
+##[href*="/id"][href*="safest.com/register/"]:has(img)
 ##[href*="/masuk"][href*="safest.com/register/"]:has(img)
 ~akseskaiko.cam##[href="https://akseskaiko.cam/login"]
 ~bergurukecina.fun##[href="https://bergurukecina.fun/cn7"]

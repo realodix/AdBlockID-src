@@ -136,15 +136,10 @@ komikstation.org##+js(acis, JSON.parse, break;case $.)
 !
 ! GROUPED BY OWNER / TYPE
 ! ------------------------------------------------------------------------------
-||blogger.googleusercontent.com/img/*.gif^$image,domain=idlixku.com
-idlixku.com##.asgdc
-idlixku.com##.module_home_ads
-idlixku.com##a[target*="blank"]:has(> img)
+167.71.137.254##.fixed.bottom-0
 ! Annoyance
-idlixku.com##html, body:style(overflow: visible !important;)
-idlixku.com##+js(nowoif)
-! Anti Adblock
-idlixku.com##+js(nostif, getComputedStyle)
+167.71.137.254##.fixed.overflow-hidden
+167.71.137.254##html, body:style(overflow: visible !important;)
 ! -----------------------------------------------
 ! https://d21.team/ | https://linktr.ee/lk21real
 ! https://www.facebook.com/groups/dunia21official/
