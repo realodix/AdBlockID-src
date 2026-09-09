@@ -137,6 +137,8 @@ komikstation.org##+js(acis, JSON.parse, break;case $.)
 ! GROUPED BY OWNER / TYPE
 ! ------------------------------------------------------------------------------
 167.71.137.254##.fixed.bottom-0
+idlixku.com##.nb-sponsor-pair
+idlixku.com##a[target*="blank"]:has(> img)
 ! Annoyance
 167.71.137.254##.fixed.overflow-hidden
 167.71.137.254##html, body:style(overflow: visible !important;)
