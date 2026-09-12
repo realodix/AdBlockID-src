@@ -666,6 +666,7 @@
 ##.ads728x90-thumb
 ##.ads750
 ##.ads970250
+##.ads970x250
 ##.ads970x90
 ##.adsContainerWeb
 ##.adsFrame
@@ -674,6 +675,8 @@
 ##.adsFrameSideRight
 ##.adsFrameSidebar
 ##.adsFramedet
+##.adsHorad
+##.adsReservebox
 ##.adsSpot
 ##.adsTopBox
 ##.ads_160x600
