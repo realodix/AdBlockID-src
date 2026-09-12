@@ -136,13 +136,9 @@ komikstation.org##+js(acis, JSON.parse, break;case $.)
 !
 ! GROUPED BY OWNER / TYPE
 ! ------------------------------------------------------------------------------
-167.71.137.254##.fixed.bottom-0
 idlixku.com##.nb-sponsor-pair
 idlix.co##[alt*="content-banner-"]
 idlixku.com##a[target*="blank"]:has(> img)
-! Annoyance
-167.71.137.254##.fixed.overflow-hidden
-167.71.137.254##html, body:style(overflow: visible !important;)
 ! -----------------------------------------------
 ! https://d21.team/ | https://linktr.ee/lk21real
 ! https://www.facebook.com/groups/dunia21official/
@@ -291,11 +287,11 @@ oploverz.*##+js(nowoif)
 ! oppadramaiklan@gmail.com / https://t.me/oppabiz / https://oppadrama.biz/
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a1aaff7bcb66dcc4ce4da742666afe8603fa0e33
 ! -----
-.gif|$image,domain=45.11.57.192|oppa.biz|oppadrama.biz
-45.11.57.192,oppa.biz,oppadrama.biz##.kln
-45.11.57.192,oppa.biz,oppadrama.biz##a[target*="blank"]:has(> img)
+.gif|$image,domain=oppa.biz|oppadrama.biz
+oppa.biz,oppadrama.biz##.kln
+oppa.biz,oppadrama.biz##a[target*="blank"]:has(> img)
 ! Annoyance
-45.11.57.192,oppa.biz,oppadrama.biz##+js(aopr, popup_custom_data)
+oppa.biz,oppadrama.biz##+js(aopr, popup_custom_data)
 ! -----------------------------------------------
 ! PusatFilm21 / https://pusatfilm21.info | https://pusatfilm21.pw/ | https://t.me/pusatfilm21official
 ! -----
