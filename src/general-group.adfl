@@ -157,8 +157,17 @@ jawapos.com###apbottom
 jawapos.com###aprb1
 jawapos.com###aprb2
 jawapos.com###apskyscraper
+jawapos.com##[data-ad-slot]
 jawapos.com##[data-jp-ad-slot-id]
 jawapos.com##[data-jp-ad-slot-wrapper]
+jawapos.com##div:matches-css(width: 160px):matches-css(min-height: 600px)
+jawapos.com##div:matches-css(width: 300px):matches-css(height: 600px)
+jawapos.com##div:matches-css(width: 300px):matches-css(min-height: 600px)
+jawapos.com##div:matches-css(width: 728px):matches-css(height: auto)
+jawapos.com##div:matches-css(width: 728px):matches-css(min-height: 90px)
+jawapos.com##div:matches-css(width: 970px):matches-css(height: 250px)
+jawapos.com##div:matches-css(width: 970px):matches-css(height: 90px)
+jawapos.com##div:matches-css(width: 970px):matches-css(min-height: 250px)
 ! ------------------------------------------------------------------------------
 ! Kompas Gramedia
 ! -----
