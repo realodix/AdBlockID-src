@@ -151,6 +151,15 @@ idntimes.com###floatingbanner:matches-css(position: fixed):remove()
 popmama.com###mainBannerPopup
 popmama.com##body:style(overflow: auto!important; position: unset!important;)
 ! ------------------------------------------------------------------------------
+! JawaPos - PT. Jawa Pos Grup Multimedia
+! -----
+jawapos.com###apbottom
+jawapos.com###aprb1
+jawapos.com###aprb2
+jawapos.com###apskyscraper
+jawapos.com##[data-jp-ad-slot-id]
+jawapos.com##[data-jp-ad-slot-wrapper]
+! ------------------------------------------------------------------------------
 ! Kompas Gramedia
 ! -----
 ||adsimg.kompas.com^
