@@ -137,6 +137,7 @@ komikstation.org##+js(acis, JSON.parse, break;case $.)
 ! GROUPED BY OWNER / TYPE
 ! ------------------------------------------------------------------------------
 idlixku.com##.nb-sponsor-pair
+idlix.co##.slotveil
 idlix.co##[alt*="content-banner-"]
 idlixku.com##a[target*="blank"]:has(> img)
 ! -----------------------------------------------
