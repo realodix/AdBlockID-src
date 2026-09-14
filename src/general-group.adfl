@@ -532,15 +532,15 @@ beritasatu.com##div[style^="font-family: helvetica, arial;font-size: 10px;"]
 ! ------------------------------------------------------------------------------
 ! DMG Network - PT. Dentum Mediatama Grup
 ! -----
-dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,infopublik.co,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com###sidebar-header img[style="max-width: 100%; height: auto;"]
-dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,infopublik.co,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.ad-middle
-infopublik.co,tangerangnews.co.id##.billboard
-dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,infopublik.co,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.newsfeed-dua-container
-dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,infopublik.co,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.newsfeed-satu-container
-dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,infopublik.co,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.newsfeed-tiga-container
-infopublik.co,tangerangnews.co.id##.parallax
+dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com###sidebar-header img[style="max-width: 100%; height: auto;"]
+dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.ad-middle
+tangerangnews.co.id##.billboard
+dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.newsfeed-dua-container
+dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.newsfeed-satu-container
+dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##.newsfeed-tiga-container
+tangerangnews.co.id##.parallax
 tangerangnews.co.id##.parallxads
-dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,infopublik.co,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##[id^="sidebar-"] .before-widget:has(img[style="max-width: 100%; height: auto;"])
+dentumnews.com,globalbanten.com,hariansinarpagi.com,info7.id,jabarinside.com,poskotanews.co.id,tangerangnews.co.id,tangerangtengah.com##[id^="sidebar-"] .before-widget:has(img[style="max-width: 100%; height: auto;"])
 ! ------------------------------------------------------------------------------
 ! droidlime.com
 ! -----

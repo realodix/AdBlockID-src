@@ -58,7 +58,7 @@ filem21.org##.mobile-banner
 cinemakeren6.id##.slot-machine-wrapper
 mangaindo.*,sattorrent.com##.widget:has(img[style="max-width: 100%; height: auto;"])
 animeplus.id##[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
-ikiru.wtf,mangatale.co,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
+ikiru.wtf,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
 sokuja.uk##a[rel*="sponsored"]:has(> img)
 anibatch.moe,animekompi.sbs,animexin.dev,anoboy.xyz,bioskop21.*,cinemakeren6.id,filem21.org,gudangmovies21.chat,idxmovie21.com,indositusxxi.id,kawanfilm21.co,kazefuri.cloud,komikaja.com,komikdewasa.art,komiksin.net,komikstation.org,komiku.asia,komikzoid.id,kopajasubs.info,kuramanime.*,kusonime.com,layardrama.*,layardrama21.*,mangasusuku.com,melongmovies.com,movieku.*,nimegami.id,nomat.store,nontoncinema.org,omanga.net,otakudesu.blog,otakudesu.id,sobatmov.xyz,winbu.tv##a[target*="blank"]:has(> img)
