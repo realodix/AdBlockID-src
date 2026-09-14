@@ -7,7 +7,6 @@ gridhype.id
 hentai.web.id
 ibarat.id
 idpost.co.id
-indonesiaparlemen.com
 infopublik.co
 intersisinews.com
 lk21static.buzz
@@ -16,4 +15,3 @@ medikita.com
 patroli-indonesia.com
 popculture.id
 suaraindependentnews.id
-vosmedia.co.id
