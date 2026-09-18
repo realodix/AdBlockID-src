@@ -11,7 +11,6 @@
 -1240x200-$image,domain=avinews.com
 -720-x-90-$image,domain=bukamata.id
 -780-x-90-$image,domain=bogordaily.net
--970x250-$image,domain=lampiran.id|popculture.id
 -970x90px-$image,domain=dara.co.id
 -970x90px.$image,domain=gadgetdiva.id
 /w640-h85/*$image,domain=kodim1307.id
@@ -179,7 +178,6 @@ _728x90px.$image,domain=bogordaily.net
 ||cemerlangnews.com^*/banner/
 ||centerklik.com^*/banner-
 ||cipulusnews.com^*/ads-$image
-||ciremainews.com^*/banner-$image
 ||citakaltara.com/media/banner-
 ||classyfm.co.id^*/ads/
 ||click4.id^*-iklan-$image
@@ -607,7 +605,6 @@ _728x90px.$image,domain=bogordaily.net
 ||pojok6.id^*/iklan-$image
 ||pojokbatam.id^*/banner-
 ||pojokoto.com^*/benner-
-||popculture.id^*-banner-$image
 ||populisnews.com/assets/banner/
 ||porosbali.com/uploads/banner/
 ||portalindonesianews.com^*/adsbanners/
