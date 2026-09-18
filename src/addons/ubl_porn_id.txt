@@ -37,11 +37,8 @@ title =~ /\bngewe\b/i
 *://*.bahanbagus.com/*
 *://*.becekku.com/*
 *://*.binorsemok.net/*
-*://*.birahijab.click/*
 *://*.bkpv.online/*
 *://*.bluevid.cam/*
-*://*.bokebbind.shop/*
-*://*.bokebviral.world/*
 *://*.cerita21plus.com/*
 *://*.cerita69.blog/*
 *://*.ceritaajib.wordpress.com/*
@@ -146,7 +143,6 @@ title =~ /\bngewe\b/i
 *://*.novelbasah.com/*
 *://*.okepindo.com/*
 *://*.omek.co.uk/*
-*://*.omekin.casa/*
 *://*.payudaragede.blogspot.com/*
 *://*.pemersatu.fun/*
 *://*.pemersatu.org/*

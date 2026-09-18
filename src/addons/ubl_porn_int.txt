@@ -6,12 +6,11 @@
 /[\w]?[bcdfghjklmnpqrstvwxyz\-\d]jav\.(com?|net|org|ai|at|best|bet|biz|cc|cfd|ch|day|dev|eu|fit|global|hot|icu|info|lol|life|love|me|mom|one|pics|pro|red|ru|sh|site|sx|to|today|tube|tv|uno|us|vip|watch|website|xyz)/
 /jav[bcdfghjklmnpqrstvwxyz\-\d][\w-]+\.(com?|net|org|ai|at|best|bet|biz|cccfd||ch|day|dev|eu|fit|global|hot|icu|info|lol|life|love|me|mom|one|pics|pro|red|ru|sh|site|sx|to|today|tube|tv|uno|us|vip|watch|website|xyz)/
 title *= "free porn" i
+title *= "hentai" i
 title =~ /porn (tube|video)/i
 title =~ /sex (cam|movie)/i
 #
-*://*.141jav.com/*
 *://*.18j.tv/*
-*://*.18jav.tv/*
 *://*.4tube.casa/*
 *://*.4tube.com/*
 *://*.69dir.com/*
@@ -39,7 +38,6 @@ title =~ /sex (cam|movie)/i
 *://*.en-youjizz.com/*
 *://*.eng-tnaflix.com/*
 *://*.eng-youjizz.com/*
-*://*.eporner.com/*
 *://*.erome.com/*
 *://*.fakehub.com/*
 *://*.fapcat.com/*
@@ -57,6 +55,7 @@ title =~ /sex (cam|movie)/i
 *://*.hanimetv.top/*
 *://*.hdblackass.com/*
 *://*.henvids.com/*
+*://*.heytai.com/*
 *://*.heyzo.com/*
 *://*.homemadegalore.com/*
 *://*.hstream.moe/*
@@ -66,7 +65,6 @@ title =~ /sex (cam|movie)/i
 *://*.japteenx.com/*
 *://*.japxtube.com/*
 *://*.javahihi.net/*
-*://*.javporn.com.es/*
 *://*.joujizz.com/*
 *://*.kantotero.net/*
 *://*.kinkytom.com/*
@@ -167,12 +165,9 @@ title =~ /sex (cam|movie)/i
 *://avmiss.us/*
 *://bangbros.com/*
 *://beegsex.it.com/*
-*://befuck.net/*
-*://bigfuck.tv/*
 *://boybuso.net/*
 *://celebdeepfakes.net/*
 *://celebrityfakes4u.com/*
-*://celebritysex.co/*
 *://chaturbate.com/*
 *://creampiesgif.com/*
 *://cum4k.com/*
@@ -274,7 +269,6 @@ title =~ /sex (cam|movie)/i
 *://sarapbabe.com/*
 *://sexcelebrity.club/*
 *://shuheikishimoto.jp/*
-*://spankbang.dev/*
 *://stepmomson.com/*
 *://sxyprn.net/*
 *://teenxy.com/*
@@ -309,7 +303,6 @@ title =~ /sex (cam|movie)/i
 *://xgroovy.com/*
 *://xhspot.com/*
 *://xmovies.com/*
-*://xnxx3.net/*
 *://xnxxstepmom.com/*
 *://xpinayvideos.com/*
 *://xtime.video/*
