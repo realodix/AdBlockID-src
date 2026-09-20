@@ -6,12 +6,12 @@ fixer:
   excludes:
     - modules/_reference.txt
   flags:
-    fmode: true
+    all: true
 
 
 linter:
   rules:
-    fmode: true
+    all: true
   paths:
     - src
   excludes:
