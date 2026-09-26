@@ -26,6 +26,7 @@
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||animeku.org/public/vid/$media,redirect=noopmp4-1s
 ||asia9sports.com/wp-content/uploads/$3p,media,redirect=noopmp4-1s
+||assetcsn.site/GIF/$media,redirect=noopmp4-1s
 ||play.xxiku.com/wp-content/uploads/$media,redirect=noopmp4-1s
 ||sngine.com/content/uploads/videos/$media,redirect=noopmp4-1s
 ||sobatmov.xyz/wp-content/uploads/$media,redirect=noopmp4-1s
@@ -244,7 +245,7 @@ mirrorinkomik.my.id,mirrorkomik.click,mirrorkomik.info##img[alt*="banner" i]
 ! -----------------------------------------------
 ||assetcsn.site/banner-$3p
 ||assetcsn.site/banner/$3p
-||assetcsn.site/GIF/$3p
+||assetcsn.site/GIF/$3p,image
 ||assetcsn.site/image/*.gif$3p
 ||assetcsn.site/promotion/$3p
 asiasizzle.com,csnbiru.blog,csnplayhd.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space###popup-banner-overlay
