@@ -65,6 +65,7 @@ title =~ /sex (cam|movie)/i
 *://*.japteenx.com/*
 *://*.japxtube.com/*
 *://*.javahihi.net/*
+*://*.jizzbunker.com/*
 *://*.joujizz.com/*
 *://*.kantotero.net/*
 *://*.kinkytom.com/*
@@ -90,6 +91,7 @@ title =~ /sex (cam|movie)/i
 *://*.puretaboo.com/*
 *://*.pussyboy.net/*
 *://*.pussyspace.com/*
+*://*.pussyspace.net/*
 *://*.qorno.com/*
 *://*.redgifs.com/*
 *://*.redtube.com/*
@@ -97,6 +99,7 @@ title =~ /sex (cam|movie)/i
 *://*.shemale.army/*
 *://*.shemaleflirt.com/*
 *://*.shemalez.com/*
+*://*.spankbanglive.com/*
 *://*.suckhoevang.org/*
 *://*.sxyprn.com/*
 *://*.tabooheat.com/*

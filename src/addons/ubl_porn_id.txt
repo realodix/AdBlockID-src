@@ -53,6 +53,7 @@ title =~ /\bngewe\b/i
 *://*.colflix.com/*
 *://*.crot.media/*
 *://*.crothot.com/*
+*://*.crotmedia.com/*
 *://*.crotpedia.net/*
 *://*.csnbiru.blog/*
 *://*.csnplayhd.com/*
