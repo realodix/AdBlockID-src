@@ -483,6 +483,7 @@
 ###switch-ad
 ###tisisads
 ###top_ad_full
+###top_banner_ad
 ###topads-left
 ###topads-right
 ###twoColAds
@@ -1548,6 +1549,7 @@
 ##.top-ads-widget
 ##.top-content-ads
 ##.top-header-ads
+##.top_banner_ad
 ##.topads-kanan
 ##.topadsense
 ##.topline-ads
