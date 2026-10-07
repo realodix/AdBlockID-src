@@ -3,7 +3,6 @@
 !# --------------------------------------------------------
 !#
 -1000-x-300-$image,domain=kabarjawa.com
--1024x154-$image,domain=lensanusantara.id
 -1024x174.$image,domain=beritakitanews.com
 -1024x328.$image,domain=persepsi.co.id
 -1024x342.$image,domain=persepsi.co.id
@@ -17,7 +16,7 @@
 _728x90px-$image,domain=autoride.co.id
 _728x90px.$image,domain=bogordaily.net
 !
--banner-$image,domain=aksaradata.id|centralbatam.co.id|lensanusantara.id|manadoline.com|suarabatam.com
+-banner-$image,domain=aksaradata.id|centralbatam.co.id|manadoline.com|suarabatam.com
 -iklan.$image,domain=dimensinews.co.id
 /ads/*$image,domain=korankaltim.com|pantau.com|pusaranmedia.com
 /banner-$image,domain=kaltimnews.co|manadoline.com|mediaasuransinews.co.id|metrokaltara.com|presmedia.id|rakyatpos.id|revolusinews.com|suarabatam.com|sumateranews.co.id|sumselindependen.com|theiconomics.com
@@ -736,7 +735,6 @@ _728x90px.$image,domain=bogordaily.net
 ||suaraindonesianews.com^*/iklan-$image
 ||suaralira.com^*/banner/
 ||suaranusantara.co^*/iklan-
-||suarapelalawan.com^*/banner/
 ||suarapemredkalbar.com^*/banner/
 ||suaraserumpun.com^*/banner-$image
 ||suarasiber.com^*/banner-$image

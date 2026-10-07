@@ -176,9 +176,9 @@ skeeterbyte.com##:matches-path(/links/?url=) body > .container-iframe
 ! ANICHIN
 ! -----------------------------------------------
 ||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
-anichin.blog,anichin.cafe,anichin.co,anichin.watch###floatcenter
-anichin.cafe,anichin.co###overplay
-anichin.blog,anichin.cafe,anichin.co,anichin.moe,anichin.ro,anichin.watch##.kln
+anichin.blog,anichin.co,anichin.watch###floatcenter
+anichin.co###overplay
+anichin.blog,anichin.co,anichin.moe,anichin.ro,anichin.watch##.kln
 anichin.watch##a:has(img[src$=".gif"])
 anichin.co##a[target*="blank"]:has(> img)
 ! -----------------------------------------------

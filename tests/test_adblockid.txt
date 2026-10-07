@@ -31,7 +31,6 @@ adainfo.id
 adakah.id
 adakata.id
 adatah.com
-adawarta.com
 adhyaksadigital.com
 adhyaksafoto.com
 adianhusaini.id
@@ -432,7 +431,6 @@ beritametro.id
 beritamimika.com
 beritaminang.com
 beritamorut.com
-beritamorut.id
 beritamujizat.com
 beritamusi.co.id
 beritanasional.id
@@ -449,7 +447,6 @@ beritapalu.id
 beritapapua.co
 beritapelitakarawang.com
 beritaplus.id
-beritapopuler.co.id
 beritaprioritas.com
 beritapublik.co.id
 beritarafflesia.com
@@ -492,7 +489,6 @@ betara.id
 betawipos.com
 betiklampung.com
 betuah.com
-bewara.co.id
 bharata.co.id
 bharindonesia.com
 bhayangkaraglobalnews.com
@@ -522,7 +518,6 @@ bingkairiau.com
 bingkaiwarta.co.id
 bintangnews.com
 bintangsulut.com
-bintara.id
 bisablog.com
 biskom.id
 biskom.web.id
@@ -695,12 +690,10 @@ ceposonline.com
 cerah.id
 cerdika.com
 ceritadepok.com
-ceritanews.id
 ceritatoday.com
 cermat.co.id
 channel8news.id
 channel9.id
-channelbali.com
 channeljatim.com
 channelntb.com
 channelsulawesi.id
@@ -745,7 +738,6 @@ dafunda.com
 dagangberita.com
 dailyindonesia.id
 dailyklik.id
-dailynotif.com
 dailypost.id
 damarinfo.com
 dapurpacu.id
@@ -797,7 +789,6 @@ detakkeadilan.com
 detaknews.co.id
 detaknews.id
 detaktangsel.com
-detakterkini.com
 deteksimalut-news.com
 deteksipos.com
 detektifswasta.xyz
@@ -1650,7 +1641,6 @@ jabarstyle.com
 jabartranding.com
 jabodetabek.id
 jadiprofesional.com
-jafarbuaisme.com
 jagadtani.com
 jagatpapua.com
 jagoanhosting.app
@@ -1670,7 +1660,6 @@ jakartanotebook.com
 jakartaraya.co.id
 jakartaterkini.id
 jakrev.com
-jaktimnews.com
 jalurdua.com
 jalurinformasi.com
 jalurinfosulbar.id
@@ -1984,7 +1973,6 @@ kantor-berita.com
 kaorinusantara.or.id
 kapabar.com
 kapanlagi.com
-kapansaja.id
 kapefm.com
 kapol.id
 kapsultekno.com
@@ -2437,7 +2425,6 @@ livesports088.com
 lokawarta.com
 loker.glints.com
 lokerjakarta.id
-lombokboss.com
 lombokexpress.id
 lombokfokus.com
 lombokinsider.com
@@ -2745,7 +2732,6 @@ minangkabaunews.com
 minangsatu.com
 minasanews.com
 minergi.com
-mininginsider.id
 mistar.id
 mistertekno.com
 mitanews.co.id
@@ -2858,7 +2844,6 @@ news24.co.id
 newsanalis.com
 newsbandaaceh.com
 newsborneo.id
-newsceoaceh.com
 newscorner.id
 newsfaktahukumdanham.co.id
 newshanter.com
@@ -3020,7 +3005,6 @@ panrita.news
 pantau.com
 pantau24.com
 pantaulampung.com
-pantauproyek.id
 pantauriau.com
 pantura7.com
 panturanetwork.com
@@ -3252,7 +3236,6 @@ poskaltim.id
 poskomalut.com
 poskota.co.id
 poskotakaltimnews.com
-poskotanews.co.id
 poskotasumatera.com
 poskotasumut.id
 posmerdeka.com
@@ -3461,7 +3444,6 @@ rejogja.co.id
 rekamjejaknews.com
 relasi.news
 relasipublik.com
-relevania.com
 relung.id
 rembang24jam.com
 reportase9.id
@@ -3892,7 +3874,6 @@ suaranusra.com
 suarapancasila.id
 suarapantura.com
 suarapapua.com
-suarapelalawan.com
 suarapembaruan.news
 suarapemerintah.id
 suarapemredkalbar.com
@@ -3913,7 +3894,6 @@ suarasultra.com
 suarasumselnews.co.id
 suarasurabaya.net
 suaratimurnews.com
-suaratts.com
 suarautama.id
 suarautara.com
 suarhijrah.com
@@ -3960,7 +3940,6 @@ sulutnews.com
 sulutnewstv.com
 sulutzone.com
 sumateraekspres.com
-sumaterainsider.com
 sumateraline.com
 sumateranews.co.id
 sumaterapost.co
@@ -4288,7 +4267,6 @@ tvonenews.com
 tvpapua.com
 tvrijakartanews.com
 tvrinews.com
-ufuknews.com
 ujaran.co.id
 ujungjari.com
 ukmnusantara.com
@@ -4425,7 +4403,6 @@ wartaviral.id
 waspada.co.id
 waspada.id
 waspira.com
-watyutink.com
 wawainews.id
 wawasanriau.com
 websiteriau.co.id
@@ -4448,7 +4425,6 @@ xposetv.live
 yangcanggih.com
 yasir-252.net
 yasir252.com
-yogyaupdate.com
 yokalbar.com
 yourjavascript.com
 yukngiklan.com
