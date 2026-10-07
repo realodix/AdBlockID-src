@@ -1,4 +1,5 @@
 cache_dir: .tmp
+
 fixer:
   paths:
     - src
@@ -37,13 +38,11 @@ builder:
       includes:
         - src/general-block.adfl
         - src/general-hide.adfl
-        - src/general-group.adfl
         - src/specific-block.adfl
         - src/specific-hide.adfl
         - src/specific-hide_2.adfl
-        - src/anti-adblock.adfl
-        - src/whitelist.adfl
         - src/extended.adfl
+        - src/general-group.adfl
         - src/modules/fandom.adfl
         - src/modules/popup.adfl
         - src/modules/safelink.adfl
@@ -51,6 +50,8 @@ builder:
         - src/modules/adult-block.adfl
         - src/modules/adult-hide.adfl
         - src/modules/neighbor-country.adfl
+        - src/anti-adblock.adfl
+        - src/whitelist.adfl
     - filename: adblockid_plus.adfl.txt
       header: |
         [Adblock Plus 2.0]
