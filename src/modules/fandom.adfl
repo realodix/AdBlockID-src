@@ -63,6 +63,7 @@ gudangmovies21.cv##.ptbanner
 cinemakeren6.id##.slot-machine-wrapper
 gudangmovies21.cv##.top-banner
 mangaindo.*,sattorrent.com##.widget:has(img[style="max-width: 100%; height: auto;"])
+voratoon.com##[class*="ad-slot_"]
 animeplus.id##[style^="width: 100%;text-align: center;display: scroll;position:fixed;"]
 ikiru.wtf,nomat.shop,tooncubus.top##a:has(img[src$=".gif"])
 sokuja.uk##a[rel*="nofollow"]:has(> img)
