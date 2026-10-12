@@ -365,6 +365,7 @@ cosmicscans.to##html, body:style(overflow: auto!important; position: unset!impor
 /ads/*$to=gmbr.pro
 ||ads.gmbr.pro^
 manhwaland.*###f-widget.fixed
+manhwaindo.*##.klan
 manhwadesu.*,manhwaindo.*,manhwaland.*##.kln
 manhwadesu.*,manhwaindo.*,manhwaland.*##a[target*="blank"]
 manhwadesu.*,manhwaindo.*,manhwaland.*##div[id^="teaser"]
