@@ -521,6 +521,7 @@
 ##.ad-pos-bawah-detail-berita
 ##.ad-pos-tengah-detail-berita
 ##.ad-rail-box600
+##.ad-shell
 ##.ad-slot-wrap
 ##.ad-type2_
 ##.ad-wrapper-fixed
@@ -1611,6 +1612,7 @@
 ##[class^="AdsTop_ads"]
 ##[class^="utp_ads_"]
 ##[data-customize-partial-id*="iklan" i]
+##[data-pp-ad-slot]
 ##[href*="/iklan-ads/"]
 ##[href^="https://bit.ly/iklan"] > img
 ##[id^="adsic728x90"]
