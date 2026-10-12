@@ -167,6 +167,7 @@ jepangbasah.com,jepangkawai.com,jepangmaniak.com,jepangmantap.com##a[href*=".com
 pemersatufun.com###advertisement
 pemersatufun.site###deskadmiddle
 pemersatu.top,pemersatufun.site##.ad
+pemersatufun.com##.ad-native-card
 pemersatu.org,pemersatu.store,pemersatu.top,pemersatudotfun.com,pemersatufun.com,pemersatufun.site##[role="advertisement"]
 ! Anti-Adblock
 ||jads.co/js/jads.js$redirect-rule=noop.js,domain=pemersatu.top|pemersatudotfun.com|pemersatufun.com|pemersatufun.site
