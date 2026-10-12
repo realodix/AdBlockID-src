@@ -1452,6 +1452,11 @@
 ##.props-ad-slot-footer-sticky
 ##.props-ad-slot-footer-sticky__ad-content
 ##.props-ad-slot-footer-sticky__close-button
+##.pvs-ad
+##.pvs-ad--billboard
+##.pvs-ad--header-inline
+##.pvs-ad--sidebar
+##.pvs-ad--single-top
 ##.r-mv-iklan
 ##.ray-ads-1-container
 ##.ray-ads-billboard
