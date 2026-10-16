@@ -492,6 +492,7 @@ betuah.com
 bharata.co.id
 bharindonesia.com
 bhayangkaraglobalnews.com
+bicarabaik.id
 bicaraberita.com
 bicaranetwork.com
 bicaranews.com
@@ -3278,7 +3279,6 @@ proinbar.com
 proindonesia.id
 projateng.com
 prokabar.com
-prokal.co
 prokaltim.com
 prokepri.com
 prokhatulistiwa.com
