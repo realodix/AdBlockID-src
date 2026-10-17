@@ -648,9 +648,11 @@
 ##.ads-small-banner
 ##.ads-sqre1
 ##.ads-sqre2
+##.ads-sticky
 ##.ads-sticky-atas
 ##.ads-sticky-bawah
 ##.ads-sticky-bottom
+##.ads-sticky-box
 ##.ads-sticky-kanan
 ##.ads-sticky-kiri
 ##.ads-sticky-left
@@ -1543,6 +1545,7 @@
 ##.sticky-ad-close-button-atas
 ##.sticky-ad-close-button-bawah
 ##.sticky-adku
+##.sticky-ads
 ##.sticky-ads-bottom
 ##.sticky-ads-bottom-desktop
 ##.sticky-ads-left
