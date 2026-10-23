@@ -1,5 +1,6 @@
 /([\w\-]*)?(bokep|bokeb|bugil|dewasa|hentai|memek|mesum|montok|porno|sange|seks)([\w-]*)?\..+/
 title *= "bokep" i
+title *= "film semi" i
 title *= "ngentot" i
 title *= "sepong" i
 title =~ /(download|nonton|tonton) jav/i
@@ -13,6 +14,7 @@ title =~ /\bngewe\b/i
 *://*.abgcrot.tokyo/*
 *://*.adstub.net/*
 *://*.areajav.com/*
+*://*.arenajav.com/*
 *://*.asiasizzle.com/*
 *://*.asupan.media/*
 *://*.asupan.tokyo/*
@@ -124,6 +126,7 @@ title =~ /\bngewe\b/i
 *://*.lendirpedia.icu/*
 *://*.lendirqu.cam/*
 *://*.lingviral.ink/*
+*://*.lokeruntukku.com/*
 *://*.makingherehome.com/*
 *://*.malayporntube.net/*
 *://*.mangaindo.biz/*
@@ -149,6 +152,7 @@ title =~ /\bngewe\b/i
 *://*.pemersatu.org/*
 *://*.pemersatudotfun.com/*
 *://*.pemersatufun.com/*
+*://*.pojokan18.online/*
 *://*.pojokan69.com/*
 *://*.pukihot.surf/*
 *://*.pusatporn18.com/*
