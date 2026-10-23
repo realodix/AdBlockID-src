@@ -2143,6 +2143,7 @@ koma.id
 komennews.com
 komentar.co
 komentar.id
+komparasi.id
 komparasinews.id
 komparatif.id
 kompas.com
