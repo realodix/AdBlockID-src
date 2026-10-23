@@ -3,18 +3,18 @@ bioskop21.*__https://bioskop21.cafe/|https://github.com/realodix/AdBlockID/commi
 bokepjilbab.*__https://bokepjilbab.cc/
 dewaporn.*__https://dewaporn.club/
 javsubindo.*__https://javsubindo.cfd/|https://javsubindo.com/|https://javsubindo.sx/|https://javsubindo.site/
+kimcilonly.*__https://tv.kimcilonly.de/
 lapaktv88.*__https://sitemaps.lapaktv88.lol/
 mangaindo.*__https://mangaindo.biz/
 movieku.*__https://movieku.blog/|https://movieku.website/
 nokephub.*__https://nokephub.com/|https://nokephub.id/|https://nokephub.org/
 nontonanimeid.*__nontonanimeid.autos|https://nontonanimeid.cyou
+nontonbokep.*__https://nontonbokep.tokyo/
 oploverz.*__https://oploverz.my/|https://oploverz.biz.id
 ruangbokep.*__https://ruangbokep.ws/
 samehadaku.*__https://samehadaku.email/
 shinigami.*__https://shinigami.ws/|https://shinigami.cx/
 shinigamitoon.*__https://shinigamitoon.xyz/|https://shinigamitoon.app/|https://shinigamitoon.id/
-kimcilonly.*__https://tv.kimcilonly.de/
-nontonbokep.*__https://nontonbokep.tokyo/
 
 
 ##.widget:has(figure > img)
