@@ -9,6 +9,7 @@
 ! ------------------------------------------------------------------------------
 ||88cdn.cloud/img/mvads/$3p
 ||animeinweb.com/api/proxy/data/ads/show$xhr
+||animekompi.sbs/api/ads/
 ||cdnfgo.xyz/wp-content/uploads/*.gif|$domain=komiktap.info
 ||gambarklikzeus.com/pic/*.gif
 ||img.gm21.download/linkalternatif
@@ -118,6 +119,7 @@ filem21.org###overlay
 animekhor.org,animekompi.sbs,animexin.dev,hidoristream.online,isekaisubs.web.id,kazefuri.cloud,otakudesu.blog###overplay
 komikpoi.com###wp-iklan-overlay
 animekompi.sbs##.ays-pb-modals
+animekompi.sbs##.float-ad-overlay
 kuramanime.*##.player-overplay
 jeniusplay.com##.pppppup
 godriveplayer.net,jeniusplay.com##.pppx
