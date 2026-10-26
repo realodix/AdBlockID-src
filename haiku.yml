@@ -8,6 +8,8 @@ fixer:
     - modules/_reference.txt
   flags:
     all: true
+    attr_to_basic_selector: false
+    option_format: false
 
 
 linter:
