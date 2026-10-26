@@ -81,6 +81,7 @@ komiknesia.asia##img[alt*="adv" i]
 ||outbrain.com/outbrain.js$redirect-rule=noop.js,domain=hentai.web.id
 ||quantserve.com/quant.js$redirect-rule=noop.js,domain=hentai.web.id
 @@-ads-banner.$script,domain=kusonime.com
+hentaisubindo.net##+js(acs, isBlocked)
 kopajasubs.info##+js(aopr, adAdbLoad)
 komiku.org,sektedoujin.cc##+js(nobab)
 ! ---
