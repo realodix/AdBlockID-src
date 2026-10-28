@@ -585,6 +585,8 @@
 ##.ads-billboard
 ##.ads-bock-1
 ##.ads-bottom-fixed
+##.ads-bottom-sticky-desktop
+##.ads-bottom-sticky-mobile
 ##.ads-bottom-wrapper
 ##.ads-chapter-0
 ##.ads-fixed
@@ -648,6 +650,7 @@
 ##.ads-small-banner
 ##.ads-sqre1
 ##.ads-sqre2
+##.ads-square-1
 ##.ads-sticky
 ##.ads-sticky-atas
 ##.ads-sticky-bawah
@@ -985,6 +988,7 @@
 ##.companion-ad-container
 ##.container-ads-topslider
 ##.container-skin-ads
+##.content-ads-right
 ##.cp-advertisement
 ##.cryptronick_banner-widget
 ##.davwheat-ad
