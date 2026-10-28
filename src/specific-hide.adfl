@@ -633,6 +633,7 @@ infogarut.id##.bg-go-white.overflow-hidden:has(> span:has-text(/adv/i))
 goinsan.com##.bottomBox
 borobudurnews.com##.bs-sksitem
 persis.or.id##.carousel:has(img[src*="/iklan/"])
+cyrustimes.com##.code-block:has(> [class*="smartslider"])
 indonesiadaily.net##.code-block:has(> p > a > img)
 wartapos.id##.container-wrapper > img
 madrasahdigital.co##.content-inner > .madra-penerbitan-buku
