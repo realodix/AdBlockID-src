@@ -1937,7 +1937,6 @@ kaldera.id
 kalderanews.com
 kalesang.id
 kalimantan-news.com
-kalimantana.id
 kalimantanlive.com
 kalimantanpost.com
 kalimantanraya.com
