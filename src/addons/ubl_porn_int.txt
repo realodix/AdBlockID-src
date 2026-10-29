@@ -134,6 +134,7 @@ title =~ /sex (cam|movie|video)/i
 *://*.redtube.com/*
 *://*.sakurajav.com/*
 *://*.sex-indian.com/*
+*://*.sex-leaks.com/*
 *://*.sex-simulator.net/*
 *://*.shemale.army/*
 *://*.shemaleflirt.com/*
