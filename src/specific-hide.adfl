@@ -742,6 +742,7 @@ jagatpapua.com##.stream-item-above-post
 jagatpapua.com##.stream-item-after-post-title
 qoo10.co.id##.stream-item-below-header:has(> div:matches-css(min-height: 320px))
 detakbanten.com##.sunfw_section_content-top
+sumaterapost.co##.td-all-devices > a[href^="https://sumaterapost.co/category/"]:has(> img)
 tmcblog.com##.td-container a[target="_blank"] div[style*="position: fixed;"]
 stabilitas.id##.theiaStickySidebar
 blog.arizman.com##.toko-kanan
