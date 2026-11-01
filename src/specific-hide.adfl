@@ -665,6 +665,8 @@ drphone.id,halilintarnews.id,indimanado.com,jambinews.id,komentar.co,orasirakyat
 jejakinformasi.id,peoplenews.id##.fixed-rside
 narasi.tv##.fixed.bottom-0
 m.kaskus.co.id##.fixed.bottom-0:has(> [id^="div-gpt-ad-"])
+tvrinews.com##.fixed.left-0
+tvrinews.com##.fixed.right-0
 monitorindonesia.com##.fixed.slide-in-from-bottom
 aktualtangerang.com,hatipena.com##.fl-module[itemtype="https://schema.org/ImageObject"] .fl-photo-content
 dutanusantaramerdeka.com##.flexslider
