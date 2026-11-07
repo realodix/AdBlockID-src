@@ -1,6 +1,6 @@
 cache_dir: .tmp
 
-fixer:
+formatter:
   paths:
     - src
     - tests
@@ -9,7 +9,7 @@ fixer:
   flags:
     all: true
     attr_to_basic_selector: false
-    option_format: false
+    option_syntax: false
 
 
 linter:
@@ -25,7 +25,7 @@ linter:
     - addons/ubl_porn_int.txt
 
 
-builder:
+bundler:
   output_dir: dist
   filter_lists:
     - filename: adblockid.adfl.txt
