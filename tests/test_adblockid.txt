@@ -1684,6 +1684,7 @@ jalurinfosulbar.id
 jalurnews.com
 jambidaily.com
 jambidalamberita.id
+jambiline.com
 jambinet.id
 jambinews.id
 jambioke.com
