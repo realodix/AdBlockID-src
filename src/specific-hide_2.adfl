@@ -38,6 +38,7 @@ tintainformasi.com##.module-widget > .widget:has(> script)
 simakberita.com##.mvp-side-widget .wp-block-image > figure > img
 jurnalkaltara.com,kitasulsel.com##.mvp-side-widget .wp-block-image > img
 oduu.cloud##.oduu-widget-content > .text-center:has(> img)
+beritajurnalis.net##.oduu-widget-content > div > img
 sumbardaily.com##.sidebar-entry .wp-block-image
 bestieindonesianews.id##.sidebar-widget a[href="#"]:has(img)
 purworejonews.com##.site-sidebar .widget_smartslider3
