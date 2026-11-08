@@ -6,7 +6,8 @@
         "sort-packages": true
     },
     "scripts": {
-        "fix": "./vendor/bin/haiku fix",
-        "build": "./vendor/bin/haiku build"
+        "build": "./vendor/bin/haiku build",
+        "format": "./vendor/bin/haiku format",
+        "lint": "./vendor/bin/haiku lint"
     }
 }
