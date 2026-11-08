@@ -620,7 +620,7 @@ jurnalnusa.com###sticky-bottom2
 21cineplex.com###top-bar
 faktualnews.co###wideskyscraper
 inilah.com##.MuiStack-root:has(> span:has-text(/adv/i))
-otodiva.id,surabayaonline.co##.a-wrap
+kampiunnews.com,otodiva.id,surabayaonline.co##.a-wrap
 tribunrakyat.com##.affiliatebox
 orami.co.id##.article-post #post-bottom:has(> p.text-center:has-text(/adv/i))
 orami.co.id##.article-post #post-section2:has(> p.text-center:has-text(/adv/i))
@@ -904,6 +904,7 @@ beritakaltim.co##img[width="1100"][height="210"]
 jatimplus.id,terminaltekno.id,urbandigital.id,websiteriau.co.id##img[width="1125"][height="250"]
 lamanesia.com##img[width="1140"][height="190"]
 agresifnews.co##img[width="1140"][height="218"]
+kampiunnews.com##img[width="1150"][height="600"]
 bidikcamera.com##img[width="1152"][height="189"]
 jatengnow.com##img[width="1170"][height="125"]
 radarnusantara.com##img[width="1170"][height="233"]
