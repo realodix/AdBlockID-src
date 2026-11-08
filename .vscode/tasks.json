@@ -10,9 +10,9 @@
             "problemMatcher": []
         },
         {
-            "label": "Fix",
+            "label": "Format",
             "type": "shell",
-            "command": "./vendor/bin/haiku fix",
+            "command": "./vendor/bin/haiku format",
             "problemMatcher": []
         },
         {
@@ -22,8 +22,8 @@
             "problemMatcher": []
         },
         {
-            "label": "Fix & Build",
-            "dependsOn": ["Fix", "Build"],
+            "label": "Format & Build",
+            "dependsOn": ["Format", "Build"],
             "dependsOrder": "sequence",
             "problemMatcher": [],
             "group": {
