@@ -1596,6 +1596,8 @@
 ##.ts-ad-banner
 ##.ts-ad-content
 ##.ts-ad-link-wrapper
+##.ts-ad-slot
+##.ts-managed-ad
 ##.tutupAds
 ##.twoColAds
 ##.type-iklan_beranda_1
