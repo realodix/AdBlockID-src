@@ -1209,6 +1209,8 @@
 ##.iklan-pop-kanan
 ##.iklan-pop-kiri
 ##.iklan-related-post
+##.iklan-responsive-banner
+##.iklan-responsive-header
 ##.iklan-retangle
 ##.iklan-sebelum-artikel
 ##.iklan-setelah-artikel
@@ -1219,6 +1221,7 @@
 ##.iklan-skin-left
 ##.iklan-skin-right
 ##.iklan-slider
+##.iklan-slot-double
 ##.iklan-sp-adlabel
 ##.iklan-sp-dalam-berita
 ##.iklan-sp-entity-placement
