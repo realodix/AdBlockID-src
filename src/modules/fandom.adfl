@@ -158,13 +158,12 @@ idlixku.com##a[target*="blank"]:has(> img)
 ||donasi.lk21.de^
 ||lk21static.buzz/assets/$media,redirect=noopmp4-1s
 ||lk21static.buzz/assets/*.gif$image
-playeriframe.sbs###ad-link
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my###nativeAds
 lk21.de,lk21.film,lk21official.cc,lk21official.dev,lk21online.mom,nontondrama.my##a[target*="blank"]:has(> img)
 ! Annoyance
 dadadidi.de###hihi
 cloud.hownetwork.xyz###overlay
-playeriframe.sbs,videonode.de##body > a:has(> .message-box)
+playcdn.de,videonode.de##body > a:has(> .message-box)
 ! Iframe
 ||lk21static.buzz/iframe/content2.php$frame
 ! -----------------------------------------------
