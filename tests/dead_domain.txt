@@ -1,16 +1,9 @@
-alibi.id
 autentik.id
-beritayudha.com
-bidikankameranews.com
-cakranews.id
 deteksimalut-news.com
 dutarakyat.com
 halojambi.id
 hentai.web.id
-indoinsider.id
-jabodetabek.id
 jejakkeadilan.com
-kidnews.id
 lamselpost.co
 liputan7news.com
 liputanmu.id
@@ -21,8 +14,6 @@ ntt-news.com
 partaiku.id
 radioazamfm.id
 sairerinews.com
-suarabinjai.co.id
-tangerangraya.co.id
 terkamnews.com
 visitjateng.com
 voxnusantara.com
