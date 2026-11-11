@@ -3193,7 +3193,6 @@ pirnas.com
 pituruhnews.com
 pitutur.id
 planetberita.com
-playexa2s.com
 pluang.com
 podiumnews.com
 poindonews.com
@@ -4354,6 +4353,7 @@ vakansiinfo.com
 variaadvokat.com
 vartadiy.com
 vcgamers.com
+vdsk.live
 venuemagz.com
 versiterkini.com
 vibizmedia.com
