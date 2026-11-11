@@ -21,9 +21,8 @@ otodiva.id##html:has(.detect-modal), body:has(.detect-modal):style(overflow: aut
 ! chp_ads_blocker | adblock_title
 downloadtanku.org##+js(noeval-if, adbEnableForPage)
 ! Ad Inserter (ai_front / ai_adb / aiADB / ad-inserter / ai-adb) | https://wordpress.org/plugins/ad-inserter/
-baliwakenews.com,info-menarik.net,lumpiastudio.com,otakdewasa.id##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]
+baliwakenews.com,info-menarik.net,lumpiastudio.com##[style*="cursor:"][style*="user-select: none;"][style*="z-index:"]
 jejaknarasi.id##div:matches-css(position: fixed):matches-css(bottom: 0px):matches-css(left: 0px)
-otakdewasa.id##+js(aopw, ai_front)
 ! ignielAdBlock
 pakarinfo.co.id###ignielAdBlock
 pakarinfo.co.id##body:style(overflow: auto !important;)

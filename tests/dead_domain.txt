@@ -3,7 +3,6 @@ autentik.id
 bantenesia.id
 beritayudha.com
 bidikankameranews.com
-bolakami.news
 cakranews.id
 deteksimalut-news.com
 dutarakyat.com
@@ -25,12 +24,10 @@ mangakita.me
 mataperistiwa.net
 nansarunai.com
 ntt-news.com
-otakdewasa.id
 partaiku.id
 playeriframe.sbs
 radioazamfm.id
 sairerinews.com
-streamapi.info
 suarabinjai.co.id
 tangerangraya.co.id
 terkamnews.com
