@@ -1,6 +1,5 @@
 alibi.id
 autentik.id
-bantenesia.id
 beritayudha.com
 bidikankameranews.com
 cakranews.id
