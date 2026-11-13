@@ -1010,6 +1010,7 @@ floresnews.id
 florespos.net
 focusflash.id
 focuskaltim.id
+fokal.id
 fokusaktual.co.id
 fokusberitanasional.com
 fokusblora.com
