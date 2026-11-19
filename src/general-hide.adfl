@@ -185,6 +185,9 @@
 ###close-floatadsbawah
 ###close-floatadsq
 ###close-iklanbawah
+###custom-header-ad
+###custom-sidebar-ad
+###custom-top-ad
 ###d_ads
 ###desktop-ads-id-1
 ###desktop-ads-id-2
@@ -531,6 +534,7 @@
 ##.ad-pos-tengah-detail-berita
 ##.ad-rail-box600
 ##.ad-shell
+##.ad-sidebar-container
 ##.ad-slot-wrap
 ##.ad-type2_
 ##.ad-wrapper-fixed
@@ -1091,6 +1095,7 @@
 ##.header-ad-mobile
 ##.header-adds
 ##.header-menu-bottom-ads
+##.header-top-ad-row
 ##.header_kabar_ads
 ##.height_sonoraads_600
 ##.heightads600
